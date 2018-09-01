@@ -1,5 +1,10 @@
-Deadzone
-========
+Deadzone en Español
+===================
+
+Esto es un fork de la versión 3.0.8 del original en inglés (https://github.com/BSData/deadzone/releases/tag/3.0.8)
+para su tradución al español. A diferencia de la versión en inglés el texto de las habilidades se ha resumido para
+su fácil consulta, no es una copia tal cual del reglamento ya que para eso ya está el reglamento (se indica la 
+página del mismo a consultar).
 
 #### Contents ####
 
@@ -26,8 +31,14 @@ Yeah! We have it hosted on AppSpot. Take a look: [BattleScribe Data on Appspot][
 * [BattleScribe homepage][]
 * [BattleScribe Data on Appspot][]
 * [Getting Started wiki][]
+* [Deadzone][]
+* [Mantic Free Rules (Including Deadzone)][]
+* [Deadzone en Español][]
 
 
 [BattleScribe homepage]: http://www.battlescribe.net/
 [BattleScribe Data on Appspot]: http://battlescribedata.appspot.com/#/repos
 [Getting Started wiki]: https://github.com/BSData/catalogue-development/wiki/Getting-Started#contributing
+[Deadzone]: https://warpathuniverse.com/deadzone/
+[Mantic Free Rules (Including Deadzone)]: http://www.manticgames.com/free-rules.html
+[Deadzone en Español]: https://anymadist.com/category/deadzone/
