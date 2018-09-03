@@ -16,35 +16,35 @@
           <infoLinks/>
           <modifiers/>
           <characteristics>
-            <characteristic name="Speed" characteristicTypeId="4e85-eaa5-eccb-41d1" value="2-3"/>
-            <characteristic name="Armour" characteristicTypeId="6e20-a2eb-4873-facd" value="0"/>
-            <characteristic name="Size" characteristicTypeId="72ed-1424-6a6b-51d8" value="1"/>
-            <characteristic name="Shoot" characteristicTypeId="8e81-1fe3-f677-8d5c" value="6+"/>
-            <characteristic name="Fight" characteristicTypeId="5ab1-1acc-a108-daf5" value="5+"/>
-            <characteristic name="Survive" characteristicTypeId="2375-5bce-3345-261b" value="3+"/>
-            <characteristic name="Recon" characteristicTypeId="af03-2f51-1267-9c64" value="4+"/>
+            <characteristic name="Velocidad" characteristicTypeId="4e85-eaa5-eccb-41d1" value="2-3"/>
+            <characteristic name="Armadura" characteristicTypeId="6e20-a2eb-4873-facd" value="0"/>
+            <characteristic name="Tamaño" characteristicTypeId="72ed-1424-6a6b-51d8" value="1"/>
+            <characteristic name="Disparo" characteristicTypeId="8e81-1fe3-f677-8d5c" value="6+"/>
+            <characteristic name="Lucha" characteristicTypeId="5ab1-1acc-a108-daf5" value="5+"/>
+            <characteristic name="Supervivencia" characteristicTypeId="2375-5bce-3345-261b" value="3+"/>
+            <characteristic name="Reconocimiento" characteristicTypeId="af03-2f51-1267-9c64" value="4+"/>
           </characteristics>
         </profile>
       </profiles>
       <rules>
-        <rule id="827e-7202-4e98-14a0" name="Under the Knife" book="Nexus Psi Expansion" hidden="false">
+        <rule id="827e-7202-4e98-14a0" name="Under the Cuchillo" book="Nexus Psi Expansion" hidden="false">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers/>
           <description>Spend and Army Special result to activate the bio-modifications Dr Simmonds has implanted within her troops. The Non-vehicle active model gains an effect of the player&apos;s choice from the following list:
-Claws: Gain a RF, AP2 weapon until the end of the round
+Garras: Gain a AL, PA2 weapon until the end of the round
 Adrenal Burst: Gain +1/+0 speed until the end of the round
 Grav-Pods: Gain Jump Pack and Glide until the end of the Round</description>
         </rule>
       </rules>
       <infoLinks>
-        <infoLink id="868f-8296-5a91-3667" name="Tactician (n)" hidden="false" targetId="61bb-0743-e806-2bfc" type="rule">
+        <infoLink id="868f-8296-5a91-3667" name="Táctico (n)" hidden="false" targetId="61bb-0743-e806-2bfc" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers>
-            <modifier type="set" field="name" value="Tactician (1)">
+            <modifier type="set" field="name" value="Táctico (1)">
               <repeats/>
               <conditions/>
               <conditionGroups/>
@@ -57,7 +57,7 @@ Grav-Pods: Gain Jump Pack and Glide until the end of the Round</description>
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="230e-eafa-0264-419f" name="Tough" hidden="false" targetId="df54-2d71-8800-b15f" type="rule">
+        <infoLink id="230e-eafa-0264-419f" name="Duro" hidden="false" targetId="df54-2d71-8800-b15f" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -78,7 +78,7 @@ Grav-Pods: Gain Jump Pack and Glide until the end of the Round</description>
       <selectionEntries/>
       <selectionEntryGroups/>
       <entryLinks>
-        <entryLink id="90ef-8b01-673b-e360" name="Knife" hidden="false" targetId="7a3c-8f4b-5072-870a" type="selectionEntry">
+        <entryLink id="90ef-8b01-673b-e360" name="Cuchillo" hidden="false" targetId="7a3c-8f4b-5072-870a" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -89,7 +89,7 @@ Grav-Pods: Gain Jump Pack and Glide until the end of the Round</description>
           </constraints>
           <categoryLinks/>
         </entryLink>
-        <entryLink id="58ce-3daa-d6bb-a809" name="Items" hidden="false" targetId="2dc8-359b-e212-bd69" type="selectionEntryGroup">
+        <entryLink id="58ce-3daa-d6bb-a809" name="Objetos" hidden="false" targetId="2dc8-359b-e212-bd69" type="selectionEntryGroup">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -116,7 +116,7 @@ Grav-Pods: Gain Jump Pack and Glide until the end of the Round</description>
         </entryLink>
       </entryLinks>
       <costs>
-        <cost name="VPs" costTypeId="02a0-6bab-fa73-4a98" value="2.0"/>
+        <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="2.0"/>
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="18.0"/>
       </costs>
     </selectionEntry>
@@ -128,12 +128,12 @@ Grav-Pods: Gain Jump Pack and Glide until the end of the Round</description>
           <infoLinks/>
           <modifiers/>
           <characteristics>
-            <characteristic name="Speed" characteristicTypeId="df17-4b5c-638f-0807" value="1-2"/>
-            <characteristic name="Armour" characteristicTypeId="0274-bb56-5442-a0f1" value="1"/>
-            <characteristic name="Size" characteristicTypeId="2623-46e7-250f-eacf" value="1"/>
-            <characteristic name="Shoot" characteristicTypeId="68ea-7e51-32e7-70c8" value="5+"/>
-            <characteristic name="Fight" characteristicTypeId="cf38-e165-7d39-0773" value="5+"/>
-            <characteristic name="Survive" characteristicTypeId="ecb0-eafd-b6fa-91a0" value="5+"/>
+            <characteristic name="Velocidad" characteristicTypeId="df17-4b5c-638f-0807" value="1-2"/>
+            <characteristic name="Armadura" characteristicTypeId="0274-bb56-5442-a0f1" value="1"/>
+            <characteristic name="Tamaño" characteristicTypeId="2623-46e7-250f-eacf" value="1"/>
+            <characteristic name="Disparo" characteristicTypeId="68ea-7e51-32e7-70c8" value="5+"/>
+            <characteristic name="Lucha" characteristicTypeId="cf38-e165-7d39-0773" value="5+"/>
+            <characteristic name="Supervivencia" characteristicTypeId="ecb0-eafd-b6fa-91a0" value="5+"/>
           </characteristics>
         </profile>
       </profiles>
@@ -181,7 +181,7 @@ Grav-Pods: Gain Jump Pack and Glide until the end of the Round</description>
           </constraints>
           <categoryLinks/>
         </entryLink>
-        <entryLink id="785a-4697-dfd7-fb53" name="Items" hidden="false" targetId="2dc8-359b-e212-bd69" type="selectionEntryGroup">
+        <entryLink id="785a-4697-dfd7-fb53" name="Objetos" hidden="false" targetId="2dc8-359b-e212-bd69" type="selectionEntryGroup">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -189,7 +189,7 @@ Grav-Pods: Gain Jump Pack and Glide until the end of the Round</description>
           <constraints/>
           <categoryLinks/>
         </entryLink>
-        <entryLink id="98f7-79d3-0c02-b65d" name="Knife" hidden="false" targetId="7a3c-8f4b-5072-870a" type="selectionEntry">
+        <entryLink id="98f7-79d3-0c02-b65d" name="Cuchillo" hidden="false" targetId="7a3c-8f4b-5072-870a" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -202,42 +202,42 @@ Grav-Pods: Gain Jump Pack and Glide until the end of the Round</description>
         </entryLink>
       </entryLinks>
       <costs>
-        <cost name="VPs" costTypeId="02a0-6bab-fa73-4a98" value="2.0"/>
+        <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="2.0"/>
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="20.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="2e6d-6684-78a9-9166" name="Plague Strider" book="Deadzone: Nexus Psi + Errata v2.1" page="20" hidden="false" collective="false" type="unit">
+    <selectionEntry id="2e6d-6684-78a9-9166" name="Plague Andador" book="Deadzone: Nexus Psi + Erratas v2.1" page="20" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="2868-f00b-04ca-3173" name="Plague Strider" book="Deadzone: Nexus Psi" page="20" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
+        <profile id="2868-f00b-04ca-3173" name="Plague Andador" book="Deadzone: Nexus Psi" page="20" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers/>
           <characteristics>
-            <characteristic name="Speed" characteristicTypeId="df17-4b5c-638f-0807" value="12"/>
-            <characteristic name="Armour" characteristicTypeId="0274-bb56-5442-a0f1" value="3"/>
-            <characteristic name="Size" characteristicTypeId="2623-46e7-250f-eacf" value="4"/>
-            <characteristic name="Shoot" characteristicTypeId="68ea-7e51-32e7-70c8" value="6+"/>
-            <characteristic name="Fight" characteristicTypeId="cf38-e165-7d39-0773" value="4+"/>
-            <characteristic name="Survive" characteristicTypeId="ecb0-eafd-b6fa-91a0" value="4+"/>
+            <characteristic name="Velocidad" characteristicTypeId="df17-4b5c-638f-0807" value="12"/>
+            <characteristic name="Armadura" characteristicTypeId="0274-bb56-5442-a0f1" value="3"/>
+            <characteristic name="Tamaño" characteristicTypeId="2623-46e7-250f-eacf" value="4"/>
+            <characteristic name="Disparo" characteristicTypeId="68ea-7e51-32e7-70c8" value="6+"/>
+            <characteristic name="Lucha" characteristicTypeId="cf38-e165-7d39-0773" value="4+"/>
+            <characteristic name="Supervivencia" characteristicTypeId="ecb0-eafd-b6fa-91a0" value="4+"/>
           </characteristics>
         </profile>
       </profiles>
       <rules/>
       <infoLinks>
-        <infoLink id="c244-229b-c28a-8777" name="Solid" hidden="false" targetId="477f-7c1c-9cba-3258" type="rule">
+        <infoLink id="c244-229b-c28a-8777" name="Firme [Sólido]" hidden="false" targetId="477f-7c1c-9cba-3258" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="37c8-9acd-0022-782e" name="Beast" hidden="false" targetId="6c23-71da-c6bd-32af" type="rule">
+        <infoLink id="37c8-9acd-0022-782e" name="Bestia [Animal]" hidden="false" targetId="6c23-71da-c6bd-32af" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="de53-2cde-95e6-f907" name="Construct" hidden="false" targetId="f0c6-e746-f152-933c" type="rule">
+        <infoLink id="de53-2cde-95e6-f907" name="Constructo" hidden="false" targetId="f0c6-e746-f152-933c" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -304,7 +304,7 @@ Grav-Pods: Gain Jump Pack and Glide until the end of the Round</description>
               </constraints>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="42df-8f78-1e0d-4b7d" name="Heavy Burst Laser **" hidden="false" targetId="f172-7edd-3be0-d843" type="selectionEntry">
+            <entryLink id="42df-8f78-1e0d-4b7d" name="Pesada Burst Laser **" hidden="false" targetId="f172-7edd-3be0-d843" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -329,7 +329,7 @@ Grav-Pods: Gain Jump Pack and Glide until the end of the Round</description>
       </selectionEntryGroups>
       <entryLinks/>
       <costs>
-        <cost name="VPs" costTypeId="02a0-6bab-fa73-4a98" value="3.0"/>
+        <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="3.0"/>
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="30.0"/>
       </costs>
     </selectionEntry>
@@ -341,18 +341,18 @@ Grav-Pods: Gain Jump Pack and Glide until the end of the Round</description>
           <infoLinks/>
           <modifiers/>
           <characteristics>
-            <characteristic name="Speed" characteristicTypeId="df17-4b5c-638f-0807" value="1-2"/>
-            <characteristic name="Armour" characteristicTypeId="0274-bb56-5442-a0f1" value="1"/>
-            <characteristic name="Size" characteristicTypeId="2623-46e7-250f-eacf" value="3"/>
-            <characteristic name="Shoot" characteristicTypeId="68ea-7e51-32e7-70c8" value="-"/>
-            <characteristic name="Fight" characteristicTypeId="cf38-e165-7d39-0773" value="4+"/>
-            <characteristic name="Survive" characteristicTypeId="ecb0-eafd-b6fa-91a0" value="5+"/>
+            <characteristic name="Velocidad" characteristicTypeId="df17-4b5c-638f-0807" value="1-2"/>
+            <characteristic name="Armadura" characteristicTypeId="0274-bb56-5442-a0f1" value="1"/>
+            <characteristic name="Tamaño" characteristicTypeId="2623-46e7-250f-eacf" value="3"/>
+            <characteristic name="Disparo" characteristicTypeId="68ea-7e51-32e7-70c8" value="-"/>
+            <characteristic name="Lucha" characteristicTypeId="cf38-e165-7d39-0773" value="4+"/>
+            <characteristic name="Supervivencia" characteristicTypeId="ecb0-eafd-b6fa-91a0" value="5+"/>
           </characteristics>
         </profile>
       </profiles>
       <rules/>
       <infoLinks>
-        <infoLink id="f7ea-b686-951f-8a32" name="Tough" hidden="false" targetId="df54-2d71-8800-b15f" type="rule">
+        <infoLink id="f7ea-b686-951f-8a32" name="Duro" hidden="false" targetId="df54-2d71-8800-b15f" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -377,24 +377,24 @@ Grav-Pods: Gain Jump Pack and Glide until the end of the Round</description>
         </categoryLink>
       </categoryLinks>
       <selectionEntries>
-        <selectionEntry id="e95a-57a0-e5d4-0390" name="Claws" book="Deadzone 2nd Ed Rulebook" hidden="false" collective="false" type="upgrade">
+        <selectionEntry id="e95a-57a0-e5d4-0390" name="Garras" book="Reglamento Deadzone 2ª Edición" hidden="false" collective="false" type="upgrade">
           <profiles>
-            <profile id="e6af-6ee8-c3d1-c038" name="Claws" book="Deadzone: Nexus Psi" page="20" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+            <profile id="e6af-6ee8-c3d1-c038" name="Garras" book="Deadzone: Nexus Psi" page="20" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
               <profiles/>
               <rules/>
               <infoLinks/>
               <modifiers/>
               <characteristics>
-                <characteristic name="Range" characteristicTypeId="df8a-ee5b-d620-4246" value="RF"/>
-                <characteristic name="AP" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
-                <characteristic name="Abilities" characteristicTypeId="faf9-0187-1806-7214" value="Knockback"/>
-                <characteristic name="Type" characteristicTypeId="90af-0797-a0fd-965c" value=""/>
+                <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="AL"/>
+                <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
+                <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Derribo"/>
+                <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value=""/>
               </characteristics>
             </profile>
           </profiles>
           <rules/>
           <infoLinks>
-            <infoLink id="1c3f-8952-b69a-11a7" name="Knockback" hidden="false" targetId="9b4e-17bd-61ab-7feb" type="rule">
+            <infoLink id="1c3f-8952-b69a-11a7" name="Derribo" hidden="false" targetId="9b4e-17bd-61ab-7feb" type="rule">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -411,14 +411,14 @@ Grav-Pods: Gain Jump Pack and Glide until the end of the Round</description>
           <selectionEntryGroups/>
           <entryLinks/>
           <costs>
-            <cost name="VPs" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
+            <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
             <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="0.0"/>
           </costs>
         </selectionEntry>
       </selectionEntries>
       <selectionEntryGroups/>
       <entryLinks>
-        <entryLink id="6055-2095-5be3-ed7c" name="Items" hidden="false" targetId="2dc8-359b-e212-bd69" type="selectionEntryGroup">
+        <entryLink id="6055-2095-5be3-ed7c" name="Objetos" hidden="false" targetId="2dc8-359b-e212-bd69" type="selectionEntryGroup">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -428,24 +428,24 @@ Grav-Pods: Gain Jump Pack and Glide until the end of the Round</description>
         </entryLink>
       </entryLinks>
       <costs>
-        <cost name="VPs" costTypeId="02a0-6bab-fa73-4a98" value="3.0"/>
+        <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="3.0"/>
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="24.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="59aa-a498-2f64-7007" name="Stage 2A" book="Deadzone: Nexus Psi" page="20" hidden="false" collective="false" type="unit">
+    <selectionEntry id="59aa-a498-2f64-7007" name="Fase 2A" book="Deadzone: Nexus Psi" page="20" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="cd35-2864-fb03-becc" name="Stage 2A" book="Deadzone: Nexus Psi" page="20" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
+        <profile id="cd35-2864-fb03-becc" name="Fase 2A" book="Deadzone: Nexus Psi" page="20" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers/>
           <characteristics>
-            <characteristic name="Speed" characteristicTypeId="df17-4b5c-638f-0807" value="1-2"/>
-            <characteristic name="Armour" characteristicTypeId="0274-bb56-5442-a0f1" value="1"/>
-            <characteristic name="Size" characteristicTypeId="2623-46e7-250f-eacf" value="2"/>
-            <characteristic name="Shoot" characteristicTypeId="68ea-7e51-32e7-70c8" value="-"/>
-            <characteristic name="Fight" characteristicTypeId="cf38-e165-7d39-0773" value="4+"/>
-            <characteristic name="Survive" characteristicTypeId="ecb0-eafd-b6fa-91a0" value="4+"/>
+            <characteristic name="Velocidad" characteristicTypeId="df17-4b5c-638f-0807" value="1-2"/>
+            <characteristic name="Armadura" characteristicTypeId="0274-bb56-5442-a0f1" value="1"/>
+            <characteristic name="Tamaño" characteristicTypeId="2623-46e7-250f-eacf" value="2"/>
+            <characteristic name="Disparo" characteristicTypeId="68ea-7e51-32e7-70c8" value="-"/>
+            <characteristic name="Lucha" characteristicTypeId="cf38-e165-7d39-0773" value="4+"/>
+            <characteristic name="Supervivencia" characteristicTypeId="ecb0-eafd-b6fa-91a0" value="4+"/>
           </characteristics>
         </profile>
       </profiles>
@@ -472,7 +472,7 @@ Grav-Pods: Gain Jump Pack and Glide until the end of the Round</description>
       <selectionEntries/>
       <selectionEntryGroups/>
       <entryLinks>
-        <entryLink id="663d-8148-ebf5-d80a" name="Items" hidden="false" targetId="2dc8-359b-e212-bd69" type="selectionEntryGroup">
+        <entryLink id="663d-8148-ebf5-d80a" name="Objetos" hidden="false" targetId="2dc8-359b-e212-bd69" type="selectionEntryGroup">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -480,7 +480,7 @@ Grav-Pods: Gain Jump Pack and Glide until the end of the Round</description>
           <constraints/>
           <categoryLinks/>
         </entryLink>
-        <entryLink id="6bd1-d115-a2c8-ebe3" name="Knife" hidden="false" targetId="7a3c-8f4b-5072-870a" type="selectionEntry">
+        <entryLink id="6bd1-d115-a2c8-ebe3" name="Cuchillo" hidden="false" targetId="7a3c-8f4b-5072-870a" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -493,24 +493,24 @@ Grav-Pods: Gain Jump Pack and Glide until the end of the Round</description>
         </entryLink>
       </entryLinks>
       <costs>
-        <cost name="VPs" costTypeId="02a0-6bab-fa73-4a98" value="2.0"/>
+        <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="2.0"/>
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="16.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="6306-86c0-f2b7-adec" name="Stage 3A" book="Deadzone: Nexus Psi" page="20" hidden="false" collective="false" type="unit">
+    <selectionEntry id="6306-86c0-f2b7-adec" name="Fase 3A" book="Deadzone: Nexus Psi" page="20" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="d840-f14e-8ef5-07a5" name="Stage 3A" book="Deadzone: Nexus Psi" page="20" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
+        <profile id="d840-f14e-8ef5-07a5" name="Fase 3A" book="Deadzone: Nexus Psi" page="20" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers/>
           <characteristics>
-            <characteristic name="Speed" characteristicTypeId="df17-4b5c-638f-0807" value="2-3"/>
-            <characteristic name="Armour" characteristicTypeId="0274-bb56-5442-a0f1" value="0"/>
-            <characteristic name="Size" characteristicTypeId="2623-46e7-250f-eacf" value="1"/>
-            <characteristic name="Shoot" characteristicTypeId="68ea-7e51-32e7-70c8" value="6+"/>
-            <characteristic name="Fight" characteristicTypeId="cf38-e165-7d39-0773" value="5+"/>
-            <characteristic name="Survive" characteristicTypeId="ecb0-eafd-b6fa-91a0" value="5+"/>
+            <characteristic name="Velocidad" characteristicTypeId="df17-4b5c-638f-0807" value="2-3"/>
+            <characteristic name="Armadura" characteristicTypeId="0274-bb56-5442-a0f1" value="0"/>
+            <characteristic name="Tamaño" characteristicTypeId="2623-46e7-250f-eacf" value="1"/>
+            <characteristic name="Disparo" characteristicTypeId="68ea-7e51-32e7-70c8" value="6+"/>
+            <characteristic name="Lucha" characteristicTypeId="cf38-e165-7d39-0773" value="5+"/>
+            <characteristic name="Supervivencia" characteristicTypeId="ecb0-eafd-b6fa-91a0" value="5+"/>
           </characteristics>
         </profile>
       </profiles>
@@ -530,7 +530,7 @@ Grav-Pods: Gain Jump Pack and Glide until the end of the Round</description>
       <selectionEntries/>
       <selectionEntryGroups/>
       <entryLinks>
-        <entryLink id="f410-ce06-8e20-90b5" name="Knife" hidden="false" targetId="7a3c-8f4b-5072-870a" type="selectionEntry">
+        <entryLink id="f410-ce06-8e20-90b5" name="Cuchillo" hidden="false" targetId="7a3c-8f4b-5072-870a" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -541,7 +541,7 @@ Grav-Pods: Gain Jump Pack and Glide until the end of the Round</description>
           </constraints>
           <categoryLinks/>
         </entryLink>
-        <entryLink id="8c89-c9ee-b838-1a3b" name="Pistol *" hidden="false" targetId="b895-2f56-b9ad-088b" type="selectionEntry">
+        <entryLink id="8c89-c9ee-b838-1a3b" name="Pistola *" hidden="false" targetId="b895-2f56-b9ad-088b" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -568,7 +568,7 @@ Grav-Pods: Gain Jump Pack and Glide until the end of the Round</description>
           </constraints>
           <categoryLinks/>
         </entryLink>
-        <entryLink id="137b-0660-bf31-54f6" name="Items" hidden="false" targetId="2dc8-359b-e212-bd69" type="selectionEntryGroup">
+        <entryLink id="137b-0660-bf31-54f6" name="Objetos" hidden="false" targetId="2dc8-359b-e212-bd69" type="selectionEntryGroup">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -578,24 +578,24 @@ Grav-Pods: Gain Jump Pack and Glide until the end of the Round</description>
         </entryLink>
       </entryLinks>
       <costs>
-        <cost name="VPs" costTypeId="02a0-6bab-fa73-4a98" value="1.0"/>
+        <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="1.0"/>
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="10.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="4620-7966-ec66-4b8d" name="Stage 3A &quot;Specialist&quot;" book="Deadzone: Nexus Psi" page="20" hidden="false" collective="false" type="unit">
+    <selectionEntry id="4620-7966-ec66-4b8d" name="Fase 3A &quot;Especialista&quot;" book="Deadzone: Nexus Psi" page="20" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="993a-064a-2868-e406" name="Stage 3A &quot;Specialist&quot;" book="Deadzone: Nexus Psi" page="20" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
+        <profile id="993a-064a-2868-e406" name="Fase 3A &quot;Especialista&quot;" book="Deadzone: Nexus Psi" page="20" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers/>
           <characteristics>
-            <characteristic name="Speed" characteristicTypeId="df17-4b5c-638f-0807" value="2-3"/>
-            <characteristic name="Armour" characteristicTypeId="0274-bb56-5442-a0f1" value="0"/>
-            <characteristic name="Size" characteristicTypeId="2623-46e7-250f-eacf" value="1"/>
-            <characteristic name="Shoot" characteristicTypeId="68ea-7e51-32e7-70c8" value="5+"/>
-            <characteristic name="Fight" characteristicTypeId="cf38-e165-7d39-0773" value="6+"/>
-            <characteristic name="Survive" characteristicTypeId="ecb0-eafd-b6fa-91a0" value="5+"/>
+            <characteristic name="Velocidad" characteristicTypeId="df17-4b5c-638f-0807" value="2-3"/>
+            <characteristic name="Armadura" characteristicTypeId="0274-bb56-5442-a0f1" value="0"/>
+            <characteristic name="Tamaño" characteristicTypeId="2623-46e7-250f-eacf" value="1"/>
+            <characteristic name="Disparo" characteristicTypeId="68ea-7e51-32e7-70c8" value="5+"/>
+            <characteristic name="Lucha" characteristicTypeId="cf38-e165-7d39-0773" value="6+"/>
+            <characteristic name="Supervivencia" characteristicTypeId="ecb0-eafd-b6fa-91a0" value="5+"/>
           </characteristics>
         </profile>
       </profiles>
@@ -614,7 +614,7 @@ Grav-Pods: Gain Jump Pack and Glide until the end of the Round</description>
       </categoryLinks>
       <selectionEntries/>
       <selectionEntryGroups>
-        <selectionEntryGroup id="e22d-c3b2-805e-4403" name="Ranged Weapon" hidden="false" collective="false" defaultSelectionEntryId="e4a4-39fd-ea6e-f876">
+        <selectionEntryGroup id="e22d-c3b2-805e-4403" name="Arma a Distancia" hidden="false" collective="false" defaultSelectionEntryId="e4a4-39fd-ea6e-f876">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -669,7 +669,7 @@ Grav-Pods: Gain Jump Pack and Glide until the end of the Round</description>
         </selectionEntryGroup>
       </selectionEntryGroups>
       <entryLinks>
-        <entryLink id="223b-b423-bfad-533f" name="Pistol *" hidden="false" targetId="b895-2f56-b9ad-088b" type="selectionEntry">
+        <entryLink id="223b-b423-bfad-533f" name="Pistola *" hidden="false" targetId="b895-2f56-b9ad-088b" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -679,7 +679,7 @@ Grav-Pods: Gain Jump Pack and Glide until the end of the Round</description>
           </constraints>
           <categoryLinks/>
         </entryLink>
-        <entryLink id="87ca-0f1f-2be9-27a4" name="Knife" hidden="false" targetId="7a3c-8f4b-5072-870a" type="selectionEntry">
+        <entryLink id="87ca-0f1f-2be9-27a4" name="Cuchillo" hidden="false" targetId="7a3c-8f4b-5072-870a" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -690,7 +690,7 @@ Grav-Pods: Gain Jump Pack and Glide until the end of the Round</description>
           </constraints>
           <categoryLinks/>
         </entryLink>
-        <entryLink id="612a-a05e-5949-e288" name="Items" hidden="false" targetId="2dc8-359b-e212-bd69" type="selectionEntryGroup">
+        <entryLink id="612a-a05e-5949-e288" name="Objetos" hidden="false" targetId="2dc8-359b-e212-bd69" type="selectionEntryGroup">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -700,24 +700,24 @@ Grav-Pods: Gain Jump Pack and Glide until the end of the Round</description>
         </entryLink>
       </entryLinks>
       <costs>
-        <cost name="VPs" costTypeId="02a0-6bab-fa73-4a98" value="1.0"/>
+        <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="1.0"/>
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="10.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="f8d5-4ece-b8d4-7698" name="Stage 3Z &quot;Zombie&quot;" book="Deadzone: Nexus Psi" page="20" hidden="false" collective="false" type="unit">
+    <selectionEntry id="f8d5-4ece-b8d4-7698" name="Fase 3Z &quot;Zombie&quot;" book="Deadzone: Nexus Psi" page="20" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="87f3-9959-49ef-f020" name="Stage 3Z &quot;Zombie&quot;" book="Deadzone: Nexus Psi" page="20" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
+        <profile id="87f3-9959-49ef-f020" name="Fase 3Z &quot;Zombie&quot;" book="Deadzone: Nexus Psi" page="20" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers/>
           <characteristics>
-            <characteristic name="Speed" characteristicTypeId="df17-4b5c-638f-0807" value="1-2"/>
-            <characteristic name="Armour" characteristicTypeId="0274-bb56-5442-a0f1" value="0"/>
-            <characteristic name="Size" characteristicTypeId="2623-46e7-250f-eacf" value="1"/>
-            <characteristic name="Shoot" characteristicTypeId="68ea-7e51-32e7-70c8" value="-"/>
-            <characteristic name="Fight" characteristicTypeId="cf38-e165-7d39-0773" value="5+"/>
-            <characteristic name="Survive" characteristicTypeId="ecb0-eafd-b6fa-91a0" value="6+"/>
+            <characteristic name="Velocidad" characteristicTypeId="df17-4b5c-638f-0807" value="1-2"/>
+            <characteristic name="Armadura" characteristicTypeId="0274-bb56-5442-a0f1" value="0"/>
+            <characteristic name="Tamaño" characteristicTypeId="2623-46e7-250f-eacf" value="1"/>
+            <characteristic name="Disparo" characteristicTypeId="68ea-7e51-32e7-70c8" value="-"/>
+            <characteristic name="Lucha" characteristicTypeId="cf38-e165-7d39-0773" value="5+"/>
+            <characteristic name="Supervivencia" characteristicTypeId="ecb0-eafd-b6fa-91a0" value="6+"/>
           </characteristics>
         </profile>
       </profiles>
@@ -735,7 +735,7 @@ Grav-Pods: Gain Jump Pack and Glide until the end of the Round</description>
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="56b0-a09e-1366-280b" name="Beast" hidden="false" targetId="6c23-71da-c6bd-32af" type="rule">
+        <infoLink id="56b0-a09e-1366-280b" name="Bestia [Animal]" hidden="false" targetId="6c23-71da-c6bd-32af" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -756,7 +756,7 @@ Grav-Pods: Gain Jump Pack and Glide until the end of the Round</description>
       <selectionEntries/>
       <selectionEntryGroups/>
       <entryLinks>
-        <entryLink id="b25e-fd75-6150-ffde" name="Knife" hidden="false" targetId="7a3c-8f4b-5072-870a" type="selectionEntry">
+        <entryLink id="b25e-fd75-6150-ffde" name="Cuchillo" hidden="false" targetId="7a3c-8f4b-5072-870a" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -770,7 +770,7 @@ Grav-Pods: Gain Jump Pack and Glide until the end of the Round</description>
       </entryLinks>
       <costs>
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="6.0"/>
-        <cost name="VPs" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
+        <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="04dc-0a1d-a9d0-85b7" name="Aqissiaq" hidden="false" collective="false" type="upgrade">
@@ -802,7 +802,7 @@ Grav-Pods: Gain Jump Pack and Glide until the end of the Round</description>
           </constraints>
           <categoryLinks/>
         </entryLink>
-        <entryLink id="d6d9-3582-68d0-22fb" name="Items" hidden="false" targetId="2dc8-359b-e212-bd69" type="selectionEntryGroup">
+        <entryLink id="d6d9-3582-68d0-22fb" name="Objetos" hidden="false" targetId="2dc8-359b-e212-bd69" type="selectionEntryGroup">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -812,7 +812,7 @@ Grav-Pods: Gain Jump Pack and Glide until the end of the Round</description>
         </entryLink>
       </entryLinks>
       <costs>
-        <cost name="VPs" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
+        <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="0.0"/>
       </costs>
     </selectionEntry>
@@ -845,7 +845,7 @@ Grav-Pods: Gain Jump Pack and Glide until the end of the Round</description>
           </constraints>
           <categoryLinks/>
         </entryLink>
-        <entryLink id="f4f7-49ac-b860-d863" name="Items" hidden="false" targetId="2dc8-359b-e212-bd69" type="selectionEntryGroup">
+        <entryLink id="f4f7-49ac-b860-d863" name="Objetos" hidden="false" targetId="2dc8-359b-e212-bd69" type="selectionEntryGroup">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -855,11 +855,11 @@ Grav-Pods: Gain Jump Pack and Glide until the end of the Round</description>
         </entryLink>
       </entryLinks>
       <costs>
-        <cost name="VPs" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
+        <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="ae82-9f94-bd33-bc10" name="Blaine on Jetbike" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="ae82-9f94-bd33-bc10" name="Blaine en Motojet" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -877,7 +877,7 @@ Grav-Pods: Gain Jump Pack and Glide until the end of the Round</description>
       <selectionEntries/>
       <selectionEntryGroups/>
       <entryLinks>
-        <entryLink id="5e78-86bf-4003-bcdf" name="Blaine on Jetbike" hidden="false" targetId="c9c3-85b2-a438-802f" type="selectionEntry">
+        <entryLink id="5e78-86bf-4003-bcdf" name="Blaine en Motojet" hidden="false" targetId="c9c3-85b2-a438-802f" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -888,7 +888,7 @@ Grav-Pods: Gain Jump Pack and Glide until the end of the Round</description>
           </constraints>
           <categoryLinks/>
         </entryLink>
-        <entryLink id="bb33-9ec8-6221-891c" name="Items" hidden="false" targetId="2dc8-359b-e212-bd69" type="selectionEntryGroup">
+        <entryLink id="bb33-9ec8-6221-891c" name="Objetos" hidden="false" targetId="2dc8-359b-e212-bd69" type="selectionEntryGroup">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -898,11 +898,11 @@ Grav-Pods: Gain Jump Pack and Glide until the end of the Round</description>
         </entryLink>
       </entryLinks>
       <costs>
-        <cost name="VPs" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
+        <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="c6b6-0ae8-aae5-f575" name="Boomer, Grenadier" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="c6b6-0ae8-aae5-f575" name="Boomer, Granadero" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -920,7 +920,7 @@ Grav-Pods: Gain Jump Pack and Glide until the end of the Round</description>
       <selectionEntries/>
       <selectionEntryGroups/>
       <entryLinks>
-        <entryLink id="2ef0-6ba4-243b-48a6" name="Boomer, Grenadier" hidden="false" targetId="fcdd-d439-27de-bcca" type="selectionEntry">
+        <entryLink id="2ef0-6ba4-243b-48a6" name="Boomer, Granadero" hidden="false" targetId="fcdd-d439-27de-bcca" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -931,7 +931,7 @@ Grav-Pods: Gain Jump Pack and Glide until the end of the Round</description>
           </constraints>
           <categoryLinks/>
         </entryLink>
-        <entryLink id="e7f6-829b-0eb2-e79d" name="Items" hidden="false" targetId="2dc8-359b-e212-bd69" type="selectionEntryGroup">
+        <entryLink id="e7f6-829b-0eb2-e79d" name="Objetos" hidden="false" targetId="2dc8-359b-e212-bd69" type="selectionEntryGroup">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -941,11 +941,11 @@ Grav-Pods: Gain Jump Pack and Glide until the end of the Round</description>
         </entryLink>
       </entryLinks>
       <costs>
-        <cost name="VPs" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
+        <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="a81e-7635-d1e3-d1ee" name="Chief Radgrad" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="a81e-7635-d1e3-d1ee" name="Jefe Radgrad" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -963,7 +963,7 @@ Grav-Pods: Gain Jump Pack and Glide until the end of the Round</description>
       <selectionEntries/>
       <selectionEntryGroups/>
       <entryLinks>
-        <entryLink id="a044-8e48-dcce-d262" name="Chief Radgrad" hidden="false" targetId="ec30-5a87-2544-b5d3" type="selectionEntry">
+        <entryLink id="a044-8e48-dcce-d262" name="Jefe Radgrad" hidden="false" targetId="ec30-5a87-2544-b5d3" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -974,7 +974,7 @@ Grav-Pods: Gain Jump Pack and Glide until the end of the Round</description>
           </constraints>
           <categoryLinks/>
         </entryLink>
-        <entryLink id="12e2-602d-7826-b01c" name="Items" hidden="false" targetId="2dc8-359b-e212-bd69" type="selectionEntryGroup">
+        <entryLink id="12e2-602d-7826-b01c" name="Objetos" hidden="false" targetId="2dc8-359b-e212-bd69" type="selectionEntryGroup">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -984,11 +984,11 @@ Grav-Pods: Gain Jump Pack and Glide until the end of the Round</description>
         </entryLink>
       </entryLinks>
       <costs>
-        <cost name="VPs" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
+        <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="cdd3-446b-8a78-b0a2" name="Chovar Psychic" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="cdd3-446b-8a78-b0a2" name="Psíquico Chovar" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -1006,7 +1006,7 @@ Grav-Pods: Gain Jump Pack and Glide until the end of the Round</description>
       <selectionEntries/>
       <selectionEntryGroups/>
       <entryLinks>
-        <entryLink id="fddf-01d6-7a8c-54aa" name="Chovar Psychic" hidden="false" targetId="0304-1c3a-5501-a41f" type="selectionEntry">
+        <entryLink id="fddf-01d6-7a8c-54aa" name="Psíquico Chovar" hidden="false" targetId="0304-1c3a-5501-a41f" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1017,7 +1017,7 @@ Grav-Pods: Gain Jump Pack and Glide until the end of the Round</description>
           </constraints>
           <categoryLinks/>
         </entryLink>
-        <entryLink id="a702-ca37-bd39-7f97" name="Items" hidden="false" targetId="2dc8-359b-e212-bd69" type="selectionEntryGroup">
+        <entryLink id="a702-ca37-bd39-7f97" name="Objetos" hidden="false" targetId="2dc8-359b-e212-bd69" type="selectionEntryGroup">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1027,7 +1027,7 @@ Grav-Pods: Gain Jump Pack and Glide until the end of the Round</description>
         </entryLink>
       </entryLinks>
       <costs>
-        <cost name="VPs" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
+        <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="0.0"/>
       </costs>
     </selectionEntry>
@@ -1060,7 +1060,7 @@ Grav-Pods: Gain Jump Pack and Glide until the end of the Round</description>
           </constraints>
           <categoryLinks/>
         </entryLink>
-        <entryLink id="eb73-3145-c355-d9a1" name="Items" hidden="false" targetId="2dc8-359b-e212-bd69" type="selectionEntryGroup">
+        <entryLink id="eb73-3145-c355-d9a1" name="Objetos" hidden="false" targetId="2dc8-359b-e212-bd69" type="selectionEntryGroup">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1070,7 +1070,7 @@ Grav-Pods: Gain Jump Pack and Glide until the end of the Round</description>
         </entryLink>
       </entryLinks>
       <costs>
-        <cost name="VPs" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
+        <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="0.0"/>
       </costs>
     </selectionEntry>
@@ -1103,7 +1103,7 @@ Grav-Pods: Gain Jump Pack and Glide until the end of the Round</description>
           </constraints>
           <categoryLinks/>
         </entryLink>
-        <entryLink id="bf08-6420-6e13-77b9" name="Items" hidden="false" targetId="2dc8-359b-e212-bd69" type="selectionEntryGroup">
+        <entryLink id="bf08-6420-6e13-77b9" name="Objetos" hidden="false" targetId="2dc8-359b-e212-bd69" type="selectionEntryGroup">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1113,11 +1113,11 @@ Grav-Pods: Gain Jump Pack and Glide until the end of the Round</description>
         </entryLink>
       </entryLinks>
       <costs>
-        <cost name="VPs" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
+        <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="fb3e-e752-81ae-7734" name="Project Oberon" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="fb3e-e752-81ae-7734" name="Proyecto Oberón" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -1135,7 +1135,7 @@ Grav-Pods: Gain Jump Pack and Glide until the end of the Round</description>
       <selectionEntries/>
       <selectionEntryGroups/>
       <entryLinks>
-        <entryLink id="49e5-6c41-f82b-45ca" name="Project Oberon" hidden="false" targetId="1acb-ca9d-dddd-bfd6" type="selectionEntry">
+        <entryLink id="49e5-6c41-f82b-45ca" name="Proyecto Oberón" hidden="false" targetId="1acb-ca9d-dddd-bfd6" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1146,7 +1146,7 @@ Grav-Pods: Gain Jump Pack and Glide until the end of the Round</description>
           </constraints>
           <categoryLinks/>
         </entryLink>
-        <entryLink id="baa4-75c5-af27-6350" name="Items" hidden="false" targetId="2dc8-359b-e212-bd69" type="selectionEntryGroup">
+        <entryLink id="baa4-75c5-af27-6350" name="Objetos" hidden="false" targetId="2dc8-359b-e212-bd69" type="selectionEntryGroup">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1156,11 +1156,11 @@ Grav-Pods: Gain Jump Pack and Glide until the end of the Round</description>
         </entryLink>
       </entryLinks>
       <costs>
-        <cost name="VPs" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
+        <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="75fd-569b-dd4e-2830" name="The Helfather" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="75fd-569b-dd4e-2830" name="El Padre Infernal" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -1178,7 +1178,7 @@ Grav-Pods: Gain Jump Pack and Glide until the end of the Round</description>
       <selectionEntries/>
       <selectionEntryGroups/>
       <entryLinks>
-        <entryLink id="b638-7d5f-1bd1-a7a8" name="The Helfather" hidden="false" targetId="9c11-2433-daf8-9638" type="selectionEntry">
+        <entryLink id="b638-7d5f-1bd1-a7a8" name="El Padre Infernal" hidden="false" targetId="9c11-2433-daf8-9638" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1189,7 +1189,7 @@ Grav-Pods: Gain Jump Pack and Glide until the end of the Round</description>
           </constraints>
           <categoryLinks/>
         </entryLink>
-        <entryLink id="fdff-4dab-8d81-e589" name="Items" hidden="false" targetId="2dc8-359b-e212-bd69" type="selectionEntryGroup">
+        <entryLink id="fdff-4dab-8d81-e589" name="Objetos" hidden="false" targetId="2dc8-359b-e212-bd69" type="selectionEntryGroup">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1199,11 +1199,11 @@ Grav-Pods: Gain Jump Pack and Glide until the end of the Round</description>
         </entryLink>
       </entryLinks>
       <costs>
-        <cost name="VPs" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
+        <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="b8f2-fc85-1361-3ae7" name="The Survivor" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="b8f2-fc85-1361-3ae7" name="El Superviviente" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -1221,7 +1221,7 @@ Grav-Pods: Gain Jump Pack and Glide until the end of the Round</description>
       <selectionEntries/>
       <selectionEntryGroups/>
       <entryLinks>
-        <entryLink id="2707-2f43-ac7e-77b8" name="The Survivor" hidden="false" targetId="2c72-6306-7fce-219b" type="selectionEntry">
+        <entryLink id="2707-2f43-ac7e-77b8" name="El Superviviente" hidden="false" targetId="2c72-6306-7fce-219b" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1232,7 +1232,7 @@ Grav-Pods: Gain Jump Pack and Glide until the end of the Round</description>
           </constraints>
           <categoryLinks/>
         </entryLink>
-        <entryLink id="cf8a-2092-b29b-07d3" name="Items" hidden="false" targetId="2dc8-359b-e212-bd69" type="selectionEntryGroup">
+        <entryLink id="cf8a-2092-b29b-07d3" name="Objetos" hidden="false" targetId="2dc8-359b-e212-bd69" type="selectionEntryGroup">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1242,7 +1242,7 @@ Grav-Pods: Gain Jump Pack and Glide until the end of the Round</description>
         </entryLink>
       </entryLinks>
       <costs>
-        <cost name="VPs" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
+        <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="0.0"/>
       </costs>
     </selectionEntry>
@@ -1275,7 +1275,7 @@ Grav-Pods: Gain Jump Pack and Glide until the end of the Round</description>
           </constraints>
           <categoryLinks/>
         </entryLink>
-        <entryLink id="c235-9f49-528a-060f" name="Items" hidden="false" targetId="2dc8-359b-e212-bd69" type="selectionEntryGroup">
+        <entryLink id="c235-9f49-528a-060f" name="Objetos" hidden="false" targetId="2dc8-359b-e212-bd69" type="selectionEntryGroup">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1285,14 +1285,14 @@ Grav-Pods: Gain Jump Pack and Glide until the end of the Round</description>
         </entryLink>
       </entryLinks>
       <costs>
-        <cost name="VPs" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
+        <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="0.0"/>
       </costs>
     </selectionEntry>
   </selectionEntries>
   <entryLinks/>
   <sharedSelectionEntries>
-    <selectionEntry id="7735-9fc1-fa51-d63e" name="Assault Flamer" book="Deadzone 2nd Ed Rulebook" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="7735-9fc1-fa51-d63e" name="Assault Flamer" book="Reglamento Deadzone 2ª Edición" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
@@ -1322,7 +1322,7 @@ Grav-Pods: Gain Jump Pack and Glide until the end of the Round</description>
       <selectionEntryGroups/>
       <entryLinks/>
       <costs>
-        <cost name="VPs" costTypeId="02a0-6bab-fa73-4a98" value="1.0"/>
+        <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="1.0"/>
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="6.0"/>
       </costs>
     </selectionEntry>
@@ -1345,10 +1345,10 @@ Grav-Pods: Gain Jump Pack and Glide until the end of the Round</description>
       <entryLinks/>
       <costs>
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="5.0"/>
-        <cost name="VPs" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
+        <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="cb95-5613-0ccb-e1fe" name="Experimental Weapon" book="Deadzone 2nd Ed Rulebook" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="cb95-5613-0ccb-e1fe" name="Experimental Weapon" book="Reglamento Deadzone 2ª Edición" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
@@ -1372,7 +1372,7 @@ Grav-Pods: Gain Jump Pack and Glide until the end of the Round</description>
       <selectionEntryGroups/>
       <entryLinks/>
       <costs>
-        <cost name="VPs" costTypeId="02a0-6bab-fa73-4a98" value="1.0"/>
+        <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="1.0"/>
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="5.0"/>
       </costs>
     </selectionEntry>
@@ -1407,10 +1407,10 @@ Grav-Pods: Gain Jump Pack and Glide until the end of the Round</description>
       <entryLinks/>
       <costs>
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="4.0"/>
-        <cost name="VPs" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
+        <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="1393-7d98-23fe-2fa9" name="Grenade Launcher" book="Deadzone 2nd Ed Rulebook" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="1393-7d98-23fe-2fa9" name="Grenade Launcher" book="Reglamento Deadzone 2ª Edición" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
@@ -1440,11 +1440,11 @@ Grav-Pods: Gain Jump Pack and Glide until the end of the Round</description>
       <selectionEntryGroups/>
       <entryLinks/>
       <costs>
-        <cost name="VPs" costTypeId="02a0-6bab-fa73-4a98" value="1.0"/>
+        <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="1.0"/>
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="8.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="ef6f-79d6-ae46-2c0c" name="HMG" book="Deadzone 2nd Ed Rulebook" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="ef6f-79d6-ae46-2c0c" name="HMG" book="Reglamento Deadzone 2ª Edición" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
@@ -1454,12 +1454,12 @@ Grav-Pods: Gain Jump Pack and Glide until the end of the Round</description>
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="225a-ede6-e3f0-20d4" name="Weight of Fire (n)" hidden="false" targetId="fe68-94f5-c309-65bd" type="rule">
+        <infoLink id="225a-ede6-e3f0-20d4" name="Cadencia de Fuego (n)" hidden="false" targetId="fe68-94f5-c309-65bd" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers>
-            <modifier type="set" field="name" value="Weight of Fire (1)">
+            <modifier type="set" field="name" value="Cadencia de Fuego (1)">
               <repeats/>
               <conditions/>
               <conditionGroups/>
@@ -1481,10 +1481,10 @@ Grav-Pods: Gain Jump Pack and Glide until the end of the Round</description>
       <entryLinks/>
       <costs>
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="4.0"/>
-        <cost name="VPs" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
+        <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="b3d8-71d9-4fca-b2cb" name="Mortar" book="Deadzone 2nd Ed Rulebook" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="b3d8-71d9-4fca-b2cb" name="Mortar" book="Reglamento Deadzone 2ª Edición" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
@@ -1506,7 +1506,7 @@ Grav-Pods: Gain Jump Pack and Glide until the end of the Round</description>
             </modifier>
           </modifiers>
         </infoLink>
-        <infoLink id="aafd-f0c2-2b69-0c9b" name="Heavy" hidden="false" targetId="20eb-5380-3d00-044b" type="rule">
+        <infoLink id="aafd-f0c2-2b69-0c9b" name="Pesada" hidden="false" targetId="20eb-5380-3d00-044b" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1520,15 +1520,15 @@ Grav-Pods: Gain Jump Pack and Glide until the end of the Round</description>
       <selectionEntryGroups/>
       <entryLinks/>
       <costs>
-        <cost name="VPs" costTypeId="02a0-6bab-fa73-4a98" value="1.0"/>
+        <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="1.0"/>
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="12.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="b895-2f56-b9ad-088b" name="Pistol *" book="Deadzone 2nd Ed Rulebook" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="b895-2f56-b9ad-088b" name="Pistola *" book="Reglamento Deadzone 2ª Edición" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="460a-5774-a47e-dc83" name="Pistol *" hidden="false" targetId="a0d7-8b97-bfd0-a2ff" type="profile">
+        <infoLink id="460a-5774-a47e-dc83" name="Pistola *" hidden="false" targetId="a0d7-8b97-bfd0-a2ff" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1542,11 +1542,11 @@ Grav-Pods: Gain Jump Pack and Glide until the end of the Round</description>
       <selectionEntryGroups/>
       <entryLinks/>
       <costs>
-        <cost name="VPs" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
+        <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="e413-5b6d-f4b7-a9e2" name="Polaris Cannon (Genling 88) **" book="Deadzone 2nd Ed Rulebook" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="e413-5b6d-f4b7-a9e2" name="Polaris Cannon (Genling 88) **" book="Reglamento Deadzone 2ª Edición" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
@@ -1564,11 +1564,11 @@ Grav-Pods: Gain Jump Pack and Glide until the end of the Round</description>
       <selectionEntryGroups/>
       <entryLinks/>
       <costs>
-        <cost name="VPs" costTypeId="02a0-6bab-fa73-4a98" value="1.0"/>
+        <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="1.0"/>
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="10.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="8fc7-ba88-4a89-1a64" name="Rifle" book="Deadzone 2nd Ed Rulebook" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="8fc7-ba88-4a89-1a64" name="Rifle" book="Reglamento Deadzone 2ª Edición" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
@@ -1578,7 +1578,7 @@ Grav-Pods: Gain Jump Pack and Glide until the end of the Round</description>
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="ec64-c28d-8688-cb4b" name="Rapid Fire" hidden="false" targetId="dd9c-58ef-1fec-28b8" type="rule">
+        <infoLink id="ec64-c28d-8688-cb4b" name="Fuego Rápido" hidden="false" targetId="dd9c-58ef-1fec-28b8" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1592,15 +1592,15 @@ Grav-Pods: Gain Jump Pack and Glide until the end of the Round</description>
       <selectionEntryGroups/>
       <entryLinks/>
       <costs>
-        <cost name="VPs" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
+        <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="2.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="f172-7edd-3be0-d843" name="Heavy Burst Laser **" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="f172-7edd-3be0-d843" name="Pesada Burst Laser **" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="855a-ab56-9e00-3b26" name="Heavy Burst Laser" hidden="false" targetId="5fb6-317b-f634-5a71" type="profile">
+        <infoLink id="855a-ab56-9e00-3b26" name="Pesada Burst Laser" hidden="false" targetId="5fb6-317b-f634-5a71" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1612,12 +1612,12 @@ Grav-Pods: Gain Jump Pack and Glide until the end of the Round</description>
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="1161-ad9c-7b02-9ac9" name="Weight of Fire (n)" hidden="false" targetId="fe68-94f5-c309-65bd" type="rule">
+        <infoLink id="1161-ad9c-7b02-9ac9" name="Cadencia de Fuego (n)" hidden="false" targetId="fe68-94f5-c309-65bd" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers>
-            <modifier type="set" field="name" value="Weight of Fire (2)">
+            <modifier type="set" field="name" value="Cadencia de Fuego (2)">
               <repeats/>
               <conditions/>
               <conditionGroups/>
@@ -1632,13 +1632,13 @@ Grav-Pods: Gain Jump Pack and Glide until the end of the Round</description>
       <selectionEntryGroups/>
       <entryLinks/>
       <costs>
-        <cost name="VPs" costTypeId="02a0-6bab-fa73-4a98" value="1.0"/>
+        <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="1.0"/>
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="8.0"/>
       </costs>
     </selectionEntry>
   </sharedSelectionEntries>
   <sharedSelectionEntryGroups>
-    <selectionEntryGroup id="2dc8-359b-e212-bd69" name="Items" book="Deadzone: Nexus Psi" page="21" hidden="false" collective="false">
+    <selectionEntryGroup id="2dc8-359b-e212-bd69" name="Objetos" book="Deadzone: Nexus Psi" page="21" hidden="false" collective="false">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -1670,7 +1670,7 @@ Grav-Pods: Gain Jump Pack and Glide until the end of the Round</description>
             </categoryLink>
           </categoryLinks>
         </entryLink>
-        <entryLink id="b02e-896d-c7c3-7983" name="AP Ammo (+)" hidden="false" targetId="e73f-19f7-d7b2-06ba" type="selectionEntry">
+        <entryLink id="b02e-896d-c7c3-7983" name="Munición Perforante (+)" hidden="false" targetId="e73f-19f7-d7b2-06ba" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1692,12 +1692,12 @@ Grav-Pods: Gain Jump Pack and Glide until the end of the Round</description>
             </categoryLink>
           </categoryLinks>
         </entryLink>
-        <entryLink id="3c0c-5a6e-ec8e-43e6" name="Energy Shield (+)" hidden="false" targetId="14f6-da63-6187-2dc0" type="selectionEntry">
+        <entryLink id="3c0c-5a6e-ec8e-43e6" name="Escudo de Energía (+)" hidden="false" targetId="14f6-da63-6187-2dc0" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers>
-            <modifier type="set" field="name" value="Energy Shield (3) (+)">
+            <modifier type="set" field="name" value="Escudo de Energía (3) (+)">
               <repeats/>
               <conditions/>
               <conditionGroups/>
@@ -1763,7 +1763,7 @@ Grav-Pods: Gain Jump Pack and Glide until the end of the Round</description>
             </categoryLink>
           </categoryLinks>
         </entryLink>
-        <entryLink id="e574-3d17-2560-2af4" name="Smoke Grenade (+)" hidden="false" targetId="97f8-bc82-bd65-3d3f" type="selectionEntry">
+        <entryLink id="e574-3d17-2560-2af4" name="Granada de Humo (+)" hidden="false" targetId="97f8-bc82-bd65-3d3f" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1790,136 +1790,136 @@ Grav-Pods: Gain Jump Pack and Glide until the end of the Round</description>
   </sharedSelectionEntryGroups>
   <sharedRules/>
   <sharedProfiles>
-    <profile id="ce7c-fabb-c0b7-f733" name="Assault Flamer" book="Deadzone 2nd Ed Rulebook" page="52" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="ce7c-fabb-c0b7-f733" name="Assault Flamer" book="Reglamento Deadzone 2ª Edición" page="52" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
       <profiles/>
       <rules/>
       <infoLinks/>
       <modifiers/>
       <characteristics>
-        <characteristic name="Range" characteristicTypeId="df8a-ee5b-d620-4246" value="R2"/>
-        <characteristic name="AP" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
-        <characteristic name="Abilities" characteristicTypeId="faf9-0187-1806-7214" value="Volatile, It Burns!"/>
-        <characteristic name="Type" characteristicTypeId="90af-0797-a0fd-965c" value="Walker (Assault)"/>
+        <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A2"/>
+        <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
+        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Volatile, It Burns!"/>
+        <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Andador (Asalto)"/>
       </characteristics>
     </profile>
-    <profile id="e751-3e0a-a8a1-3a4e" name="Chainsaw" book="Deadzone 2nd Ed Rulebook" page="52" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="e751-3e0a-a8a1-3a4e" name="Chainsaw" book="Reglamento Deadzone 2ª Edición" page="52" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
       <profiles/>
       <rules/>
       <infoLinks/>
       <modifiers/>
       <characteristics>
-        <characteristic name="Range" characteristicTypeId="df8a-ee5b-d620-4246" value="RF"/>
-        <characteristic name="AP" characteristicTypeId="3ef9-9c4e-a280-fccb" value="AP1"/>
-        <characteristic name="Abilities" characteristicTypeId="faf9-0187-1806-7214" value="-"/>
-        <characteristic name="Type" characteristicTypeId="90af-0797-a0fd-965c" value="Walker (Melee)"/>
+        <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="AL"/>
+        <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="PA1"/>
+        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="-"/>
+        <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Andador (Melé)"/>
       </characteristics>
     </profile>
-    <profile id="3f15-e252-7273-fa4c" name="Experimental Weapon" book="Deadzone 2nd Ed Rulebook" page="52" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="3f15-e252-7273-fa4c" name="Experimental Weapon" book="Reglamento Deadzone 2ª Edición" page="52" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
       <profiles/>
       <rules/>
       <infoLinks/>
       <modifiers/>
       <characteristics>
-        <characteristic name="Range" characteristicTypeId="df8a-ee5b-d620-4246" value="R5"/>
-        <characteristic name="AP" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
-        <characteristic name="Abilities" characteristicTypeId="faf9-0187-1806-7214" value="Experimental"/>
-        <characteristic name="Type" characteristicTypeId="90af-0797-a0fd-965c" value="Heavy (Automatic)"/>
+        <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A5"/>
+        <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
+        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Experimental"/>
+        <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Pesada (Automática)"/>
       </characteristics>
     </profile>
-    <profile id="d0dd-9598-28d8-7f6d" name="Flame Thrower" book="Deadzone 2nd Ed Rulebook" page="52" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="d0dd-9598-28d8-7f6d" name="Flame Thrower" book="Reglamento Deadzone 2ª Edición" page="52" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
       <profiles/>
       <rules/>
       <infoLinks/>
       <modifiers/>
       <characteristics>
-        <characteristic name="Range" characteristicTypeId="df8a-ee5b-d620-4246" value="R2"/>
-        <characteristic name="AP" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
-        <characteristic name="Abilities" characteristicTypeId="faf9-0187-1806-7214" value="Volatile, It Burns!"/>
-        <characteristic name="Type" characteristicTypeId="90af-0797-a0fd-965c" value="Light (Assault)"/>
+        <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A2"/>
+        <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
+        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Volatile, It Burns!"/>
+        <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Asalto)"/>
       </characteristics>
     </profile>
-    <profile id="75b3-cdeb-018d-4e79" name="Grenade Launcher" book="Deadzone 2nd Ed Rulebook" page="52" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="75b3-cdeb-018d-4e79" name="Grenade Launcher" book="Reglamento Deadzone 2ª Edición" page="52" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
       <profiles/>
       <rules/>
       <infoLinks/>
       <modifiers/>
       <characteristics>
-        <characteristic name="Range" characteristicTypeId="df8a-ee5b-d620-4246" value="R5"/>
-        <characteristic name="AP" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
-        <characteristic name="Abilities" characteristicTypeId="faf9-0187-1806-7214" value="Indirect (3)"/>
-        <characteristic name="Type" characteristicTypeId="90af-0797-a0fd-965c" value="Light (Explosive)"/>
+        <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A5"/>
+        <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
+        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Indirect (3)"/>
+        <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Explosiva)"/>
       </characteristics>
     </profile>
-    <profile id="a908-c0ce-d177-1fad" name="HMG" book="Deadzone 2nd Ed Rulebook" page="52" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="a908-c0ce-d177-1fad" name="HMG" book="Reglamento Deadzone 2ª Edición" page="52" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
       <profiles/>
       <rules/>
       <infoLinks/>
       <modifiers/>
       <characteristics>
-        <characteristic name="Range" characteristicTypeId="df8a-ee5b-d620-4246" value="R6"/>
-        <characteristic name="AP" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
-        <characteristic name="Abilities" characteristicTypeId="faf9-0187-1806-7214" value="Weight of Fire (1), Suppression"/>
-        <characteristic name="Type" characteristicTypeId="90af-0797-a0fd-965c" value="Light (Automatic)"/>
+        <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A6"/>
+        <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
+        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Cadencia de Fuego (1), Suppression"/>
+        <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Automática)"/>
       </characteristics>
     </profile>
-    <profile id="f494-17a7-0905-d30b" name="Mortar" book="Deadzone 2nd Ed Rulebook" page="52" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="f494-17a7-0905-d30b" name="Mortar" book="Reglamento Deadzone 2ª Edición" page="52" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
       <profiles/>
       <rules/>
       <infoLinks/>
       <modifiers/>
       <characteristics>
-        <characteristic name="Range" characteristicTypeId="df8a-ee5b-d620-4246" value="R8"/>
-        <characteristic name="AP" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
-        <characteristic name="Abilities" characteristicTypeId="faf9-0187-1806-7214" value="Indirect (4), Heavy"/>
-        <characteristic name="Type" characteristicTypeId="90af-0797-a0fd-965c" value="Heavy (Crew Served Weapon)"/>
+        <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A8"/>
+        <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
+        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Indirect (4), Pesada"/>
+        <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Pesada (Crew Served Weapon)"/>
       </characteristics>
     </profile>
-    <profile id="a0d7-8b97-bfd0-a2ff" name="Pistol" book="Deadzone 2nd Ed Rulebook" page="52" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="a0d7-8b97-bfd0-a2ff" name="Pistola" book="Reglamento Deadzone 2ª Edición" page="52" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
       <profiles/>
       <rules/>
       <infoLinks/>
       <modifiers/>
       <characteristics>
-        <characteristic name="Range" characteristicTypeId="df8a-ee5b-d620-4246" value="R3"/>
-        <characteristic name="AP" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
-        <characteristic name="Abilities" characteristicTypeId="faf9-0187-1806-7214" value="-"/>
-        <characteristic name="Type" characteristicTypeId="90af-0797-a0fd-965c" value="Small Arms"/>
+        <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A3"/>
+        <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
+        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="-"/>
+        <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Pequeño Calibre"/>
       </characteristics>
     </profile>
-    <profile id="2f33-fa5a-1ee9-6f63" name="Polaris Cannon (Genling 88)" book="Deadzone 2nd Ed Rulebook" page="52" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="2f33-fa5a-1ee9-6f63" name="Polaris Cannon (Genling 88)" book="Reglamento Deadzone 2ª Edición" page="52" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
       <profiles/>
       <rules/>
       <infoLinks/>
       <modifiers/>
       <characteristics>
-        <characteristic name="Range" characteristicTypeId="df8a-ee5b-d620-4246" value="R10"/>
-        <characteristic name="AP" characteristicTypeId="3ef9-9c4e-a280-fccb" value="AP4"/>
-        <characteristic name="Abilities" characteristicTypeId="faf9-0187-1806-7214" value="-"/>
-        <characteristic name="Type" characteristicTypeId="90af-0797-a0fd-965c" value="Walker (Lance)"/>
+        <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A10"/>
+        <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="PA4"/>
+        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="-"/>
+        <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Andador (Lanza)"/>
       </characteristics>
     </profile>
-    <profile id="023d-b5a4-3c59-3b1f" name="Rifle" book="Deadzone 2nd Ed Rulebook" page="52" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="023d-b5a4-3c59-3b1f" name="Rifle" book="Reglamento Deadzone 2ª Edición" page="52" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
       <profiles/>
       <rules/>
       <infoLinks/>
       <modifiers/>
       <characteristics>
-        <characteristic name="Range" characteristicTypeId="df8a-ee5b-d620-4246" value="R6"/>
-        <characteristic name="AP" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
-        <characteristic name="Abilities" characteristicTypeId="faf9-0187-1806-7214" value="Rapid Fire"/>
-        <characteristic name="Type" characteristicTypeId="90af-0797-a0fd-965c" value="Small Arms"/>
+        <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A6"/>
+        <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
+        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Fuego Rápido"/>
+        <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Pequeño Calibre"/>
       </characteristics>
     </profile>
-    <profile id="5fb6-317b-f634-5a71" name="Heavy Burst Laser" book="Deadzone: Nexus Psi" page="10" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="5fb6-317b-f634-5a71" name="Pesada Burst Laser" book="Deadzone: Nexus Psi" page="10" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
       <profiles/>
       <rules/>
       <infoLinks/>
       <modifiers/>
       <characteristics>
-        <characteristic name="Range" characteristicTypeId="df8a-ee5b-d620-4246" value="R10"/>
-        <characteristic name="AP" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
-        <characteristic name="Abilities" characteristicTypeId="faf9-0187-1806-7214" value="Suppression, Weight of Fire (2)"/>
-        <characteristic name="Type" characteristicTypeId="90af-0797-a0fd-965c" value="Walker (Automatic)"/>
+        <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A10"/>
+        <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
+        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Suppression, Cadencia de Fuego (2)"/>
+        <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Andador (Automática)"/>
       </characteristics>
     </profile>
   </sharedProfiles>

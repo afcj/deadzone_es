@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<catalogue id="09a0-72b8-38e2-c00f" name="The GCPS Elite: Major Loren Chard" book="Deadzone Errata v2.2" revision="1" battleScribeVersion="2.01" authorName="Ben Edwards" authorContact="BAE2 (Github)" gameSystemId="3476-f239-cf73-2f89" gameSystemRevision="1" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
+<catalogue id="09a0-72b8-38e2-c00f" name="The GCPS Elite: Major Loren Chard" book="Deadzone Erratas v2.2" revision="1" battleScribeVersion="2.01" authorName="Ben Edwards" authorContact="BAE2 (Github)" gameSystemId="3476-f239-cf73-2f89" gameSystemRevision="1" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
   <profiles/>
   <rules/>
   <infoLinks/>
@@ -8,40 +8,40 @@
   <categoryEntries/>
   <forceEntries/>
   <selectionEntries>
-    <selectionEntry id="e520-e3c1-ba51-1f1e" name="Major Loren Chard" book="Deadzone Errata v2.2" hidden="false" collective="false" type="unit">
+    <selectionEntry id="e520-e3c1-ba51-1f1e" name="Major Loren Chard" book="Deadzone Erratas v2.2" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="1451-7811-637f-bf4f" name="Major Loren Chard" book="Deadzone Errata v2.2" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Leader">
+        <profile id="1451-7811-637f-bf4f" name="Major Loren Chard" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Leader">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers/>
           <characteristics>
-            <characteristic name="Speed" characteristicTypeId="4e85-eaa5-eccb-41d1" value="1-2"/>
-            <characteristic name="Armour" characteristicTypeId="6e20-a2eb-4873-facd" value="1"/>
-            <characteristic name="Size" characteristicTypeId="72ed-1424-6a6b-51d8" value="1"/>
-            <characteristic name="Shoot" characteristicTypeId="8e81-1fe3-f677-8d5c" value="4+"/>
-            <characteristic name="Fight" characteristicTypeId="5ab1-1acc-a108-daf5" value="5+"/>
-            <characteristic name="Survive" characteristicTypeId="2375-5bce-3345-261b" value="5+"/>
-            <characteristic name="Recon" characteristicTypeId="af03-2f51-1267-9c64" value="5+"/>
+            <characteristic name="Velocidad" characteristicTypeId="4e85-eaa5-eccb-41d1" value="1-2"/>
+            <characteristic name="Armadura" characteristicTypeId="6e20-a2eb-4873-facd" value="1"/>
+            <characteristic name="Tamaño" characteristicTypeId="72ed-1424-6a6b-51d8" value="1"/>
+            <characteristic name="Disparo" characteristicTypeId="8e81-1fe3-f677-8d5c" value="4+"/>
+            <characteristic name="Lucha" characteristicTypeId="5ab1-1acc-a108-daf5" value="5+"/>
+            <characteristic name="Supervivencia" characteristicTypeId="2375-5bce-3345-261b" value="5+"/>
+            <characteristic name="Reconocimiento" characteristicTypeId="af03-2f51-1267-9c64" value="5+"/>
           </characteristics>
         </profile>
       </profiles>
       <rules>
-        <rule id="df80-1898-476b-ddd8" name="Five Rounds Rapid" book="Deadzone Errata v2.2" hidden="false">
+        <rule id="df80-1898-476b-ddd8" name="Five Rounds Rapid" book="Deadzone Erratas v2.2" hidden="false">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers/>
-          <description>Spend an Army Special result to give Weight of Fire (3) to a model for the rest of the round. You may spend this dice before taking any Shoot action. If the model already has Weight of Fire then the higher of the two values is used.</description>
+          <description>Spend an Army Special result to give Cadencia de Fuego (3) to a model for the rest of the round. You may spend this dice before taking any Disparo action. If the model already has Cadencia de Fuego then the higher of the two values is used.</description>
         </rule>
       </rules>
       <infoLinks>
-        <infoLink id="3520-d304-e4c9-ef05" name="Tactician (n)" hidden="false" targetId="61bb-0743-e806-2bfc" type="rule">
+        <infoLink id="3520-d304-e4c9-ef05" name="Táctico (n)" hidden="false" targetId="61bb-0743-e806-2bfc" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers>
-            <modifier type="set" field="name" value="Tactician (1)">
+            <modifier type="set" field="name" value="Táctico (1)">
               <repeats/>
               <conditions/>
               <conditionGroups/>
@@ -63,7 +63,7 @@
       <selectionEntries/>
       <selectionEntryGroups/>
       <entryLinks>
-        <entryLink id="3102-31d6-ed24-83c8" name="Knife" hidden="false" targetId="7a3c-8f4b-5072-870a" type="selectionEntry">
+        <entryLink id="3102-31d6-ed24-83c8" name="Cuchillo" hidden="false" targetId="7a3c-8f4b-5072-870a" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -91,7 +91,7 @@
           </constraints>
           <categoryLinks/>
         </entryLink>
-        <entryLink id="4392-9340-be39-87e6" name="Items" hidden="false" targetId="94f0-dfb5-3f11-ebe3" type="selectionEntryGroup">
+        <entryLink id="4392-9340-be39-87e6" name="Objetos" hidden="false" targetId="94f0-dfb5-3f11-ebe3" type="selectionEntryGroup">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -101,24 +101,24 @@
         </entryLink>
       </entryLinks>
       <costs>
-        <cost name="VPs" costTypeId="02a0-6bab-fa73-4a98" value="3.0"/>
+        <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="3.0"/>
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="30.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="7169-7330-6c24-639f" name="Corporation Recruit" book="Deadzone Errata v2.2" hidden="false" collective="false" type="unit">
+    <selectionEntry id="7169-7330-6c24-639f" name="Corporation Recruit" book="Deadzone Erratas v2.2" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="7774-13bf-1388-ede0" name="Corporation Recruit" book="Deadzone Errata v2.2" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
+        <profile id="7774-13bf-1388-ede0" name="Corporation Recruit" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers/>
           <characteristics>
-            <characteristic name="Speed" characteristicTypeId="df17-4b5c-638f-0807" value="1-2"/>
-            <characteristic name="Armour" characteristicTypeId="0274-bb56-5442-a0f1" value="0"/>
-            <characteristic name="Size" characteristicTypeId="2623-46e7-250f-eacf" value="1"/>
-            <characteristic name="Shoot" characteristicTypeId="68ea-7e51-32e7-70c8" value="6+"/>
-            <characteristic name="Fight" characteristicTypeId="cf38-e165-7d39-0773" value="7+"/>
-            <characteristic name="Survive" characteristicTypeId="ecb0-eafd-b6fa-91a0" value="5+"/>
+            <characteristic name="Velocidad" characteristicTypeId="df17-4b5c-638f-0807" value="1-2"/>
+            <characteristic name="Armadura" characteristicTypeId="0274-bb56-5442-a0f1" value="0"/>
+            <characteristic name="Tamaño" characteristicTypeId="2623-46e7-250f-eacf" value="1"/>
+            <characteristic name="Disparo" characteristicTypeId="68ea-7e51-32e7-70c8" value="6+"/>
+            <characteristic name="Lucha" characteristicTypeId="cf38-e165-7d39-0773" value="7+"/>
+            <characteristic name="Supervivencia" characteristicTypeId="ecb0-eafd-b6fa-91a0" value="5+"/>
           </characteristics>
         </profile>
       </profiles>
@@ -138,7 +138,7 @@
       <selectionEntries/>
       <selectionEntryGroups/>
       <entryLinks>
-        <entryLink id="f6b3-612d-dfbb-8c33" name="Knife" hidden="false" targetId="7a3c-8f4b-5072-870a" type="selectionEntry">
+        <entryLink id="f6b3-612d-dfbb-8c33" name="Cuchillo" hidden="false" targetId="7a3c-8f4b-5072-870a" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -166,7 +166,7 @@
           </constraints>
           <categoryLinks/>
         </entryLink>
-        <entryLink id="53e3-d52f-35cc-d34d" name="Items" hidden="false" targetId="94f0-dfb5-3f11-ebe3" type="selectionEntryGroup">
+        <entryLink id="53e3-d52f-35cc-d34d" name="Objetos" hidden="false" targetId="94f0-dfb5-3f11-ebe3" type="selectionEntryGroup">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -176,24 +176,24 @@
         </entryLink>
       </entryLinks>
       <costs>
-        <cost name="VPs" costTypeId="02a0-6bab-fa73-4a98" value="1.0"/>
+        <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="1.0"/>
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="6.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="e6b8-2d62-dbe8-dcf9" name="Corporation Veteran" book="Deadzone Errata v2.2" hidden="false" collective="false" type="unit">
+    <selectionEntry id="e6b8-2d62-dbe8-dcf9" name="Corporation Veteran" book="Deadzone Erratas v2.2" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="ffe0-9556-301b-71ea" name="Corporation Veteran" book="Deadzone Errata v2.2" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
+        <profile id="ffe0-9556-301b-71ea" name="Corporation Veteran" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers/>
           <characteristics>
-            <characteristic name="Speed" characteristicTypeId="df17-4b5c-638f-0807" value="1-2"/>
-            <characteristic name="Armour" characteristicTypeId="0274-bb56-5442-a0f1" value="0"/>
-            <characteristic name="Size" characteristicTypeId="2623-46e7-250f-eacf" value="1"/>
-            <characteristic name="Shoot" characteristicTypeId="68ea-7e51-32e7-70c8" value="5+"/>
-            <characteristic name="Fight" characteristicTypeId="cf38-e165-7d39-0773" value="5+"/>
-            <characteristic name="Survive" characteristicTypeId="ecb0-eafd-b6fa-91a0" value="5+"/>
+            <characteristic name="Velocidad" characteristicTypeId="df17-4b5c-638f-0807" value="1-2"/>
+            <characteristic name="Armadura" characteristicTypeId="0274-bb56-5442-a0f1" value="0"/>
+            <characteristic name="Tamaño" characteristicTypeId="2623-46e7-250f-eacf" value="1"/>
+            <characteristic name="Disparo" characteristicTypeId="68ea-7e51-32e7-70c8" value="5+"/>
+            <characteristic name="Lucha" characteristicTypeId="cf38-e165-7d39-0773" value="5+"/>
+            <characteristic name="Supervivencia" characteristicTypeId="ecb0-eafd-b6fa-91a0" value="5+"/>
           </characteristics>
         </profile>
       </profiles>
@@ -212,7 +212,7 @@
       </categoryLinks>
       <selectionEntries/>
       <selectionEntryGroups>
-        <selectionEntryGroup id="ed0a-2b5c-d20d-44be" name="Ranged Weapon" hidden="false" collective="false">
+        <selectionEntryGroup id="ed0a-2b5c-d20d-44be" name="Arma a Distancia" hidden="false" collective="false">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -259,7 +259,7 @@
         </selectionEntryGroup>
       </selectionEntryGroups>
       <entryLinks>
-        <entryLink id="96dc-b5e8-c34a-aaf6" name="Items" hidden="false" targetId="94f0-dfb5-3f11-ebe3" type="selectionEntryGroup">
+        <entryLink id="96dc-b5e8-c34a-aaf6" name="Objetos" hidden="false" targetId="94f0-dfb5-3f11-ebe3" type="selectionEntryGroup">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -267,7 +267,7 @@
           <constraints/>
           <categoryLinks/>
         </entryLink>
-        <entryLink id="6e74-67f4-4873-cc3c" name="Knife" hidden="false" targetId="7a3c-8f4b-5072-870a" type="selectionEntry">
+        <entryLink id="6e74-67f4-4873-cc3c" name="Cuchillo" hidden="false" targetId="7a3c-8f4b-5072-870a" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -278,7 +278,7 @@
           </constraints>
           <categoryLinks/>
         </entryLink>
-        <entryLink id="d77b-b1a5-0d2f-162a" name="Pistol *" hidden="false" targetId="233d-13ea-2832-d5f1" type="selectionEntry">
+        <entryLink id="d77b-b1a5-0d2f-162a" name="Pistola *" hidden="false" targetId="233d-13ea-2832-d5f1" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -290,24 +290,24 @@
         </entryLink>
       </entryLinks>
       <costs>
-        <cost name="VPs" costTypeId="02a0-6bab-fa73-4a98" value="1.0"/>
+        <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="1.0"/>
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="11.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="34b5-2e8d-66f7-4e39" name="Marine Specialist" book="Deadzone Errata v2.2" hidden="false" collective="false" type="unit">
+    <selectionEntry id="34b5-2e8d-66f7-4e39" name="Marine Especialista" book="Deadzone Erratas v2.2" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="51de-65aa-9ab8-ecd6" name="Marine Specialist" book="Deadzone Errata v2.2" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
+        <profile id="51de-65aa-9ab8-ecd6" name="Marine Especialista" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers/>
           <characteristics>
-            <characteristic name="Speed" characteristicTypeId="df17-4b5c-638f-0807" value="1-2"/>
-            <characteristic name="Armour" characteristicTypeId="0274-bb56-5442-a0f1" value="0"/>
-            <characteristic name="Size" characteristicTypeId="2623-46e7-250f-eacf" value="1"/>
-            <characteristic name="Shoot" characteristicTypeId="68ea-7e51-32e7-70c8" value="5+"/>
-            <characteristic name="Fight" characteristicTypeId="cf38-e165-7d39-0773" value="6+"/>
-            <characteristic name="Survive" characteristicTypeId="ecb0-eafd-b6fa-91a0" value="5+"/>
+            <characteristic name="Velocidad" characteristicTypeId="df17-4b5c-638f-0807" value="1-2"/>
+            <characteristic name="Armadura" characteristicTypeId="0274-bb56-5442-a0f1" value="0"/>
+            <characteristic name="Tamaño" characteristicTypeId="2623-46e7-250f-eacf" value="1"/>
+            <characteristic name="Disparo" characteristicTypeId="68ea-7e51-32e7-70c8" value="5+"/>
+            <characteristic name="Lucha" characteristicTypeId="cf38-e165-7d39-0773" value="6+"/>
+            <characteristic name="Supervivencia" characteristicTypeId="ecb0-eafd-b6fa-91a0" value="5+"/>
           </characteristics>
         </profile>
       </profiles>
@@ -326,7 +326,7 @@
       </categoryLinks>
       <selectionEntries/>
       <selectionEntryGroups>
-        <selectionEntryGroup id="730a-76ba-379f-0acf" name="Ranged Weapon" hidden="false" collective="false">
+        <selectionEntryGroup id="730a-76ba-379f-0acf" name="Arma a Distancia" hidden="false" collective="false">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -409,7 +409,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="bd0c-7bf5-8159-015c" name="Accutek LR-AM Heavy Rifle" hidden="false" targetId="4518-0622-df9a-4b5b" type="selectionEntry">
+            <entryLink id="bd0c-7bf5-8159-015c" name="Accutek LR-AM Pesada Rifle" hidden="false" targetId="4518-0622-df9a-4b5b" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -429,7 +429,7 @@
         </selectionEntryGroup>
       </selectionEntryGroups>
       <entryLinks>
-        <entryLink id="6298-c71b-29b3-e911" name="Pistol *" hidden="false" targetId="233d-13ea-2832-d5f1" type="selectionEntry">
+        <entryLink id="6298-c71b-29b3-e911" name="Pistola *" hidden="false" targetId="233d-13ea-2832-d5f1" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -439,7 +439,7 @@
           </constraints>
           <categoryLinks/>
         </entryLink>
-        <entryLink id="4b96-1553-c523-283a" name="Knife" hidden="false" targetId="7a3c-8f4b-5072-870a" type="selectionEntry">
+        <entryLink id="4b96-1553-c523-283a" name="Cuchillo" hidden="false" targetId="7a3c-8f4b-5072-870a" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -450,7 +450,7 @@
           </constraints>
           <categoryLinks/>
         </entryLink>
-        <entryLink id="5121-276d-79d5-3c6c" name="Items" hidden="false" targetId="94f0-dfb5-3f11-ebe3" type="selectionEntryGroup">
+        <entryLink id="5121-276d-79d5-3c6c" name="Objetos" hidden="false" targetId="94f0-dfb5-3f11-ebe3" type="selectionEntryGroup">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -460,24 +460,24 @@
         </entryLink>
       </entryLinks>
       <costs>
-        <cost name="VPs" costTypeId="02a0-6bab-fa73-4a98" value="1.0"/>
+        <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="1.0"/>
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="8.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="5d7f-893d-350e-452c" name="Corporation Medic" book="Deadzone Errata v2.2" hidden="false" collective="false" type="unit">
+    <selectionEntry id="5d7f-893d-350e-452c" name="Corporation Medic" book="Deadzone Erratas v2.2" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="02c3-5dc3-d182-535e" name="Corporation Medic" book="Deadzone Errata v2.2" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
+        <profile id="02c3-5dc3-d182-535e" name="Corporation Medic" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers/>
           <characteristics>
-            <characteristic name="Speed" characteristicTypeId="df17-4b5c-638f-0807" value="1-2"/>
-            <characteristic name="Armour" characteristicTypeId="0274-bb56-5442-a0f1" value="0"/>
-            <characteristic name="Size" characteristicTypeId="2623-46e7-250f-eacf" value="1"/>
-            <characteristic name="Shoot" characteristicTypeId="68ea-7e51-32e7-70c8" value="5+"/>
-            <characteristic name="Fight" characteristicTypeId="cf38-e165-7d39-0773" value="6+"/>
-            <characteristic name="Survive" characteristicTypeId="ecb0-eafd-b6fa-91a0" value="5+"/>
+            <characteristic name="Velocidad" characteristicTypeId="df17-4b5c-638f-0807" value="1-2"/>
+            <characteristic name="Armadura" characteristicTypeId="0274-bb56-5442-a0f1" value="0"/>
+            <characteristic name="Tamaño" characteristicTypeId="2623-46e7-250f-eacf" value="1"/>
+            <characteristic name="Disparo" characteristicTypeId="68ea-7e51-32e7-70c8" value="5+"/>
+            <characteristic name="Lucha" characteristicTypeId="cf38-e165-7d39-0773" value="6+"/>
+            <characteristic name="Supervivencia" characteristicTypeId="ecb0-eafd-b6fa-91a0" value="5+"/>
           </characteristics>
         </profile>
       </profiles>
@@ -503,7 +503,7 @@
       </categoryLinks>
       <selectionEntries/>
       <selectionEntryGroups>
-        <selectionEntryGroup id="7f6e-5a5c-477f-0428" name="Ranged Weapon" hidden="false" collective="false">
+        <selectionEntryGroup id="7f6e-5a5c-477f-0428" name="Arma a Distancia" hidden="false" collective="false">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -542,7 +542,7 @@
         </selectionEntryGroup>
       </selectionEntryGroups>
       <entryLinks>
-        <entryLink id="a7da-e910-8509-b8ee" name="Pistol *" hidden="false" targetId="233d-13ea-2832-d5f1" type="selectionEntry">
+        <entryLink id="a7da-e910-8509-b8ee" name="Pistola *" hidden="false" targetId="233d-13ea-2832-d5f1" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -552,7 +552,7 @@
           </constraints>
           <categoryLinks/>
         </entryLink>
-        <entryLink id="321e-9bda-58f7-39bd" name="Knife" hidden="false" targetId="7a3c-8f4b-5072-870a" type="selectionEntry">
+        <entryLink id="321e-9bda-58f7-39bd" name="Cuchillo" hidden="false" targetId="7a3c-8f4b-5072-870a" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -563,7 +563,7 @@
           </constraints>
           <categoryLinks/>
         </entryLink>
-        <entryLink id="af64-4a16-8832-4f5a" name="Items" hidden="false" targetId="94f0-dfb5-3f11-ebe3" type="selectionEntryGroup">
+        <entryLink id="af64-4a16-8832-4f5a" name="Objetos" hidden="false" targetId="94f0-dfb5-3f11-ebe3" type="selectionEntryGroup">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -573,30 +573,30 @@
         </entryLink>
       </entryLinks>
       <costs>
-        <cost name="VPs" costTypeId="02a0-6bab-fa73-4a98" value="1.0"/>
+        <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="1.0"/>
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="13.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="ffdc-1540-fcdd-ec78" name="Heavy Weapons Squad" book="Deadzone Errata v2.2" hidden="false" collective="false" type="unit">
+    <selectionEntry id="ffdc-1540-fcdd-ec78" name="Pesada Weapons Squad" book="Deadzone Erratas v2.2" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="31bf-25ab-66f6-f358" name="Heavy Weapons Squad" book="Deadzone Errata v2.2" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
+        <profile id="31bf-25ab-66f6-f358" name="Pesada Weapons Squad" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers/>
           <characteristics>
-            <characteristic name="Speed" characteristicTypeId="df17-4b5c-638f-0807" value="1-2"/>
-            <characteristic name="Armour" characteristicTypeId="0274-bb56-5442-a0f1" value="0"/>
-            <characteristic name="Size" characteristicTypeId="2623-46e7-250f-eacf" value="3"/>
-            <characteristic name="Shoot" characteristicTypeId="68ea-7e51-32e7-70c8" value="5+"/>
-            <characteristic name="Fight" characteristicTypeId="cf38-e165-7d39-0773" value="6+"/>
-            <characteristic name="Survive" characteristicTypeId="ecb0-eafd-b6fa-91a0" value="5+"/>
+            <characteristic name="Velocidad" characteristicTypeId="df17-4b5c-638f-0807" value="1-2"/>
+            <characteristic name="Armadura" characteristicTypeId="0274-bb56-5442-a0f1" value="0"/>
+            <characteristic name="Tamaño" characteristicTypeId="2623-46e7-250f-eacf" value="3"/>
+            <characteristic name="Disparo" characteristicTypeId="68ea-7e51-32e7-70c8" value="5+"/>
+            <characteristic name="Lucha" characteristicTypeId="cf38-e165-7d39-0773" value="6+"/>
+            <characteristic name="Supervivencia" characteristicTypeId="ecb0-eafd-b6fa-91a0" value="5+"/>
           </characteristics>
         </profile>
       </profiles>
       <rules/>
       <infoLinks>
-        <infoLink id="3786-999c-db54-4fd1" name="Weapons Team" hidden="false" targetId="e4f8-1ba5-29a4-65f4" type="rule">
+        <infoLink id="3786-999c-db54-4fd1" name="Equipo de Armas" hidden="false" targetId="e4f8-1ba5-29a4-65f4" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -616,7 +616,7 @@
       </categoryLinks>
       <selectionEntries/>
       <selectionEntryGroups>
-        <selectionEntryGroup id="ab15-cf52-8ca2-6114" name="Ranged Weapon" hidden="false" collective="false">
+        <selectionEntryGroup id="ab15-cf52-8ca2-6114" name="Arma a Distancia" hidden="false" collective="false">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -643,7 +643,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="2c56-3cbe-2e9b-10cf" name="Missile Launcher" hidden="false" targetId="b0d8-a4f6-3600-6cc6" type="selectionEntry">
+            <entryLink id="2c56-3cbe-2e9b-10cf" name="Lanzamisiles" hidden="false" targetId="b0d8-a4f6-3600-6cc6" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -679,7 +679,7 @@
         </selectionEntryGroup>
       </selectionEntryGroups>
       <entryLinks>
-        <entryLink id="6699-d428-6ed7-fc74" name="Knife" hidden="false" targetId="7a3c-8f4b-5072-870a" type="selectionEntry">
+        <entryLink id="6699-d428-6ed7-fc74" name="Cuchillo" hidden="false" targetId="7a3c-8f4b-5072-870a" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -690,7 +690,7 @@
           </constraints>
           <categoryLinks/>
         </entryLink>
-        <entryLink id="0a5b-33c6-7c3a-ba33" name="Items" hidden="false" targetId="94f0-dfb5-3f11-ebe3" type="selectionEntryGroup">
+        <entryLink id="0a5b-33c6-7c3a-ba33" name="Objetos" hidden="false" targetId="94f0-dfb5-3f11-ebe3" type="selectionEntryGroup">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -700,7 +700,7 @@
         </entryLink>
       </entryLinks>
       <costs>
-        <cost name="VPs" costTypeId="02a0-6bab-fa73-4a98" value="1.0"/>
+        <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="1.0"/>
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="12.0"/>
       </costs>
     </selectionEntry>
@@ -733,7 +733,7 @@
           </constraints>
           <categoryLinks/>
         </entryLink>
-        <entryLink id="d663-f08b-733a-3b88" name="Items" hidden="false" targetId="94f0-dfb5-3f11-ebe3" type="selectionEntryGroup">
+        <entryLink id="d663-f08b-733a-3b88" name="Objetos" hidden="false" targetId="94f0-dfb5-3f11-ebe3" type="selectionEntryGroup">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -743,11 +743,11 @@
         </entryLink>
       </entryLinks>
       <costs>
-        <cost name="VPs" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
+        <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="4814-d381-50cf-e07b" name="Blaine on Jetbike" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="4814-d381-50cf-e07b" name="Blaine en Motojet" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -765,7 +765,7 @@
       <selectionEntries/>
       <selectionEntryGroups/>
       <entryLinks>
-        <entryLink id="27d6-b021-7fbf-0fe2" name="Blaine on Jetbike" hidden="false" targetId="c9c3-85b2-a438-802f" type="selectionEntry">
+        <entryLink id="27d6-b021-7fbf-0fe2" name="Blaine en Motojet" hidden="false" targetId="c9c3-85b2-a438-802f" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -776,7 +776,7 @@
           </constraints>
           <categoryLinks/>
         </entryLink>
-        <entryLink id="b7b8-f4df-3a79-485b" name="Items" hidden="false" targetId="94f0-dfb5-3f11-ebe3" type="selectionEntryGroup">
+        <entryLink id="b7b8-f4df-3a79-485b" name="Objetos" hidden="false" targetId="94f0-dfb5-3f11-ebe3" type="selectionEntryGroup">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -786,11 +786,11 @@
         </entryLink>
       </entryLinks>
       <costs>
-        <cost name="VPs" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
+        <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="53e6-4c97-6f49-8bef" name="Boomer, Grenadier" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="53e6-4c97-6f49-8bef" name="Boomer, Granadero" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -808,7 +808,7 @@
       <selectionEntries/>
       <selectionEntryGroups/>
       <entryLinks>
-        <entryLink id="4a93-2747-907b-ca66" name="Boomer, Grenadier" hidden="false" targetId="fcdd-d439-27de-bcca" type="selectionEntry">
+        <entryLink id="4a93-2747-907b-ca66" name="Boomer, Granadero" hidden="false" targetId="fcdd-d439-27de-bcca" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -819,7 +819,7 @@
           </constraints>
           <categoryLinks/>
         </entryLink>
-        <entryLink id="3bd8-759e-3187-9571" name="Items" hidden="false" targetId="94f0-dfb5-3f11-ebe3" type="selectionEntryGroup">
+        <entryLink id="3bd8-759e-3187-9571" name="Objetos" hidden="false" targetId="94f0-dfb5-3f11-ebe3" type="selectionEntryGroup">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -829,11 +829,11 @@
         </entryLink>
       </entryLinks>
       <costs>
-        <cost name="VPs" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
+        <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="f218-127e-90ab-bed2" name="Chief Radgrad" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="f218-127e-90ab-bed2" name="Jefe Radgrad" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -851,7 +851,7 @@
       <selectionEntries/>
       <selectionEntryGroups/>
       <entryLinks>
-        <entryLink id="5532-b2bb-93c5-eaca" name="Chief Radgrad" hidden="false" targetId="ec30-5a87-2544-b5d3" type="selectionEntry">
+        <entryLink id="5532-b2bb-93c5-eaca" name="Jefe Radgrad" hidden="false" targetId="ec30-5a87-2544-b5d3" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -862,7 +862,7 @@
           </constraints>
           <categoryLinks/>
         </entryLink>
-        <entryLink id="71ae-6167-8892-3ef6" name="Items" hidden="false" targetId="94f0-dfb5-3f11-ebe3" type="selectionEntryGroup">
+        <entryLink id="71ae-6167-8892-3ef6" name="Objetos" hidden="false" targetId="94f0-dfb5-3f11-ebe3" type="selectionEntryGroup">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -872,11 +872,11 @@
         </entryLink>
       </entryLinks>
       <costs>
-        <cost name="VPs" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
+        <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="900b-16f3-715b-f13c" name="Chovar Psychic" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="900b-16f3-715b-f13c" name="Psíquico Chovar" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -894,7 +894,7 @@
       <selectionEntries/>
       <selectionEntryGroups/>
       <entryLinks>
-        <entryLink id="d0a3-dd7d-5440-a598" name="Chovar Psychic" hidden="false" targetId="0304-1c3a-5501-a41f" type="selectionEntry">
+        <entryLink id="d0a3-dd7d-5440-a598" name="Psíquico Chovar" hidden="false" targetId="0304-1c3a-5501-a41f" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -905,7 +905,7 @@
           </constraints>
           <categoryLinks/>
         </entryLink>
-        <entryLink id="f31d-c46e-98b7-db2d" name="Items" hidden="false" targetId="94f0-dfb5-3f11-ebe3" type="selectionEntryGroup">
+        <entryLink id="f31d-c46e-98b7-db2d" name="Objetos" hidden="false" targetId="94f0-dfb5-3f11-ebe3" type="selectionEntryGroup">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -915,7 +915,7 @@
         </entryLink>
       </entryLinks>
       <costs>
-        <cost name="VPs" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
+        <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="0.0"/>
       </costs>
     </selectionEntry>
@@ -948,7 +948,7 @@
           </constraints>
           <categoryLinks/>
         </entryLink>
-        <entryLink id="ec9a-3a66-1227-1da0" name="Items" hidden="false" targetId="94f0-dfb5-3f11-ebe3" type="selectionEntryGroup">
+        <entryLink id="ec9a-3a66-1227-1da0" name="Objetos" hidden="false" targetId="94f0-dfb5-3f11-ebe3" type="selectionEntryGroup">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -958,7 +958,7 @@
         </entryLink>
       </entryLinks>
       <costs>
-        <cost name="VPs" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
+        <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="0.0"/>
       </costs>
     </selectionEntry>
@@ -991,7 +991,7 @@
           </constraints>
           <categoryLinks/>
         </entryLink>
-        <entryLink id="e9d6-8388-cd60-301b" name="Items" hidden="false" targetId="94f0-dfb5-3f11-ebe3" type="selectionEntryGroup">
+        <entryLink id="e9d6-8388-cd60-301b" name="Objetos" hidden="false" targetId="94f0-dfb5-3f11-ebe3" type="selectionEntryGroup">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1001,7 +1001,7 @@
         </entryLink>
       </entryLinks>
       <costs>
-        <cost name="VPs" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
+        <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="0.0"/>
       </costs>
     </selectionEntry>
@@ -1034,7 +1034,7 @@
           </constraints>
           <categoryLinks/>
         </entryLink>
-        <entryLink id="5248-170f-46a9-5771" name="Items" hidden="false" targetId="94f0-dfb5-3f11-ebe3" type="selectionEntryGroup">
+        <entryLink id="5248-170f-46a9-5771" name="Objetos" hidden="false" targetId="94f0-dfb5-3f11-ebe3" type="selectionEntryGroup">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1044,7 +1044,7 @@
         </entryLink>
       </entryLinks>
       <costs>
-        <cost name="VPs" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
+        <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="0.0"/>
       </costs>
     </selectionEntry>
@@ -1077,7 +1077,7 @@
           </constraints>
           <categoryLinks/>
         </entryLink>
-        <entryLink id="409a-e8af-2549-6748" name="Items" hidden="false" targetId="94f0-dfb5-3f11-ebe3" type="selectionEntryGroup">
+        <entryLink id="409a-e8af-2549-6748" name="Objetos" hidden="false" targetId="94f0-dfb5-3f11-ebe3" type="selectionEntryGroup">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1087,11 +1087,11 @@
         </entryLink>
       </entryLinks>
       <costs>
-        <cost name="VPs" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
+        <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="10d3-b2fc-695e-2bd2" name="Project Oberon" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="10d3-b2fc-695e-2bd2" name="Proyecto Oberón" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -1109,7 +1109,7 @@
       <selectionEntries/>
       <selectionEntryGroups/>
       <entryLinks>
-        <entryLink id="1071-8858-a29f-2972" name="Project Oberon" hidden="false" targetId="1acb-ca9d-dddd-bfd6" type="selectionEntry">
+        <entryLink id="1071-8858-a29f-2972" name="Proyecto Oberón" hidden="false" targetId="1acb-ca9d-dddd-bfd6" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1120,7 +1120,7 @@
           </constraints>
           <categoryLinks/>
         </entryLink>
-        <entryLink id="7835-69d7-a234-ad63" name="Items" hidden="false" targetId="94f0-dfb5-3f11-ebe3" type="selectionEntryGroup">
+        <entryLink id="7835-69d7-a234-ad63" name="Objetos" hidden="false" targetId="94f0-dfb5-3f11-ebe3" type="selectionEntryGroup">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1130,7 +1130,7 @@
         </entryLink>
       </entryLinks>
       <costs>
-        <cost name="VPs" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
+        <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="0.0"/>
       </costs>
     </selectionEntry>
@@ -1163,7 +1163,7 @@
           </constraints>
           <categoryLinks/>
         </entryLink>
-        <entryLink id="ac7e-1acb-2c14-5a34" name="Items" hidden="false" targetId="94f0-dfb5-3f11-ebe3" type="selectionEntryGroup">
+        <entryLink id="ac7e-1acb-2c14-5a34" name="Objetos" hidden="false" targetId="94f0-dfb5-3f11-ebe3" type="selectionEntryGroup">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1173,11 +1173,11 @@
         </entryLink>
       </entryLinks>
       <costs>
-        <cost name="VPs" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
+        <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="7c35-1baa-5f93-8aab" name="The Helfather" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="7c35-1baa-5f93-8aab" name="El Padre Infernal" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -1195,7 +1195,7 @@
       <selectionEntries/>
       <selectionEntryGroups/>
       <entryLinks>
-        <entryLink id="7ef5-6afa-2ef6-3bd9" name="The Helfather" hidden="false" targetId="9c11-2433-daf8-9638" type="selectionEntry">
+        <entryLink id="7ef5-6afa-2ef6-3bd9" name="El Padre Infernal" hidden="false" targetId="9c11-2433-daf8-9638" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1206,7 +1206,7 @@
           </constraints>
           <categoryLinks/>
         </entryLink>
-        <entryLink id="1586-c2eb-48fd-01aa" name="Items" hidden="false" targetId="94f0-dfb5-3f11-ebe3" type="selectionEntryGroup">
+        <entryLink id="1586-c2eb-48fd-01aa" name="Objetos" hidden="false" targetId="94f0-dfb5-3f11-ebe3" type="selectionEntryGroup">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1216,11 +1216,11 @@
         </entryLink>
       </entryLinks>
       <costs>
-        <cost name="VPs" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
+        <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="c0d4-f307-e742-f6d1" name="The Survivor" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="c0d4-f307-e742-f6d1" name="El Superviviente" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -1238,7 +1238,7 @@
       <selectionEntries/>
       <selectionEntryGroups/>
       <entryLinks>
-        <entryLink id="5ea9-e97e-1a1b-80be" name="The Survivor" hidden="false" targetId="2c72-6306-7fce-219b" type="selectionEntry">
+        <entryLink id="5ea9-e97e-1a1b-80be" name="El Superviviente" hidden="false" targetId="2c72-6306-7fce-219b" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1249,7 +1249,7 @@
           </constraints>
           <categoryLinks/>
         </entryLink>
-        <entryLink id="6e30-a2a7-7027-9c7d" name="Items" hidden="false" targetId="94f0-dfb5-3f11-ebe3" type="selectionEntryGroup">
+        <entryLink id="6e30-a2a7-7027-9c7d" name="Objetos" hidden="false" targetId="94f0-dfb5-3f11-ebe3" type="selectionEntryGroup">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1259,7 +1259,7 @@
         </entryLink>
       </entryLinks>
       <costs>
-        <cost name="VPs" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
+        <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="0.0"/>
       </costs>
     </selectionEntry>
@@ -1292,7 +1292,7 @@
           </constraints>
           <categoryLinks/>
         </entryLink>
-        <entryLink id="f01c-a4fc-687c-777b" name="Items" hidden="false" targetId="94f0-dfb5-3f11-ebe3" type="selectionEntryGroup">
+        <entryLink id="f01c-a4fc-687c-777b" name="Objetos" hidden="false" targetId="94f0-dfb5-3f11-ebe3" type="selectionEntryGroup">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1302,7 +1302,7 @@
         </entryLink>
       </entryLinks>
       <costs>
-        <cost name="VPs" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
+        <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="0.0"/>
       </costs>
     </selectionEntry>
@@ -1319,18 +1319,18 @@
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="30f5-cf99-f98c-c44f" name="Rapid Fire" hidden="false" targetId="dd9c-58ef-1fec-28b8" type="rule">
+        <infoLink id="30f5-cf99-f98c-c44f" name="Fuego Rápido" hidden="false" targetId="dd9c-58ef-1fec-28b8" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="caf9-8ef1-81e2-3a94" name="Weight of Fire (n)" hidden="false" targetId="fe68-94f5-c309-65bd" type="rule">
+        <infoLink id="caf9-8ef1-81e2-3a94" name="Cadencia de Fuego (n)" hidden="false" targetId="fe68-94f5-c309-65bd" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers>
-            <modifier type="set" field="name" value="Weight of Fire (1)">
+            <modifier type="set" field="name" value="Cadencia de Fuego (1)">
               <repeats/>
               <conditions/>
               <conditionGroups/>
@@ -1346,7 +1346,7 @@
       <entryLinks/>
       <costs>
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="4.0"/>
-        <cost name="VPs" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
+        <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="1b4c-fd8b-e200-d0c3" name="Accutek LR-45 DMR" hidden="false" collective="false" type="upgrade">
@@ -1385,21 +1385,21 @@
         </entryLink>
       </entryLinks>
       <costs>
-        <cost name="VPs" costTypeId="02a0-6bab-fa73-4a98" value="1.0"/>
+        <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="1.0"/>
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="8.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="4518-0622-df9a-4b5b" name="Accutek LR-AM Heavy Rifle" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="4518-0622-df9a-4b5b" name="Accutek LR-AM Pesada Rifle" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="d741-c6d3-a7dc-2088" name="Accutek LR-AM Heavy Rifle" hidden="false" targetId="167e-c080-1815-359d" type="profile">
+        <infoLink id="d741-c6d3-a7dc-2088" name="Accutek LR-AM Pesada Rifle" hidden="false" targetId="167e-c080-1815-359d" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="bb42-86e9-781a-a76a" name="Heavy" hidden="false" targetId="20eb-5380-3d00-044b" type="rule">
+        <infoLink id="bb42-86e9-781a-a76a" name="Pesada" hidden="false" targetId="20eb-5380-3d00-044b" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1413,7 +1413,7 @@
       <selectionEntryGroups/>
       <entryLinks/>
       <costs>
-        <cost name="VPs" costTypeId="02a0-6bab-fa73-4a98" value="1.0"/>
+        <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="1.0"/>
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="6.0"/>
       </costs>
     </selectionEntry>
@@ -1433,7 +1433,7 @@
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="10c0-6cf9-20f4-2992" name="Heavy" hidden="false" targetId="20eb-5380-3d00-044b" type="rule">
+        <infoLink id="10c0-6cf9-20f4-2992" name="Pesada" hidden="false" targetId="20eb-5380-3d00-044b" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1447,7 +1447,7 @@
       <selectionEntryGroups/>
       <entryLinks/>
       <costs>
-        <cost name="VPs" costTypeId="02a0-6bab-fa73-4a98" value="1.0"/>
+        <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="1.0"/>
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="12.0"/>
       </costs>
     </selectionEntry>
@@ -1481,7 +1481,7 @@
       <selectionEntryGroups/>
       <entryLinks/>
       <costs>
-        <cost name="VPs" costTypeId="02a0-6bab-fa73-4a98" value="1.0"/>
+        <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="1.0"/>
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="6.0"/>
       </costs>
     </selectionEntry>
@@ -1501,19 +1501,19 @@
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="1b31-81e1-0884-2642" name="Weight of Fire (n)" hidden="false" targetId="fe68-94f5-c309-65bd" type="rule">
+        <infoLink id="1b31-81e1-0884-2642" name="Cadencia de Fuego (n)" hidden="false" targetId="fe68-94f5-c309-65bd" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers>
-            <modifier type="set" field="name" value="Weight of Fire (1)">
+            <modifier type="set" field="name" value="Cadencia de Fuego (1)">
               <repeats/>
               <conditions/>
               <conditionGroups/>
             </modifier>
           </modifiers>
         </infoLink>
-        <infoLink id="0094-fb6b-bc3c-4d69" name="Heavy" hidden="false" targetId="20eb-5380-3d00-044b" type="rule">
+        <infoLink id="0094-fb6b-bc3c-4d69" name="Pesada" hidden="false" targetId="20eb-5380-3d00-044b" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1527,7 +1527,7 @@
       <selectionEntryGroups/>
       <entryLinks/>
       <costs>
-        <cost name="VPs" costTypeId="02a0-6bab-fa73-4a98" value="1.0"/>
+        <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="1.0"/>
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="4.0"/>
       </costs>
     </selectionEntry>
@@ -1549,7 +1549,7 @@
       <selectionEntryGroups/>
       <entryLinks/>
       <costs>
-        <cost name="VPs" costTypeId="02a0-6bab-fa73-4a98" value="1.0"/>
+        <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="1.0"/>
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="5.0"/>
       </costs>
     </selectionEntry>
@@ -1563,7 +1563,7 @@
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="bcdc-bff3-8481-3a9e" name="Knockback" hidden="false" targetId="9b4e-17bd-61ab-7feb" type="rule">
+        <infoLink id="bcdc-bff3-8481-3a9e" name="Derribo" hidden="false" targetId="9b4e-17bd-61ab-7feb" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1578,7 +1578,7 @@
       <entryLinks/>
       <costs>
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="5.0"/>
-        <cost name="VPs" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
+        <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="1864-c36f-c8cc-17bb" name="Flame Thrower" hidden="false" collective="false" type="upgrade">
@@ -1612,7 +1612,7 @@
       <entryLinks/>
       <costs>
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="4.0"/>
-        <cost name="VPs" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
+        <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="7bf9-77cb-d3ce-25ca" name="Genling 340 Frontiersman" hidden="false" collective="false" type="upgrade">
@@ -1625,19 +1625,19 @@
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="028a-78dc-7592-fee5" name="Weight of Fire (n)" hidden="false" targetId="fe68-94f5-c309-65bd" type="rule">
+        <infoLink id="028a-78dc-7592-fee5" name="Cadencia de Fuego (n)" hidden="false" targetId="fe68-94f5-c309-65bd" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers>
-            <modifier type="set" field="name" value="Weight of Fire (1)">
+            <modifier type="set" field="name" value="Cadencia de Fuego (1)">
               <repeats/>
               <conditions/>
               <conditionGroups/>
             </modifier>
           </modifiers>
         </infoLink>
-        <infoLink id="e457-c6d0-413f-f1bf" name="Rapid Fire" hidden="false" targetId="dd9c-58ef-1fec-28b8" type="rule">
+        <infoLink id="e457-c6d0-413f-f1bf" name="Fuego Rápido" hidden="false" targetId="dd9c-58ef-1fec-28b8" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1652,7 +1652,7 @@
       <entryLinks/>
       <costs>
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="4.0"/>
-        <cost name="VPs" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
+        <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="8815-a6c2-992a-d6a6" name="Grenade Launcher" hidden="false" collective="false" type="upgrade">
@@ -1686,14 +1686,14 @@
       <entryLinks/>
       <costs>
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="8.0"/>
-        <cost name="VPs" costTypeId="02a0-6bab-fa73-4a98" value="1.0"/>
+        <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="1.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="6faf-e9a6-527e-ad68" name="Heavy Burst Laser **" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="6faf-e9a6-527e-ad68" name="Pesada Burst Laser **" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="aed0-83a1-dc22-f466" name="Heavy Burst Laser" hidden="false" targetId="8eff-2991-bc5d-285a" type="profile">
+        <infoLink id="aed0-83a1-dc22-f466" name="Pesada Burst Laser" hidden="false" targetId="8eff-2991-bc5d-285a" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1705,12 +1705,12 @@
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="5f73-252b-528e-6012" name="Weight of Fire (n)" hidden="false" targetId="fe68-94f5-c309-65bd" type="rule">
+        <infoLink id="5f73-252b-528e-6012" name="Cadencia de Fuego (n)" hidden="false" targetId="fe68-94f5-c309-65bd" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers>
-            <modifier type="set" field="name" value="Weight of Fire (2)">
+            <modifier type="set" field="name" value="Cadencia de Fuego (2)">
               <repeats/>
               <conditions/>
               <conditionGroups/>
@@ -1725,7 +1725,7 @@
       <selectionEntryGroups/>
       <entryLinks/>
       <costs>
-        <cost name="VPs" costTypeId="02a0-6bab-fa73-4a98" value="1.0"/>
+        <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="1.0"/>
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="8.0"/>
       </costs>
     </selectionEntry>
@@ -1739,7 +1739,7 @@
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="ce13-3bb7-5991-731b" name="Heavy" hidden="false" targetId="20eb-5380-3d00-044b" type="rule">
+        <infoLink id="ce13-3bb7-5991-731b" name="Pesada" hidden="false" targetId="20eb-5380-3d00-044b" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1753,7 +1753,7 @@
       <selectionEntryGroups/>
       <entryLinks/>
       <costs>
-        <cost name="VPs" costTypeId="02a0-6bab-fa73-4a98" value="1.0"/>
+        <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="1.0"/>
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="8.0"/>
       </costs>
     </selectionEntry>
@@ -1767,7 +1767,7 @@
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="001e-7a29-9ec1-3b44" name="Rapid Fire" hidden="false" targetId="dd9c-58ef-1fec-28b8" type="rule">
+        <infoLink id="001e-7a29-9ec1-3b44" name="Fuego Rápido" hidden="false" targetId="dd9c-58ef-1fec-28b8" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1782,14 +1782,14 @@
       <entryLinks/>
       <costs>
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="2.0"/>
-        <cost name="VPs" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
+        <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="b0d8-a4f6-3600-6cc6" name="Missile Launcher" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="b0d8-a4f6-3600-6cc6" name="Lanzamisiles" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="527d-42b7-b596-b222" name="Missile Launcher" hidden="false" targetId="57a7-4f5d-e387-984a" type="profile">
+        <infoLink id="527d-42b7-b596-b222" name="Lanzamisiles" hidden="false" targetId="57a7-4f5d-e387-984a" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1807,7 +1807,7 @@
             </modifier>
           </modifiers>
         </infoLink>
-        <infoLink id="4d86-af47-6378-e66d" name="Heavy" hidden="false" targetId="20eb-5380-3d00-044b" type="rule">
+        <infoLink id="4d86-af47-6378-e66d" name="Pesada" hidden="false" targetId="20eb-5380-3d00-044b" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1821,7 +1821,7 @@
       <selectionEntryGroups/>
       <entryLinks/>
       <costs>
-        <cost name="VPs" costTypeId="02a0-6bab-fa73-4a98" value="1.0"/>
+        <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="1.0"/>
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="10.0"/>
       </costs>
     </selectionEntry>
@@ -1847,7 +1847,7 @@
             </modifier>
           </modifiers>
         </infoLink>
-        <infoLink id="13fd-899e-35aa-c543" name="Heavy" hidden="false" targetId="20eb-5380-3d00-044b" type="rule">
+        <infoLink id="13fd-899e-35aa-c543" name="Pesada" hidden="false" targetId="20eb-5380-3d00-044b" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1861,7 +1861,7 @@
       <selectionEntryGroups/>
       <entryLinks/>
       <costs>
-        <cost name="VPs" costTypeId="02a0-6bab-fa73-4a98" value="1.0"/>
+        <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="1.0"/>
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="12.0"/>
       </costs>
     </selectionEntry>
@@ -1884,14 +1884,14 @@
       <entryLinks/>
       <costs>
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="5.0"/>
-        <cost name="VPs" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
+        <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="233d-13ea-2832-d5f1" name="Pistol *" book="" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="233d-13ea-2832-d5f1" name="Pistola *" book="" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="009e-fc7e-aa5e-b1d5" name="Pistol" hidden="false" targetId="cc78-f75c-843b-b095" type="profile">
+        <infoLink id="009e-fc7e-aa5e-b1d5" name="Pistola" hidden="false" targetId="cc78-f75c-843b-b095" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1905,7 +1905,7 @@
       <selectionEntryGroups/>
       <entryLinks/>
       <costs>
-        <cost name="VPs" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
+        <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="0.0"/>
       </costs>
     </selectionEntry>
@@ -1927,7 +1927,7 @@
       <selectionEntryGroups/>
       <entryLinks/>
       <costs>
-        <cost name="VPs" costTypeId="02a0-6bab-fa73-4a98" value="1.0"/>
+        <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="1.0"/>
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="10.0"/>
       </costs>
     </selectionEntry>
@@ -1941,7 +1941,7 @@
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="f87e-b365-d60a-d9d0" name="Knockback" hidden="false" targetId="9b4e-17bd-61ab-7feb" type="rule">
+        <infoLink id="f87e-b365-d60a-d9d0" name="Derribo" hidden="false" targetId="9b4e-17bd-61ab-7feb" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1956,7 +1956,7 @@
       <entryLinks/>
       <costs>
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="1.0"/>
-        <cost name="VPs" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
+        <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="956a-e0c4-fffc-7f2c" name="Thermal Rifle" hidden="false" collective="false" type="upgrade">
@@ -1977,13 +1977,13 @@
       <selectionEntryGroups/>
       <entryLinks/>
       <costs>
-        <cost name="VPs" costTypeId="02a0-6bab-fa73-4a98" value="1.0"/>
+        <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="1.0"/>
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="7.0"/>
       </costs>
     </selectionEntry>
   </sharedSelectionEntries>
   <sharedSelectionEntryGroups>
-    <selectionEntryGroup id="94f0-dfb5-3f11-ebe3" name="Items" book="Deadzone Errata v2.2" hidden="false" collective="false">
+    <selectionEntryGroup id="94f0-dfb5-3f11-ebe3" name="Objetos" book="Deadzone Erratas v2.2" hidden="false" collective="false">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -2017,7 +2017,7 @@
             </categoryLink>
           </categoryLinks>
         </entryLink>
-        <entryLink id="a853-1f3f-7cc7-0842" name="AP Ammo (+)" hidden="false" targetId="e73f-19f7-d7b2-06ba" type="selectionEntry">
+        <entryLink id="a853-1f3f-7cc7-0842" name="Munición Perforante (+)" hidden="false" targetId="e73f-19f7-d7b2-06ba" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -2105,7 +2105,7 @@
             </categoryLink>
           </categoryLinks>
         </entryLink>
-        <entryLink id="a939-33ce-e307-70ff" name="Smoke Grenade (+)" hidden="false" targetId="97f8-bc82-bd65-3d3f" type="selectionEntry">
+        <entryLink id="a939-33ce-e307-70ff" name="Granada de Humo (+)" hidden="false" targetId="97f8-bc82-bd65-3d3f" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -2176,256 +2176,256 @@
   </sharedSelectionEntryGroups>
   <sharedRules/>
   <sharedProfiles>
-    <profile id="8b22-6e37-f51a-ba5e" name="Accutek LR-32 Laser Carbine" book="Deadzone Errata v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="8b22-6e37-f51a-ba5e" name="Accutek LR-32 Laser Carbine" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
       <profiles/>
       <rules/>
       <infoLinks/>
       <modifiers/>
       <characteristics>
-        <characteristic name="Range" characteristicTypeId="df8a-ee5b-d620-4246" value="R6"/>
-        <characteristic name="AP" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
-        <characteristic name="Abilities" characteristicTypeId="faf9-0187-1806-7214" value="Rapid Fire, Weight of Fire (1)"/>
-        <characteristic name="Type" characteristicTypeId="90af-0797-a0fd-965c" value="Light (Marksman)"/>
+        <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A6"/>
+        <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
+        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Fuego Rápido, Cadencia de Fuego (1)"/>
+        <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Marksman)"/>
       </characteristics>
     </profile>
-    <profile id="a6c9-bac6-6e28-6229" name="Accutek LR-45 DMR" book="Deadzone Errata v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="a6c9-bac6-6e28-6229" name="Accutek LR-45 DMR" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
       <profiles/>
       <rules/>
       <infoLinks/>
       <modifiers/>
       <characteristics>
-        <characteristic name="Range" characteristicTypeId="df8a-ee5b-d620-4246" value="R8"/>
-        <characteristic name="AP" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
-        <characteristic name="Abilities" characteristicTypeId="faf9-0187-1806-7214" value="Holo-sight"/>
-        <characteristic name="Type" characteristicTypeId="90af-0797-a0fd-965c" value="Light (Marksman)"/>
+        <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A8"/>
+        <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
+        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Holo-sight"/>
+        <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Marksman)"/>
       </characteristics>
     </profile>
-    <profile id="167e-c080-1815-359d" name="Accutek LR-AM Heavy Rifle" book="Deadzone Errata v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="167e-c080-1815-359d" name="Accutek LR-AM Pesada Rifle" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
       <profiles/>
       <rules/>
       <infoLinks/>
       <modifiers/>
       <characteristics>
-        <characteristic name="Range" characteristicTypeId="df8a-ee5b-d620-4246" value="R10"/>
-        <characteristic name="AP" characteristicTypeId="3ef9-9c4e-a280-fccb" value="AP1"/>
-        <characteristic name="Abilities" characteristicTypeId="faf9-0187-1806-7214" value="Heavy"/>
-        <characteristic name="Type" characteristicTypeId="90af-0797-a0fd-965c" value="Light (Sniper)"/>
+        <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A10"/>
+        <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="PA1"/>
+        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Pesada"/>
+        <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Francotirador)"/>
       </characteristics>
     </profile>
-    <profile id="7c6e-affc-37fd-ff9a" name="Accutek LR-AWP" book="Deadzone Errata v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="7c6e-affc-37fd-ff9a" name="Accutek LR-AWP" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
       <profiles/>
       <rules/>
       <infoLinks/>
       <modifiers/>
       <characteristics>
-        <characteristic name="Range" characteristicTypeId="df8a-ee5b-d620-4246" value="R10"/>
-        <characteristic name="AP" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
-        <characteristic name="Abilities" characteristicTypeId="faf9-0187-1806-7214" value="Sniper Scope, Heavy"/>
-        <characteristic name="Type" characteristicTypeId="90af-0797-a0fd-965c" value="Light (Sniper)"/>
+        <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A10"/>
+        <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
+        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Sniper Scope, Pesada"/>
+        <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Francotirador)"/>
       </characteristics>
     </profile>
-    <profile id="3ee5-6fe3-4b49-1908" name="Assault Flamer" book="Deadzone Errata v2.2" page="" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="3ee5-6fe3-4b49-1908" name="Assault Flamer" book="Deadzone Erratas v2.2" page="" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
       <profiles/>
       <rules/>
       <infoLinks/>
       <modifiers/>
       <characteristics>
-        <characteristic name="Range" characteristicTypeId="df8a-ee5b-d620-4246" value="R2"/>
-        <characteristic name="AP" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
-        <characteristic name="Abilities" characteristicTypeId="faf9-0187-1806-7214" value="Volatile, It Burns!"/>
-        <characteristic name="Type" characteristicTypeId="90af-0797-a0fd-965c" value="Walker (Assault)"/>
+        <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A2"/>
+        <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
+        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Volatile, It Burns!"/>
+        <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Andador (Asalto)"/>
       </characteristics>
     </profile>
-    <profile id="211c-e691-b425-b21b" name="Autocannon" book="Deadzone Errata v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="211c-e691-b425-b21b" name="Autocannon" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
       <profiles/>
       <rules/>
       <infoLinks/>
       <modifiers/>
       <characteristics>
-        <characteristic name="Range" characteristicTypeId="df8a-ee5b-d620-4246" value="R6"/>
-        <characteristic name="AP" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
-        <characteristic name="Abilities" characteristicTypeId="faf9-0187-1806-7214" value="Suppression, Weight of Fire (1), Heavy"/>
-        <characteristic name="Type" characteristicTypeId="90af-0797-a0fd-965c" value="Heavy (Crew Served Weapon)"/>
+        <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A6"/>
+        <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
+        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Suppression, Cadencia de Fuego (1), Pesada"/>
+        <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Pesada (Crew Served Weapon)"/>
       </characteristics>
     </profile>
-    <profile id="d205-4515-940e-af30" name="Chainsaw" book="Deadzone Errata v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="d205-4515-940e-af30" name="Chainsaw" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
       <profiles/>
       <rules/>
       <infoLinks/>
       <modifiers/>
       <characteristics>
-        <characteristic name="Range" characteristicTypeId="df8a-ee5b-d620-4246" value="RF"/>
-        <characteristic name="AP" characteristicTypeId="3ef9-9c4e-a280-fccb" value="AP1"/>
-        <characteristic name="Abilities" characteristicTypeId="faf9-0187-1806-7214" value="-"/>
-        <characteristic name="Type" characteristicTypeId="90af-0797-a0fd-965c" value="Walker (Melee)"/>
+        <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="AL"/>
+        <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="PA1"/>
+        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="-"/>
+        <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Andador (Melé)"/>
       </characteristics>
     </profile>
-    <profile id="32cf-1fe1-aa2a-2b6c" name="Energy Gauntlet" book="Deadzone Errata v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="32cf-1fe1-aa2a-2b6c" name="Energy Gauntlet" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
       <profiles/>
       <rules/>
       <infoLinks/>
       <modifiers/>
       <characteristics>
-        <characteristic name="Range" characteristicTypeId="df8a-ee5b-d620-4246" value="RF"/>
-        <characteristic name="AP" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
-        <characteristic name="Abilities" characteristicTypeId="faf9-0187-1806-7214" value="Knockback"/>
-        <characteristic name="Type" characteristicTypeId="90af-0797-a0fd-965c" value="Leader"/>
+        <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="AL"/>
+        <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
+        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Derribo"/>
+        <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Leader"/>
       </characteristics>
     </profile>
-    <profile id="7c0b-28e7-f77e-05fe" name="Flame Thrower" book="Deadzone Errata v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="7c0b-28e7-f77e-05fe" name="Flame Thrower" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
       <profiles/>
       <rules/>
       <infoLinks/>
       <modifiers/>
       <characteristics>
-        <characteristic name="Range" characteristicTypeId="df8a-ee5b-d620-4246" value="R2"/>
-        <characteristic name="AP" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
-        <characteristic name="Abilities" characteristicTypeId="faf9-0187-1806-7214" value="Volatile, It Burns!"/>
-        <characteristic name="Type" characteristicTypeId="90af-0797-a0fd-965c" value="Light (Assault)"/>
+        <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A2"/>
+        <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
+        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Volatile, It Burns!"/>
+        <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Asalto)"/>
       </characteristics>
     </profile>
-    <profile id="a9c4-e31b-71c8-2acd" name="Genling 340 Frontiersman" book="Deadzone Errata v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="a9c4-e31b-71c8-2acd" name="Genling 340 Frontiersman" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
       <profiles/>
       <rules/>
       <infoLinks/>
       <modifiers/>
       <characteristics>
-        <characteristic name="Range" characteristicTypeId="df8a-ee5b-d620-4246" value="R4"/>
-        <characteristic name="AP" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
-        <characteristic name="Abilities" characteristicTypeId="faf9-0187-1806-7214" value="Rapid Fire, Weight of Fire (1)"/>
-        <characteristic name="Type" characteristicTypeId="90af-0797-a0fd-965c" value="Leader"/>
+        <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A4"/>
+        <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
+        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Fuego Rápido, Cadencia de Fuego (1)"/>
+        <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Leader"/>
       </characteristics>
     </profile>
-    <profile id="7955-b66d-2ce9-4e08" name="Grenade Launcher" book="Deadzone Errata v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="7955-b66d-2ce9-4e08" name="Grenade Launcher" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
       <profiles/>
       <rules/>
       <infoLinks/>
       <modifiers/>
       <characteristics>
-        <characteristic name="Range" characteristicTypeId="df8a-ee5b-d620-4246" value="R5"/>
-        <characteristic name="AP" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
-        <characteristic name="Abilities" characteristicTypeId="faf9-0187-1806-7214" value="Indirect (3)"/>
-        <characteristic name="Type" characteristicTypeId="90af-0797-a0fd-965c" value="Light (Explosive)"/>
+        <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A5"/>
+        <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
+        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Indirect (3)"/>
+        <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Explosiva)"/>
       </characteristics>
     </profile>
-    <profile id="8eff-2991-bc5d-285a" name="Heavy Burst Laser" book="Deadzone Errata v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="8eff-2991-bc5d-285a" name="Pesada Burst Laser" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
       <profiles/>
       <rules/>
       <infoLinks/>
       <modifiers/>
       <characteristics>
-        <characteristic name="Range" characteristicTypeId="df8a-ee5b-d620-4246" value="R10"/>
-        <characteristic name="AP" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
-        <characteristic name="Abilities" characteristicTypeId="faf9-0187-1806-7214" value="Suppression, Weight of Fire (2)"/>
-        <characteristic name="Type" characteristicTypeId="90af-0797-a0fd-965c" value="Walker (Automatic)"/>
+        <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A10"/>
+        <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
+        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Suppression, Cadencia de Fuego (2)"/>
+        <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Andador (Automática)"/>
       </characteristics>
     </profile>
-    <profile id="19fc-6ad3-a8dc-9110" name="Laser Cannon" book="Deadzone Errata v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="19fc-6ad3-a8dc-9110" name="Laser Cannon" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
       <profiles/>
       <rules/>
       <infoLinks/>
       <modifiers/>
       <characteristics>
-        <characteristic name="Range" characteristicTypeId="df8a-ee5b-d620-4246" value="R8"/>
-        <characteristic name="AP" characteristicTypeId="3ef9-9c4e-a280-fccb" value="AP3"/>
-        <characteristic name="Abilities" characteristicTypeId="faf9-0187-1806-7214" value="Heavy"/>
-        <characteristic name="Type" characteristicTypeId="90af-0797-a0fd-965c" value="Heavy (Crew Served Weapon)"/>
+        <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A8"/>
+        <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="PA3"/>
+        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Pesada"/>
+        <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Pesada (Crew Served Weapon)"/>
       </characteristics>
     </profile>
-    <profile id="13d4-a68c-5c1c-1939" name="Laser Rifle (Accutek LR-45)" book="Deadzone Errata v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="13d4-a68c-5c1c-1939" name="Laser Rifle (Accutek LR-45)" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
       <profiles/>
       <rules/>
       <infoLinks/>
       <modifiers/>
       <characteristics>
-        <characteristic name="Range" characteristicTypeId="df8a-ee5b-d620-4246" value="R6"/>
-        <characteristic name="AP" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
-        <characteristic name="Abilities" characteristicTypeId="faf9-0187-1806-7214" value="Rapid Fire"/>
-        <characteristic name="Type" characteristicTypeId="90af-0797-a0fd-965c" value="Small Arms"/>
+        <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A6"/>
+        <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
+        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Fuego Rápido"/>
+        <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Pequeño Calibre"/>
       </characteristics>
     </profile>
-    <profile id="57a7-4f5d-e387-984a" name="Missile Launcher" book="Deadzone Errata v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="57a7-4f5d-e387-984a" name="Lanzamisiles" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
       <profiles/>
       <rules/>
       <infoLinks/>
       <modifiers/>
       <characteristics>
-        <characteristic name="Range" characteristicTypeId="df8a-ee5b-d620-4246" value="R8"/>
-        <characteristic name="AP" characteristicTypeId="3ef9-9c4e-a280-fccb" value="AP1"/>
-        <characteristic name="Abilities" characteristicTypeId="faf9-0187-1806-7214" value="Frag (3), Heavy"/>
-        <characteristic name="Type" characteristicTypeId="90af-0797-a0fd-965c" value="Heavy (Crew Served Weapon)"/>
+        <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A8"/>
+        <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="PA1"/>
+        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Frag (3), Pesada"/>
+        <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Pesada (Crew Served Weapon)"/>
       </characteristics>
     </profile>
-    <profile id="a00e-85d6-15cb-d4d2" name="Mortar" book="Deadzone Errata v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="a00e-85d6-15cb-d4d2" name="Mortar" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
       <profiles/>
       <rules/>
       <infoLinks/>
       <modifiers/>
       <characteristics>
-        <characteristic name="Range" characteristicTypeId="df8a-ee5b-d620-4246" value="R8"/>
-        <characteristic name="AP" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
-        <characteristic name="Abilities" characteristicTypeId="faf9-0187-1806-7214" value="Indirect (4), Heavy"/>
-        <characteristic name="Type" characteristicTypeId="90af-0797-a0fd-965c" value="Heavy (Crew Served Weapon)"/>
+        <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A8"/>
+        <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
+        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Indirect (4), Pesada"/>
+        <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Pesada (Crew Served Weapon)"/>
       </characteristics>
     </profile>
-    <profile id="9a53-4170-9382-944d" name="Officer&apos;s Sword" book="Deadzone Errata v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="9a53-4170-9382-944d" name="Officer&apos;s Sword" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
       <profiles/>
       <rules/>
       <infoLinks/>
       <modifiers/>
       <characteristics>
-        <characteristic name="Range" characteristicTypeId="df8a-ee5b-d620-4246" value="RF"/>
-        <characteristic name="AP" characteristicTypeId="3ef9-9c4e-a280-fccb" value="AP1"/>
-        <characteristic name="Abilities" characteristicTypeId="faf9-0187-1806-7214" value="-"/>
-        <characteristic name="Type" characteristicTypeId="90af-0797-a0fd-965c" value="Leader"/>
+        <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="AL"/>
+        <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="PA1"/>
+        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="-"/>
+        <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Leader"/>
       </characteristics>
     </profile>
-    <profile id="cc78-f75c-843b-b095" name="Pistol" book="Deadzone Errata v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="cc78-f75c-843b-b095" name="Pistola" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
       <profiles/>
       <rules/>
       <infoLinks/>
       <modifiers/>
       <characteristics>
-        <characteristic name="Range" characteristicTypeId="df8a-ee5b-d620-4246" value="R3"/>
-        <characteristic name="AP" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
-        <characteristic name="Abilities" characteristicTypeId="faf9-0187-1806-7214" value="-"/>
-        <characteristic name="Type" characteristicTypeId="90af-0797-a0fd-965c" value="Small Arms"/>
+        <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A3"/>
+        <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
+        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="-"/>
+        <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Pequeño Calibre"/>
       </characteristics>
     </profile>
-    <profile id="ed03-eb9e-f432-b9b9" name="Polaris Cannon" book="Deadzone Errata v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="ed03-eb9e-f432-b9b9" name="Polaris Cannon" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
       <profiles/>
       <rules/>
       <infoLinks/>
       <modifiers/>
       <characteristics>
-        <characteristic name="Range" characteristicTypeId="df8a-ee5b-d620-4246" value="R10"/>
-        <characteristic name="AP" characteristicTypeId="3ef9-9c4e-a280-fccb" value="AP4"/>
-        <characteristic name="Abilities" characteristicTypeId="faf9-0187-1806-7214" value="-"/>
-        <characteristic name="Type" characteristicTypeId="90af-0797-a0fd-965c" value="Walker (Lance)"/>
+        <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A10"/>
+        <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="PA4"/>
+        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="-"/>
+        <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Andador (Lanza)"/>
       </characteristics>
     </profile>
-    <profile id="67e0-819b-16de-5d01" name="Shotgun (Accutek ID-KFA)" book="Deadzone Errata v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="67e0-819b-16de-5d01" name="Shotgun (Accutek ID-KFA)" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
       <profiles/>
       <rules/>
       <infoLinks/>
       <modifiers/>
       <characteristics>
-        <characteristic name="Range" characteristicTypeId="df8a-ee5b-d620-4246" value="R2"/>
-        <characteristic name="AP" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
-        <characteristic name="Abilities" characteristicTypeId="faf9-0187-1806-7214" value="Knockback"/>
-        <characteristic name="Type" characteristicTypeId="90af-0797-a0fd-965c" value="Small Arms"/>
+        <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A2"/>
+        <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
+        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Derribo"/>
+        <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Pequeño Calibre"/>
       </characteristics>
     </profile>
-    <profile id="4f90-1a05-1553-8efa" name="Thermal Rifle" book="Deadzone Errata v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="4f90-1a05-1553-8efa" name="Thermal Rifle" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
       <profiles/>
       <rules/>
       <infoLinks/>
       <modifiers/>
       <characteristics>
-        <characteristic name="Range" characteristicTypeId="df8a-ee5b-d620-4246" value="R3"/>
-        <characteristic name="AP" characteristicTypeId="3ef9-9c4e-a280-fccb" value="AP2"/>
-        <characteristic name="Abilities" characteristicTypeId="faf9-0187-1806-7214" value="-"/>
-        <characteristic name="Type" characteristicTypeId="90af-0797-a0fd-965c" value="Light (Assault)"/>
+        <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A3"/>
+        <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="PA2"/>
+        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="-"/>
+        <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Asalto)"/>
       </characteristics>
     </profile>
   </sharedProfiles>

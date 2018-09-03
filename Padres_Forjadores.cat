@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<catalogue id="5a39-b675-c8ae-aa7e" name="Forge Fathers" book="Deadzone 2nd Ed Rulebook" page="66" revision="1" battleScribeVersion="2.01" authorName="Ben Edwards" authorContact="BAE2 (GitHub)" gameSystemId="3476-f239-cf73-2f89" gameSystemRevision="1" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
+<catalogue id="5a39-b675-c8ae-aa7e" name="Forge Fathers" book="Reglamento Deadzone 2ª Edición" page="66" revision="1" battleScribeVersion="2.01" authorName="Ben Edwards" authorContact="BAE2 (GitHub)" gameSystemId="3476-f239-cf73-2f89" gameSystemRevision="1" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
   <profiles/>
   <rules/>
   <infoLinks/>
@@ -8,31 +8,31 @@
   <categoryEntries/>
   <forceEntries/>
   <selectionEntries>
-    <selectionEntry id="2827-7eea-c47f-5ef2" name="Steel Warrior Huscarl" book="Deadzone 2nd Ed Rulebook + Errata v2.1" page="67" hidden="false" collective="false" type="unit">
+    <selectionEntry id="2827-7eea-c47f-5ef2" name="Steel Warrior Huscarl" book="Reglamento Deadzone 2ª Edición + Erratas v2.1" page="67" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="6f14-4ecb-a340-4036" name="Steel Warrior Huscarl" book="Deadzone 2nd Ed Rulebook" page="67" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Leader">
+        <profile id="6f14-4ecb-a340-4036" name="Steel Warrior Huscarl" book="Reglamento Deadzone 2ª Edición" page="67" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Leader">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers/>
           <characteristics>
-            <characteristic name="Speed" characteristicTypeId="4e85-eaa5-eccb-41d1" value="1-2"/>
-            <characteristic name="Armour" characteristicTypeId="6e20-a2eb-4873-facd" value="1"/>
-            <characteristic name="Size" characteristicTypeId="72ed-1424-6a6b-51d8" value="1"/>
-            <characteristic name="Shoot" characteristicTypeId="8e81-1fe3-f677-8d5c" value="3+"/>
-            <characteristic name="Fight" characteristicTypeId="5ab1-1acc-a108-daf5" value="4+"/>
-            <characteristic name="Survive" characteristicTypeId="2375-5bce-3345-261b" value="4+"/>
-            <characteristic name="Recon" characteristicTypeId="af03-2f51-1267-9c64" value="4+"/>
+            <characteristic name="Velocidad" characteristicTypeId="4e85-eaa5-eccb-41d1" value="1-2"/>
+            <characteristic name="Armadura" characteristicTypeId="6e20-a2eb-4873-facd" value="1"/>
+            <characteristic name="Tamaño" characteristicTypeId="72ed-1424-6a6b-51d8" value="1"/>
+            <characteristic name="Disparo" characteristicTypeId="8e81-1fe3-f677-8d5c" value="3+"/>
+            <characteristic name="Lucha" characteristicTypeId="5ab1-1acc-a108-daf5" value="4+"/>
+            <characteristic name="Supervivencia" characteristicTypeId="2375-5bce-3345-261b" value="4+"/>
+            <characteristic name="Reconocimiento" characteristicTypeId="af03-2f51-1267-9c64" value="4+"/>
           </characteristics>
         </profile>
       </profiles>
       <rules>
-        <rule id="547c-dd31-aa89-b17a" name="Too Stubborn To Die" book="Deadzone 2nd Ed Rulebook" page="67" hidden="false">
+        <rule id="547c-dd31-aa89-b17a" name="Too Stubborn To Die" book="Reglamento Deadzone 2ª Edición" page="67" hidden="false">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers/>
-          <description>You can spend an Army Special result on your Command Dice to try and remove a point of Damage on the active model. Roll a 3 dice Survive test (2) with no modifiers, not even from Command dice. Success removes one Damage token. Failure has no effect. This does not count as an action.</description>
+          <description>You can spend an Army Special result on your Command Dice to try and remove a point of Damage on the active model. Roll a 3 dice Supervivencia test (2) with no modifiers, not even from Command dice. Success removes one Damage token. Failure has no effect. This does not count as an action.</description>
         </rule>
       </rules>
       <infoLinks>
@@ -41,7 +41,7 @@
           <rules/>
           <infoLinks/>
           <modifiers>
-            <modifier type="set" field="name" value="Tactician (1)">
+            <modifier type="set" field="name" value="Táctico (1)">
               <repeats/>
               <conditions/>
               <conditionGroups/>
@@ -62,7 +62,7 @@
       </categoryLinks>
       <selectionEntries/>
       <selectionEntryGroups>
-        <selectionEntryGroup id="625e-234e-46a0-d2b3" name="Ranged Weapon" hidden="false" collective="false" defaultSelectionEntryId="0759-54d2-a375-f024">
+        <selectionEntryGroup id="625e-234e-46a0-d2b3" name="Arma a Distancia" hidden="false" collective="false" defaultSelectionEntryId="0759-54d2-a375-f024">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -75,7 +75,7 @@
           <selectionEntries/>
           <selectionEntryGroups/>
           <entryLinks>
-            <entryLink id="0759-54d2-a375-f024" name="Hailstorm Pistol" hidden="false" targetId="d78a-14fc-c78e-9bc0" type="selectionEntry">
+            <entryLink id="0759-54d2-a375-f024" name="Pistola de Granizo [Hailstorm]" hidden="false" targetId="d78a-14fc-c78e-9bc0" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -89,7 +89,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="d48a-0db6-869a-12bd" name="Hailstorm Rifle" hidden="false" targetId="664b-64fe-a897-1e62" type="selectionEntry">
+            <entryLink id="d48a-0db6-869a-12bd" name="Rifle de Granizo [Hailstorm]" hidden="false" targetId="664b-64fe-a897-1e62" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -99,7 +99,7 @@
             </entryLink>
           </entryLinks>
         </selectionEntryGroup>
-        <selectionEntryGroup id="aeb2-c27e-15dc-aaa2" name="Melee Weapon" hidden="false" collective="false" defaultSelectionEntryId="c717-d6af-263e-083f">
+        <selectionEntryGroup id="aeb2-c27e-15dc-aaa2" name="Arma de Melé" hidden="false" collective="false" defaultSelectionEntryId="c717-d6af-263e-083f">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -138,7 +138,7 @@
         </selectionEntryGroup>
       </selectionEntryGroups>
       <entryLinks>
-        <entryLink id="5ea0-2ddb-b46f-fc97" name="Items" hidden="false" targetId="f81a-881c-8a85-fee0" type="selectionEntryGroup">
+        <entryLink id="5ea0-2ddb-b46f-fc97" name="Objetos" hidden="false" targetId="f81a-881c-8a85-fee0" type="selectionEntryGroup">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -146,7 +146,7 @@
           <constraints/>
           <categoryLinks/>
         </entryLink>
-        <entryLink id="54d8-e369-18df-c334" name="Burst Pistol *" hidden="false" targetId="ee51-dc0a-5c62-d92b" type="selectionEntry">
+        <entryLink id="54d8-e369-18df-c334" name="Burst Pistola *" hidden="false" targetId="ee51-dc0a-5c62-d92b" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -159,29 +159,29 @@
       </entryLinks>
       <costs>
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="32.0"/>
-        <cost name="VPs" costTypeId="02a0-6bab-fa73-4a98" value="3.0"/>
+        <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="3.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="abe6-83e9-27ad-8bb0" name="Chief Brokkr" book="Deadzone 2nd Ed Rulebook + Errata v2.1" page="67" hidden="false" collective="false" type="unit">
+    <selectionEntry id="abe6-83e9-27ad-8bb0" name="Jefe Brokkr" book="Reglamento Deadzone 2ª Edición + Erratas v2.1" page="67" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="a594-3465-2613-2042" name="Chief Brokkr" book="Deadzone 2nd Ed Rulebook" page="67" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Leader">
+        <profile id="a594-3465-2613-2042" name="Jefe Brokkr" book="Reglamento Deadzone 2ª Edición" page="67" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Leader">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers/>
           <characteristics>
-            <characteristic name="Speed" characteristicTypeId="4e85-eaa5-eccb-41d1" value="1-2"/>
-            <characteristic name="Armour" characteristicTypeId="6e20-a2eb-4873-facd" value="-"/>
-            <characteristic name="Size" characteristicTypeId="72ed-1424-6a6b-51d8" value="1"/>
-            <characteristic name="Shoot" characteristicTypeId="8e81-1fe3-f677-8d5c" value="5+"/>
-            <characteristic name="Fight" characteristicTypeId="5ab1-1acc-a108-daf5" value="3+"/>
-            <characteristic name="Survive" characteristicTypeId="2375-5bce-3345-261b" value="4+"/>
-            <characteristic name="Recon" characteristicTypeId="af03-2f51-1267-9c64" value="5+"/>
+            <characteristic name="Velocidad" characteristicTypeId="4e85-eaa5-eccb-41d1" value="1-2"/>
+            <characteristic name="Armadura" characteristicTypeId="6e20-a2eb-4873-facd" value="-"/>
+            <characteristic name="Tamaño" characteristicTypeId="72ed-1424-6a6b-51d8" value="1"/>
+            <characteristic name="Disparo" characteristicTypeId="8e81-1fe3-f677-8d5c" value="5+"/>
+            <characteristic name="Lucha" characteristicTypeId="5ab1-1acc-a108-daf5" value="3+"/>
+            <characteristic name="Supervivencia" characteristicTypeId="2375-5bce-3345-261b" value="4+"/>
+            <characteristic name="Reconocimiento" characteristicTypeId="af03-2f51-1267-9c64" value="5+"/>
           </characteristics>
         </profile>
       </profiles>
       <rules>
-        <rule id="80c9-3805-3caa-4d16" name="Strike It Lucky" book="Deadzone 2nd Ed Rulebook" page="67" hidden="false">
+        <rule id="80c9-3805-3caa-4d16" name="Strike It Lucky" book="Reglamento Deadzone 2ª Edición" page="67" hidden="false">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -190,37 +190,37 @@
         </rule>
       </rules>
       <infoLinks>
-        <infoLink id="58f8-feb8-06a5-b241" name="Tactician (n)" hidden="false" targetId="61bb-0743-e806-2bfc" type="rule">
+        <infoLink id="58f8-feb8-06a5-b241" name="Táctico (n)" hidden="false" targetId="61bb-0743-e806-2bfc" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers>
-            <modifier type="set" field="name" value="Tactician (1)">
+            <modifier type="set" field="name" value="Táctico (1)">
               <repeats/>
               <conditions/>
               <conditionGroups/>
             </modifier>
           </modifiers>
         </infoLink>
-        <infoLink id="707f-8e22-5d03-bee5" name="Frenzy (n)" hidden="false" targetId="219b-0be5-51f9-8d8e" type="rule">
+        <infoLink id="707f-8e22-5d03-bee5" name="Furia (n)" hidden="false" targetId="219b-0be5-51f9-8d8e" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers>
-            <modifier type="set" field="name" value="Frenzy (1)">
+            <modifier type="set" field="name" value="Furia (1)">
               <repeats/>
               <conditions/>
               <conditionGroups/>
             </modifier>
           </modifiers>
         </infoLink>
-        <infoLink id="0e57-d235-fff6-ef44" name="Tough" hidden="false" targetId="df54-2d71-8800-b15f" type="rule">
+        <infoLink id="0e57-d235-fff6-ef44" name="Duro" hidden="false" targetId="df54-2d71-8800-b15f" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="1ce0-e7fc-703b-479b" name="Engineer" hidden="false" targetId="bf5d-3181-729a-3365" type="rule">
+        <infoLink id="1ce0-e7fc-703b-479b" name="Ingeniero" hidden="false" targetId="bf5d-3181-729a-3365" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -246,7 +246,7 @@
       </categoryLinks>
       <selectionEntries/>
       <selectionEntryGroups>
-        <selectionEntryGroup id="25fe-995b-4b32-baf3" name="Ranged Weapon" hidden="false" collective="false" defaultSelectionEntryId="459a-df58-6ac9-e317">
+        <selectionEntryGroup id="25fe-995b-4b32-baf3" name="Arma a Distancia" hidden="false" collective="false" defaultSelectionEntryId="459a-df58-6ac9-e317">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -259,12 +259,12 @@
           <selectionEntries/>
           <selectionEntryGroups/>
           <entryLinks>
-            <entryLink id="459a-df58-6ac9-e317" name="Burst Pistol *" hidden="false" targetId="ee51-dc0a-5c62-d92b" type="selectionEntry">
+            <entryLink id="459a-df58-6ac9-e317" name="Burst Pistola *" hidden="false" targetId="ee51-dc0a-5c62-d92b" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
               <modifiers>
-                <modifier type="set" field="name" value="Burst Pistol">
+                <modifier type="set" field="name" value="Burst Pistola">
                   <repeats/>
                   <conditions/>
                   <conditionGroups/>
@@ -278,7 +278,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="73f8-5daf-6d51-ce93" name="Hailstorm Rifle" hidden="false" targetId="664b-64fe-a897-1e62" type="selectionEntry">
+            <entryLink id="73f8-5daf-6d51-ce93" name="Rifle de Granizo [Hailstorm]" hidden="false" targetId="664b-64fe-a897-1e62" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -288,7 +288,7 @@
             </entryLink>
           </entryLinks>
         </selectionEntryGroup>
-        <selectionEntryGroup id="5dd3-f1bc-f45d-083f" name="Melee Weapon" hidden="false" collective="false" defaultSelectionEntryId="69ac-faa7-ffd6-580b">
+        <selectionEntryGroup id="5dd3-f1bc-f45d-083f" name="Arma de Melé" hidden="false" collective="false" defaultSelectionEntryId="69ac-faa7-ffd6-580b">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -327,7 +327,7 @@
         </selectionEntryGroup>
       </selectionEntryGroups>
       <entryLinks>
-        <entryLink id="89df-0b48-af86-2828" name="Items" hidden="false" targetId="f81a-881c-8a85-fee0" type="selectionEntryGroup">
+        <entryLink id="89df-0b48-af86-2828" name="Objetos" hidden="false" targetId="f81a-881c-8a85-fee0" type="selectionEntryGroup">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -338,56 +338,56 @@
       </entryLinks>
       <costs>
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="26.0"/>
-        <cost name="VPs" costTypeId="02a0-6bab-fa73-4a98" value="2.0"/>
+        <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="2.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="e6ef-e77b-0c73-2c4a" name="Forge Guard Huscarl" book="Deadzone 2nd Ed Rulebook + Errata v2.1" page="67" hidden="false" collective="false" type="unit">
+    <selectionEntry id="e6ef-e77b-0c73-2c4a" name="Forge Guard Huscarl" book="Reglamento Deadzone 2ª Edición + Erratas v2.1" page="67" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="57a5-1821-9b87-90c5" name="Forge Guard Huscarl" book="Deadzone 2nd Ed Rulebook" page="67" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Leader">
+        <profile id="57a5-1821-9b87-90c5" name="Forge Guard Huscarl" book="Reglamento Deadzone 2ª Edición" page="67" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Leader">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers/>
           <characteristics>
-            <characteristic name="Speed" characteristicTypeId="4e85-eaa5-eccb-41d1" value="1-2"/>
-            <characteristic name="Armour" characteristicTypeId="6e20-a2eb-4873-facd" value="2"/>
-            <characteristic name="Size" characteristicTypeId="72ed-1424-6a6b-51d8" value="1"/>
-            <characteristic name="Shoot" characteristicTypeId="8e81-1fe3-f677-8d5c" value="3+"/>
-            <characteristic name="Fight" characteristicTypeId="5ab1-1acc-a108-daf5" value="4+"/>
-            <characteristic name="Survive" characteristicTypeId="2375-5bce-3345-261b" value="4+"/>
-            <characteristic name="Recon" characteristicTypeId="af03-2f51-1267-9c64" value="4+"/>
+            <characteristic name="Velocidad" characteristicTypeId="4e85-eaa5-eccb-41d1" value="1-2"/>
+            <characteristic name="Armadura" characteristicTypeId="6e20-a2eb-4873-facd" value="2"/>
+            <characteristic name="Tamaño" characteristicTypeId="72ed-1424-6a6b-51d8" value="1"/>
+            <characteristic name="Disparo" characteristicTypeId="8e81-1fe3-f677-8d5c" value="3+"/>
+            <characteristic name="Lucha" characteristicTypeId="5ab1-1acc-a108-daf5" value="4+"/>
+            <characteristic name="Supervivencia" characteristicTypeId="2375-5bce-3345-261b" value="4+"/>
+            <characteristic name="Reconocimiento" characteristicTypeId="af03-2f51-1267-9c64" value="4+"/>
           </characteristics>
         </profile>
       </profiles>
       <rules>
-        <rule id="ea9b-6b25-e192-eeb9" name="Starforged Armour" book="Deadzone 2nd Ed Rulebook" page="67" hidden="false">
+        <rule id="ea9b-6b25-e192-eeb9" name="Starforged Armadura" book="Reglamento Deadzone 2ª Edición" page="67" hidden="false">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers/>
-          <description>Spend an Army Special result when you are resolving Potential Damage of an attack against one of your models. You may reduce the AP value of the attack by 1 for every Army Special result you spend in this manner. This does not count as an action.</description>
+          <description>Spend an Army Special result when you are resolving Potential Damage of an attack against one of your models. You may reduce the PA value of the attack by 1 for every Army Special result you spend in this manner. This does not count as an action.</description>
         </rule>
       </rules>
       <infoLinks>
-        <infoLink id="0bb1-80d5-00c8-3bf3" name="Tactician (n)" hidden="false" targetId="61bb-0743-e806-2bfc" type="rule">
+        <infoLink id="0bb1-80d5-00c8-3bf3" name="Táctico (n)" hidden="false" targetId="61bb-0743-e806-2bfc" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers>
-            <modifier type="set" field="name" value="Tactician (2)">
+            <modifier type="set" field="name" value="Táctico (2)">
               <repeats/>
               <conditions/>
               <conditionGroups/>
             </modifier>
           </modifiers>
         </infoLink>
-        <infoLink id="2103-124a-d3dc-e796" name="Life Support" hidden="false" targetId="2945-b85d-72f0-9f72" type="rule">
+        <infoLink id="2103-124a-d3dc-e796" name="Soporte Vital" hidden="false" targetId="2945-b85d-72f0-9f72" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="f842-55ec-c48d-e519" name="Solid" hidden="false" targetId="477f-7c1c-9cba-3258" type="rule">
+        <infoLink id="f842-55ec-c48d-e519" name="Firme [Sólido]" hidden="false" targetId="477f-7c1c-9cba-3258" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -407,7 +407,7 @@
       </categoryLinks>
       <selectionEntries/>
       <selectionEntryGroups>
-        <selectionEntryGroup id="9768-9354-0cfa-75a4" name="Ranged Weapon" hidden="false" collective="false" defaultSelectionEntryId="e840-8672-4ded-51e9">
+        <selectionEntryGroup id="9768-9354-0cfa-75a4" name="Arma a Distancia" hidden="false" collective="false" defaultSelectionEntryId="e840-8672-4ded-51e9">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -420,7 +420,7 @@
           <selectionEntries/>
           <selectionEntryGroups/>
           <entryLinks>
-            <entryLink id="e840-8672-4ded-51e9" name="Hailstorm Rifle" hidden="false" targetId="664b-64fe-a897-1e62" type="selectionEntry">
+            <entryLink id="e840-8672-4ded-51e9" name="Rifle de Granizo [Hailstorm]" hidden="false" targetId="664b-64fe-a897-1e62" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -444,7 +444,7 @@
             </entryLink>
           </entryLinks>
         </selectionEntryGroup>
-        <selectionEntryGroup id="074b-5f5c-328a-665e" name="Melee Weapon" hidden="false" collective="false" defaultSelectionEntryId="0003-8282-c745-1300">
+        <selectionEntryGroup id="074b-5f5c-328a-665e" name="Arma de Melé" hidden="false" collective="false" defaultSelectionEntryId="0003-8282-c745-1300">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -483,7 +483,7 @@
         </selectionEntryGroup>
       </selectionEntryGroups>
       <entryLinks>
-        <entryLink id="2b12-4b20-b475-a8ae" name="Items" hidden="false" targetId="f81a-881c-8a85-fee0" type="selectionEntryGroup">
+        <entryLink id="2b12-4b20-b475-a8ae" name="Objetos" hidden="false" targetId="f81a-881c-8a85-fee0" type="selectionEntryGroup">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -494,23 +494,23 @@
       </entryLinks>
       <costs>
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="41.0"/>
-        <cost name="VPs" costTypeId="02a0-6bab-fa73-4a98" value="4.0"/>
+        <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="4.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="b0fa-ad5b-93c1-e81c" name="Steel Warrior" book="Deadzone 2nd Ed Rulebook + Errata v2.1" page="68" hidden="true" collective="false" type="unit">
+    <selectionEntry id="b0fa-ad5b-93c1-e81c" name="Steel Warrior" book="Reglamento Deadzone 2ª Edición + Erratas v2.1" page="68" hidden="true" collective="false" type="unit">
       <profiles>
-        <profile id="f433-1ed4-107f-fb0c" name="Steel Warrior" book="Deadzone 2nd Ed Rulebook" page="68" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
+        <profile id="f433-1ed4-107f-fb0c" name="Steel Warrior" book="Reglamento Deadzone 2ª Edición" page="68" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers/>
           <characteristics>
-            <characteristic name="Speed" characteristicTypeId="df17-4b5c-638f-0807" value="1-2"/>
-            <characteristic name="Armour" characteristicTypeId="0274-bb56-5442-a0f1" value="1"/>
-            <characteristic name="Size" characteristicTypeId="2623-46e7-250f-eacf" value="1"/>
-            <characteristic name="Shoot" characteristicTypeId="68ea-7e51-32e7-70c8" value="4+"/>
-            <characteristic name="Fight" characteristicTypeId="cf38-e165-7d39-0773" value="5+"/>
-            <characteristic name="Survive" characteristicTypeId="ecb0-eafd-b6fa-91a0" value="4+"/>
+            <characteristic name="Velocidad" characteristicTypeId="df17-4b5c-638f-0807" value="1-2"/>
+            <characteristic name="Armadura" characteristicTypeId="0274-bb56-5442-a0f1" value="1"/>
+            <characteristic name="Tamaño" characteristicTypeId="2623-46e7-250f-eacf" value="1"/>
+            <characteristic name="Disparo" characteristicTypeId="68ea-7e51-32e7-70c8" value="4+"/>
+            <characteristic name="Lucha" characteristicTypeId="cf38-e165-7d39-0773" value="5+"/>
+            <characteristic name="Supervivencia" characteristicTypeId="ecb0-eafd-b6fa-91a0" value="4+"/>
           </characteristics>
         </profile>
       </profiles>
@@ -588,7 +588,7 @@
           <constraints/>
           <categoryLinks/>
         </entryLink>
-        <entryLink id="60f0-3fb6-df7a-0c21" name="Knife" hidden="false" targetId="7a3c-8f4b-5072-870a" type="selectionEntry">
+        <entryLink id="60f0-3fb6-df7a-0c21" name="Cuchillo" hidden="false" targetId="7a3c-8f4b-5072-870a" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -599,7 +599,7 @@
           </constraints>
           <categoryLinks/>
         </entryLink>
-        <entryLink id="89b2-6b70-696f-ef75" name="Burst Pistol *" hidden="false" targetId="ee51-dc0a-5c62-d92b" type="selectionEntry">
+        <entryLink id="89b2-6b70-696f-ef75" name="Burst Pistola *" hidden="false" targetId="ee51-dc0a-5c62-d92b" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -609,7 +609,7 @@
           </constraints>
           <categoryLinks/>
         </entryLink>
-        <entryLink id="12c7-6c8e-4383-6d32" name="Hailstorm Rifle" hidden="false" targetId="664b-64fe-a897-1e62" type="selectionEntry">
+        <entryLink id="12c7-6c8e-4383-6d32" name="Rifle de Granizo [Hailstorm]" hidden="false" targetId="664b-64fe-a897-1e62" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -629,34 +629,34 @@
       </entryLinks>
       <costs>
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="18.0"/>
-        <cost name="VPs" costTypeId="02a0-6bab-fa73-4a98" value="2.0"/>
+        <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="2.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="0852-0444-f29d-cab4" name="Brokkr" book="Deadzone 2nd Ed Rulebook + Errata v2.1" page="68" hidden="true" collective="false" type="unit">
+    <selectionEntry id="0852-0444-f29d-cab4" name="Brokkr" book="Reglamento Deadzone 2ª Edición + Erratas v2.1" page="68" hidden="true" collective="false" type="unit">
       <profiles>
-        <profile id="5626-3a63-9f2d-6566" name="Brokkr" book="Deadzone 2nd Ed Rulebook" page="68" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
+        <profile id="5626-3a63-9f2d-6566" name="Brokkr" book="Reglamento Deadzone 2ª Edición" page="68" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers/>
           <characteristics>
-            <characteristic name="Speed" characteristicTypeId="df17-4b5c-638f-0807" value="1-2"/>
-            <characteristic name="Armour" characteristicTypeId="0274-bb56-5442-a0f1" value="0"/>
-            <characteristic name="Size" characteristicTypeId="2623-46e7-250f-eacf" value="1"/>
-            <characteristic name="Shoot" characteristicTypeId="68ea-7e51-32e7-70c8" value="5+"/>
-            <characteristic name="Fight" characteristicTypeId="cf38-e165-7d39-0773" value="4+"/>
-            <characteristic name="Survive" characteristicTypeId="ecb0-eafd-b6fa-91a0" value="4+"/>
+            <characteristic name="Velocidad" characteristicTypeId="df17-4b5c-638f-0807" value="1-2"/>
+            <characteristic name="Armadura" characteristicTypeId="0274-bb56-5442-a0f1" value="0"/>
+            <characteristic name="Tamaño" characteristicTypeId="2623-46e7-250f-eacf" value="1"/>
+            <characteristic name="Disparo" characteristicTypeId="68ea-7e51-32e7-70c8" value="5+"/>
+            <characteristic name="Lucha" characteristicTypeId="cf38-e165-7d39-0773" value="4+"/>
+            <characteristic name="Supervivencia" characteristicTypeId="ecb0-eafd-b6fa-91a0" value="4+"/>
           </characteristics>
         </profile>
       </profiles>
       <rules/>
       <infoLinks>
-        <infoLink id="33f2-e3d9-81e6-36a6" name="Frenzy (n)" hidden="false" targetId="219b-0be5-51f9-8d8e" type="rule">
+        <infoLink id="33f2-e3d9-81e6-36a6" name="Furia (n)" hidden="false" targetId="219b-0be5-51f9-8d8e" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers>
-            <modifier type="set" field="name" value="Frenzy (1)">
+            <modifier type="set" field="name" value="Furia (1)">
               <repeats/>
               <conditions/>
               <conditionGroups/>
@@ -713,7 +713,7 @@
       </categoryLinks>
       <selectionEntries/>
       <selectionEntryGroups>
-        <selectionEntryGroup id="34f4-aea2-98a9-4a3e" name="Ranged Weapon" hidden="false" collective="false" defaultSelectionEntryId="064a-aea2-bbac-e306">
+        <selectionEntryGroup id="34f4-aea2-98a9-4a3e" name="Arma a Distancia" hidden="false" collective="false" defaultSelectionEntryId="064a-aea2-bbac-e306">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -726,7 +726,7 @@
           <selectionEntries/>
           <selectionEntryGroups/>
           <entryLinks>
-            <entryLink id="064a-aea2-bbac-e306" name="Burst Pistol *" hidden="false" targetId="ee51-dc0a-5c62-d92b" type="selectionEntry">
+            <entryLink id="064a-aea2-bbac-e306" name="Burst Pistola *" hidden="false" targetId="ee51-dc0a-5c62-d92b" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -736,7 +736,7 @@
                   <conditions/>
                   <conditionGroups/>
                 </modifier>
-                <modifier type="set" field="name" value="Burst Pistol">
+                <modifier type="set" field="name" value="Burst Pistola">
                   <repeats/>
                   <conditions/>
                   <conditionGroups/>
@@ -745,7 +745,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="489f-1336-e1a2-166d" name="Hailstorm Rifle" hidden="false" targetId="664b-64fe-a897-1e62" type="selectionEntry">
+            <entryLink id="489f-1336-e1a2-166d" name="Rifle de Granizo [Hailstorm]" hidden="false" targetId="664b-64fe-a897-1e62" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -755,7 +755,7 @@
             </entryLink>
           </entryLinks>
         </selectionEntryGroup>
-        <selectionEntryGroup id="49e5-39f7-3191-57a5" name="Melee Weapon" hidden="false" collective="false" defaultSelectionEntryId="1f41-cbd8-79cd-1b72">
+        <selectionEntryGroup id="49e5-39f7-3191-57a5" name="Arma de Melé" hidden="false" collective="false" defaultSelectionEntryId="1f41-cbd8-79cd-1b72">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -794,7 +794,7 @@
         </selectionEntryGroup>
       </selectionEntryGroups>
       <entryLinks>
-        <entryLink id="0542-764f-72af-bea0" name="Items" hidden="false" targetId="f81a-881c-8a85-fee0" type="selectionEntryGroup">
+        <entryLink id="0542-764f-72af-bea0" name="Objetos" hidden="false" targetId="f81a-881c-8a85-fee0" type="selectionEntryGroup">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -804,24 +804,24 @@
         </entryLink>
       </entryLinks>
       <costs>
-        <cost name="VPs" costTypeId="02a0-6bab-fa73-4a98" value="1.0"/>
+        <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="1.0"/>
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="15.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="65e4-115f-c61f-3789" name="Militia" book="Deadzone 2nd Ed Rulebook" page="68" hidden="true" collective="false" type="unit">
+    <selectionEntry id="65e4-115f-c61f-3789" name="Militia" book="Reglamento Deadzone 2ª Edición" page="68" hidden="true" collective="false" type="unit">
       <profiles>
-        <profile id="bf2e-f371-52ec-0138" name="Militia" book="Deadzone 2nd Ed Rulebook" page="68" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
+        <profile id="bf2e-f371-52ec-0138" name="Militia" book="Reglamento Deadzone 2ª Edición" page="68" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers/>
           <characteristics>
-            <characteristic name="Speed" characteristicTypeId="df17-4b5c-638f-0807" value="1-2"/>
-            <characteristic name="Armour" characteristicTypeId="0274-bb56-5442-a0f1" value="0"/>
-            <characteristic name="Size" characteristicTypeId="2623-46e7-250f-eacf" value="1"/>
-            <characteristic name="Shoot" characteristicTypeId="68ea-7e51-32e7-70c8" value="5+"/>
-            <characteristic name="Fight" characteristicTypeId="cf38-e165-7d39-0773" value="5+"/>
-            <characteristic name="Survive" characteristicTypeId="ecb0-eafd-b6fa-91a0" value="4+"/>
+            <characteristic name="Velocidad" characteristicTypeId="df17-4b5c-638f-0807" value="1-2"/>
+            <characteristic name="Armadura" characteristicTypeId="0274-bb56-5442-a0f1" value="0"/>
+            <characteristic name="Tamaño" characteristicTypeId="2623-46e7-250f-eacf" value="1"/>
+            <characteristic name="Disparo" characteristicTypeId="68ea-7e51-32e7-70c8" value="5+"/>
+            <characteristic name="Lucha" characteristicTypeId="cf38-e165-7d39-0773" value="5+"/>
+            <characteristic name="Supervivencia" characteristicTypeId="ecb0-eafd-b6fa-91a0" value="4+"/>
           </characteristics>
         </profile>
       </profiles>
@@ -892,7 +892,7 @@
           <constraints/>
           <categoryLinks/>
         </entryLink>
-        <entryLink id="f150-1669-c51a-e136" name="Knife" hidden="false" targetId="7a3c-8f4b-5072-870a" type="selectionEntry">
+        <entryLink id="f150-1669-c51a-e136" name="Cuchillo" hidden="false" targetId="7a3c-8f4b-5072-870a" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -903,7 +903,7 @@
           </constraints>
           <categoryLinks/>
         </entryLink>
-        <entryLink id="9bdd-f565-f93c-1653" name="Burst Pistol *" hidden="false" targetId="ee51-dc0a-5c62-d92b" type="selectionEntry">
+        <entryLink id="9bdd-f565-f93c-1653" name="Burst Pistola *" hidden="false" targetId="ee51-dc0a-5c62-d92b" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -913,7 +913,7 @@
           </constraints>
           <categoryLinks/>
         </entryLink>
-        <entryLink id="4dc8-4e76-d334-4664" name="Hailstorm Rifle" hidden="false" targetId="664b-64fe-a897-1e62" type="selectionEntry">
+        <entryLink id="4dc8-4e76-d334-4664" name="Rifle de Granizo [Hailstorm]" hidden="false" targetId="664b-64fe-a897-1e62" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -932,24 +932,24 @@
         </entryLink>
       </entryLinks>
       <costs>
-        <cost name="VPs" costTypeId="02a0-6bab-fa73-4a98" value="1.0"/>
+        <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="1.0"/>
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="14.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="589f-1957-2d78-9f1e" name="Steel Warrior Specialist (Stormrage Veteran)" book="Deadzone 2nd Ed Rulebook + Errata v2.1" page="68" hidden="true" collective="false" type="unit">
+    <selectionEntry id="589f-1957-2d78-9f1e" name="Steel Warrior Especialista (Stormrage Veteran)" book="Reglamento Deadzone 2ª Edición + Erratas v2.1" page="68" hidden="true" collective="false" type="unit">
       <profiles>
-        <profile id="1054-8be4-7545-396b" name="Steel Warrior Specialist (Stormrage Veteran)" book="Deadzone 2nd Ed Rulebook" page="68" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
+        <profile id="1054-8be4-7545-396b" name="Steel Warrior Especialista (Stormrage Veteran)" book="Reglamento Deadzone 2ª Edición" page="68" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers/>
           <characteristics>
-            <characteristic name="Speed" characteristicTypeId="df17-4b5c-638f-0807" value="1-2"/>
-            <characteristic name="Armour" characteristicTypeId="0274-bb56-5442-a0f1" value="1"/>
-            <characteristic name="Size" characteristicTypeId="2623-46e7-250f-eacf" value="1"/>
-            <characteristic name="Shoot" characteristicTypeId="68ea-7e51-32e7-70c8" value="4+"/>
-            <characteristic name="Fight" characteristicTypeId="cf38-e165-7d39-0773" value="5+"/>
-            <characteristic name="Survive" characteristicTypeId="ecb0-eafd-b6fa-91a0" value="4+"/>
+            <characteristic name="Velocidad" characteristicTypeId="df17-4b5c-638f-0807" value="1-2"/>
+            <characteristic name="Armadura" characteristicTypeId="0274-bb56-5442-a0f1" value="1"/>
+            <characteristic name="Tamaño" characteristicTypeId="2623-46e7-250f-eacf" value="1"/>
+            <characteristic name="Disparo" characteristicTypeId="68ea-7e51-32e7-70c8" value="4+"/>
+            <characteristic name="Lucha" characteristicTypeId="cf38-e165-7d39-0773" value="5+"/>
+            <characteristic name="Supervivencia" characteristicTypeId="ecb0-eafd-b6fa-91a0" value="4+"/>
           </characteristics>
         </profile>
       </profiles>
@@ -1018,7 +1018,7 @@
       </categoryLinks>
       <selectionEntries/>
       <selectionEntryGroups>
-        <selectionEntryGroup id="eb71-16fd-0d82-cb18" name="Ranged Weapon" hidden="false" collective="false" defaultSelectionEntryId="48d7-7461-48c9-9f41">
+        <selectionEntryGroup id="eb71-16fd-0d82-cb18" name="Arma a Distancia" hidden="false" collective="false" defaultSelectionEntryId="48d7-7461-48c9-9f41">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1031,7 +1031,7 @@
           <selectionEntries/>
           <selectionEntryGroups/>
           <entryLinks>
-            <entryLink id="48d7-7461-48c9-9f41" name="Hailstorm Rifle" hidden="false" targetId="664b-64fe-a897-1e62" type="selectionEntry">
+            <entryLink id="48d7-7461-48c9-9f41" name="Rifle de Granizo [Hailstorm]" hidden="false" targetId="664b-64fe-a897-1e62" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1045,7 +1045,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="9a53-c45b-b7f0-cdf5" name="Hailstorm Pistol" hidden="false" targetId="d78a-14fc-c78e-9bc0" type="selectionEntry">
+            <entryLink id="9a53-c45b-b7f0-cdf5" name="Pistola de Granizo [Hailstorm]" hidden="false" targetId="d78a-14fc-c78e-9bc0" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1053,7 +1053,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="a349-770b-4257-294c" name="Missile Launcher" hidden="false" targetId="6aa2-38eb-ed16-419c" type="selectionEntry">
+            <entryLink id="a349-770b-4257-294c" name="Lanzamisiles" hidden="false" targetId="6aa2-38eb-ed16-419c" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1085,7 +1085,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="cd6a-990b-b06f-deab" name="Dragon&apos;s Breath" hidden="false" targetId="366b-0f04-c822-8274" type="selectionEntry">
+            <entryLink id="cd6a-990b-b06f-deab" name="Dragons Breath" hidden="false" targetId="366b-0f04-c822-8274" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1113,7 +1113,7 @@
           <constraints/>
           <categoryLinks/>
         </entryLink>
-        <entryLink id="08da-0192-2299-ac2a" name="Knife" hidden="false" targetId="7a3c-8f4b-5072-870a" type="selectionEntry">
+        <entryLink id="08da-0192-2299-ac2a" name="Cuchillo" hidden="false" targetId="7a3c-8f4b-5072-870a" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1124,7 +1124,7 @@
           </constraints>
           <categoryLinks/>
         </entryLink>
-        <entryLink id="969e-01c4-5504-b53d" name="Burst Pistol *" hidden="false" targetId="ee51-dc0a-5c62-d92b" type="selectionEntry">
+        <entryLink id="969e-01c4-5504-b53d" name="Burst Pistola *" hidden="false" targetId="ee51-dc0a-5c62-d92b" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1137,35 +1137,35 @@
       </entryLinks>
       <costs>
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="18.0"/>
-        <cost name="VPs" costTypeId="02a0-6bab-fa73-4a98" value="2.0"/>
+        <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="2.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="9c69-dcb8-4124-a95b" name="Forge Guard" book="Deadzone: Outbreak" page="37" hidden="true" collective="false" type="unit">
       <profiles>
-        <profile id="e879-754d-f2e7-4552" name="Forge Guard" book="Deadzone 2nd Ed Rulebook" page="68" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
+        <profile id="e879-754d-f2e7-4552" name="Forge Guard" book="Reglamento Deadzone 2ª Edición" page="68" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers/>
           <characteristics>
-            <characteristic name="Speed" characteristicTypeId="df17-4b5c-638f-0807" value="1-1"/>
-            <characteristic name="Armour" characteristicTypeId="0274-bb56-5442-a0f1" value="2"/>
-            <characteristic name="Size" characteristicTypeId="2623-46e7-250f-eacf" value="1"/>
-            <characteristic name="Shoot" characteristicTypeId="68ea-7e51-32e7-70c8" value="4+"/>
-            <characteristic name="Fight" characteristicTypeId="cf38-e165-7d39-0773" value="5+"/>
-            <characteristic name="Survive" characteristicTypeId="ecb0-eafd-b6fa-91a0" value="4+"/>
+            <characteristic name="Velocidad" characteristicTypeId="df17-4b5c-638f-0807" value="1-1"/>
+            <characteristic name="Armadura" characteristicTypeId="0274-bb56-5442-a0f1" value="2"/>
+            <characteristic name="Tamaño" characteristicTypeId="2623-46e7-250f-eacf" value="1"/>
+            <characteristic name="Disparo" characteristicTypeId="68ea-7e51-32e7-70c8" value="4+"/>
+            <characteristic name="Lucha" characteristicTypeId="cf38-e165-7d39-0773" value="5+"/>
+            <characteristic name="Supervivencia" characteristicTypeId="ecb0-eafd-b6fa-91a0" value="4+"/>
           </characteristics>
         </profile>
       </profiles>
       <rules/>
       <infoLinks>
-        <infoLink id="e9bd-53ff-a885-7637" name="Life Support" hidden="false" targetId="2945-b85d-72f0-9f72" type="rule">
+        <infoLink id="e9bd-53ff-a885-7637" name="Soporte Vital" hidden="false" targetId="2945-b85d-72f0-9f72" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="59dc-3d1e-5a70-813d" name="Solid" hidden="false" targetId="477f-7c1c-9cba-3258" type="rule">
+        <infoLink id="59dc-3d1e-5a70-813d" name="Firme [Sólido]" hidden="false" targetId="477f-7c1c-9cba-3258" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1228,7 +1228,7 @@
       </categoryLinks>
       <selectionEntries/>
       <selectionEntryGroups>
-        <selectionEntryGroup id="7dc7-d934-1e56-0aa2" name="Ranged Weapon" hidden="false" collective="false" defaultSelectionEntryId="0ee9-3012-430c-b455">
+        <selectionEntryGroup id="7dc7-d934-1e56-0aa2" name="Arma a Distancia" hidden="false" collective="false" defaultSelectionEntryId="0ee9-3012-430c-b455">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1241,7 +1241,7 @@
           <selectionEntries/>
           <selectionEntryGroups/>
           <entryLinks>
-            <entryLink id="0ee9-3012-430c-b455" name="Hailstorm Rifle" hidden="false" targetId="664b-64fe-a897-1e62" type="selectionEntry">
+            <entryLink id="0ee9-3012-430c-b455" name="Rifle de Granizo [Hailstorm]" hidden="false" targetId="664b-64fe-a897-1e62" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1300,12 +1300,12 @@
           </constraints>
           <categoryLinks/>
         </entryLink>
-        <entryLink id="8635-d163-91ac-753f" name="Missile Launcher" hidden="false" targetId="6aa2-38eb-ed16-419c" type="selectionEntry">
+        <entryLink id="8635-d163-91ac-753f" name="Lanzamisiles" hidden="false" targetId="6aa2-38eb-ed16-419c" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers>
-            <modifier type="set" field="name" value="Missile Launcher (Hardpoint)">
+            <modifier type="set" field="name" value="Lanzamisiles (Hardpoint)">
               <repeats/>
               <conditions/>
               <conditionGroups/>
@@ -1319,29 +1319,29 @@
       </entryLinks>
       <costs>
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="28.0"/>
-        <cost name="VPs" costTypeId="02a0-6bab-fa73-4a98" value="3.0"/>
+        <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="3.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="0e90-a587-3264-6011" name="Brokkr Engineer" book="Deadzone 2nd Ed Rulebook" page="69" hidden="true" collective="false" type="unit">
+    <selectionEntry id="0e90-a587-3264-6011" name="Brokkr Ingeniero" book="Reglamento Deadzone 2ª Edición" page="69" hidden="true" collective="false" type="unit">
       <profiles>
-        <profile id="758a-244d-6c2b-6c50" name="Brokkr Engineer" book="Deadzone 2nd Ed Rulebook" page="69" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
+        <profile id="758a-244d-6c2b-6c50" name="Brokkr Ingeniero" book="Reglamento Deadzone 2ª Edición" page="69" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers/>
           <characteristics>
-            <characteristic name="Speed" characteristicTypeId="df17-4b5c-638f-0807" value="1-2"/>
-            <characteristic name="Armour" characteristicTypeId="0274-bb56-5442-a0f1" value="0"/>
-            <characteristic name="Size" characteristicTypeId="2623-46e7-250f-eacf" value="1"/>
-            <characteristic name="Shoot" characteristicTypeId="68ea-7e51-32e7-70c8" value="6+"/>
-            <characteristic name="Fight" characteristicTypeId="cf38-e165-7d39-0773" value="5+"/>
-            <characteristic name="Survive" characteristicTypeId="ecb0-eafd-b6fa-91a0" value="4+"/>
+            <characteristic name="Velocidad" characteristicTypeId="df17-4b5c-638f-0807" value="1-2"/>
+            <characteristic name="Armadura" characteristicTypeId="0274-bb56-5442-a0f1" value="0"/>
+            <characteristic name="Tamaño" characteristicTypeId="2623-46e7-250f-eacf" value="1"/>
+            <characteristic name="Disparo" characteristicTypeId="68ea-7e51-32e7-70c8" value="6+"/>
+            <characteristic name="Lucha" characteristicTypeId="cf38-e165-7d39-0773" value="5+"/>
+            <characteristic name="Supervivencia" characteristicTypeId="ecb0-eafd-b6fa-91a0" value="4+"/>
           </characteristics>
         </profile>
       </profiles>
       <rules/>
       <infoLinks>
-        <infoLink id="5259-1ce2-d918-0fae" name="Engineer" hidden="false" targetId="bf5d-3181-729a-3365" type="rule">
+        <infoLink id="5259-1ce2-d918-0fae" name="Ingeniero" hidden="false" targetId="bf5d-3181-729a-3365" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1397,7 +1397,7 @@
       </categoryLinks>
       <selectionEntries/>
       <selectionEntryGroups>
-        <selectionEntryGroup id="5302-31b7-ebec-0d95" name="Ranged Weapon" hidden="false" collective="false" defaultSelectionEntryId="ad76-ac5a-df87-13da">
+        <selectionEntryGroup id="5302-31b7-ebec-0d95" name="Arma a Distancia" hidden="false" collective="false" defaultSelectionEntryId="ad76-ac5a-df87-13da">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1410,7 +1410,7 @@
           <selectionEntries/>
           <selectionEntryGroups/>
           <entryLinks>
-            <entryLink id="ad76-ac5a-df87-13da" name="Burst Pistol *" hidden="false" targetId="ee51-dc0a-5c62-d92b" type="selectionEntry">
+            <entryLink id="ad76-ac5a-df87-13da" name="Burst Pistola *" hidden="false" targetId="ee51-dc0a-5c62-d92b" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1420,7 +1420,7 @@
                   <conditions/>
                   <conditionGroups/>
                 </modifier>
-                <modifier type="set" field="name" value="Burst Pistol">
+                <modifier type="set" field="name" value="Burst Pistola">
                   <repeats/>
                   <conditions/>
                   <conditionGroups/>
@@ -1429,7 +1429,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="91be-3364-498a-587c" name="Hailstorm Rifle" hidden="false" targetId="664b-64fe-a897-1e62" type="selectionEntry">
+            <entryLink id="91be-3364-498a-587c" name="Rifle de Granizo [Hailstorm]" hidden="false" targetId="664b-64fe-a897-1e62" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1441,7 +1441,7 @@
         </selectionEntryGroup>
       </selectionEntryGroups>
       <entryLinks>
-        <entryLink id="a1c5-1308-00ef-cd85" name="Knife" hidden="false" targetId="7a3c-8f4b-5072-870a" type="selectionEntry">
+        <entryLink id="a1c5-1308-00ef-cd85" name="Cuchillo" hidden="false" targetId="7a3c-8f4b-5072-870a" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1452,7 +1452,7 @@
           </constraints>
           <categoryLinks/>
         </entryLink>
-        <entryLink id="a14e-be09-3274-d5cf" name="Items" hidden="false" targetId="f81a-881c-8a85-fee0" type="selectionEntryGroup">
+        <entryLink id="a14e-be09-3274-d5cf" name="Objetos" hidden="false" targetId="f81a-881c-8a85-fee0" type="selectionEntryGroup">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1463,29 +1463,29 @@
       </entryLinks>
       <costs>
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="14.0"/>
-        <cost name="VPs" costTypeId="02a0-6bab-fa73-4a98" value="1.0"/>
+        <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="1.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="c67a-d152-a3f6-69d9" name="Inferno Drill" book="Deadzone 2nd Ed Rulebook + Errata v2.1" page="70" hidden="true" collective="false" type="unit">
+    <selectionEntry id="c67a-d152-a3f6-69d9" name="Inferno Drill" book="Reglamento Deadzone 2ª Edición + Erratas v2.1" page="70" hidden="true" collective="false" type="unit">
       <profiles>
-        <profile id="ad29-cae1-3584-0990" name="Inferno Drill" book="Deadzone 2nd Ed Rulebook" page="70" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
+        <profile id="ad29-cae1-3584-0990" name="Inferno Drill" book="Reglamento Deadzone 2ª Edición" page="70" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers/>
           <characteristics>
-            <characteristic name="Speed" characteristicTypeId="df17-4b5c-638f-0807" value="1-2"/>
-            <characteristic name="Armour" characteristicTypeId="0274-bb56-5442-a0f1" value="1"/>
-            <characteristic name="Size" characteristicTypeId="2623-46e7-250f-eacf" value="2"/>
-            <characteristic name="Shoot" characteristicTypeId="68ea-7e51-32e7-70c8" value="4+"/>
-            <characteristic name="Fight" characteristicTypeId="cf38-e165-7d39-0773" value="-"/>
-            <characteristic name="Survive" characteristicTypeId="ecb0-eafd-b6fa-91a0" value="3+"/>
+            <characteristic name="Velocidad" characteristicTypeId="df17-4b5c-638f-0807" value="1-2"/>
+            <characteristic name="Armadura" characteristicTypeId="0274-bb56-5442-a0f1" value="1"/>
+            <characteristic name="Tamaño" characteristicTypeId="2623-46e7-250f-eacf" value="2"/>
+            <characteristic name="Disparo" characteristicTypeId="68ea-7e51-32e7-70c8" value="4+"/>
+            <characteristic name="Lucha" characteristicTypeId="cf38-e165-7d39-0773" value="-"/>
+            <characteristic name="Supervivencia" characteristicTypeId="ecb0-eafd-b6fa-91a0" value="3+"/>
           </characteristics>
         </profile>
       </profiles>
       <rules/>
       <infoLinks>
-        <infoLink id="4a90-b0c8-e30f-e84a" name="Vehicle" hidden="false" targetId="ea60-c32b-086e-1a17" type="rule">
+        <infoLink id="4a90-b0c8-e30f-e84a" name="Vehículo" hidden="false" targetId="ea60-c32b-086e-1a17" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1497,7 +1497,7 @@
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="8025-c2c8-5fd4-c484" name="Construct" hidden="false" targetId="f0c6-e746-f152-933c" type="rule">
+        <infoLink id="8025-c2c8-5fd4-c484" name="Constructo" hidden="false" targetId="f0c6-e746-f152-933c" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1554,22 +1554,22 @@
       <selectionEntries>
         <selectionEntry id="1a8f-fe55-3121-3a8f" name="Mining Laser" hidden="false" collective="false" type="upgrade">
           <profiles>
-            <profile id="dcbc-d75f-b97a-f2d9" name="Mining Laser" book="Deadzone 2nd Ed Rulebook" page="70" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+            <profile id="dcbc-d75f-b97a-f2d9" name="Mining Laser" book="Reglamento Deadzone 2ª Edición" page="70" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
               <profiles/>
               <rules/>
               <infoLinks/>
               <modifiers/>
               <characteristics>
-                <characteristic name="Range" characteristicTypeId="df8a-ee5b-d620-4246" value="R24"/>
-                <characteristic name="AP" characteristicTypeId="3ef9-9c4e-a280-fccb" value="AP3"/>
-                <characteristic name="Abilities" characteristicTypeId="faf9-0187-1806-7214" value="Heavy"/>
-                <characteristic name="Type" characteristicTypeId="90af-0797-a0fd-965c" value="-"/>
+                <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A24"/>
+                <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="PA3"/>
+                <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Pesada"/>
+                <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="-"/>
               </characteristics>
             </profile>
           </profiles>
           <rules/>
           <infoLinks>
-            <infoLink id="9eb0-0a44-c4a7-252b" name="Heavy" hidden="false" targetId="20eb-5380-3d00-044b" type="rule">
+            <infoLink id="9eb0-0a44-c4a7-252b" name="Pesada" hidden="false" targetId="20eb-5380-3d00-044b" type="rule">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1586,7 +1586,7 @@
           <selectionEntryGroups/>
           <entryLinks/>
           <costs>
-            <cost name="VPs" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
+            <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
             <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="0.0"/>
           </costs>
         </selectionEntry>
@@ -1595,35 +1595,35 @@
       <entryLinks/>
       <costs>
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="16.0"/>
-        <cost name="VPs" costTypeId="02a0-6bab-fa73-4a98" value="2.0"/>
+        <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="2.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="75cf-2aa3-495b-d539" name="Brokkr Bike" book="Deadzone 2nd Ed Rulebook" page="70" hidden="true" collective="false" type="unit">
+    <selectionEntry id="75cf-2aa3-495b-d539" name="Brokkr Bike" book="Reglamento Deadzone 2ª Edición" page="70" hidden="true" collective="false" type="unit">
       <profiles>
-        <profile id="cc5b-6aec-14d6-1112" name="Brokkr Bike" book="Deadzone 2nd Ed Rulebook" page="70" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
+        <profile id="cc5b-6aec-14d6-1112" name="Brokkr Bike" book="Reglamento Deadzone 2ª Edición" page="70" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers/>
           <characteristics>
-            <characteristic name="Speed" characteristicTypeId="df17-4b5c-638f-0807" value="2-4"/>
-            <characteristic name="Armour" characteristicTypeId="0274-bb56-5442-a0f1" value="1"/>
-            <characteristic name="Size" characteristicTypeId="2623-46e7-250f-eacf" value="2"/>
-            <characteristic name="Shoot" characteristicTypeId="68ea-7e51-32e7-70c8" value="5+"/>
-            <characteristic name="Fight" characteristicTypeId="cf38-e165-7d39-0773" value="5+"/>
-            <characteristic name="Survive" characteristicTypeId="ecb0-eafd-b6fa-91a0" value="4+"/>
+            <characteristic name="Velocidad" characteristicTypeId="df17-4b5c-638f-0807" value="2-4"/>
+            <characteristic name="Armadura" characteristicTypeId="0274-bb56-5442-a0f1" value="1"/>
+            <characteristic name="Tamaño" characteristicTypeId="2623-46e7-250f-eacf" value="2"/>
+            <characteristic name="Disparo" characteristicTypeId="68ea-7e51-32e7-70c8" value="5+"/>
+            <characteristic name="Lucha" characteristicTypeId="cf38-e165-7d39-0773" value="5+"/>
+            <characteristic name="Supervivencia" characteristicTypeId="ecb0-eafd-b6fa-91a0" value="4+"/>
           </characteristics>
         </profile>
       </profiles>
       <rules/>
       <infoLinks>
-        <infoLink id="8791-fff9-93ef-b290" name="Vehicle" hidden="false" targetId="ea60-c32b-086e-1a17" type="rule">
+        <infoLink id="8791-fff9-93ef-b290" name="Vehículo" hidden="false" targetId="ea60-c32b-086e-1a17" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="bdb2-a605-e02d-1195" name="Evade" hidden="false" targetId="f256-c9e1-fd94-2578" type="rule">
+        <infoLink id="bdb2-a605-e02d-1195" name="Evadir" hidden="false" targetId="f256-c9e1-fd94-2578" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1680,7 +1680,7 @@
       <selectionEntries/>
       <selectionEntryGroups/>
       <entryLinks>
-        <entryLink id="ae34-837f-8a41-5f06" name="Twin Hailstorm Rifles" hidden="false" targetId="2c87-59f5-a4d9-d6cd" type="selectionEntry">
+        <entryLink id="ae34-837f-8a41-5f06" name="Twin Rifles de Granizo [Hailstorm]" hidden="false" targetId="2c87-59f5-a4d9-d6cd" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1697,7 +1697,7 @@
           </constraints>
           <categoryLinks/>
         </entryLink>
-        <entryLink id="38b2-d7ee-b4b2-b75c" name="Knife" hidden="false" targetId="7a3c-8f4b-5072-870a" type="selectionEntry">
+        <entryLink id="38b2-d7ee-b4b2-b75c" name="Cuchillo" hidden="false" targetId="7a3c-8f4b-5072-870a" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1711,47 +1711,47 @@
       </entryLinks>
       <costs>
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="20.0"/>
-        <cost name="VPs" costTypeId="02a0-6bab-fa73-4a98" value="2.0"/>
+        <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="2.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="e618-d611-2507-0e27" name="Iron Ancestor" book="Deadzone 2nd Ed Rulebook + Errata v2.1" page="70" hidden="true" collective="false" type="unit">
+    <selectionEntry id="e618-d611-2507-0e27" name="Iron Ancestor" book="Reglamento Deadzone 2ª Edición + Erratas v2.1" page="70" hidden="true" collective="false" type="unit">
       <profiles>
-        <profile id="1a27-deaf-8617-c1d6" name="Iron Ancestor" book="Deadzone 2nd Ed Rulebook" page="70" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
+        <profile id="1a27-deaf-8617-c1d6" name="Iron Ancestor" book="Reglamento Deadzone 2ª Edición" page="70" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers/>
           <characteristics>
-            <characteristic name="Speed" characteristicTypeId="df17-4b5c-638f-0807" value="1-2"/>
-            <characteristic name="Armour" characteristicTypeId="0274-bb56-5442-a0f1" value="4"/>
-            <characteristic name="Size" characteristicTypeId="2623-46e7-250f-eacf" value="4"/>
-            <characteristic name="Shoot" characteristicTypeId="68ea-7e51-32e7-70c8" value="4+"/>
-            <characteristic name="Fight" characteristicTypeId="cf38-e165-7d39-0773" value="5+"/>
-            <characteristic name="Survive" characteristicTypeId="ecb0-eafd-b6fa-91a0" value="4+"/>
+            <characteristic name="Velocidad" characteristicTypeId="df17-4b5c-638f-0807" value="1-2"/>
+            <characteristic name="Armadura" characteristicTypeId="0274-bb56-5442-a0f1" value="4"/>
+            <characteristic name="Tamaño" characteristicTypeId="2623-46e7-250f-eacf" value="4"/>
+            <characteristic name="Disparo" characteristicTypeId="68ea-7e51-32e7-70c8" value="4+"/>
+            <characteristic name="Lucha" characteristicTypeId="cf38-e165-7d39-0773" value="5+"/>
+            <characteristic name="Supervivencia" characteristicTypeId="ecb0-eafd-b6fa-91a0" value="4+"/>
           </characteristics>
         </profile>
       </profiles>
       <rules/>
       <infoLinks>
-        <infoLink id="bac4-21ce-34c0-f5f9" name="Fire Control" hidden="false" targetId="a620-dc42-f93b-b270" type="rule">
+        <infoLink id="bac4-21ce-34c0-f5f9" name="Control de Fuego" hidden="false" targetId="a620-dc42-f93b-b270" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="7db4-df3d-ce79-19f1" name="Solid" hidden="false" targetId="477f-7c1c-9cba-3258" type="rule">
+        <infoLink id="7db4-df3d-ce79-19f1" name="Firme [Sólido]" hidden="false" targetId="477f-7c1c-9cba-3258" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="bccc-0f28-cc90-3c43" name="Beast" hidden="false" targetId="6c23-71da-c6bd-32af" type="rule">
+        <infoLink id="bccc-0f28-cc90-3c43" name="Bestia [Animal]" hidden="false" targetId="6c23-71da-c6bd-32af" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="df2f-0fc2-c213-df87" name="Construct" hidden="false" targetId="f0c6-e746-f152-933c" type="rule">
+        <infoLink id="df2f-0fc2-c213-df87" name="Constructo" hidden="false" targetId="f0c6-e746-f152-933c" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1872,53 +1872,53 @@
       <entryLinks/>
       <costs>
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="44.0"/>
-        <cost name="VPs" costTypeId="02a0-6bab-fa73-4a98" value="3.0"/>
+        <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="3.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="0717-b0cd-680b-f84d" name="Thor Pattern Iron Ancestor" book="Deadzone 2nd Ed Rulebook + Errata v2.1" page="70" hidden="true" collective="false" type="unit">
+    <selectionEntry id="0717-b0cd-680b-f84d" name="Thor Pattern Iron Ancestor" book="Reglamento Deadzone 2ª Edición + Erratas v2.1" page="70" hidden="true" collective="false" type="unit">
       <profiles>
-        <profile id="2d2e-dc4a-10b2-7bb4" name="Thor Pattern Iron Ancestor" book="Deadzone 2nd Ed Rulebook" page="70" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
+        <profile id="2d2e-dc4a-10b2-7bb4" name="Thor Pattern Iron Ancestor" book="Reglamento Deadzone 2ª Edición" page="70" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers/>
           <characteristics>
-            <characteristic name="Speed" characteristicTypeId="df17-4b5c-638f-0807" value="1-2"/>
-            <characteristic name="Armour" characteristicTypeId="0274-bb56-5442-a0f1" value="4"/>
-            <characteristic name="Size" characteristicTypeId="2623-46e7-250f-eacf" value="4"/>
-            <characteristic name="Shoot" characteristicTypeId="68ea-7e51-32e7-70c8" value="-"/>
-            <characteristic name="Fight" characteristicTypeId="cf38-e165-7d39-0773" value="5+"/>
-            <characteristic name="Survive" characteristicTypeId="ecb0-eafd-b6fa-91a0" value="4+"/>
+            <characteristic name="Velocidad" characteristicTypeId="df17-4b5c-638f-0807" value="1-2"/>
+            <characteristic name="Armadura" characteristicTypeId="0274-bb56-5442-a0f1" value="4"/>
+            <characteristic name="Tamaño" characteristicTypeId="2623-46e7-250f-eacf" value="4"/>
+            <characteristic name="Disparo" characteristicTypeId="68ea-7e51-32e7-70c8" value="-"/>
+            <characteristic name="Lucha" characteristicTypeId="cf38-e165-7d39-0773" value="5+"/>
+            <characteristic name="Supervivencia" characteristicTypeId="ecb0-eafd-b6fa-91a0" value="4+"/>
           </characteristics>
         </profile>
       </profiles>
       <rules/>
       <infoLinks>
-        <infoLink id="f427-2145-fbeb-ceed" name="Frenzy (n)" hidden="false" targetId="219b-0be5-51f9-8d8e" type="rule">
+        <infoLink id="f427-2145-fbeb-ceed" name="Furia (n)" hidden="false" targetId="219b-0be5-51f9-8d8e" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers>
-            <modifier type="set" field="name" value="Frenzy (2)">
+            <modifier type="set" field="name" value="Furia (2)">
               <repeats/>
               <conditions/>
               <conditionGroups/>
             </modifier>
           </modifiers>
         </infoLink>
-        <infoLink id="d0e1-762e-44d2-c69d" name="Solid" hidden="false" targetId="477f-7c1c-9cba-3258" type="rule">
+        <infoLink id="d0e1-762e-44d2-c69d" name="Firme [Sólido]" hidden="false" targetId="477f-7c1c-9cba-3258" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="2842-c21a-dd53-e6d2" name="Beast" hidden="false" targetId="6c23-71da-c6bd-32af" type="rule">
+        <infoLink id="2842-c21a-dd53-e6d2" name="Bestia [Animal]" hidden="false" targetId="6c23-71da-c6bd-32af" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="3550-7395-32b0-0873" name="Construct" hidden="false" targetId="f0c6-e746-f152-933c" type="rule">
+        <infoLink id="3550-7395-32b0-0873" name="Constructo" hidden="false" targetId="f0c6-e746-f152-933c" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1982,16 +1982,16 @@
       <selectionEntries>
         <selectionEntry id="b503-c25b-91ea-c169" name="Twin IA Forge Hammers" book="" page="" hidden="false" collective="false" type="upgrade">
           <profiles>
-            <profile id="5042-b7f7-2680-4b0c" name="Twin IA Forge Hammers" book="Deadzone 2nd Ed Rulebook" page="70" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+            <profile id="5042-b7f7-2680-4b0c" name="Twin IA Forge Hammers" book="Reglamento Deadzone 2ª Edición" page="70" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
               <profiles/>
               <rules/>
               <infoLinks/>
               <modifiers/>
               <characteristics>
-                <characteristic name="Range" characteristicTypeId="df8a-ee5b-d620-4246" value="RF"/>
-                <characteristic name="AP" characteristicTypeId="3ef9-9c4e-a280-fccb" value="AP2"/>
-                <characteristic name="Abilities" characteristicTypeId="faf9-0187-1806-7214" value="-"/>
-                <characteristic name="Type" characteristicTypeId="90af-0797-a0fd-965c" value="-"/>
+                <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="AL"/>
+                <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="PA2"/>
+                <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="-"/>
+                <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="-"/>
               </characteristics>
             </profile>
           </profiles>
@@ -2007,7 +2007,7 @@
           <selectionEntryGroups/>
           <entryLinks/>
           <costs>
-            <cost name="VPs" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
+            <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
             <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="0.0"/>
           </costs>
         </selectionEntry>
@@ -2016,34 +2016,34 @@
       <entryLinks/>
       <costs>
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="55.0"/>
-        <cost name="VPs" costTypeId="02a0-6bab-fa73-4a98" value="5.0"/>
+        <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="5.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="3f3b-6ff4-2c2f-d0c6" name="Brokkr Specialist" book="Deadzone 2nd Ed Rulebook + Deadzone Errata v2.1" page="69" hidden="true" collective="false" type="unit">
+    <selectionEntry id="3f3b-6ff4-2c2f-d0c6" name="Brokkr Especialista" book="Reglamento Deadzone 2ª Edición + Deadzone Erratas v2.1" page="69" hidden="true" collective="false" type="unit">
       <profiles>
-        <profile id="984a-e5a3-c684-765a" name="Brokkr Specialist" book="Deadzone 2nd Ed Rulebook" page="69" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
+        <profile id="984a-e5a3-c684-765a" name="Brokkr Especialista" book="Reglamento Deadzone 2ª Edición" page="69" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers/>
           <characteristics>
-            <characteristic name="Speed" characteristicTypeId="df17-4b5c-638f-0807" value="1-2"/>
-            <characteristic name="Armour" characteristicTypeId="0274-bb56-5442-a0f1" value="0"/>
-            <characteristic name="Size" characteristicTypeId="2623-46e7-250f-eacf" value="1"/>
-            <characteristic name="Shoot" characteristicTypeId="68ea-7e51-32e7-70c8" value="5+"/>
-            <characteristic name="Fight" characteristicTypeId="cf38-e165-7d39-0773" value="4+"/>
-            <characteristic name="Survive" characteristicTypeId="ecb0-eafd-b6fa-91a0" value="4+"/>
+            <characteristic name="Velocidad" characteristicTypeId="df17-4b5c-638f-0807" value="1-2"/>
+            <characteristic name="Armadura" characteristicTypeId="0274-bb56-5442-a0f1" value="0"/>
+            <characteristic name="Tamaño" characteristicTypeId="2623-46e7-250f-eacf" value="1"/>
+            <characteristic name="Disparo" characteristicTypeId="68ea-7e51-32e7-70c8" value="5+"/>
+            <characteristic name="Lucha" characteristicTypeId="cf38-e165-7d39-0773" value="4+"/>
+            <characteristic name="Supervivencia" characteristicTypeId="ecb0-eafd-b6fa-91a0" value="4+"/>
           </characteristics>
         </profile>
       </profiles>
       <rules/>
       <infoLinks>
-        <infoLink id="568f-f05a-faeb-ab0c" name="Frenzy (n)" hidden="false" targetId="219b-0be5-51f9-8d8e" type="rule">
+        <infoLink id="568f-f05a-faeb-ab0c" name="Furia (n)" hidden="false" targetId="219b-0be5-51f9-8d8e" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers>
-            <modifier type="set" field="name" value="Frenzy (1)">
+            <modifier type="set" field="name" value="Furia (1)">
               <repeats/>
               <conditions/>
               <conditionGroups/>
@@ -2100,7 +2100,7 @@
       </categoryLinks>
       <selectionEntries/>
       <selectionEntryGroups>
-        <selectionEntryGroup id="e96b-c072-d757-e62a" name="Ranged Weapon" hidden="false" collective="false" defaultSelectionEntryId="c8e3-d9df-f1d7-ca1e">
+        <selectionEntryGroup id="e96b-c072-d757-e62a" name="Arma a Distancia" hidden="false" collective="false" defaultSelectionEntryId="c8e3-d9df-f1d7-ca1e">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -2113,7 +2113,7 @@
           <selectionEntries/>
           <selectionEntryGroups/>
           <entryLinks>
-            <entryLink id="c8e3-d9df-f1d7-ca1e" name="Burst Pistol *" hidden="false" targetId="ee51-dc0a-5c62-d92b" type="selectionEntry">
+            <entryLink id="c8e3-d9df-f1d7-ca1e" name="Burst Pistola *" hidden="false" targetId="ee51-dc0a-5c62-d92b" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -2123,7 +2123,7 @@
                   <conditions/>
                   <conditionGroups/>
                 </modifier>
-                <modifier type="set" field="name" value="Burst Pistol">
+                <modifier type="set" field="name" value="Burst Pistola">
                   <repeats/>
                   <conditions/>
                   <conditionGroups/>
@@ -2132,7 +2132,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="4772-581c-a3a9-60ea" name="Hailstorm Rifle" hidden="false" targetId="664b-64fe-a897-1e62" type="selectionEntry">
+            <entryLink id="4772-581c-a3a9-60ea" name="Rifle de Granizo [Hailstorm]" hidden="false" targetId="664b-64fe-a897-1e62" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -2140,7 +2140,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="7932-c965-5e77-e3e6" name="Hailstorm Pistol" hidden="false" targetId="d78a-14fc-c78e-9bc0" type="selectionEntry">
+            <entryLink id="7932-c965-5e77-e3e6" name="Pistola de Granizo [Hailstorm]" hidden="false" targetId="d78a-14fc-c78e-9bc0" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -2166,7 +2166,7 @@
             </entryLink>
           </entryLinks>
         </selectionEntryGroup>
-        <selectionEntryGroup id="6ddb-ad35-f767-f517" name="Melee Weapon" hidden="false" collective="false" defaultSelectionEntryId="ca24-67e3-0141-2c8e">
+        <selectionEntryGroup id="6ddb-ad35-f767-f517" name="Arma de Melé" hidden="false" collective="false" defaultSelectionEntryId="ca24-67e3-0141-2c8e">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -2205,7 +2205,7 @@
         </selectionEntryGroup>
       </selectionEntryGroups>
       <entryLinks>
-        <entryLink id="9bf8-b9bc-558f-5c4c" name="Items" hidden="false" targetId="f81a-881c-8a85-fee0" type="selectionEntryGroup">
+        <entryLink id="9bf8-b9bc-558f-5c4c" name="Objetos" hidden="false" targetId="f81a-881c-8a85-fee0" type="selectionEntryGroup">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -2216,7 +2216,7 @@
       </entryLinks>
       <costs>
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="15.0"/>
-        <cost name="VPs" costTypeId="02a0-6bab-fa73-4a98" value="1.0"/>
+        <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="1.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="b4ef-d30b-d9e5-6b42" name="Wrath" hidden="true" collective="false" type="upgrade">
@@ -2284,7 +2284,7 @@
           </constraints>
           <categoryLinks/>
         </entryLink>
-        <entryLink id="5b65-5e54-9800-256a" name="Items" hidden="false" targetId="f81a-881c-8a85-fee0" type="selectionEntryGroup">
+        <entryLink id="5b65-5e54-9800-256a" name="Objetos" hidden="false" targetId="f81a-881c-8a85-fee0" type="selectionEntryGroup">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -2294,7 +2294,7 @@
         </entryLink>
       </entryLinks>
       <costs>
-        <cost name="VPs" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
+        <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="0.0"/>
       </costs>
     </selectionEntry>
@@ -2363,7 +2363,7 @@
           </constraints>
           <categoryLinks/>
         </entryLink>
-        <entryLink id="20f8-ca04-94fb-ff71" name="Items" hidden="false" targetId="f81a-881c-8a85-fee0" type="selectionEntryGroup">
+        <entryLink id="20f8-ca04-94fb-ff71" name="Objetos" hidden="false" targetId="f81a-881c-8a85-fee0" type="selectionEntryGroup">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -2373,11 +2373,11 @@
         </entryLink>
       </entryLinks>
       <costs>
-        <cost name="VPs" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
+        <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="cdca-1dee-1320-5d22" name="Blaine on Jetbike" hidden="true" collective="false" type="upgrade">
+    <selectionEntry id="cdca-1dee-1320-5d22" name="Blaine en Motojet" hidden="true" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -2431,7 +2431,7 @@
       <selectionEntries/>
       <selectionEntryGroups/>
       <entryLinks>
-        <entryLink id="5821-3367-9fce-295b" name="Blaine on Jetbike" hidden="false" targetId="c9c3-85b2-a438-802f" type="selectionEntry">
+        <entryLink id="5821-3367-9fce-295b" name="Blaine en Motojet" hidden="false" targetId="c9c3-85b2-a438-802f" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -2442,7 +2442,7 @@
           </constraints>
           <categoryLinks/>
         </entryLink>
-        <entryLink id="4f8d-2afc-0208-7c06" name="Items" hidden="false" targetId="f81a-881c-8a85-fee0" type="selectionEntryGroup">
+        <entryLink id="4f8d-2afc-0208-7c06" name="Objetos" hidden="false" targetId="f81a-881c-8a85-fee0" type="selectionEntryGroup">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -2452,11 +2452,11 @@
         </entryLink>
       </entryLinks>
       <costs>
-        <cost name="VPs" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
+        <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="3d66-ca0f-8e45-4ce3" name="Boomer, Grenadier" hidden="true" collective="false" type="upgrade">
+    <selectionEntry id="3d66-ca0f-8e45-4ce3" name="Boomer, Granadero" hidden="true" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -2510,7 +2510,7 @@
       <selectionEntries/>
       <selectionEntryGroups/>
       <entryLinks>
-        <entryLink id="b3b4-3d83-810c-1f77" name="Boomer, Grenadier" hidden="false" targetId="fcdd-d439-27de-bcca" type="selectionEntry">
+        <entryLink id="b3b4-3d83-810c-1f77" name="Boomer, Granadero" hidden="false" targetId="fcdd-d439-27de-bcca" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -2521,7 +2521,7 @@
           </constraints>
           <categoryLinks/>
         </entryLink>
-        <entryLink id="deac-fff2-bc5b-7613" name="Items" hidden="false" targetId="f81a-881c-8a85-fee0" type="selectionEntryGroup">
+        <entryLink id="deac-fff2-bc5b-7613" name="Objetos" hidden="false" targetId="f81a-881c-8a85-fee0" type="selectionEntryGroup">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -2531,11 +2531,11 @@
         </entryLink>
       </entryLinks>
       <costs>
-        <cost name="VPs" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
+        <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="ed0e-da72-63b6-eb35" name="Chief Radgrad" hidden="true" collective="false" type="upgrade">
+    <selectionEntry id="ed0e-da72-63b6-eb35" name="Jefe Radgrad" hidden="true" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -2589,7 +2589,7 @@
       <selectionEntries/>
       <selectionEntryGroups/>
       <entryLinks>
-        <entryLink id="6522-320c-49f6-1c5e" name="Chief Radgrad" hidden="false" targetId="ec30-5a87-2544-b5d3" type="selectionEntry">
+        <entryLink id="6522-320c-49f6-1c5e" name="Jefe Radgrad" hidden="false" targetId="ec30-5a87-2544-b5d3" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -2600,7 +2600,7 @@
           </constraints>
           <categoryLinks/>
         </entryLink>
-        <entryLink id="b4a5-27a2-c085-7632" name="Items" hidden="false" targetId="f81a-881c-8a85-fee0" type="selectionEntryGroup">
+        <entryLink id="b4a5-27a2-c085-7632" name="Objetos" hidden="false" targetId="f81a-881c-8a85-fee0" type="selectionEntryGroup">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -2610,11 +2610,11 @@
         </entryLink>
       </entryLinks>
       <costs>
-        <cost name="VPs" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
+        <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="94a9-e0dc-16f3-15da" name="Chovar Psychic" hidden="true" collective="false" type="upgrade">
+    <selectionEntry id="94a9-e0dc-16f3-15da" name="Psíquico Chovar" hidden="true" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -2668,7 +2668,7 @@
       <selectionEntries/>
       <selectionEntryGroups/>
       <entryLinks>
-        <entryLink id="6396-e2c5-c996-287e" name="Chovar Psychic" hidden="false" targetId="0304-1c3a-5501-a41f" type="selectionEntry">
+        <entryLink id="6396-e2c5-c996-287e" name="Psíquico Chovar" hidden="false" targetId="0304-1c3a-5501-a41f" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -2679,7 +2679,7 @@
           </constraints>
           <categoryLinks/>
         </entryLink>
-        <entryLink id="f436-2967-b1a0-83b2" name="Items" hidden="false" targetId="f81a-881c-8a85-fee0" type="selectionEntryGroup">
+        <entryLink id="f436-2967-b1a0-83b2" name="Objetos" hidden="false" targetId="f81a-881c-8a85-fee0" type="selectionEntryGroup">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -2689,7 +2689,7 @@
         </entryLink>
       </entryLinks>
       <costs>
-        <cost name="VPs" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
+        <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="0.0"/>
       </costs>
     </selectionEntry>
@@ -2758,7 +2758,7 @@
           </constraints>
           <categoryLinks/>
         </entryLink>
-        <entryLink id="4a8e-199a-caf6-80ff" name="Items" hidden="false" targetId="f81a-881c-8a85-fee0" type="selectionEntryGroup">
+        <entryLink id="4a8e-199a-caf6-80ff" name="Objetos" hidden="false" targetId="f81a-881c-8a85-fee0" type="selectionEntryGroup">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -2768,7 +2768,7 @@
         </entryLink>
       </entryLinks>
       <costs>
-        <cost name="VPs" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
+        <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="0.0"/>
       </costs>
     </selectionEntry>
@@ -2837,7 +2837,7 @@
           </constraints>
           <categoryLinks/>
         </entryLink>
-        <entryLink id="fa9b-92b4-c115-b470" name="Items" hidden="false" targetId="f81a-881c-8a85-fee0" type="selectionEntryGroup">
+        <entryLink id="fa9b-92b4-c115-b470" name="Objetos" hidden="false" targetId="f81a-881c-8a85-fee0" type="selectionEntryGroup">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -2847,7 +2847,7 @@
         </entryLink>
       </entryLinks>
       <costs>
-        <cost name="VPs" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
+        <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="0.0"/>
       </costs>
     </selectionEntry>
@@ -2916,7 +2916,7 @@
           </constraints>
           <categoryLinks/>
         </entryLink>
-        <entryLink id="a2b8-7c38-575c-5e7b" name="Items" hidden="false" targetId="f81a-881c-8a85-fee0" type="selectionEntryGroup">
+        <entryLink id="a2b8-7c38-575c-5e7b" name="Objetos" hidden="false" targetId="f81a-881c-8a85-fee0" type="selectionEntryGroup">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -2926,7 +2926,7 @@
         </entryLink>
       </entryLinks>
       <costs>
-        <cost name="VPs" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
+        <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="0.0"/>
       </costs>
     </selectionEntry>
@@ -2995,7 +2995,7 @@
           </constraints>
           <categoryLinks/>
         </entryLink>
-        <entryLink id="f9a1-9859-aefc-7e44" name="Items" hidden="false" targetId="f81a-881c-8a85-fee0" type="selectionEntryGroup">
+        <entryLink id="f9a1-9859-aefc-7e44" name="Objetos" hidden="false" targetId="f81a-881c-8a85-fee0" type="selectionEntryGroup">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -3005,11 +3005,11 @@
         </entryLink>
       </entryLinks>
       <costs>
-        <cost name="VPs" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
+        <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="3f77-7eba-290a-7e80" name="Project Oberon" hidden="true" collective="false" type="upgrade">
+    <selectionEntry id="3f77-7eba-290a-7e80" name="Proyecto Oberón" hidden="true" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -3063,7 +3063,7 @@
       <selectionEntries/>
       <selectionEntryGroups/>
       <entryLinks>
-        <entryLink id="1323-fa2c-435d-8e32" name="Project Oberon" hidden="false" targetId="1acb-ca9d-dddd-bfd6" type="selectionEntry">
+        <entryLink id="1323-fa2c-435d-8e32" name="Proyecto Oberón" hidden="false" targetId="1acb-ca9d-dddd-bfd6" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -3074,7 +3074,7 @@
           </constraints>
           <categoryLinks/>
         </entryLink>
-        <entryLink id="ffc4-116b-9468-259b" name="Items" hidden="false" targetId="f81a-881c-8a85-fee0" type="selectionEntryGroup">
+        <entryLink id="ffc4-116b-9468-259b" name="Objetos" hidden="false" targetId="f81a-881c-8a85-fee0" type="selectionEntryGroup">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -3084,7 +3084,7 @@
         </entryLink>
       </entryLinks>
       <costs>
-        <cost name="VPs" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
+        <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="0.0"/>
       </costs>
     </selectionEntry>
@@ -3153,7 +3153,7 @@
           </constraints>
           <categoryLinks/>
         </entryLink>
-        <entryLink id="61e8-8014-503d-fd57" name="Items" hidden="false" targetId="f81a-881c-8a85-fee0" type="selectionEntryGroup">
+        <entryLink id="61e8-8014-503d-fd57" name="Objetos" hidden="false" targetId="f81a-881c-8a85-fee0" type="selectionEntryGroup">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -3163,11 +3163,11 @@
         </entryLink>
       </entryLinks>
       <costs>
-        <cost name="VPs" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
+        <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="0503-f390-a86f-05a3" name="The Helfather" hidden="true" collective="false" type="upgrade">
+    <selectionEntry id="0503-f390-a86f-05a3" name="El Padre Infernal" hidden="true" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -3221,7 +3221,7 @@
       <selectionEntries/>
       <selectionEntryGroups/>
       <entryLinks>
-        <entryLink id="037e-c24b-1576-8607" name="The Helfather" hidden="false" targetId="9c11-2433-daf8-9638" type="selectionEntry">
+        <entryLink id="037e-c24b-1576-8607" name="El Padre Infernal" hidden="false" targetId="9c11-2433-daf8-9638" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -3232,7 +3232,7 @@
           </constraints>
           <categoryLinks/>
         </entryLink>
-        <entryLink id="0a1c-2347-c0a1-db19" name="Items" hidden="false" targetId="f81a-881c-8a85-fee0" type="selectionEntryGroup">
+        <entryLink id="0a1c-2347-c0a1-db19" name="Objetos" hidden="false" targetId="f81a-881c-8a85-fee0" type="selectionEntryGroup">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -3242,11 +3242,11 @@
         </entryLink>
       </entryLinks>
       <costs>
-        <cost name="VPs" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
+        <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="488b-6a48-d2c6-fb52" name="The Survivor" hidden="true" collective="false" type="upgrade">
+    <selectionEntry id="488b-6a48-d2c6-fb52" name="El Superviviente" hidden="true" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -3300,7 +3300,7 @@
       <selectionEntries/>
       <selectionEntryGroups/>
       <entryLinks>
-        <entryLink id="4ca5-ffd4-e607-e7d8" name="The Survivor" hidden="false" targetId="2c72-6306-7fce-219b" type="selectionEntry">
+        <entryLink id="4ca5-ffd4-e607-e7d8" name="El Superviviente" hidden="false" targetId="2c72-6306-7fce-219b" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -3311,7 +3311,7 @@
           </constraints>
           <categoryLinks/>
         </entryLink>
-        <entryLink id="1c08-42f7-c00c-896d" name="Items" hidden="false" targetId="f81a-881c-8a85-fee0" type="selectionEntryGroup">
+        <entryLink id="1c08-42f7-c00c-896d" name="Objetos" hidden="false" targetId="f81a-881c-8a85-fee0" type="selectionEntryGroup">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -3321,7 +3321,7 @@
         </entryLink>
       </entryLinks>
       <costs>
-        <cost name="VPs" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
+        <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="0.0"/>
       </costs>
     </selectionEntry>
@@ -3379,7 +3379,7 @@
       <selectionEntries/>
       <selectionEntryGroups/>
       <entryLinks>
-        <entryLink id="d989-f69d-1e92-2358" name="Items" hidden="false" targetId="f81a-881c-8a85-fee0" type="selectionEntryGroup">
+        <entryLink id="d989-f69d-1e92-2358" name="Objetos" hidden="false" targetId="f81a-881c-8a85-fee0" type="selectionEntryGroup">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -3397,7 +3397,7 @@
         </entryLink>
       </entryLinks>
       <costs>
-        <cost name="VPs" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
+        <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="0.0"/>
       </costs>
     </selectionEntry>
@@ -3409,45 +3409,45 @@
           <infoLinks/>
           <modifiers/>
           <characteristics>
-            <characteristic name="Speed" characteristicTypeId="4e85-eaa5-eccb-41d1" value="1-2"/>
-            <characteristic name="Armour" characteristicTypeId="6e20-a2eb-4873-facd" value="2"/>
-            <characteristic name="Size" characteristicTypeId="72ed-1424-6a6b-51d8" value="1"/>
-            <characteristic name="Shoot" characteristicTypeId="8e81-1fe3-f677-8d5c" value="4+"/>
-            <characteristic name="Fight" characteristicTypeId="5ab1-1acc-a108-daf5" value="3+"/>
-            <characteristic name="Survive" characteristicTypeId="2375-5bce-3345-261b" value="4+"/>
-            <characteristic name="Recon" characteristicTypeId="af03-2f51-1267-9c64" value="4+"/>
+            <characteristic name="Velocidad" characteristicTypeId="4e85-eaa5-eccb-41d1" value="1-2"/>
+            <characteristic name="Armadura" characteristicTypeId="6e20-a2eb-4873-facd" value="2"/>
+            <characteristic name="Tamaño" characteristicTypeId="72ed-1424-6a6b-51d8" value="1"/>
+            <characteristic name="Disparo" characteristicTypeId="8e81-1fe3-f677-8d5c" value="4+"/>
+            <characteristic name="Lucha" characteristicTypeId="5ab1-1acc-a108-daf5" value="3+"/>
+            <characteristic name="Supervivencia" characteristicTypeId="2375-5bce-3345-261b" value="4+"/>
+            <characteristic name="Reconocimiento" characteristicTypeId="af03-2f51-1267-9c64" value="4+"/>
           </characteristics>
         </profile>
       </profiles>
       <rules>
-        <rule id="3e4f-f8c8-9342-67fe" name="Defender of the Star Realm" book="Deadzone 2nd Ed Rulebook" page="67" hidden="false">
+        <rule id="3e4f-f8c8-9342-67fe" name="Defender of the Star Realm" book="Reglamento Deadzone 2ª Edición" page="67" hidden="false">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers/>
-          <description>Spend an Army Special Result to allow the active model to reroll any number of dice in a Fight or Survive test.</description>
+          <description>Spend an Army Special Result to allow the active model to reroll any number of dice in a Lucha or Supervivencia test.</description>
         </rule>
       </rules>
       <infoLinks>
-        <infoLink id="7bf4-fc89-8545-82ea" name="Tactician (n)" hidden="false" targetId="61bb-0743-e806-2bfc" type="rule">
+        <infoLink id="7bf4-fc89-8545-82ea" name="Táctico (n)" hidden="false" targetId="61bb-0743-e806-2bfc" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers>
-            <modifier type="set" field="name" value="Tactician (2)">
+            <modifier type="set" field="name" value="Táctico (2)">
               <repeats/>
               <conditions/>
               <conditionGroups/>
             </modifier>
           </modifiers>
         </infoLink>
-        <infoLink id="cff6-c60a-b712-965c" name="Life Support" hidden="false" targetId="2945-b85d-72f0-9f72" type="rule">
+        <infoLink id="cff6-c60a-b712-965c" name="Soporte Vital" hidden="false" targetId="2945-b85d-72f0-9f72" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="ba27-0318-daff-553d" name="Solid" hidden="false" targetId="477f-7c1c-9cba-3258" type="rule">
+        <infoLink id="ba27-0318-daff-553d" name="Firme [Sólido]" hidden="false" targetId="477f-7c1c-9cba-3258" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -3473,7 +3473,7 @@
       </categoryLinks>
       <selectionEntries/>
       <selectionEntryGroups>
-        <selectionEntryGroup id="0437-d093-def1-3448" name="Ranged Weapon" hidden="false" collective="false" defaultSelectionEntryId="c2ff-cef9-d2f7-5e4b">
+        <selectionEntryGroup id="0437-d093-def1-3448" name="Arma a Distancia" hidden="false" collective="false" defaultSelectionEntryId="c2ff-cef9-d2f7-5e4b">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -3486,7 +3486,7 @@
           <selectionEntries/>
           <selectionEntryGroups/>
           <entryLinks>
-            <entryLink id="c2ff-cef9-d2f7-5e4b" name="Hailstorm Rifle" hidden="false" targetId="664b-64fe-a897-1e62" type="selectionEntry">
+            <entryLink id="c2ff-cef9-d2f7-5e4b" name="Rifle de Granizo [Hailstorm]" hidden="false" targetId="664b-64fe-a897-1e62" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -3518,7 +3518,7 @@
             </entryLink>
           </entryLinks>
         </selectionEntryGroup>
-        <selectionEntryGroup id="c8bf-1329-3a1f-ead2" name="Melee Weapon" hidden="false" collective="false" defaultSelectionEntryId="75f9-ae2d-5d56-60e7">
+        <selectionEntryGroup id="c8bf-1329-3a1f-ead2" name="Arma de Melé" hidden="false" collective="false" defaultSelectionEntryId="75f9-ae2d-5d56-60e7">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -3557,7 +3557,7 @@
         </selectionEntryGroup>
       </selectionEntryGroups>
       <entryLinks>
-        <entryLink id="9806-a294-0b19-f4df" name="Items" hidden="false" targetId="f81a-881c-8a85-fee0" type="selectionEntryGroup">
+        <entryLink id="9806-a294-0b19-f4df" name="Objetos" hidden="false" targetId="f81a-881c-8a85-fee0" type="selectionEntryGroup">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -3565,7 +3565,7 @@
           <constraints/>
           <categoryLinks/>
         </entryLink>
-        <entryLink id="cc30-82d8-fb0c-00d0" name="Burst Pistol *" hidden="false" targetId="ee51-dc0a-5c62-d92b" type="selectionEntry">
+        <entryLink id="cc30-82d8-fb0c-00d0" name="Burst Pistola *" hidden="false" targetId="ee51-dc0a-5c62-d92b" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -3578,24 +3578,24 @@
       </entryLinks>
       <costs>
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="42.0"/>
-        <cost name="VPs" costTypeId="02a0-6bab-fa73-4a98" value="4.0"/>
+        <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="4.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="22dc-8c82-8d80-dd5c" name="Thorgarim Huscarl" book="Deadzone: Outbreak" page="35" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="0ae5-7e8a-452e-33bc" name="Thorgarim Huscarl" book="Deadzone 2nd Ed Rulebook" page="67" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Leader">
+        <profile id="0ae5-7e8a-452e-33bc" name="Thorgarim Huscarl" book="Reglamento Deadzone 2ª Edición" page="67" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Leader">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers/>
           <characteristics>
-            <characteristic name="Speed" characteristicTypeId="4e85-eaa5-eccb-41d1" value="1-2"/>
-            <characteristic name="Armour" characteristicTypeId="6e20-a2eb-4873-facd" value="1"/>
-            <characteristic name="Size" characteristicTypeId="72ed-1424-6a6b-51d8" value="1"/>
-            <characteristic name="Shoot" characteristicTypeId="8e81-1fe3-f677-8d5c" value="4+"/>
-            <characteristic name="Fight" characteristicTypeId="5ab1-1acc-a108-daf5" value="3+"/>
-            <characteristic name="Survive" characteristicTypeId="2375-5bce-3345-261b" value="4+"/>
-            <characteristic name="Recon" characteristicTypeId="af03-2f51-1267-9c64" value="5+"/>
+            <characteristic name="Velocidad" characteristicTypeId="4e85-eaa5-eccb-41d1" value="1-2"/>
+            <characteristic name="Armadura" characteristicTypeId="6e20-a2eb-4873-facd" value="1"/>
+            <characteristic name="Tamaño" characteristicTypeId="72ed-1424-6a6b-51d8" value="1"/>
+            <characteristic name="Disparo" characteristicTypeId="8e81-1fe3-f677-8d5c" value="4+"/>
+            <characteristic name="Lucha" characteristicTypeId="5ab1-1acc-a108-daf5" value="3+"/>
+            <characteristic name="Supervivencia" characteristicTypeId="2375-5bce-3345-261b" value="4+"/>
+            <characteristic name="Reconocimiento" characteristicTypeId="af03-2f51-1267-9c64" value="5+"/>
           </characteristics>
         </profile>
       </profiles>
@@ -3605,16 +3605,16 @@
           <rules/>
           <infoLinks/>
           <modifiers/>
-          <description>Spend an Army Special Result to allow a model with a Hammer to perform an R2, Frag (2) attack as a Special Action once during its activation. This ability may not be used by an Iron Ancestor.</description>
+          <description>Spend an Army Special Result to allow a model with a Hammer to perform an A2, Frag (2) attack as a Special Action once during its activation. This ability may not be used by an Iron Ancestor.</description>
         </rule>
       </rules>
       <infoLinks>
-        <infoLink id="6072-ebd6-7a6d-d93b" name="Tactician (n)" hidden="false" targetId="61bb-0743-e806-2bfc" type="rule">
+        <infoLink id="6072-ebd6-7a6d-d93b" name="Táctico (n)" hidden="false" targetId="61bb-0743-e806-2bfc" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers>
-            <modifier type="set" field="name" value="Tactician (1)">
+            <modifier type="set" field="name" value="Táctico (1)">
               <repeats/>
               <conditions/>
               <conditionGroups/>
@@ -3635,7 +3635,7 @@
       </categoryLinks>
       <selectionEntries/>
       <selectionEntryGroups>
-        <selectionEntryGroup id="d0a6-72f0-8675-9576" name="Ranged Weapon" hidden="false" collective="false" defaultSelectionEntryId="6c28-c20c-d9ab-869f">
+        <selectionEntryGroup id="d0a6-72f0-8675-9576" name="Arma a Distancia" hidden="false" collective="false" defaultSelectionEntryId="6c28-c20c-d9ab-869f">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -3648,7 +3648,7 @@
           <selectionEntries/>
           <selectionEntryGroups/>
           <entryLinks>
-            <entryLink id="6c28-c20c-d9ab-869f" name="Hailstorm Pistol" hidden="false" targetId="d78a-14fc-c78e-9bc0" type="selectionEntry">
+            <entryLink id="6c28-c20c-d9ab-869f" name="Pistola de Granizo [Hailstorm]" hidden="false" targetId="d78a-14fc-c78e-9bc0" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -3662,7 +3662,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="f656-efa3-3cc2-9881" name="Hailstorm Rifle" hidden="false" targetId="664b-64fe-a897-1e62" type="selectionEntry">
+            <entryLink id="f656-efa3-3cc2-9881" name="Rifle de Granizo [Hailstorm]" hidden="false" targetId="664b-64fe-a897-1e62" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -3672,7 +3672,7 @@
             </entryLink>
           </entryLinks>
         </selectionEntryGroup>
-        <selectionEntryGroup id="b6e3-4324-5cf4-5a68" name="Melee Weapon" hidden="false" collective="false" defaultSelectionEntryId="3227-7fb8-5458-5f0d">
+        <selectionEntryGroup id="b6e3-4324-5cf4-5a68" name="Arma de Melé" hidden="false" collective="false" defaultSelectionEntryId="3227-7fb8-5458-5f0d">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -3711,7 +3711,7 @@
         </selectionEntryGroup>
       </selectionEntryGroups>
       <entryLinks>
-        <entryLink id="0968-c8eb-3928-2f6d" name="Items" hidden="false" targetId="f81a-881c-8a85-fee0" type="selectionEntryGroup">
+        <entryLink id="0968-c8eb-3928-2f6d" name="Objetos" hidden="false" targetId="f81a-881c-8a85-fee0" type="selectionEntryGroup">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -3719,7 +3719,7 @@
           <constraints/>
           <categoryLinks/>
         </entryLink>
-        <entryLink id="7c33-fdba-7bcc-9386" name="Burst Pistol *" hidden="false" targetId="ee51-dc0a-5c62-d92b" type="selectionEntry">
+        <entryLink id="7c33-fdba-7bcc-9386" name="Burst Pistola *" hidden="false" targetId="ee51-dc0a-5c62-d92b" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -3732,7 +3732,7 @@
       </entryLinks>
       <costs>
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="30.0"/>
-        <cost name="VPs" costTypeId="02a0-6bab-fa73-4a98" value="3.0"/>
+        <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="3.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="1ed4-4feb-c294-7d42" name="Thorgarim" book="Deadzone: Outbreak" page="36" hidden="true" collective="false" type="unit">
@@ -3743,12 +3743,12 @@
           <infoLinks/>
           <modifiers/>
           <characteristics>
-            <characteristic name="Speed" characteristicTypeId="df17-4b5c-638f-0807" value="1-2"/>
-            <characteristic name="Armour" characteristicTypeId="0274-bb56-5442-a0f1" value="1"/>
-            <characteristic name="Size" characteristicTypeId="2623-46e7-250f-eacf" value="1"/>
-            <characteristic name="Shoot" characteristicTypeId="68ea-7e51-32e7-70c8" value="5+"/>
-            <characteristic name="Fight" characteristicTypeId="cf38-e165-7d39-0773" value="4+"/>
-            <characteristic name="Survive" characteristicTypeId="ecb0-eafd-b6fa-91a0" value="4+"/>
+            <characteristic name="Velocidad" characteristicTypeId="df17-4b5c-638f-0807" value="1-2"/>
+            <characteristic name="Armadura" characteristicTypeId="0274-bb56-5442-a0f1" value="1"/>
+            <characteristic name="Tamaño" characteristicTypeId="2623-46e7-250f-eacf" value="1"/>
+            <characteristic name="Disparo" characteristicTypeId="68ea-7e51-32e7-70c8" value="5+"/>
+            <characteristic name="Lucha" characteristicTypeId="cf38-e165-7d39-0773" value="4+"/>
+            <characteristic name="Supervivencia" characteristicTypeId="ecb0-eafd-b6fa-91a0" value="4+"/>
           </characteristics>
         </profile>
       </profiles>
@@ -3810,7 +3810,7 @@
       </categoryLinks>
       <selectionEntries/>
       <selectionEntryGroups>
-        <selectionEntryGroup id="5c18-ac6b-b3ed-e92f" name="Melee Weapon" hidden="false" collective="false" defaultSelectionEntryId="c732-25ad-0764-983b">
+        <selectionEntryGroup id="5c18-ac6b-b3ed-e92f" name="Arma de Melé" hidden="false" collective="false" defaultSelectionEntryId="c732-25ad-0764-983b">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -3849,7 +3849,7 @@
         </selectionEntryGroup>
       </selectionEntryGroups>
       <entryLinks>
-        <entryLink id="3d72-bfd2-97e5-2f5b" name="Items" hidden="false" targetId="f81a-881c-8a85-fee0" type="selectionEntryGroup">
+        <entryLink id="3d72-bfd2-97e5-2f5b" name="Objetos" hidden="false" targetId="f81a-881c-8a85-fee0" type="selectionEntryGroup">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -3860,7 +3860,7 @@
       </entryLinks>
       <costs>
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="17.0"/>
-        <cost name="VPs" costTypeId="02a0-6bab-fa73-4a98" value="2.0"/>
+        <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="2.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="e6d7-1039-cd2b-62bb" name="Hammerfist Drop Trooper" book="Deadzone: Infestation" page="24" hidden="true" collective="false" type="unit">
@@ -3871,18 +3871,18 @@
           <infoLinks/>
           <modifiers/>
           <characteristics>
-            <characteristic name="Speed" characteristicTypeId="df17-4b5c-638f-0807" value="1-2"/>
-            <characteristic name="Armour" characteristicTypeId="0274-bb56-5442-a0f1" value="1"/>
-            <characteristic name="Size" characteristicTypeId="2623-46e7-250f-eacf" value="1"/>
-            <characteristic name="Shoot" characteristicTypeId="68ea-7e51-32e7-70c8" value="4+"/>
-            <characteristic name="Fight" characteristicTypeId="cf38-e165-7d39-0773" value="5+"/>
-            <characteristic name="Survive" characteristicTypeId="ecb0-eafd-b6fa-91a0" value="4+"/>
+            <characteristic name="Velocidad" characteristicTypeId="df17-4b5c-638f-0807" value="1-2"/>
+            <characteristic name="Armadura" characteristicTypeId="0274-bb56-5442-a0f1" value="1"/>
+            <characteristic name="Tamaño" characteristicTypeId="2623-46e7-250f-eacf" value="1"/>
+            <characteristic name="Disparo" characteristicTypeId="68ea-7e51-32e7-70c8" value="4+"/>
+            <characteristic name="Lucha" characteristicTypeId="cf38-e165-7d39-0773" value="5+"/>
+            <characteristic name="Supervivencia" characteristicTypeId="ecb0-eafd-b6fa-91a0" value="4+"/>
           </characteristics>
         </profile>
       </profiles>
       <rules/>
       <infoLinks>
-        <infoLink id="ee48-5937-fede-372f" name="Hammerfist Drop Armour" hidden="false" targetId="161c-6a76-f4de-073c" type="rule">
+        <infoLink id="ee48-5937-fede-372f" name="Hammerfist Drop Armadura" hidden="false" targetId="161c-6a76-f4de-073c" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -3977,10 +3977,10 @@
       </entryLinks>
       <costs>
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="28.0"/>
-        <cost name="VPs" costTypeId="02a0-6bab-fa73-4a98" value="2.0"/>
+        <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="2.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="1268-34dd-5fa7-0517" name="Forge Lord Ingulf Krestürsson" book="Deadzone: Outbreak" page="82" hidden="true" collective="false" type="unit">
+    <selectionEntry id="1268-34dd-5fa7-0517" name="Forge Lord Ingulf KrestÃ¼rsson" book="Deadzone: Outbreak" page="82" hidden="true" collective="false" type="unit">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -4034,7 +4034,7 @@
       <selectionEntries/>
       <selectionEntryGroups/>
       <entryLinks>
-        <entryLink id="2038-962d-5963-58e7" name="Forge Lord Ingulf Krestürsson" hidden="false" targetId="7f4f-38ec-616e-e8f3" type="selectionEntry">
+        <entryLink id="2038-962d-5963-58e7" name="Forge Lord Ingulf KrestÃ¼rsson" hidden="false" targetId="7f4f-38ec-616e-e8f3" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -4045,7 +4045,7 @@
           </constraints>
           <categoryLinks/>
         </entryLink>
-        <entryLink id="7cde-4955-8386-1bd2" name="Items" hidden="false" targetId="f81a-881c-8a85-fee0" type="selectionEntryGroup">
+        <entryLink id="7cde-4955-8386-1bd2" name="Objetos" hidden="false" targetId="f81a-881c-8a85-fee0" type="selectionEntryGroup">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -4055,36 +4055,36 @@
         </entryLink>
       </entryLinks>
       <costs>
-        <cost name="VPs" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
+        <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="0.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="19f5-92fc-e35b-5f76" name="Forge Guard" book="Deadzone: Outbreak" page="37" hidden="true" collective="false" type="unit">
       <profiles>
-        <profile id="ef1d-545c-95a0-01f0" name="Forge Guard" book="Deadzone 2nd Ed Rulebook" page="68" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
+        <profile id="ef1d-545c-95a0-01f0" name="Forge Guard" book="Reglamento Deadzone 2ª Edición" page="68" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers/>
           <characteristics>
-            <characteristic name="Speed" characteristicTypeId="df17-4b5c-638f-0807" value="1-1"/>
-            <characteristic name="Armour" characteristicTypeId="0274-bb56-5442-a0f1" value="2"/>
-            <characteristic name="Size" characteristicTypeId="2623-46e7-250f-eacf" value="1"/>
-            <characteristic name="Shoot" characteristicTypeId="68ea-7e51-32e7-70c8" value="4+"/>
-            <characteristic name="Fight" characteristicTypeId="cf38-e165-7d39-0773" value="5+"/>
-            <characteristic name="Survive" characteristicTypeId="ecb0-eafd-b6fa-91a0" value="4+"/>
+            <characteristic name="Velocidad" characteristicTypeId="df17-4b5c-638f-0807" value="1-1"/>
+            <characteristic name="Armadura" characteristicTypeId="0274-bb56-5442-a0f1" value="2"/>
+            <characteristic name="Tamaño" characteristicTypeId="2623-46e7-250f-eacf" value="1"/>
+            <characteristic name="Disparo" characteristicTypeId="68ea-7e51-32e7-70c8" value="4+"/>
+            <characteristic name="Lucha" characteristicTypeId="cf38-e165-7d39-0773" value="5+"/>
+            <characteristic name="Supervivencia" characteristicTypeId="ecb0-eafd-b6fa-91a0" value="4+"/>
           </characteristics>
         </profile>
       </profiles>
       <rules/>
       <infoLinks>
-        <infoLink id="a409-8caf-82e2-9f96" name="Life Support" hidden="false" targetId="2945-b85d-72f0-9f72" type="rule">
+        <infoLink id="a409-8caf-82e2-9f96" name="Soporte Vital" hidden="false" targetId="2945-b85d-72f0-9f72" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="8f56-e8c7-f5a0-5b9b" name="Solid" hidden="false" targetId="477f-7c1c-9cba-3258" type="rule">
+        <infoLink id="8f56-e8c7-f5a0-5b9b" name="Firme [Sólido]" hidden="false" targetId="477f-7c1c-9cba-3258" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -4112,7 +4112,7 @@
       </categoryLinks>
       <selectionEntries/>
       <selectionEntryGroups>
-        <selectionEntryGroup id="d71f-5ac8-2c22-41dc" name="Ranged Weapon" hidden="false" collective="false">
+        <selectionEntryGroup id="d71f-5ac8-2c22-41dc" name="Arma a Distancia" hidden="false" collective="false">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -4125,7 +4125,7 @@
           <selectionEntries/>
           <selectionEntryGroups/>
           <entryLinks>
-            <entryLink id="623b-99b2-c53d-d295" name="Hailstorm Rifle" hidden="false" targetId="664b-64fe-a897-1e62" type="selectionEntry">
+            <entryLink id="623b-99b2-c53d-d295" name="Rifle de Granizo [Hailstorm]" hidden="false" targetId="664b-64fe-a897-1e62" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -4184,12 +4184,12 @@
           </constraints>
           <categoryLinks/>
         </entryLink>
-        <entryLink id="03b6-3b91-26a3-cbc7" name="Missile Launcher" hidden="false" targetId="6aa2-38eb-ed16-419c" type="selectionEntry">
+        <entryLink id="03b6-3b91-26a3-cbc7" name="Lanzamisiles" hidden="false" targetId="6aa2-38eb-ed16-419c" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers>
-            <modifier type="set" field="name" value="Missile Launcher (Hardpoint)">
+            <modifier type="set" field="name" value="Lanzamisiles (Hardpoint)">
               <repeats/>
               <conditions/>
               <conditionGroups/>
@@ -4203,7 +4203,7 @@
       </entryLinks>
       <costs>
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="28.0"/>
-        <cost name="VPs" costTypeId="02a0-6bab-fa73-4a98" value="3.0"/>
+        <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="3.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="2c06-b7d1-8dfa-37e9" name="Bjarn Starnafall" book="Deadzone: Infestation" page="24" hidden="false" collective="false" type="unit">
@@ -4214,13 +4214,13 @@
           <infoLinks/>
           <modifiers/>
           <characteristics>
-            <characteristic name="Speed" characteristicTypeId="4e85-eaa5-eccb-41d1" value="1-2"/>
-            <characteristic name="Armour" characteristicTypeId="6e20-a2eb-4873-facd" value="1"/>
-            <characteristic name="Size" characteristicTypeId="72ed-1424-6a6b-51d8" value="1"/>
-            <characteristic name="Shoot" characteristicTypeId="8e81-1fe3-f677-8d5c" value="4+"/>
-            <characteristic name="Fight" characteristicTypeId="5ab1-1acc-a108-daf5" value="6+"/>
-            <characteristic name="Survive" characteristicTypeId="2375-5bce-3345-261b" value="3+"/>
-            <characteristic name="Recon" characteristicTypeId="af03-2f51-1267-9c64" value="5+"/>
+            <characteristic name="Velocidad" characteristicTypeId="4e85-eaa5-eccb-41d1" value="1-2"/>
+            <characteristic name="Armadura" characteristicTypeId="6e20-a2eb-4873-facd" value="1"/>
+            <characteristic name="Tamaño" characteristicTypeId="72ed-1424-6a6b-51d8" value="1"/>
+            <characteristic name="Disparo" characteristicTypeId="8e81-1fe3-f677-8d5c" value="4+"/>
+            <characteristic name="Lucha" characteristicTypeId="5ab1-1acc-a108-daf5" value="6+"/>
+            <characteristic name="Supervivencia" characteristicTypeId="2375-5bce-3345-261b" value="3+"/>
+            <characteristic name="Reconocimiento" characteristicTypeId="af03-2f51-1267-9c64" value="5+"/>
           </characteristics>
         </profile>
       </profiles>
@@ -4230,17 +4230,17 @@
           <rules/>
           <infoLinks/>
           <modifiers/>
-          <description>Spend an Army Special result to call in a model equipped with Hammerfist Drop Armour. Place the Hammerfist model as per the usual rules for Hammerfist Drop Armour, with the exception that the cube may be occupied by an enemy model. When the model lands, instead of the usual rules for Hammerfist Drop Armour, resolve a Frag (4) explosion in the cube against any models that were in the cube prior to the Hammerfist model’s arrival. If any enemy models remain alive in the target cube, the Hammerfist model initiates a Fight action against one enemy model as if the enemy model was pinned and the Hammerfist model had entered the cube.</description>
+          <description>Spend an Army Special result to call in a model equipped with Hammerfist Drop Armadura. Place the Hammerfist model as per the usual rules for Hammerfist Drop Armadura, with the exception that the cube may be occupied by an enemy model. When the model lands, instead of the usual rules for Hammerfist Drop Armadura, resolve a Frag (4) explosion in the cube against any models that were in the cube prior to the Hammerfist models arrival. If any enemy models remain alive in the target cube, the Hammerfist model initiates a Lucha action against one enemy model as if the enemy model was pinned and the Hammerfist model had entered the cube.</description>
         </rule>
       </rules>
       <infoLinks>
-        <infoLink id="809d-3450-8c10-e806" name="Tough" hidden="false" targetId="df54-2d71-8800-b15f" type="rule">
+        <infoLink id="809d-3450-8c10-e806" name="Duro" hidden="false" targetId="df54-2d71-8800-b15f" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="5548-888b-907c-90f5" name="Hammerfist Drop Armour" hidden="false" targetId="161c-6a76-f4de-073c" type="rule">
+        <infoLink id="5548-888b-907c-90f5" name="Hammerfist Drop Armadura" hidden="false" targetId="161c-6a76-f4de-073c" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -4261,7 +4261,7 @@
       <selectionEntries/>
       <selectionEntryGroups/>
       <entryLinks>
-        <entryLink id="219e-daa0-042b-8207" name="Knife" hidden="false" targetId="7a3c-8f4b-5072-870a" type="selectionEntry">
+        <entryLink id="219e-daa0-042b-8207" name="Cuchillo" hidden="false" targetId="7a3c-8f4b-5072-870a" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -4283,7 +4283,7 @@
           </constraints>
           <categoryLinks/>
         </entryLink>
-        <entryLink id="2e09-d1b5-1b1f-95a7" name="Items" hidden="false" targetId="f81a-881c-8a85-fee0" type="selectionEntryGroup">
+        <entryLink id="2e09-d1b5-1b1f-95a7" name="Objetos" hidden="false" targetId="f81a-881c-8a85-fee0" type="selectionEntryGroup">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -4294,24 +4294,24 @@
       </entryLinks>
       <costs>
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="30.0"/>
-        <cost name="VPs" costTypeId="02a0-6bab-fa73-4a98" value="4.0"/>
+        <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="4.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="a7fb-9223-70fb-6b87" name="Forge Lord Ingulf Krestürsson" book="Deadzone: Outbreak" page="82" hidden="false" collective="false" type="unit">
+    <selectionEntry id="a7fb-9223-70fb-6b87" name="Forge Lord Ingulf Krestrsson" book="Deadzone: Outbreak" page="82" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="c903-8c7e-9a98-a1e0" name="Forge Lord Ingulf Krestürsson" book="Deadzone: Outbreak" page="82" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Leader">
+        <profile id="c903-8c7e-9a98-a1e0" name="Forge Lord Ingulf Krestrsson" book="Deadzone: Outbreak" page="82" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Leader">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers/>
           <characteristics>
-            <characteristic name="Speed" characteristicTypeId="4e85-eaa5-eccb-41d1" value="1-2"/>
-            <characteristic name="Armour" characteristicTypeId="6e20-a2eb-4873-facd" value="2"/>
-            <characteristic name="Size" characteristicTypeId="72ed-1424-6a6b-51d8" value="1"/>
-            <characteristic name="Shoot" characteristicTypeId="8e81-1fe3-f677-8d5c" value="3+"/>
-            <characteristic name="Fight" characteristicTypeId="5ab1-1acc-a108-daf5" value="3+"/>
-            <characteristic name="Survive" characteristicTypeId="2375-5bce-3345-261b" value="4+"/>
-            <characteristic name="Recon" characteristicTypeId="af03-2f51-1267-9c64" value="4+"/>
+            <characteristic name="Velocidad" characteristicTypeId="4e85-eaa5-eccb-41d1" value="1-2"/>
+            <characteristic name="Armadura" characteristicTypeId="6e20-a2eb-4873-facd" value="2"/>
+            <characteristic name="Tamaño" characteristicTypeId="72ed-1424-6a6b-51d8" value="1"/>
+            <characteristic name="Disparo" characteristicTypeId="8e81-1fe3-f677-8d5c" value="3+"/>
+            <characteristic name="Lucha" characteristicTypeId="5ab1-1acc-a108-daf5" value="3+"/>
+            <characteristic name="Supervivencia" characteristicTypeId="2375-5bce-3345-261b" value="4+"/>
+            <characteristic name="Reconocimiento" characteristicTypeId="af03-2f51-1267-9c64" value="4+"/>
           </characteristics>
         </profile>
       </profiles>
@@ -4325,25 +4325,25 @@
         </rule>
       </rules>
       <infoLinks>
-        <infoLink id="8519-c360-d528-f38f" name="Tactician (n)" hidden="false" targetId="61bb-0743-e806-2bfc" type="rule">
+        <infoLink id="8519-c360-d528-f38f" name="Táctico (n)" hidden="false" targetId="61bb-0743-e806-2bfc" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers>
-            <modifier type="set" field="name" value="Tactician (3)">
+            <modifier type="set" field="name" value="Táctico (3)">
               <repeats/>
               <conditions/>
               <conditionGroups/>
             </modifier>
           </modifiers>
         </infoLink>
-        <infoLink id="ad3f-e838-3953-f468" name="Life Support" hidden="false" targetId="2945-b85d-72f0-9f72" type="rule">
+        <infoLink id="ad3f-e838-3953-f468" name="Soporte Vital" hidden="false" targetId="2945-b85d-72f0-9f72" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="35fc-09a4-1be6-d9b5" name="Solid" hidden="false" targetId="477f-7c1c-9cba-3258" type="rule">
+        <infoLink id="35fc-09a4-1be6-d9b5" name="Firme [Sólido]" hidden="false" targetId="477f-7c1c-9cba-3258" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -4376,16 +4376,16 @@
               <infoLinks/>
               <modifiers/>
               <characteristics>
-                <characteristic name="Range" characteristicTypeId="df8a-ee5b-d620-4246" value="R3"/>
-                <characteristic name="AP" characteristicTypeId="3ef9-9c4e-a280-fccb" value="AP1"/>
-                <characteristic name="Abilities" characteristicTypeId="faf9-0187-1806-7214" value="Heavy, Volatile, It Burns!"/>
-                <characteristic name="Type" characteristicTypeId="90af-0797-a0fd-965c" value=""/>
+                <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A3"/>
+                <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="PA1"/>
+                <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Pesada, Volatile, It Burns!"/>
+                <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value=""/>
               </characteristics>
             </profile>
           </profiles>
           <rules/>
           <infoLinks>
-            <infoLink id="24da-8cd6-982b-90c4" name="Heavy" hidden="false" targetId="20eb-5380-3d00-044b" type="rule">
+            <infoLink id="24da-8cd6-982b-90c4" name="Pesada" hidden="false" targetId="20eb-5380-3d00-044b" type="rule">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -4414,7 +4414,7 @@
           <selectionEntryGroups/>
           <entryLinks/>
           <costs>
-            <cost name="VPs" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
+            <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
             <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="0.0"/>
           </costs>
         </selectionEntry>
@@ -4426,12 +4426,12 @@
               <infoLinks/>
               <modifiers/>
               <characteristics>
-                <characteristic name="Speed" characteristicTypeId="df17-4b5c-638f-0807" value="2-3"/>
-                <characteristic name="Armour" characteristicTypeId="0274-bb56-5442-a0f1" value="0"/>
-                <characteristic name="Size" characteristicTypeId="2623-46e7-250f-eacf" value="1"/>
-                <characteristic name="Shoot" characteristicTypeId="68ea-7e51-32e7-70c8" value="-"/>
-                <characteristic name="Fight" characteristicTypeId="cf38-e165-7d39-0773" value="4+"/>
-                <characteristic name="Survive" characteristicTypeId="ecb0-eafd-b6fa-91a0" value="6+"/>
+                <characteristic name="Velocidad" characteristicTypeId="df17-4b5c-638f-0807" value="2-3"/>
+                <characteristic name="Armadura" characteristicTypeId="0274-bb56-5442-a0f1" value="0"/>
+                <characteristic name="Tamaño" characteristicTypeId="2623-46e7-250f-eacf" value="1"/>
+                <characteristic name="Disparo" characteristicTypeId="68ea-7e51-32e7-70c8" value="-"/>
+                <characteristic name="Lucha" characteristicTypeId="cf38-e165-7d39-0773" value="4+"/>
+                <characteristic name="Supervivencia" characteristicTypeId="ecb0-eafd-b6fa-91a0" value="6+"/>
               </characteristics>
             </profile>
           </profiles>
@@ -4441,7 +4441,7 @@
               <rules/>
               <infoLinks/>
               <modifiers/>
-              <description>You may only include Padd in a strike team that contains Forge Lord Ingulf Krestürsson.  Padd may only be included once per strike team.</description>
+              <description>You may only include Padd in a strike team that contains Forge Lord Ingulf Krestrsson.  Padd may only be included once per strike team.</description>
             </rule>
           </rules>
           <infoLinks>
@@ -4474,10 +4474,10 @@
                   <infoLinks/>
                   <modifiers/>
                   <characteristics>
-                    <characteristic name="Range" characteristicTypeId="df8a-ee5b-d620-4246" value="RF"/>
-                    <characteristic name="AP" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
-                    <characteristic name="Abilities" characteristicTypeId="faf9-0187-1806-7214" value="Frenzy (1)"/>
-                    <characteristic name="Type" characteristicTypeId="90af-0797-a0fd-965c"/>
+                    <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="AL"/>
+                    <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
+                    <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Furia (1)"/>
+                    <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c"/>
                   </characteristics>
                 </profile>
               </profiles>
@@ -4493,7 +4493,7 @@
               <selectionEntryGroups/>
               <entryLinks/>
               <costs>
-                <cost name="VPs" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
+                <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
                 <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="0.0"/>
               </costs>
             </selectionEntry>
@@ -4501,7 +4501,7 @@
           <selectionEntryGroups/>
           <entryLinks/>
           <costs>
-            <cost name="VPs" costTypeId="02a0-6bab-fa73-4a98" value="1.0"/>
+            <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="1.0"/>
             <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="7.0"/>
           </costs>
         </selectionEntry>
@@ -4525,7 +4525,7 @@
           </constraints>
           <categoryLinks/>
         </entryLink>
-        <entryLink id="8c16-cb06-a7f3-496d" name="Items" hidden="false" targetId="f81a-881c-8a85-fee0" type="selectionEntryGroup">
+        <entryLink id="8c16-cb06-a7f3-496d" name="Objetos" hidden="false" targetId="f81a-881c-8a85-fee0" type="selectionEntryGroup">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -4535,7 +4535,7 @@
         </entryLink>
       </entryLinks>
       <costs>
-        <cost name="VPs" costTypeId="02a0-6bab-fa73-4a98" value="5.0"/>
+        <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="5.0"/>
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="45.0"/>
       </costs>
     </selectionEntry>
@@ -4561,20 +4561,20 @@
       <entryLinks/>
       <costs>
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="5.0"/>
-        <cost name="VPs" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
+        <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="664b-64fe-a897-1e62" name="Hailstorm Rifle" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="664b-64fe-a897-1e62" name="Rifle de Granizo [Hailstorm]" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="e7c6-ce77-b768-beff" name="Hailstorm Rifle" hidden="false" targetId="44cb-8209-f1e2-69f0" type="profile">
+        <infoLink id="e7c6-ce77-b768-beff" name="Rifle de Granizo [Hailstorm]" hidden="false" targetId="44cb-8209-f1e2-69f0" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="c0c0-df3a-72ee-9f9c" name="Rapid Fire" hidden="false" targetId="dd9c-58ef-1fec-28b8" type="rule">
+        <infoLink id="c0c0-df3a-72ee-9f9c" name="Fuego Rápido" hidden="false" targetId="dd9c-58ef-1fec-28b8" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -4589,20 +4589,20 @@
       <entryLinks/>
       <costs>
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="3.0"/>
-        <cost name="VPs" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
+        <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="ee51-dc0a-5c62-d92b" name="Burst Pistol *" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="ee51-dc0a-5c62-d92b" name="Burst Pistola *" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="52a7-1904-c540-ed46" name="Burst Pistol" hidden="false" targetId="95e0-c1c0-1a1a-347c" type="profile">
+        <infoLink id="52a7-1904-c540-ed46" name="Burst Pistola" hidden="false" targetId="95e0-c1c0-1a1a-347c" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="9372-e8c9-b937-6a78" name="Rapid Fire" hidden="false" targetId="dd9c-58ef-1fec-28b8" type="rule">
+        <infoLink id="9372-e8c9-b937-6a78" name="Fuego Rápido" hidden="false" targetId="dd9c-58ef-1fec-28b8" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -4616,33 +4616,33 @@
       <selectionEntryGroups/>
       <entryLinks/>
       <costs>
-        <cost name="VPs" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
+        <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="1.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="d78a-14fc-c78e-9bc0" name="Hailstorm Pistol" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="d78a-14fc-c78e-9bc0" name="Pistola de Granizo [Hailstorm]" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="b12a-24e8-6058-8a64" name="Hailstorm Pistol" hidden="false" targetId="cad6-0564-9d9e-6fd8" type="profile">
+        <infoLink id="b12a-24e8-6058-8a64" name="Pistola de Granizo [Hailstorm]" hidden="false" targetId="cad6-0564-9d9e-6fd8" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="89cb-6329-fadf-4ff3" name="Weight of Fire (n)" hidden="false" targetId="fe68-94f5-c309-65bd" type="rule">
+        <infoLink id="89cb-6329-fadf-4ff3" name="Cadencia de Fuego (n)" hidden="false" targetId="fe68-94f5-c309-65bd" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers>
-            <modifier type="set" field="name" value="Weight of Fire (1)">
+            <modifier type="set" field="name" value="Cadencia de Fuego (1)">
               <repeats/>
               <conditions/>
               <conditionGroups/>
             </modifier>
           </modifiers>
         </infoLink>
-        <infoLink id="283d-e800-0093-53a3" name="Rapid Fire" hidden="false" targetId="dd9c-58ef-1fec-28b8" type="rule">
+        <infoLink id="283d-e800-0093-53a3" name="Fuego Rápido" hidden="false" targetId="dd9c-58ef-1fec-28b8" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -4657,20 +4657,20 @@
       <entryLinks/>
       <costs>
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="3.0"/>
-        <cost name="VPs" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
+        <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="6aa2-38eb-ed16-419c" name="Missile Launcher" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="6aa2-38eb-ed16-419c" name="Lanzamisiles" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="3488-150a-f87b-3f02" name="Missile Launcher" hidden="false" targetId="73e7-934a-58d1-dc2c" type="profile">
+        <infoLink id="3488-150a-f87b-3f02" name="Lanzamisiles" hidden="false" targetId="73e7-934a-58d1-dc2c" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="2331-7a62-1152-12d3" name="Heavy" hidden="false" targetId="20eb-5380-3d00-044b" type="rule">
+        <infoLink id="2331-7a62-1152-12d3" name="Pesada" hidden="false" targetId="20eb-5380-3d00-044b" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -4685,32 +4685,32 @@
       <entryLinks/>
       <costs>
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="8.0"/>
-        <cost name="VPs" costTypeId="02a0-6bab-fa73-4a98" value="1.0"/>
+        <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="1.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="2c87-59f5-a4d9-d6cd" name="Twin Hailstorm Rifles" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="2c87-59f5-a4d9-d6cd" name="Twin Rifles de Granizo [Hailstorm]" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="eb5f-b299-8ec3-2716" name="Twin Hailstorm Rifles" hidden="false" targetId="d5a1-e52d-2454-23f0" type="profile">
+        <infoLink id="eb5f-b299-8ec3-2716" name="Twin Rifles de Granizo [Hailstorm]" hidden="false" targetId="d5a1-e52d-2454-23f0" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="72a4-6019-8ec1-a0ec" name="Weight of Fire (n)" hidden="false" targetId="fe68-94f5-c309-65bd" type="rule">
+        <infoLink id="72a4-6019-8ec1-a0ec" name="Cadencia de Fuego (n)" hidden="false" targetId="fe68-94f5-c309-65bd" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers>
-            <modifier type="set" field="name" value="Weight of Fire (1)">
+            <modifier type="set" field="name" value="Cadencia de Fuego (1)">
               <repeats/>
               <conditions/>
               <conditionGroups/>
             </modifier>
           </modifiers>
         </infoLink>
-        <infoLink id="90c5-64b4-4ab8-5b9b" name="Rapid Fire" hidden="false" targetId="dd9c-58ef-1fec-28b8" type="rule">
+        <infoLink id="90c5-64b4-4ab8-5b9b" name="Fuego Rápido" hidden="false" targetId="dd9c-58ef-1fec-28b8" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -4725,7 +4725,7 @@
       <entryLinks/>
       <costs>
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="5.0"/>
-        <cost name="VPs" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
+        <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="cdad-e195-07d2-a38e" name="Magma Rifle" hidden="false" collective="false" type="upgrade">
@@ -4753,7 +4753,7 @@
       <entryLinks/>
       <costs>
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="7.0"/>
-        <cost name="VPs" costTypeId="02a0-6bab-fa73-4a98" value="1.0"/>
+        <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="1.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="e9bb-ea0f-e898-0c8f" name="Magma Cannon" hidden="false" collective="false" type="upgrade">
@@ -4775,7 +4775,7 @@
       <entryLinks/>
       <costs>
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="8.0"/>
-        <cost name="VPs" costTypeId="02a0-6bab-fa73-4a98" value="1.0"/>
+        <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="1.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="86d1-71f4-7845-9710" name="Twin Hailstorm Pistols" hidden="false" collective="false" type="upgrade">
@@ -4788,19 +4788,19 @@
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="7d3e-b677-56ae-60d1" name="Weight of Fire (n)" hidden="false" targetId="fe68-94f5-c309-65bd" type="rule">
+        <infoLink id="7d3e-b677-56ae-60d1" name="Cadencia de Fuego (n)" hidden="false" targetId="fe68-94f5-c309-65bd" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers>
-            <modifier type="set" field="name" value="Weight of Fire (2)">
+            <modifier type="set" field="name" value="Cadencia de Fuego (2)">
               <repeats/>
               <conditions/>
               <conditionGroups/>
             </modifier>
           </modifiers>
         </infoLink>
-        <infoLink id="488b-f218-beef-8aec" name="Rapid Fire" hidden="false" targetId="dd9c-58ef-1fec-28b8" type="rule">
+        <infoLink id="488b-f218-beef-8aec" name="Fuego Rápido" hidden="false" targetId="dd9c-58ef-1fec-28b8" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -4815,7 +4815,7 @@
       <entryLinks/>
       <costs>
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="6.0"/>
-        <cost name="VPs" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
+        <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="9915-7b46-887a-c7a6" name="Twin Magma Cannon" hidden="false" collective="false" type="upgrade">
@@ -4828,12 +4828,12 @@
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="a06a-03af-f005-ac94" name="Weight of Fire (n)" hidden="false" targetId="fe68-94f5-c309-65bd" type="rule">
+        <infoLink id="a06a-03af-f005-ac94" name="Cadencia de Fuego (n)" hidden="false" targetId="fe68-94f5-c309-65bd" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers>
-            <modifier type="set" field="name" value="Weight of Fire (1)">
+            <modifier type="set" field="name" value="Cadencia de Fuego (1)">
               <repeats/>
               <conditions/>
               <conditionGroups/>
@@ -4849,7 +4849,7 @@
       <entryLinks/>
       <costs>
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="8.0"/>
-        <cost name="VPs" costTypeId="02a0-6bab-fa73-4a98" value="1.0"/>
+        <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="1.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="8146-444d-0531-fabc" name="Power Claw and Flamer" hidden="false" collective="false" type="upgrade">
@@ -4877,7 +4877,7 @@
       <entryLinks/>
       <costs>
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="13.0"/>
-        <cost name="VPs" costTypeId="02a0-6bab-fa73-4a98" value="1.0"/>
+        <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="1.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="9a5f-dd73-05ab-873b" name="Twin Hailstorm Autocannons" hidden="false" collective="false" type="upgrade">
@@ -4890,12 +4890,12 @@
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="4e76-7af7-7ca3-2ba2" name="Weight of Fire (n)" hidden="false" targetId="fe68-94f5-c309-65bd" type="rule">
+        <infoLink id="4e76-7af7-7ca3-2ba2" name="Cadencia de Fuego (n)" hidden="false" targetId="fe68-94f5-c309-65bd" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers>
-            <modifier type="set" field="name" value="Weight of Fire (1)">
+            <modifier type="set" field="name" value="Cadencia de Fuego (1)">
               <repeats/>
               <conditions/>
               <conditionGroups/>
@@ -4911,7 +4911,7 @@
       <entryLinks/>
       <costs>
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="7.0"/>
-        <cost name="VPs" costTypeId="02a0-6bab-fa73-4a98" value="1.0"/>
+        <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="1.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="366b-0f04-c822-8274" name="Dragon&apos;s Breath" hidden="false" collective="false" type="upgrade">
@@ -4939,7 +4939,7 @@
       <entryLinks/>
       <costs>
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="4.0"/>
-        <cost name="VPs" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
+        <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="9cc6-5257-b96c-e876" name="Hailstorm Autocannon" hidden="false" collective="false" type="upgrade">
@@ -4952,12 +4952,12 @@
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="8769-ab12-8720-5112" name="Weight of Fire (n)" hidden="false" targetId="fe68-94f5-c309-65bd" type="rule">
+        <infoLink id="8769-ab12-8720-5112" name="Cadencia de Fuego (n)" hidden="false" targetId="fe68-94f5-c309-65bd" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers>
-            <modifier type="set" field="name" value="Weight of Fire (1)">
+            <modifier type="set" field="name" value="Cadencia de Fuego (1)">
               <repeats/>
               <conditions/>
               <conditionGroups/>
@@ -4979,7 +4979,7 @@
       <entryLinks/>
       <costs>
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="8.0"/>
-        <cost name="VPs" costTypeId="02a0-6bab-fa73-4a98" value="1.0"/>
+        <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="1.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="9f14-3d97-4d77-11d9" name="IA Forge Hammer" hidden="false" collective="false" type="upgrade">
@@ -5001,14 +5001,14 @@
       <entryLinks/>
       <costs>
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="5.0"/>
-        <cost name="VPs" costTypeId="02a0-6bab-fa73-4a98" value="1.0"/>
+        <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="1.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="c817-5e7d-1f8e-3c20" name="2-Handed Heat Hammer" book="Deadzone: Outbreak" page="39" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="161b-3dbe-0577-8eb7" name="Knockback" hidden="false" targetId="9b4e-17bd-61ab-7feb" type="rule">
+        <infoLink id="161b-3dbe-0577-8eb7" name="Derribo" hidden="false" targetId="9b4e-17bd-61ab-7feb" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -5029,7 +5029,7 @@
       <entryLinks/>
       <costs>
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="8.0"/>
-        <cost name="VPs" costTypeId="02a0-6bab-fa73-4a98" value="1.0"/>
+        <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="1.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="4d70-bb9e-daf0-f78d" name="Inferno Drill" book="Deadzone Infestation" page="24" hidden="false" collective="false" type="upgrade">
@@ -5050,7 +5050,7 @@
       <selectionEntryGroups/>
       <entryLinks/>
       <costs>
-        <cost name="VPs" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
+        <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="0.0"/>
       </costs>
     </selectionEntry>
@@ -5072,13 +5072,13 @@
       <selectionEntryGroups/>
       <entryLinks/>
       <costs>
-        <cost name="VPs" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
+        <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="0.0"/>
       </costs>
     </selectionEntry>
   </sharedSelectionEntries>
   <sharedSelectionEntryGroups>
-    <selectionEntryGroup id="f81a-881c-8a85-fee0" name="Items" book="Deadzone 2nd Ed Rulebook" page="71" hidden="false" collective="false">
+    <selectionEntryGroup id="f81a-881c-8a85-fee0" name="Objetos" book="Reglamento Deadzone 2ª Edición" page="71" hidden="false" collective="false">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -5096,12 +5096,12 @@
               <infoLinks/>
               <modifiers/>
               <characteristics>
-                <characteristic name="Speed" characteristicTypeId="df17-4b5c-638f-0807" value="1-2"/>
-                <characteristic name="Armour" characteristicTypeId="0274-bb56-5442-a0f1" value="0"/>
-                <characteristic name="Size" characteristicTypeId="2623-46e7-250f-eacf" value="1"/>
-                <characteristic name="Shoot" characteristicTypeId="68ea-7e51-32e7-70c8" value="-"/>
-                <characteristic name="Fight" characteristicTypeId="cf38-e165-7d39-0773" value="-"/>
-                <characteristic name="Survive" characteristicTypeId="ecb0-eafd-b6fa-91a0" value="5+"/>
+                <characteristic name="Velocidad" characteristicTypeId="df17-4b5c-638f-0807" value="1-2"/>
+                <characteristic name="Armadura" characteristicTypeId="0274-bb56-5442-a0f1" value="0"/>
+                <characteristic name="Tamaño" characteristicTypeId="2623-46e7-250f-eacf" value="1"/>
+                <characteristic name="Disparo" characteristicTypeId="68ea-7e51-32e7-70c8" value="-"/>
+                <characteristic name="Lucha" characteristicTypeId="cf38-e165-7d39-0773" value="-"/>
+                <characteristic name="Supervivencia" characteristicTypeId="ecb0-eafd-b6fa-91a0" value="5+"/>
               </characteristics>
             </profile>
           </profiles>
@@ -5111,7 +5111,7 @@
               <rules/>
               <infoLinks/>
               <modifiers/>
-              <description>The Bomb Bot is both an item and a model. It is purchased as an item but begins the game deployed as a model and therefore must be activated to move and counts towards your model count for determining if you can reroll Command Dice. To activate a Bomb Bot you must have a model with the Engineer ability within 3 cubes.</description>
+              <description>The Bomb Bot is both an item and a model. It is purchased as an item but begins the game deployed as a model and therefore must be activated to move and counts towards your model count for determining if you can reroll Command Dice. To activate a Bomb Bot you must have a model with the Ingeniero ability within 3 cubes.</description>
             </rule>
           </rules>
           <infoLinks>
@@ -5127,7 +5127,7 @@
                 </modifier>
               </modifiers>
             </infoLink>
-            <infoLink id="bc8c-4824-bd8e-6cca" name="Vehicle" hidden="false" targetId="ea60-c32b-086e-1a17" type="rule">
+            <infoLink id="bc8c-4824-bd8e-6cca" name="Vehículo" hidden="false" targetId="ea60-c32b-086e-1a17" type="rule">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -5139,7 +5139,7 @@
               <infoLinks/>
               <modifiers/>
             </infoLink>
-            <infoLink id="089b-2759-35b7-16b2" name="Construct" hidden="false" targetId="f0c6-e746-f152-933c" type="rule">
+            <infoLink id="089b-2759-35b7-16b2" name="Constructo" hidden="false" targetId="f0c6-e746-f152-933c" type="rule">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -5162,13 +5162,13 @@
           <entryLinks/>
           <costs>
             <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="8.0"/>
-            <cost name="VPs" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
+            <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
           </costs>
         </selectionEntry>
       </selectionEntries>
       <selectionEntryGroups/>
       <entryLinks>
-        <entryLink id="dda0-0e75-924a-4ab6" name="AP Ammo (+)" hidden="false" targetId="e73f-19f7-d7b2-06ba" type="selectionEntry">
+        <entryLink id="dda0-0e75-924a-4ab6" name="Munición Perforante (+)" hidden="false" targetId="e73f-19f7-d7b2-06ba" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -5278,7 +5278,7 @@
             </categoryLink>
           </categoryLinks>
         </entryLink>
-        <entryLink id="aaf5-2d3f-5d16-70d0" name="Smoke Grenade (+)" hidden="false" targetId="97f8-bc82-bd65-3d3f" type="selectionEntry">
+        <entryLink id="aaf5-2d3f-5d16-70d0" name="Granada de Humo (+)" hidden="false" targetId="97f8-bc82-bd65-3d3f" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -5327,184 +5327,184 @@
   </sharedSelectionEntryGroups>
   <sharedRules/>
   <sharedProfiles>
-    <profile id="ac02-8d0f-75d6-0a4a" name="Forge Hammer" book="Deadzone 2nd Ed Rulebook" page="71" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="ac02-8d0f-75d6-0a4a" name="Forge Hammer" book="Reglamento Deadzone 2ª Edición" page="71" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
       <profiles/>
       <rules/>
       <infoLinks/>
       <modifiers/>
       <characteristics>
-        <characteristic name="Range" characteristicTypeId="df8a-ee5b-d620-4246" value="RF"/>
-        <characteristic name="AP" characteristicTypeId="3ef9-9c4e-a280-fccb" value="AP1"/>
-        <characteristic name="Abilities" characteristicTypeId="faf9-0187-1806-7214" value="-"/>
-        <characteristic name="Type" characteristicTypeId="90af-0797-a0fd-965c" value="Light (Melee)"/>
+        <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="AL"/>
+        <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="PA1"/>
+        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="-"/>
+        <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Melé)"/>
       </characteristics>
     </profile>
-    <profile id="44cb-8209-f1e2-69f0" name="Hailstorm Rifle" book="Deadzone 2nd Ed Rulebook" page="71" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="44cb-8209-f1e2-69f0" name="Rifle de Granizo [Hailstorm]" book="Reglamento Deadzone 2ª Edición" page="71" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
       <profiles/>
       <rules/>
       <infoLinks/>
       <modifiers/>
       <characteristics>
-        <characteristic name="Range" characteristicTypeId="df8a-ee5b-d620-4246" value="R6"/>
-        <characteristic name="AP" characteristicTypeId="3ef9-9c4e-a280-fccb" value="AP1"/>
-        <characteristic name="Abilities" characteristicTypeId="faf9-0187-1806-7214" value="Rapid Fire"/>
-        <characteristic name="Type" characteristicTypeId="90af-0797-a0fd-965c" value="Small Arms"/>
+        <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A6"/>
+        <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="PA1"/>
+        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Fuego Rápido"/>
+        <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Pequeño Calibre"/>
       </characteristics>
     </profile>
-    <profile id="95e0-c1c0-1a1a-347c" name="Burst Pistol" book="Deadzone 2nd Ed Rulebook" page="71" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="95e0-c1c0-1a1a-347c" name="Burst Pistola" book="Reglamento Deadzone 2ª Edición" page="71" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
       <profiles/>
       <rules/>
       <infoLinks/>
       <modifiers/>
       <characteristics>
-        <characteristic name="Range" characteristicTypeId="df8a-ee5b-d620-4246" value="R3"/>
-        <characteristic name="AP" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
-        <characteristic name="Abilities" characteristicTypeId="faf9-0187-1806-7214" value="Rapid Fire"/>
-        <characteristic name="Type" characteristicTypeId="90af-0797-a0fd-965c" value="Small Arms"/>
+        <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A3"/>
+        <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
+        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Fuego Rápido"/>
+        <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Pequeño Calibre"/>
       </characteristics>
     </profile>
-    <profile id="cad6-0564-9d9e-6fd8" name="Hailstorm Pistol" book="Deadzone 2nd Ed Rulebook" page="71" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="cad6-0564-9d9e-6fd8" name="Pistola de Granizo [Hailstorm]" book="Reglamento Deadzone 2ª Edición" page="71" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
       <profiles/>
       <rules/>
       <infoLinks/>
       <modifiers/>
       <characteristics>
-        <characteristic name="Range" characteristicTypeId="df8a-ee5b-d620-4246" value="R4"/>
-        <characteristic name="AP" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
-        <characteristic name="Abilities" characteristicTypeId="faf9-0187-1806-7214" value="Weight of Fire (1), Rapid Fire"/>
-        <characteristic name="Type" characteristicTypeId="90af-0797-a0fd-965c" value="Light (Automatic)"/>
+        <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A4"/>
+        <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
+        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Cadencia de Fuego (1), Fuego Rápido"/>
+        <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Automática)"/>
       </characteristics>
     </profile>
-    <profile id="73e7-934a-58d1-dc2c" name="Missile Launcher" book="Deadzone 2nd Ed Rulebook" page="71" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="73e7-934a-58d1-dc2c" name="Lanzamisiles" book="Reglamento Deadzone 2ª Edición" page="71" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
       <profiles/>
       <rules/>
       <infoLinks/>
       <modifiers/>
       <characteristics>
-        <characteristic name="Range" characteristicTypeId="df8a-ee5b-d620-4246" value="R10"/>
-        <characteristic name="AP" characteristicTypeId="3ef9-9c4e-a280-fccb" value="AP5"/>
-        <characteristic name="Abilities" characteristicTypeId="faf9-0187-1806-7214" value="Heavy"/>
-        <characteristic name="Type" characteristicTypeId="90af-0797-a0fd-965c" value="Light (Explosive)"/>
+        <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A10"/>
+        <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="PA5"/>
+        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Pesada"/>
+        <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Explosiva)"/>
       </characteristics>
     </profile>
-    <profile id="d5a1-e52d-2454-23f0" name="Twin Hailstorm Rifles" book="Deadzone 2nd Ed Rulebook" page="71" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="d5a1-e52d-2454-23f0" name="Twin Rifles de Granizo [Hailstorm]" book="Reglamento Deadzone 2ª Edición" page="71" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
       <profiles/>
       <rules/>
       <infoLinks/>
       <modifiers/>
       <characteristics>
-        <characteristic name="Range" characteristicTypeId="df8a-ee5b-d620-4246" value="R6"/>
-        <characteristic name="AP" characteristicTypeId="3ef9-9c4e-a280-fccb" value="AP1"/>
-        <characteristic name="Abilities" characteristicTypeId="faf9-0187-1806-7214" value="Weight of Fire (1), Rapid Fire"/>
-        <characteristic name="Type" characteristicTypeId="90af-0797-a0fd-965c" value="Bike (Automatic)"/>
+        <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A6"/>
+        <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="PA1"/>
+        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Cadencia de Fuego (1), Fuego Rápido"/>
+        <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Bike (Automática)"/>
       </characteristics>
     </profile>
-    <profile id="170a-893e-315f-3dfb" name="Magma Rifle" book="Deadzone 2nd Ed Rulebook" page="71" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="170a-893e-315f-3dfb" name="Magma Rifle" book="Reglamento Deadzone 2ª Edición" page="71" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
       <profiles/>
       <rules/>
       <infoLinks/>
       <modifiers/>
       <characteristics>
-        <characteristic name="Range" characteristicTypeId="df8a-ee5b-d620-4246" value="R3"/>
-        <characteristic name="AP" characteristicTypeId="3ef9-9c4e-a280-fccb" value="AP2"/>
-        <characteristic name="Abilities" characteristicTypeId="faf9-0187-1806-7214" value="It Burns!"/>
-        <characteristic name="Type" characteristicTypeId="90af-0797-a0fd-965c" value="Light (Assault)"/>
+        <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A3"/>
+        <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="PA2"/>
+        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="It Burns!"/>
+        <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Asalto)"/>
       </characteristics>
     </profile>
-    <profile id="6fac-d282-02b4-92e7" name="Magma Cannon" book="Deadzone 2nd Ed Rulebook" page="71" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="6fac-d282-02b4-92e7" name="Magma Cannon" book="Reglamento Deadzone 2ª Edición" page="71" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
       <profiles/>
       <rules/>
       <infoLinks/>
       <modifiers/>
       <characteristics>
-        <characteristic name="Range" characteristicTypeId="df8a-ee5b-d620-4246" value="R5"/>
-        <characteristic name="AP" characteristicTypeId="3ef9-9c4e-a280-fccb" value="AP3"/>
-        <characteristic name="Abilities" characteristicTypeId="faf9-0187-1806-7214" value="-"/>
-        <characteristic name="Type" characteristicTypeId="90af-0797-a0fd-965c" value="Heavy (Assault)"/>
+        <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A5"/>
+        <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="PA3"/>
+        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="-"/>
+        <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Pesada (Asalto)"/>
       </characteristics>
     </profile>
-    <profile id="b9dd-77c3-92a8-39f1" name="Twin Hailstorm Pistols" book="Deadzone 2nd Ed Rulebook" page="71" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="b9dd-77c3-92a8-39f1" name="Twin Hailstorm Pistols" book="Reglamento Deadzone 2ª Edición" page="71" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
       <profiles/>
       <rules/>
       <infoLinks/>
       <modifiers/>
       <characteristics>
-        <characteristic name="Range" characteristicTypeId="df8a-ee5b-d620-4246" value="R4"/>
-        <characteristic name="AP" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
-        <characteristic name="Abilities" characteristicTypeId="faf9-0187-1806-7214" value="Weight of Fire (2), Rapid Fire"/>
-        <characteristic name="Type" characteristicTypeId="90af-0797-a0fd-965c" value="Light (Automatic)"/>
+        <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A4"/>
+        <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
+        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Cadencia de Fuego (2), Fuego Rápido"/>
+        <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Automática)"/>
       </characteristics>
     </profile>
-    <profile id="f3a1-1017-7e97-e765" name="Twin Magma Cannon" book="Deadzone 2nd Ed Rulebook" page="71" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="f3a1-1017-7e97-e765" name="Twin Magma Cannon" book="Reglamento Deadzone 2ª Edición" page="71" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
       <profiles/>
       <rules/>
       <infoLinks/>
       <modifiers/>
       <characteristics>
-        <characteristic name="Range" characteristicTypeId="df8a-ee5b-d620-4246" value="R4"/>
-        <characteristic name="AP" characteristicTypeId="3ef9-9c4e-a280-fccb" value="AP3"/>
-        <characteristic name="Abilities" characteristicTypeId="faf9-0187-1806-7214" value="Weight of Fire (1)"/>
-        <characteristic name="Type" characteristicTypeId="90af-0797-a0fd-965c" value="Walker (Lance)"/>
+        <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A4"/>
+        <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="PA3"/>
+        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Cadencia de Fuego (1)"/>
+        <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Andador (Lanza)"/>
       </characteristics>
     </profile>
-    <profile id="58c7-69c4-be22-aa9f" name="Power Claw and Flamer" book="Deadzone 2nd Ed Rulebook" page="71" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="58c7-69c4-be22-aa9f" name="Power Claw and Flamer" book="Reglamento Deadzone 2ª Edición" page="71" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
       <profiles/>
       <rules/>
       <infoLinks/>
       <modifiers/>
       <characteristics>
-        <characteristic name="Range" characteristicTypeId="df8a-ee5b-d620-4246" value="RF/R2"/>
-        <characteristic name="AP" characteristicTypeId="3ef9-9c4e-a280-fccb" value="AP3/AP-"/>
-        <characteristic name="Abilities" characteristicTypeId="faf9-0187-1806-7214" value="It Burns!"/>
-        <characteristic name="Type" characteristicTypeId="90af-0797-a0fd-965c" value="Walker (Assault)"/>
+        <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="AL/A2"/>
+        <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="PA3/PA-"/>
+        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="It Burns!"/>
+        <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Andador (Asalto)"/>
       </characteristics>
     </profile>
-    <profile id="1530-5173-e5a7-8b44" name="Twin Hailstorm Autocannons" book="Deadzone 2nd Ed Rulebook" page="71" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="1530-5173-e5a7-8b44" name="Twin Hailstorm Autocannons" book="Reglamento Deadzone 2ª Edición" page="71" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
       <profiles/>
       <rules/>
       <infoLinks/>
       <modifiers/>
       <characteristics>
-        <characteristic name="Range" characteristicTypeId="df8a-ee5b-d620-4246" value="R8"/>
-        <characteristic name="AP" characteristicTypeId="3ef9-9c4e-a280-fccb" value="AP1"/>
-        <characteristic name="Abilities" characteristicTypeId="faf9-0187-1806-7214" value="Weight of Fire (1)"/>
-        <characteristic name="Type" characteristicTypeId="90af-0797-a0fd-965c" value="Walker (Automatic)"/>
+        <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A8"/>
+        <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="PA1"/>
+        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Cadencia de Fuego (1)"/>
+        <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Andador (Automática)"/>
       </characteristics>
     </profile>
-    <profile id="b4bb-653e-9f45-5762" name="Dragon&apos;s Breath" book="Deadzone 2nd Ed Rulebook" page="71" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="b4bb-653e-9f45-5762" name="Dragon&apos;s Breath" book="Reglamento Deadzone 2ª Edición" page="71" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
       <profiles/>
       <rules/>
       <infoLinks/>
       <modifiers/>
       <characteristics>
-        <characteristic name="Range" characteristicTypeId="df8a-ee5b-d620-4246" value="R2"/>
-        <characteristic name="AP" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
-        <characteristic name="Abilities" characteristicTypeId="faf9-0187-1806-7214" value="It Burns!"/>
-        <characteristic name="Type" characteristicTypeId="90af-0797-a0fd-965c" value="Light (Assault)"/>
+        <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A2"/>
+        <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
+        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="It Burns!"/>
+        <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Asalto)"/>
       </characteristics>
     </profile>
-    <profile id="afab-6ed3-1f02-2059" name="Hailstorm Autocannon" book="Deadzone 2nd Ed Rulebook" page="71" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="afab-6ed3-1f02-2059" name="Hailstorm Autocannon" book="Reglamento Deadzone 2ª Edición" page="71" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
       <profiles/>
       <rules/>
       <infoLinks/>
       <modifiers/>
       <characteristics>
-        <characteristic name="Range" characteristicTypeId="df8a-ee5b-d620-4246" value="R8"/>
-        <characteristic name="AP" characteristicTypeId="3ef9-9c4e-a280-fccb" value="AP1"/>
-        <characteristic name="Abilities" characteristicTypeId="faf9-0187-1806-7214" value="Weight of Fire (1), Suppression"/>
-        <characteristic name="Type" characteristicTypeId="90af-0797-a0fd-965c" value="Heavy (Automatic)"/>
+        <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A8"/>
+        <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="PA1"/>
+        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Cadencia de Fuego (1), Suppression"/>
+        <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Pesada (Automática)"/>
       </characteristics>
     </profile>
-    <profile id="c46c-4939-8bf8-d82d" name="IA Forge Hammer" book="Deadzone 2nd Ed Rulebook" page="71" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="c46c-4939-8bf8-d82d" name="IA Forge Hammer" book="Reglamento Deadzone 2ª Edición" page="71" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
       <profiles/>
       <rules/>
       <infoLinks/>
       <modifiers/>
       <characteristics>
-        <characteristic name="Range" characteristicTypeId="df8a-ee5b-d620-4246" value="RF"/>
-        <characteristic name="AP" characteristicTypeId="3ef9-9c4e-a280-fccb" value="AP2"/>
-        <characteristic name="Abilities" characteristicTypeId="faf9-0187-1806-7214" value="-"/>
-        <characteristic name="Type" characteristicTypeId="90af-0797-a0fd-965c" value="Walker (Melee)"/>
+        <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="AL"/>
+        <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="PA2"/>
+        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="-"/>
+        <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Andador (Melé)"/>
       </characteristics>
     </profile>
     <profile id="dd0d-3ee9-d32a-c587" name="2-Handed Heat Hammer" book="Deadzone: Outbreak" page="39" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
@@ -5513,10 +5513,10 @@
       <infoLinks/>
       <modifiers/>
       <characteristics>
-        <characteristic name="Range" characteristicTypeId="df8a-ee5b-d620-4246" value="RF"/>
-        <characteristic name="AP" characteristicTypeId="3ef9-9c4e-a280-fccb" value="AP2"/>
-        <characteristic name="Abilities" characteristicTypeId="faf9-0187-1806-7214" value="Knockback"/>
-        <characteristic name="Type" characteristicTypeId="90af-0797-a0fd-965c" value="Light (Melee)"/>
+        <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="AL"/>
+        <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="PA2"/>
+        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Derribo"/>
+        <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Melé)"/>
       </characteristics>
     </profile>
     <profile id="ebe8-11ef-b457-b68f" name="Inferno Drill" book="Deadzone: Infestation" page="24" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
@@ -5525,10 +5525,10 @@
       <infoLinks/>
       <modifiers/>
       <characteristics>
-        <characteristic name="Range" characteristicTypeId="df8a-ee5b-d620-4246" value="R4"/>
-        <characteristic name="AP" characteristicTypeId="3ef9-9c4e-a280-fccb" value="AP2"/>
-        <characteristic name="Abilities" characteristicTypeId="faf9-0187-1806-7214" value="-"/>
-        <characteristic name="Type" characteristicTypeId="90af-0797-a0fd-965c"/>
+        <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A4"/>
+        <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="PA2"/>
+        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="-"/>
+        <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c"/>
       </characteristics>
     </profile>
     <profile id="3fe3-a385-6ad5-ad6a" name="Mining Laser" book="Deadzone: Infestation" page="24" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
@@ -5537,10 +5537,10 @@
       <infoLinks/>
       <modifiers/>
       <characteristics>
-        <characteristic name="Range" characteristicTypeId="df8a-ee5b-d620-4246" value="4"/>
-        <characteristic name="AP" characteristicTypeId="3ef9-9c4e-a280-fccb" value="AP2"/>
-        <characteristic name="Abilities" characteristicTypeId="faf9-0187-1806-7214" value="-"/>
-        <characteristic name="Type" characteristicTypeId="90af-0797-a0fd-965c"/>
+        <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="4"/>
+        <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="PA2"/>
+        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="-"/>
+        <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c"/>
       </characteristics>
     </profile>
   </sharedProfiles>
