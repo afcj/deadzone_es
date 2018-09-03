@@ -1,10 +1,10 @@
-Deadzone en EspaÒol
+Deadzone en Espa√±ol
 ===================
 
-Esto es un fork de la versiÛn 3.0.8 del original en inglÈs (https://github.com/BSData/deadzone/releases/tag/3.0.8)
-para su traduciÛn al espaÒol. A diferencia de la versiÛn en inglÈs el texto de las habilidades se ha resumido para
-su f·cil consulta, no es una copia tal cual del reglamento ya que para eso ya est· el reglamento (se indica la 
-p·gina del mismo a consultar).
+Esto es un fork de la versi√≥n 3.0.8 del original en ingl√©s (https://github.com/BSData/deadzone/releases/tag/3.0.8)
+para su traducci√≥n al espa√±ol. A diferencia de la versi√≥n en ingl√©s el texto de las habilidades se ha resumido para
+su f√°cil consulta, no es una copia tal cual del reglamento ya que para eso ya est√° el reglamento (se indica la 
+p√°gina del mismo a consultar).
 
 #### Contents ####
 
@@ -33,7 +33,7 @@ Yeah! We have it hosted on AppSpot. Take a look: [BattleScribe Data on Appspot][
 * [Getting Started wiki][]
 * [Deadzone][]
 * [Mantic Free Rules (Including Deadzone)][]
-* [Deadzone en EspaÒol][]
+* [Deadzone en Espa√±ol][]
 
 
 [BattleScribe homepage]: http://www.battlescribe.net/
@@ -41,4 +41,4 @@ Yeah! We have it hosted on AppSpot. Take a look: [BattleScribe Data on Appspot][
 [Getting Started wiki]: https://github.com/BSData/catalogue-development/wiki/Getting-Started#contributing
 [Deadzone]: https://warpathuniverse.com/deadzone/
 [Mantic Free Rules (Including Deadzone)]: http://www.manticgames.com/free-rules.html
-[Deadzone en EspaÒol]: https://anymadist.com/category/deadzone/
+[Deadzone en Espa√±ol]: https://anymadist.com/category/deadzone/
