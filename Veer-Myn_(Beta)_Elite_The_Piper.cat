@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<catalogue id="fead-a35d-0df3-40f0" name="Veer-Myn (Beta) Elite: The Piper" book="Deadzone: Infestation" page="16" revision="1" battleScribeVersion="2.01" authorName="James Tandy / Ben Edwards" authorContact="BAE2 (Github)" gameSystemId="3476-f239-cf73-2f89" gameSystemRevision="1" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
+<catalogue id="fead-a35d-0df3-40f0" name="Veer-Myn (Beta) Elite: The Piper" book="Deadzone: Infestation" page="16" revision="1" battleScribeVersion="2.01" authorName="James Tandy / Ben Edwards" authorContact="BAE2 / afcj (Github)" gameSystemId="3476-f239-cf73-2f89" gameSystemRevision="1" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
   <profiles/>
   <rules/>
   <infoLinks/>
@@ -1349,7 +1349,7 @@ Vermin Swarm&apos;s are not part of the Army List, gain no experience, and are n
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="5cc6-ea71-c263-c9a5" name="It Burns!" hidden="false" targetId="6b7c-f0a9-4644-398d" type="rule">
+        <infoLink id="5cc6-ea71-c263-c9a5" name="¡Quema!" hidden="false" targetId="6b7c-f0a9-4644-398d" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1377,13 +1377,13 @@ Vermin Swarm&apos;s are not part of the Army List, gain no experience, and are n
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="7934-3b38-ea3d-303b" name="Volatile" hidden="false" targetId="66b5-4831-9238-85aa" type="rule">
+        <infoLink id="7934-3b38-ea3d-303b" name="Volátil" hidden="false" targetId="66b5-4831-9238-85aa" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="2f81-1994-56ab-8da2" name="It Burns!" hidden="false" targetId="6b7c-f0a9-4644-398d" type="rule">
+        <infoLink id="2f81-1994-56ab-8da2" name="¡Quema!" hidden="false" targetId="6b7c-f0a9-4644-398d" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1511,13 +1511,13 @@ Vermin Swarm&apos;s are not part of the Army List, gain no experience, and are n
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="abcc-deba-2b1c-c19a" name="Volatile" hidden="false" targetId="66b5-4831-9238-85aa" type="rule">
+        <infoLink id="abcc-deba-2b1c-c19a" name="Volátil" hidden="false" targetId="66b5-4831-9238-85aa" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="73a8-de27-1bbd-5796" name="It Burns!" hidden="false" targetId="6b7c-f0a9-4644-398d" type="rule">
+        <infoLink id="73a8-de27-1bbd-5796" name="¡Quema!" hidden="false" targetId="6b7c-f0a9-4644-398d" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1795,13 +1795,13 @@ Vermin Swarm&apos;s are not part of the Army List, gain no experience, and are n
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="9b6f-dc08-d620-0bf6" name="It Burns!" hidden="false" targetId="6b7c-f0a9-4644-398d" type="rule">
+        <infoLink id="9b6f-dc08-d620-0bf6" name="¡Quema!" hidden="false" targetId="6b7c-f0a9-4644-398d" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="12df-3902-c8f9-aa3b" name="Volatile" hidden="false" targetId="66b5-4831-9238-85aa" type="rule">
+        <infoLink id="12df-3902-c8f9-aa3b" name="Volátil" hidden="false" targetId="66b5-4831-9238-85aa" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1967,7 +1967,7 @@ Vermin Swarm&apos;s are not part of the Army List, gain no experience, and are n
             </categoryLink>
           </categoryLinks>
         </entryLink>
-        <entryLink id="e4be-539e-cd8c-13a8" name="Frag Grenade (+)" hidden="false" targetId="07d6-cd01-55d9-79c0" type="selectionEntry">
+        <entryLink id="e4be-539e-cd8c-13a8" name="Granada de Fragmentación (+)" hidden="false" targetId="07d6-cd01-55d9-79c0" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -2086,7 +2086,7 @@ It disperses in the same way as a Granada de Humo.</description>
       <characteristics>
         <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A1"/>
         <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="PA1"/>
-        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="It Burns!"/>
+        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="¡Quema!"/>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Leader"/>
       </characteristics>
     </profile>
@@ -2098,7 +2098,7 @@ It disperses in the same way as a Granada de Humo.</description>
       <characteristics>
         <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A1"/>
         <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="PA1"/>
-        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Volatile, It Burns!"/>
+        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Volátil, ¡Quema!"/>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Asalto)"/>
       </characteristics>
     </profile>
@@ -2158,7 +2158,7 @@ It disperses in the same way as a Granada de Humo.</description>
       <characteristics>
         <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A3"/>
         <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="PA1"/>
-        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Volatile, It Burns!, Pesada"/>
+        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Volátil, ¡Quema!, Pesada"/>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Pesada (Asalto)"/>
       </characteristics>
     </profile>
@@ -2254,7 +2254,7 @@ It disperses in the same way as a Granada de Humo.</description>
       <characteristics>
         <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A3"/>
         <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="PA2"/>
-        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Volatile, It Burns!, Pesada"/>
+        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Volátil, ¡Quema!, Pesada"/>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Vehículo (Asalto)"/>
       </characteristics>
     </profile>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<catalogue id="879b-39e0-2e55-5ab1" name="Enforcers" book="Reglamento Deadzone 2ª Edición" page="54" revision="1" battleScribeVersion="2.01" authorName="Ben Edwards" authorContact="BAE2 (Github)" gameSystemId="3476-f239-cf73-2f89" gameSystemRevision="1" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
+<catalogue id="879b-39e0-2e55-5ab1" name="Ejecutores" book="Reglamento Deadzone 2ª Edición" page="54" revision="1" battleScribeVersion="2.01" authorName="Ben Edwards (traducción afcj)" authorContact="BAE2 / afcj (Github)" gameSystemId="3476-f239-cf73-2f89" gameSystemRevision="1" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
   <profiles/>
   <rules/>
   <infoLinks/>
@@ -425,7 +425,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="2dee-f685-ab83-b1fa" name="Chainsaw" hidden="false" targetId="5558-4fcb-d140-defa" type="selectionEntry">
+            <entryLink id="2dee-f685-ab83-b1fa" name="Motosierra" hidden="false" targetId="5558-4fcb-d140-defa" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1311,7 +1311,7 @@ A maximum of one dice can be used per attack.</description>
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="e766-0901-c37f-41fd" name="Sniper Rifle" hidden="false" targetId="83c4-fd3a-fa62-316d" type="selectionEntry">
+            <entryLink id="e766-0901-c37f-41fd" name="Rifle de Francotirador" hidden="false" targetId="83c4-fd3a-fa62-316d" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1523,7 +1523,7 @@ A maximum of one dice can be used per attack.</description>
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="7ef1-b9bb-9ce9-89a7" name="Sniper Rifle" hidden="false" targetId="83c4-fd3a-fa62-316d" type="selectionEntry">
+            <entryLink id="7ef1-b9bb-9ce9-89a7" name="Rifle de Francotirador" hidden="false" targetId="83c4-fd3a-fa62-316d" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -2463,7 +2463,7 @@ A maximum of one dice can be used per attack.</description>
               </constraints>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="80de-fad8-aad7-2f54" name="Chainsaw" hidden="false" targetId="5558-4fcb-d140-defa" type="selectionEntry">
+            <entryLink id="80de-fad8-aad7-2f54" name="Motosierra" hidden="false" targetId="5558-4fcb-d140-defa" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -3947,9 +3947,9 @@ A maximum of one dice can be used per attack.</description>
         </categoryLink>
       </categoryLinks>
       <selectionEntries>
-        <selectionEntry id="f4fa-2f66-48e7-00e6" name="LSX Sniper Rifle" hidden="false" collective="false" type="upgrade">
+        <selectionEntry id="f4fa-2f66-48e7-00e6" name="LSX Rifle de Francotirador" hidden="false" collective="false" type="upgrade">
           <profiles>
-            <profile id="7e89-beca-ab7b-6cc0" name="LSX Sniper Rifle" book="Deadzone: Outbreak" page="81" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+            <profile id="7e89-beca-ab7b-6cc0" name="LSX Rifle de Francotirador" book="Deadzone: Outbreak" page="81" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -4444,20 +4444,20 @@ A maximum of one dice can be used per attack.</description>
                   <characteristics>
                     <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A2"/>
                     <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
-                    <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Volatile, It Burns!"/>
+                    <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Volátil, ¡Quema!"/>
                     <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Asalto)"/>
                   </characteristics>
                 </profile>
               </profiles>
               <rules/>
               <infoLinks>
-                <infoLink id="cca5-24bc-c363-d422" name="Volatile" hidden="false" targetId="66b5-4831-9238-85aa" type="rule">
+                <infoLink id="cca5-24bc-c363-d422" name="Volátil" hidden="false" targetId="66b5-4831-9238-85aa" type="rule">
                   <profiles/>
                   <rules/>
                   <infoLinks/>
                   <modifiers/>
                 </infoLink>
-                <infoLink id="8809-5a99-cc98-c79f" name="It Burns!" hidden="false" targetId="6b7c-f0a9-4644-398d" type="rule">
+                <infoLink id="8809-5a99-cc98-c79f" name="¡Quema!" hidden="false" targetId="6b7c-f0a9-4644-398d" type="rule">
                   <profiles/>
                   <rules/>
                   <infoLinks/>
@@ -5046,13 +5046,13 @@ A maximum of one dice can be used per attack.</description>
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="98cc-df18-5fdb-7a53" name="Volatile" hidden="false" targetId="66b5-4831-9238-85aa" type="rule">
+        <infoLink id="98cc-df18-5fdb-7a53" name="Volátil" hidden="false" targetId="66b5-4831-9238-85aa" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="4586-0091-4a26-88b1" name="It Burns!" hidden="false" targetId="6b7c-f0a9-4644-398d" type="rule">
+        <infoLink id="4586-0091-4a26-88b1" name="¡Quema!" hidden="false" targetId="6b7c-f0a9-4644-398d" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -5200,11 +5200,11 @@ A maximum of one dice can be used per attack.</description>
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="8.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="83c4-fd3a-fa62-316d" name="Sniper Rifle" book="" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="83c4-fd3a-fa62-316d" name="Rifle de Francotirador" book="" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="078d-1cdd-7c9e-b9bd" name="Sniper Rifle" hidden="false" targetId="395d-3634-19a8-36d3" type="profile">
+        <infoLink id="078d-1cdd-7c9e-b9bd" name="Rifle de Francotirador" hidden="false" targetId="395d-3634-19a8-36d3" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -5440,13 +5440,13 @@ A maximum of one dice can be used per attack.</description>
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="9525-763e-8cfe-215f" name="Volatile" hidden="false" targetId="66b5-4831-9238-85aa" type="rule">
+        <infoLink id="9525-763e-8cfe-215f" name="Volátil" hidden="false" targetId="66b5-4831-9238-85aa" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="0be7-2369-23f3-43d9" name="It Burns!" hidden="false" targetId="6b7c-f0a9-4644-398d" type="rule">
+        <infoLink id="0be7-2369-23f3-43d9" name="¡Quema!" hidden="false" targetId="6b7c-f0a9-4644-398d" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -5464,11 +5464,11 @@ A maximum of one dice can be used per attack.</description>
         <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="5558-4fcb-d140-defa" name="Chainsaw" book="" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="5558-4fcb-d140-defa" name="Motosierra" book="" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="391e-2b26-d2f0-55ba" name="Chainsaw" hidden="false" targetId="7a8b-33b9-a17c-9c63" type="profile">
+        <infoLink id="391e-2b26-d2f0-55ba" name="Motosierra" hidden="false" targetId="7a8b-33b9-a17c-9c63" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -5685,7 +5685,7 @@ A maximum of one dice can be used per attack.</description>
             </categoryLink>
           </categoryLinks>
         </entryLink>
-        <entryLink id="05e8-d16a-8fbb-887d" name="Frag Grenade (+)" hidden="false" targetId="07d6-cd01-55d9-79c0" type="selectionEntry">
+        <entryLink id="05e8-d16a-8fbb-887d" name="Granada de Fragmentación (+)" hidden="false" targetId="07d6-cd01-55d9-79c0" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -5876,7 +5876,7 @@ A maximum of one dice can be used per attack.</description>
       <characteristics>
         <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A2"/>
         <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
-        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Volatile, It Burns!"/>
+        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Volátil, ¡Quema!"/>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Asalto), Pesada (Asalto)"/>
       </characteristics>
     </profile>
@@ -5928,7 +5928,7 @@ A maximum of one dice can be used per attack.</description>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Explosiva)"/>
       </characteristics>
     </profile>
-    <profile id="395d-3634-19a8-36d3" name="Sniper Rifle" book="Reglamento Deadzone 2ª Edición" page="59" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="395d-3634-19a8-36d3" name="Rifle de Francotirador" book="Reglamento Deadzone 2ª Edición" page="59" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -6032,11 +6032,11 @@ A maximum of one dice can be used per attack.</description>
       <characteristics>
         <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A2"/>
         <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="PA1"/>
-        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Volatile, It Burns!"/>
+        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Volátil, ¡Quema!"/>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Andador (Asalto)"/>
       </characteristics>
     </profile>
-    <profile id="7a8b-33b9-a17c-9c63" name="Chainsaw" book="Reglamento Deadzone 2ª Edición" page="59" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="7a8b-33b9-a17c-9c63" name="Motosierra" book="Reglamento Deadzone 2ª Edición" page="59" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
       <profiles/>
       <rules/>
       <infoLinks/>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<catalogue id="8c46-04f3-255e-d072" name="Nameless" revision="1" battleScribeVersion="2.01" gameSystemId="3476-f239-cf73-2f89" gameSystemRevision="1" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
+<catalogue id="8c46-04f3-255e-d072" name="Innominados" revision="1" battleScribeVersion="2.01" gameSystemId="3476-f239-cf73-2f89" gameSystemRevision="1" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
   <profiles/>
   <rules/>
   <infoLinks/>
@@ -345,7 +345,7 @@
               <characteristics>
                 <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A5"/>
                 <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
-                <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Psychic, Stun"/>
+                <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Psychic, Aturdir"/>
                 <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value=""/>
               </characteristics>
             </profile>
@@ -358,7 +358,7 @@
               <infoLinks/>
               <modifiers/>
             </infoLink>
-            <infoLink id="6dd2-f85e-5c6d-76d0" name="Stun" hidden="false" targetId="5007-f9e6-65c2-71f5" type="rule">
+            <infoLink id="6dd2-f85e-5c6d-76d0" name="Aturdir" hidden="false" targetId="5007-f9e6-65c2-71f5" type="rule">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -434,7 +434,7 @@
           <rules/>
           <infoLinks/>
           <modifiers/>
-          <description>Spend an Army Special result to allow the active model to perform a free Disparo action with A2, It Burns!.  If the model has no Disparo stat it can still make a ranged attack but with a Disparo stat at 7+.</description>
+          <description>Spend an Army Special result to allow the active model to perform a free Disparo action with A2, ¡Quema!.  If the model has no Disparo stat it can still make a ranged attack but with a Disparo stat at 7+.</description>
         </rule>
       </rules>
       <infoLinks>
@@ -3037,9 +3037,9 @@
         </categoryLink>
       </categoryLinks>
       <selectionEntries>
-        <selectionEntry id="a931-ebe7-0566-b98a" name="Needler" book="Deadzone: Outbreak" page="85" hidden="false" collective="false" type="upgrade">
+        <selectionEntry id="a931-ebe7-0566-b98a" name="Lanzaagujas" book="Deadzone: Outbreak" page="85" hidden="false" collective="false" type="upgrade">
           <profiles>
-            <profile id="9a0b-1517-cd93-5d47" name="Needler" book="Deadzone: Outbreak" page="85" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+            <profile id="9a0b-1517-cd93-5d47" name="Lanzaagujas" book="Deadzone: Outbreak" page="85" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -3081,9 +3081,9 @@
             <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="0.0"/>
           </costs>
         </selectionEntry>
-        <selectionEntry id="a427-fe4d-ce2c-a4ec" name="Toxic Shards" book="Deadzone: Outbreak" page="85" hidden="false" collective="false" type="upgrade">
+        <selectionEntry id="a427-fe4d-ce2c-a4ec" name="Fragmentos Tóxicos" book="Deadzone: Outbreak" page="85" hidden="false" collective="false" type="upgrade">
           <profiles>
-            <profile id="2489-8e72-60db-d31d" name="Toxic Shards" book="Deadzone: Outbreak" page="85" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+            <profile id="2489-8e72-60db-d31d" name="Fragmentos Tóxicos" book="Deadzone: Outbreak" page="85" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -3234,7 +3234,7 @@
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="b6db-ae25-f074-2635" name="It Burns!" hidden="false" targetId="6b7c-f0a9-4644-398d" type="rule">
+        <infoLink id="b6db-ae25-f074-2635" name="¡Quema!" hidden="false" targetId="6b7c-f0a9-4644-398d" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -3494,13 +3494,13 @@
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="8bd2-cd8c-2915-0963" name="Volatile" hidden="false" targetId="66b5-4831-9238-85aa" type="rule">
+        <infoLink id="8bd2-cd8c-2915-0963" name="Volátil" hidden="false" targetId="66b5-4831-9238-85aa" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="7152-c720-dcfb-d2d7" name="It Burns!" hidden="false" targetId="6b7c-f0a9-4644-398d" type="rule">
+        <infoLink id="7152-c720-dcfb-d2d7" name="¡Quema!" hidden="false" targetId="6b7c-f0a9-4644-398d" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -3724,7 +3724,7 @@
             </categoryLink>
           </categoryLinks>
         </entryLink>
-        <entryLink id="74ee-6cd9-9a03-41c5" name="Frag Grenade (+)" hidden="false" targetId="07d6-cd01-55d9-79c0" type="selectionEntry">
+        <entryLink id="74ee-6cd9-9a03-41c5" name="Granada de Fragmentación (+)" hidden="false" targetId="07d6-cd01-55d9-79c0" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -3903,7 +3903,7 @@
       <characteristics>
         <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A3"/>
         <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="PA1"/>
-        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="It Burns!"/>
+        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="¡Quema!"/>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Asalto)"/>
       </characteristics>
     </profile>
@@ -3999,7 +3999,7 @@
       <characteristics>
         <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A3"/>
         <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="PA2"/>
-        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Volatile, It Burns!, Pesada"/>
+        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Volátil, ¡Quema!, Pesada"/>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Pesada (Asalto)"/>
       </characteristics>
     </profile>

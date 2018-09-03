@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<catalogue id="32d2-2179-754b-4892" name="Rebs Elite: Adrienne Nikolovski" book="Deadzone: Infestation" page="28" revision="1" battleScribeVersion="2.01" authorName="James Tandy / Ben Edwards" authorContact="BAE2 (Github)" gameSystemId="3476-f239-cf73-2f89" gameSystemRevision="1" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
+<catalogue id="32d2-2179-754b-4892" name="Rebs Elite: Adrienne Nikolovski" book="Deadzone: Infestation" page="28" revision="1" battleScribeVersion="2.01" authorName="James Tandy / Ben Edwards" authorContact="BAE2 / afcj (Github)" gameSystemId="3476-f239-cf73-2f89" gameSystemRevision="1" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
   <profiles/>
   <rules/>
   <infoLinks/>
@@ -233,7 +233,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="9c99-9065-cbb2-3d5e" name="Sniper Rifle" hidden="false" targetId="e483-c6b3-7167-638e" type="selectionEntry">
+            <entryLink id="9c99-9065-cbb2-3d5e" name="Rifle de Francotirador" hidden="false" targetId="e483-c6b3-7167-638e" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -852,7 +852,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="bffd-2902-f678-512a" name="Sniper Rifle" hidden="false" targetId="e483-c6b3-7167-638e" type="selectionEntry">
+            <entryLink id="bffd-2902-f678-512a" name="Rifle de Francotirador" hidden="false" targetId="e483-c6b3-7167-638e" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1863,13 +1863,13 @@
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="5fb5-b489-ef25-4389" name="It Burns!" hidden="false" targetId="6b7c-f0a9-4644-398d" type="rule">
+        <infoLink id="5fb5-b489-ef25-4389" name="¡Quema!" hidden="false" targetId="6b7c-f0a9-4644-398d" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="b986-7692-2bd6-fae6" name="Volatile" hidden="false" targetId="66b5-4831-9238-85aa" type="rule">
+        <infoLink id="b986-7692-2bd6-fae6" name="Volátil" hidden="false" targetId="66b5-4831-9238-85aa" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1943,11 +1943,11 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="5.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="ae0e-e9e4-2c9e-ef42" name="Chainsaw" book="Reglamento Deadzone 2ª Edición" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="ae0e-e9e4-2c9e-ef42" name="Motosierra" book="Reglamento Deadzone 2ª Edición" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="012d-e848-9de4-e4dc" name="Chainsaw" hidden="false" targetId="0a77-041b-492f-b3fb" type="profile">
+        <infoLink id="012d-e848-9de4-e4dc" name="Motosierra" hidden="false" targetId="0a77-041b-492f-b3fb" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -2031,13 +2031,13 @@
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="e386-058f-af23-5bc6" name="Volatile" hidden="false" targetId="66b5-4831-9238-85aa" type="rule">
+        <infoLink id="e386-058f-af23-5bc6" name="Volátil" hidden="false" targetId="66b5-4831-9238-85aa" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="aa42-4d72-970e-5a0a" name="It Burns!" hidden="false" targetId="6b7c-f0a9-4644-398d" type="rule">
+        <infoLink id="aa42-4d72-970e-5a0a" name="¡Quema!" hidden="false" targetId="6b7c-f0a9-4644-398d" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -2099,7 +2099,7 @@
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="ee0b-2703-bdec-aef8" name="It Burns!" hidden="false" targetId="6b7c-f0a9-4644-398d" type="rule">
+        <infoLink id="ee0b-2703-bdec-aef8" name="¡Quema!" hidden="false" targetId="6b7c-f0a9-4644-398d" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -2330,11 +2330,11 @@
         <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="e483-c6b3-7167-638e" name="Sniper Rifle" book="Reglamento Deadzone 2ª Edición" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="e483-c6b3-7167-638e" name="Rifle de Francotirador" book="Reglamento Deadzone 2ª Edición" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="e66c-b50e-1edc-8543" name="Sniper Rifle" hidden="false" targetId="6d73-0520-737b-69c1" type="profile">
+        <infoLink id="e66c-b50e-1edc-8543" name="Rifle de Francotirador" hidden="false" targetId="6d73-0520-737b-69c1" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -2466,7 +2466,7 @@
             </categoryLink>
           </categoryLinks>
         </entryLink>
-        <entryLink id="6517-6b49-7965-1dd1" name="Frag Grenade (+)" hidden="false" targetId="07d6-cd01-55d9-79c0" type="selectionEntry">
+        <entryLink id="6517-6b49-7965-1dd1" name="Granada de Fragmentación (+)" hidden="false" targetId="07d6-cd01-55d9-79c0" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -2589,7 +2589,7 @@
       <characteristics>
         <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A2"/>
         <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
-        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Volatile, It Burns!"/>
+        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Volátil, ¡Quema!"/>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Andador (Asalto)"/>
       </characteristics>
     </profile>
@@ -2617,7 +2617,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Melé)"/>
       </characteristics>
     </profile>
-    <profile id="0a77-041b-492f-b3fb" name="Chainsaw" book="Reglamento Deadzone 2ª Edición" page="89" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="0a77-041b-492f-b3fb" name="Motosierra" book="Reglamento Deadzone 2ª Edición" page="89" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -2661,7 +2661,7 @@
       <characteristics>
         <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A2"/>
         <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
-        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Volatile, It Burns!"/>
+        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Volátil, ¡Quema!"/>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Asalto)"/>
       </characteristics>
     </profile>
@@ -2685,7 +2685,7 @@
       <characteristics>
         <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A2"/>
         <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
-        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="One Use, It Burns!"/>
+        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="One Use, ¡Quema!"/>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Asalto)"/>
       </characteristics>
     </profile>
@@ -2773,7 +2773,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Pequeño Calibre"/>
       </characteristics>
     </profile>
-    <profile id="6d73-0520-737b-69c1" name="Sniper Rifle" book="Reglamento Deadzone 2ª Edición" page="89" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="6d73-0520-737b-69c1" name="Rifle de Francotirador" book="Reglamento Deadzone 2ª Edición" page="89" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
       <profiles/>
       <rules/>
       <infoLinks/>

@@ -489,7 +489,7 @@
     </selectionEntry>
     <selectionEntry id="07d6-cd01-55d9-79c0" name="Granada de Fragmentación (+)" book="Reglamento Deadzone 2ª Edición" page="38" hidden="false" collective="false" type="upgrade">
       <profiles>
-        <profile id="5911-bd97-6590-f346" name="Frag Grenade" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+        <profile id="5911-bd97-6590-f346" name="Granada de Fragmentación" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1204,7 +1204,7 @@
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="e6df-0644-677f-b4d4" name="Volatile" hidden="false" targetId="66b5-4831-9238-85aa" type="rule">
+        <infoLink id="e6df-0644-677f-b4d4" name="Volátil" hidden="false" targetId="66b5-4831-9238-85aa" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1272,9 +1272,9 @@
             <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="1.0"/>
           </costs>
         </selectionEntry>
-        <selectionEntry id="05b8-9640-b106-53fd" name="Frag Grenades" book="Reglamento Deadzone 2ª Edición" page="37" hidden="false" collective="false" type="upgrade">
+        <selectionEntry id="05b8-9640-b106-53fd" name="Granadas de Fragmentación" book="Reglamento Deadzone 2ª Edición" page="37" hidden="false" collective="false" type="upgrade">
           <profiles>
-            <profile id="f1c1-6e09-061c-183e" name="Frag Grenades" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+            <profile id="f1c1-6e09-061c-183e" name="Granadas de Fragmentación" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1620,9 +1620,9 @@
         </categoryLink>
       </categoryLinks>
       <selectionEntries>
-        <selectionEntry id="e0c2-1ab3-87fd-13c9" name="Mind Storm" hidden="false" collective="false" type="upgrade">
+        <selectionEntry id="e0c2-1ab3-87fd-13c9" name="Tormenta Mental" hidden="false" collective="false" type="upgrade">
           <profiles>
-            <profile id="740b-379a-50ca-8387" name="Mind Storm" book="Reglamento Deadzone 2ª Edición" page="93" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+            <profile id="740b-379a-50ca-8387" name="Tormenta Mental" book="Reglamento Deadzone 2ª Edición" page="93" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1664,9 +1664,9 @@
             <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="1.0"/>
           </costs>
         </selectionEntry>
-        <selectionEntry id="213c-9ab3-b319-33ca" name="Blank" hidden="false" collective="false" type="upgrade">
+        <selectionEntry id="213c-9ab3-b319-33ca" name="Confusión" hidden="false" collective="false" type="upgrade">
           <profiles>
-            <profile id="55e5-be55-15a6-00b9" name="Blank" book="Reglamento Deadzone 2ª Edición" page="93" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+            <profile id="55e5-be55-15a6-00b9" name="Confusión" book="Reglamento Deadzone 2ª Edición" page="93" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1674,14 +1674,14 @@
               <characteristics>
                 <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A4"/>
                 <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
-                <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Stun, Psychic"/>
+                <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Aturdir, Psychic"/>
                 <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c"/>
               </characteristics>
             </profile>
           </profiles>
           <rules/>
           <infoLinks>
-            <infoLink id="f566-d5db-bc21-4c98" name="Stun" hidden="false" targetId="5007-f9e6-65c2-71f5" type="rule">
+            <infoLink id="f566-d5db-bc21-4c98" name="Aturdir" hidden="false" targetId="5007-f9e6-65c2-71f5" type="rule">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1708,9 +1708,9 @@
             <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="1.0"/>
           </costs>
         </selectionEntry>
-        <selectionEntry id="431d-e481-9b48-7d51" name="Passion" hidden="false" collective="false" type="upgrade">
+        <selectionEntry id="431d-e481-9b48-7d51" name="Pasión" hidden="false" collective="false" type="upgrade">
           <profiles>
-            <profile id="e9e1-6e7a-7d99-6b76" name="Passion" book="Reglamento Deadzone 2ª Edición" page="93" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+            <profile id="e9e1-6e7a-7d99-6b76" name="Pasión" book="Reglamento Deadzone 2ª Edición" page="93" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -2158,9 +2158,9 @@
         </categoryLink>
       </categoryLinks>
       <selectionEntries>
-        <selectionEntry id="99f9-b749-3f5a-2a5d" name="Sniper Rifle" hidden="false" collective="false" type="upgrade">
+        <selectionEntry id="99f9-b749-3f5a-2a5d" name="Rifle de Francotirador" hidden="false" collective="false" type="upgrade">
           <profiles>
-            <profile id="d017-f800-5cf7-5c1d" name="Sniper Rifle" book="Reglamento Deadzone 2ª Edición" page="92" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+            <profile id="d017-f800-5cf7-5c1d" name="Rifle de Francotirador" book="Reglamento Deadzone 2ª Edición" page="92" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -2428,9 +2428,9 @@
         </categoryLink>
       </categoryLinks>
       <selectionEntries>
-        <selectionEntry id="826d-5e4f-50fa-406e" name="Needler" book="Deadzone: Outbreak" page="85" hidden="false" collective="false" type="upgrade">
+        <selectionEntry id="826d-5e4f-50fa-406e" name="Lanzaagujas" book="Deadzone: Outbreak" page="85" hidden="false" collective="false" type="upgrade">
           <profiles>
-            <profile id="622c-fab0-d64a-94a5" name="Needler" book="Deadzone: Outbreak" page="85" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+            <profile id="622c-fab0-d64a-94a5" name="Lanzaagujas" book="Deadzone: Outbreak" page="85" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -2478,9 +2478,9 @@
             <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="0.0"/>
           </costs>
         </selectionEntry>
-        <selectionEntry id="d29b-2539-bf90-bb50" name="Toxic Shards" book="Deadzone: Outbreak" page="85" hidden="false" collective="false" type="upgrade">
+        <selectionEntry id="d29b-2539-bf90-bb50" name="Fragmentos Tóxicos" book="Deadzone: Outbreak" page="85" hidden="false" collective="false" type="upgrade">
           <profiles>
-            <profile id="8959-e5f1-d609-2c12" name="Toxic Shards" book="Deadzone: Outbreak" page="85" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+            <profile id="8959-e5f1-d609-2c12" name="Fragmentos Tóxicos" book="Deadzone: Outbreak" page="85" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -2883,7 +2883,7 @@
               <characteristics>
                 <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A6"/>
                 <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="PA3"/>
-                <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Pesada, It Burns!"/>
+                <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Pesada, ¡Quema!"/>
                 <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c"/>
               </characteristics>
             </profile>
@@ -2896,7 +2896,7 @@
               <infoLinks/>
               <modifiers/>
             </infoLink>
-            <infoLink id="4072-23de-664d-3182" name="It Burns!" hidden="false" targetId="6b7c-f0a9-4644-398d" type="rule">
+            <infoLink id="4072-23de-664d-3182" name="¡Quema!" hidden="false" targetId="6b7c-f0a9-4644-398d" type="rule">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -3144,9 +3144,9 @@
         </categoryLink>
       </categoryLinks>
       <selectionEntries>
-        <selectionEntry id="f86a-8d79-95a8-ef5d" name="Fusion Gauntlet" hidden="false" collective="false" type="upgrade">
+        <selectionEntry id="f86a-8d79-95a8-ef5d" name="Guantalete de Fusión" hidden="false" collective="false" type="upgrade">
           <profiles>
-            <profile id="3d1c-c77c-db91-7a4f" name="Fusion Gauntlet" book="Reglamento Deadzone 2ª Edición" page="92" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+            <profile id="3d1c-c77c-db91-7a4f" name="Guantalete de Fusión" book="Reglamento Deadzone 2ª Edición" page="92" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -3210,14 +3210,14 @@
               <characteristics>
                 <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A4"/>
                 <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="PA1"/>
-                <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="It Burns!"/>
+                <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="¡Quema!"/>
                 <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c"/>
               </characteristics>
             </profile>
           </profiles>
           <rules/>
           <infoLinks>
-            <infoLink id="5735-c701-2f29-3854" name="It Burns!" hidden="false" targetId="6b7c-f0a9-4644-398d" type="rule">
+            <infoLink id="5735-c701-2f29-3854" name="¡Quema!" hidden="false" targetId="6b7c-f0a9-4644-398d" type="rule">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -3244,9 +3244,9 @@
             <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="0.0"/>
           </costs>
         </selectionEntry>
-        <selectionEntry id="e211-5d1e-e968-9c6d" name="Blade of the Seven" hidden="false" collective="false" type="upgrade">
+        <selectionEntry id="e211-5d1e-e968-9c6d" name="Espada de los Siete" hidden="false" collective="false" type="upgrade">
           <profiles>
-            <profile id="f636-0af7-4611-0ff8" name="Blade of the Seven" book="Reglamento Deadzone 2ª Edición" page="92" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+            <profile id="f636-0af7-4611-0ff8" name="Espada de los Siete" book="Reglamento Deadzone 2ª Edición" page="92" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -5169,9 +5169,9 @@ Vermin Swarm&apos;s are not part of the Army List, gain no experience, and are n
         </categoryLink>
       </categoryLinks>
       <selectionEntries>
-        <selectionEntry id="77cf-01c0-e19c-230b" name="LSX Sniper Rifle" hidden="false" collective="false" type="upgrade">
+        <selectionEntry id="77cf-01c0-e19c-230b" name="LSX Rifle de Francotirador" hidden="false" collective="false" type="upgrade">
           <profiles>
-            <profile id="df7b-fc73-74a4-c95a" name="LSX Sniper Rifle" book="Deadzone: Outbreak" page="81" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+            <profile id="df7b-fc73-74a4-c95a" name="LSX Rifle de Francotirador" book="Deadzone: Outbreak" page="81" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
               <profiles/>
               <rules/>
               <infoLinks/>

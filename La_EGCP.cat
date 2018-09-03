@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<catalogue id="f2ba-94c0-9329-1080" name="GCPS" book="Deadzone Erratas v2.2" revision="1" battleScribeVersion="2.01" authorName="Ben Edwards" authorContact="BAE2 (Github)" gameSystemId="3476-f239-cf73-2f89" gameSystemRevision="1" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
+<catalogue id="f2ba-94c0-9329-1080" name="EGCP" book="Deadzone Erratas v2.2" revision="1" battleScribeVersion="2.01" authorName="Ben Edwards (traducción afcj)" authorContact="BAE2 / afcj (Github)" gameSystemId="3476-f239-cf73-2f89" gameSystemRevision="1" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
   <profiles/>
   <rules/>
   <infoLinks/>
@@ -1648,7 +1648,7 @@
           <selectionEntries/>
           <selectionEntryGroups/>
           <entryLinks>
-            <entryLink id="bcc2-7194-b9c5-0095" name="Chainsaw" hidden="false" targetId="a4a6-e125-dc0c-0658" type="selectionEntry">
+            <entryLink id="bcc2-7194-b9c5-0095" name="Motosierra" hidden="false" targetId="a4a6-e125-dc0c-0658" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1686,7 +1686,7 @@
           <selectionEntries/>
           <selectionEntryGroups/>
           <entryLinks>
-            <entryLink id="9b02-95d6-c7ca-cbe6" name="Chainsaw" hidden="false" targetId="a4a6-e125-dc0c-0658" type="selectionEntry">
+            <entryLink id="9b02-95d6-c7ca-cbe6" name="Motosierra" hidden="false" targetId="a4a6-e125-dc0c-0658" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -2447,13 +2447,13 @@
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="8981-7e61-8ceb-9bf5" name="Volatile" hidden="false" targetId="66b5-4831-9238-85aa" type="rule">
+        <infoLink id="8981-7e61-8ceb-9bf5" name="Volátil" hidden="false" targetId="66b5-4831-9238-85aa" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="7f22-30d7-0f14-7805" name="It Burns!" hidden="false" targetId="6b7c-f0a9-4644-398d" type="rule">
+        <infoLink id="7f22-30d7-0f14-7805" name="¡Quema!" hidden="false" targetId="6b7c-f0a9-4644-398d" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -2833,11 +2833,11 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="10.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="a4a6-e125-dc0c-0658" name="Chainsaw" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="a4a6-e125-dc0c-0658" name="Motosierra" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="ab5f-121f-f2d9-ecf8" name="Chainsaw" hidden="false" targetId="f39a-3997-2828-df34" type="profile">
+        <infoLink id="ab5f-121f-f2d9-ecf8" name="Motosierra" hidden="false" targetId="f39a-3997-2828-df34" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -2877,13 +2877,13 @@
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="dd36-6977-0cd3-5ecc" name="It Burns!" hidden="false" targetId="6b7c-f0a9-4644-398d" type="rule">
+        <infoLink id="dd36-6977-0cd3-5ecc" name="¡Quema!" hidden="false" targetId="6b7c-f0a9-4644-398d" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="419a-d1b6-8ee2-1abb" name="Volatile" hidden="false" targetId="66b5-4831-9238-85aa" type="rule">
+        <infoLink id="419a-d1b6-8ee2-1abb" name="Volátil" hidden="false" targetId="66b5-4831-9238-85aa" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -3066,7 +3066,7 @@
             </categoryLink>
           </categoryLinks>
         </entryLink>
-        <entryLink id="f194-7caa-6eea-9fb6" name="Frag Grenade (+)" hidden="false" targetId="07d6-cd01-55d9-79c0" type="selectionEntry">
+        <entryLink id="f194-7caa-6eea-9fb6" name="Granada de Fragmentación (+)" hidden="false" targetId="07d6-cd01-55d9-79c0" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -3313,7 +3313,7 @@
       <characteristics>
         <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A2"/>
         <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
-        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Volatile, It Burns!"/>
+        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Volátil, ¡Quema!"/>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Asalto)"/>
       </characteristics>
     </profile>
@@ -3449,7 +3449,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Andador (Lanza)"/>
       </characteristics>
     </profile>
-    <profile id="f39a-3997-2828-df34" name="Chainsaw" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="f39a-3997-2828-df34" name="Motosierra" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -3469,7 +3469,7 @@
       <characteristics>
         <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A2"/>
         <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="PA1"/>
-        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Volatile, It Burns!"/>
+        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Volátil, ¡Quema!"/>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Andador (Asalto)"/>
       </characteristics>
     </profile>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<catalogue id="5581-3192-cbfc-b196" name="Mazon Labs" revision="1" battleScribeVersion="2.01" gameSystemId="3476-f239-cf73-2f89" gameSystemRevision="1" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
+<catalogue id="5581-3192-cbfc-b196" name="Laboratorios Mazon" revision="1" battleScribeVersion="2.01" gameSystemId="3476-f239-cf73-2f89" gameSystemRevision="1" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
   <profiles/>
   <rules/>
   <infoLinks/>
@@ -101,14 +101,14 @@
                   <characteristics>
                     <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="AL"/>
                     <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
-                    <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Stun"/>
+                    <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Aturdir"/>
                     <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value=""/>
                   </characteristics>
                 </profile>
               </profiles>
               <rules/>
               <infoLinks>
-                <infoLink id="4710-978b-f0a9-731e" name="Stun" hidden="false" targetId="5007-f9e6-65c2-71f5" type="rule">
+                <infoLink id="4710-978b-f0a9-731e" name="Aturdir" hidden="false" targetId="5007-f9e6-65c2-71f5" type="rule">
                   <profiles/>
                   <rules/>
                   <infoLinks/>
@@ -168,14 +168,14 @@
                   <characteristics>
                     <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A1"/>
                     <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
-                    <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Stun"/>
+                    <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Aturdir"/>
                     <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value=""/>
                   </characteristics>
                 </profile>
               </profiles>
               <rules/>
               <infoLinks>
-                <infoLink id="da97-eaaf-6bf0-0e78" name="Stun" hidden="false" targetId="5007-f9e6-65c2-71f5" type="rule">
+                <infoLink id="da97-eaaf-6bf0-0e78" name="Aturdir" hidden="false" targetId="5007-f9e6-65c2-71f5" type="rule">
                   <profiles/>
                   <rules/>
                   <infoLinks/>
@@ -235,14 +235,14 @@
                   <characteristics>
                     <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A2"/>
                     <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="PA1"/>
-                    <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="It Burns!"/>
+                    <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="¡Quema!"/>
                     <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value=""/>
                   </characteristics>
                 </profile>
               </profiles>
               <rules/>
               <infoLinks>
-                <infoLink id="b769-435d-b5fa-0218" name="It Burns!" hidden="false" targetId="6b7c-f0a9-4644-398d" type="rule">
+                <infoLink id="b769-435d-b5fa-0218" name="¡Quema!" hidden="false" targetId="6b7c-f0a9-4644-398d" type="rule">
                   <profiles/>
                   <rules/>
                   <infoLinks/>
@@ -1770,14 +1770,14 @@
               <characteristics>
                 <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A4"/>
                 <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
-                <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Psychic, Stun"/>
+                <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Psychic, Aturdir"/>
                 <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value=""/>
               </characteristics>
             </profile>
           </profiles>
           <rules/>
           <infoLinks>
-            <infoLink id="da86-ab51-b203-314d" name="Stun" hidden="false" targetId="5007-f9e6-65c2-71f5" type="rule">
+            <infoLink id="da86-ab51-b203-314d" name="Aturdir" hidden="false" targetId="5007-f9e6-65c2-71f5" type="rule">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -2016,7 +2016,7 @@
               </constraints>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="6712-920f-f132-6d2f" name="Chainsaw" hidden="false" targetId="9c3f-2279-02f7-4515" type="selectionEntry">
+            <entryLink id="6712-920f-f132-6d2f" name="Motosierra" hidden="false" targetId="9c3f-2279-02f7-4515" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -2948,13 +2948,13 @@
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="c42f-6599-b422-aa96" name="Volatile" hidden="false" targetId="66b5-4831-9238-85aa" type="rule">
+        <infoLink id="c42f-6599-b422-aa96" name="Volátil" hidden="false" targetId="66b5-4831-9238-85aa" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="18a4-e1ff-bb34-6738" name="It Burns!" hidden="false" targetId="6b7c-f0a9-4644-398d" type="rule">
+        <infoLink id="18a4-e1ff-bb34-6738" name="¡Quema!" hidden="false" targetId="6b7c-f0a9-4644-398d" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -3146,11 +3146,11 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="10.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="9c3f-2279-02f7-4515" name="Chainsaw" book="Deadzone: Outbreak" page="55" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="9c3f-2279-02f7-4515" name="Motosierra" book="Deadzone: Outbreak" page="55" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="dfa6-74d1-74f9-97fd" name="Chainsaw" hidden="false" targetId="fba0-ddb8-5821-61c2" type="profile">
+        <infoLink id="dfa6-74d1-74f9-97fd" name="Motosierra" hidden="false" targetId="fba0-ddb8-5821-61c2" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -3190,13 +3190,13 @@
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="8bc0-41e1-7245-8f56" name="It Burns!" hidden="false" targetId="6b7c-f0a9-4644-398d" type="rule">
+        <infoLink id="8bc0-41e1-7245-8f56" name="¡Quema!" hidden="false" targetId="6b7c-f0a9-4644-398d" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="0c4e-dd19-019b-7921" name="Volatile" hidden="false" targetId="66b5-4831-9238-85aa" type="rule">
+        <infoLink id="0c4e-dd19-019b-7921" name="Volátil" hidden="false" targetId="66b5-4831-9238-85aa" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -3494,7 +3494,7 @@
             </categoryLink>
           </categoryLinks>
         </entryLink>
-        <entryLink id="d2ff-3bd4-1e91-8abb" name="Frag Grenade (+)" hidden="false" targetId="07d6-cd01-55d9-79c0" type="selectionEntry">
+        <entryLink id="d2ff-3bd4-1e91-8abb" name="Granada de Fragmentación (+)" hidden="false" targetId="07d6-cd01-55d9-79c0" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -3609,7 +3609,7 @@
       <characteristics>
         <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A2"/>
         <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
-        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Volatile, It Burns!"/>
+        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Volátil, ¡Quema!"/>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Asalto)"/>
       </characteristics>
     </profile>
@@ -3685,7 +3685,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Andador (Lanza)"/>
       </characteristics>
     </profile>
-    <profile id="fba0-ddb8-5821-61c2" name="Chainsaw" book="Deadzone: Outbreak" page="55" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="fba0-ddb8-5821-61c2" name="Motosierra" book="Deadzone: Outbreak" page="55" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -3705,7 +3705,7 @@
       <characteristics>
         <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A2"/>
         <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="PA1"/>
-        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Volatile, It Burns!"/>
+        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Volátil, ¡Quema!"/>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Andador (Asalto)"/>
       </characteristics>
     </profile>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<catalogue id="e2c0-9007-7059-27a5" name="The Plague" book="Reglamento Deadzone 2ª Edición" page="48" revision="1" battleScribeVersion="2.01" authorName="Ben Edwards" authorContact="BAE2 (Github)" gameSystemId="3476-f239-cf73-2f89" gameSystemRevision="1" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
+<catalogue id="e2c0-9007-7059-27a5" name="La Plaga" book="Reglamento Deadzone 2ª Edición" page="48" revision="1" battleScribeVersion="2.01" authorName="Ben Edwards (traducción afcj)" authorContact="BAE2 / afcj (Github)" gameSystemId="3476-f239-cf73-2f89" gameSystemRevision="1" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
   <profiles/>
   <rules/>
   <infoLinks/>
@@ -32,7 +32,7 @@
           <rules/>
           <infoLinks/>
           <modifiers/>
-          <description>Gasta un resultado de Especial del Ejército al principio de la activación de la miniatura. Esta miniatura manifiesta una mutación al azar durante el resto de la ronda, tira un d8: 1-2 Ágil, 3-4 Furia (+1), 5-6 +1 PA de un arma AL, 7-8 +1 de Armadura.</description>
+          <description>Gasta un resultado de Especial del Ejército de los Dados de Mando al principio de la activación de la miniatura. Esta miniatura manifiesta una mutación al azar durante el resto de la ronda, tira un d8: 1-2 Ágil, 3-4 Furia (+1), 5-6 +1 PA de un arma AL, 7-8 +1 de Armadura.</description>
         </rule>
       </rules>
       <infoLinks>
@@ -134,12 +134,12 @@
         </profile>
       </profiles>
       <rules>
-        <rule id="db88-c266-7965-bc6e" name="Infection" book="Reglamento Deadzone 2ª Edición" page="49" hidden="false">
+        <rule id="db88-c266-7965-bc6e" name="Infección" book="Reglamento Deadzone 2ª Edición" page="49" hidden="false">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers/>
-          <description>When an enemy model is killed you may spend an Army Special result on your Command Dice to spread the Infection and raise it again as a Zombie. Swap the Dead enemy model for a Pinned Zombie in the same cube. The Zombie is marked as activated for this Round. The original model is dead and the Zombie is counted as part of the Plague Strike Team.</description>
+          <description>Cuando muere una miniatura enemiga puedes gastar un resultado de Especial de Ejército de los Dados de Mando para colocar en su lugar a un Zombi. El Zombi entra en juego activado y Suprimido y forma parte del Equipo de Asalto que lo ha creado a partir de ese momento.</description>
         </rule>
       </rules>
       <infoLinks>
@@ -224,7 +224,7 @@
     </selectionEntry>
     <selectionEntry id="5be4-61af-9eaf-73dc" name="Fase 3D &quot;Sabueso Infernal&quot; [Can Infernal]" book="Reglamento Deadzone 2ª Edición + Erratas v2.1" page="50" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="9859-061d-1ceb-3094" name="Fase 3D &quot;Hellhound&quot;" book="Reglamento Deadzone 2ª Edición" page="50" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
+        <profile id="9859-061d-1ceb-3094" name="Fase 3D &quot;Sabueso Infernal&quot;" book="Reglamento Deadzone 2ª Edición" page="50" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -366,7 +366,7 @@
     </selectionEntry>
     <selectionEntry id="cd3f-f52b-bdd7-5793" name="Fase 3Z &quot;Zombi&quot;" book="Reglamento Deadzone 2ª Edición + Erratas v2.1" page="50" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="c401-b601-d6c2-bac4" name="Fase 3Z &quot;Zombie&quot;" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
+        <profile id="c401-b601-d6c2-bac4" name="Fase 3Z &quot;Zombi&quot;" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -576,7 +576,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="67b0-5af6-adad-2dc6" name="Mortar" hidden="false" targetId="b122-0486-36f7-3092" type="selectionEntry">
+            <entryLink id="67b0-5af6-adad-2dc6" name="Mortero" hidden="false" targetId="b122-0486-36f7-3092" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -831,9 +831,9 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="40.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="4808-dccf-db74-a60c" name="Plague Swarm" book="Reglamento Deadzone 2ª Edición + Erratas v2.1" page="51" hidden="false" collective="false" type="unit">
+    <selectionEntry id="4808-dccf-db74-a60c" name="Enjambre de la Plaga" book="Reglamento Deadzone 2ª Edición + Erratas v2.1" page="51" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="0787-5e55-a11e-f68a" name="Plague Swarm" book="Reglamento Deadzone 2ª Edición" page="51" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
+        <profile id="0787-5e55-a11e-f68a" name="Enjambre de la Plaga" book="Reglamento Deadzone 2ª Edición" page="51" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -881,9 +881,9 @@
         </categoryLink>
       </categoryLinks>
       <selectionEntries>
-        <selectionEntry id="7407-5fc3-2ab4-b137" name="Acid Bite" book="Reglamento Deadzone 2ª Edición" hidden="false" collective="false" type="upgrade">
+        <selectionEntry id="7407-5fc3-2ab4-b137" name="Mordisco Ácido" book="Reglamento Deadzone 2ª Edición" hidden="false" collective="false" type="upgrade">
           <profiles>
-            <profile id="ad9f-052e-5a1f-0472" name="Acid Bite" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+            <profile id="ad9f-052e-5a1f-0472" name="Mordisco Ácido" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -920,9 +920,9 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="20.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="7245-ee1a-18eb-1144" name="Plague Teraton" book="Reglamento Deadzone 2ª Edición" page="51" hidden="false" collective="false" type="unit">
+    <selectionEntry id="7245-ee1a-18eb-1144" name="Teratón de la Plaga" book="Reglamento Deadzone 2ª Edición" page="51" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="3d80-2b0a-cfe0-f613" name="Plague Teraton" book="Reglamento Deadzone 2ª Edición" page="51" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
+        <profile id="3d80-2b0a-cfe0-f613" name="Teratón de la Plaga" book="Reglamento Deadzone 2ª Edición" page="51" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1019,9 +1019,9 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="24.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="7b4e-c909-4e1d-4f6f" name="Plague Enforcer" book="Reglamento Deadzone 2ª Edición" page="51" hidden="false" collective="false" type="unit">
+    <selectionEntry id="7b4e-c909-4e1d-4f6f" name="Ejecutor de la Plaga" book="Reglamento Deadzone 2ª Edición" page="51" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="9fac-a2da-8415-956a" name="Plague Enforcer" book="Reglamento Deadzone 2ª Edición" page="51" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
+        <profile id="9fac-a2da-8415-956a" name="Ejecutor de la Plaga" book="Reglamento Deadzone 2ª Edición" page="51" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1094,9 +1094,9 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="20.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="af32-b13e-6197-3aa5" name="Plague Andador" book="Reglamento Deadzone 2ª Edición + Erratas v2.1" page="52" hidden="false" collective="false" type="unit">
+    <selectionEntry id="af32-b13e-6197-3aa5" name="Andador de la Plaga" book="Reglamento Deadzone 2ª Edición + Erratas v2.1" page="52" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="1425-7819-e160-9fd3" name="Plague Andador" book="Reglamento Deadzone 2ª Edición" page="52" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
+        <profile id="1425-7819-e160-9fd3" name="Andador de la Plaga" book="Reglamento Deadzone 2ª Edición" page="52" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1202,7 +1202,7 @@
               </constraints>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="2666-1237-80ec-2040" name="Chainsaw" hidden="false" targetId="51ff-13fd-2a23-bf06" type="selectionEntry">
+            <entryLink id="2666-1237-80ec-2040" name="Motosierra" hidden="false" targetId="51ff-13fd-2a23-bf06" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -2244,13 +2244,13 @@
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="0b18-eea9-4944-be1b" name="It Burns!" hidden="false" targetId="6b7c-f0a9-4644-398d" type="rule">
+        <infoLink id="0b18-eea9-4944-be1b" name="¡Quema!" hidden="false" targetId="6b7c-f0a9-4644-398d" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="7c9b-079d-e71b-d2ed" name="Volatile" hidden="false" targetId="66b5-4831-9238-85aa" type="rule">
+        <infoLink id="7c9b-079d-e71b-d2ed" name="Volátil" hidden="false" targetId="66b5-4831-9238-85aa" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -2272,7 +2272,7 @@
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="4dff-7c16-f45b-9488" name="Chainsaw" hidden="false" targetId="1d31-4558-dbb3-3232" type="profile">
+        <infoLink id="4dff-7c16-f45b-9488" name="Motosierra" hidden="false" targetId="1d31-4558-dbb3-3232" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -2328,13 +2328,13 @@
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="f7be-ae49-17de-fed4" name="Volatile" hidden="false" targetId="66b5-4831-9238-85aa" type="rule">
+        <infoLink id="f7be-ae49-17de-fed4" name="Volátil" hidden="false" targetId="66b5-4831-9238-85aa" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="bfe8-e59e-252a-3dd6" name="It Burns!" hidden="false" targetId="6b7c-f0a9-4644-398d" type="rule">
+        <infoLink id="bfe8-e59e-252a-3dd6" name="¡Quema!" hidden="false" targetId="6b7c-f0a9-4644-398d" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>

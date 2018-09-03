@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<catalogue id="4c93-ab3d-bb7c-511f" name="Veer-Myn" book="Deadzone: Outbreak" page="74" revision="1" battleScribeVersion="2.01" authorName="Ben Edwards" authorContact="BAE2 (Github)" gameSystemId="3476-f239-cf73-2f89" gameSystemRevision="1" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
+<catalogue id="4c93-ab3d-bb7c-511f" name="Veer-Myn" book="Deadzone: Outbreak" page="74" revision="1" battleScribeVersion="2.01" authorName="Ben Edwards (traducciÃ³n afcj)" authorContact="BAE2 / afcj (Github)" gameSystemId="3476-f239-cf73-2f89" gameSystemRevision="1" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
   <profiles/>
   <rules/>
   <infoLinks/>
@@ -18,7 +18,7 @@
           <characteristics>
             <characteristic name="Velocidad" characteristicTypeId="4e85-eaa5-eccb-41d1" value="1-2"/>
             <characteristic name="Armadura" characteristicTypeId="6e20-a2eb-4873-facd" value="2"/>
-            <characteristic name="Tamaño" characteristicTypeId="72ed-1424-6a6b-51d8" value="2"/>
+            <characteristic name="TamaÃ±o" characteristicTypeId="72ed-1424-6a6b-51d8" value="2"/>
             <characteristic name="Disparo" characteristicTypeId="8e81-1fe3-f677-8d5c" value="5+"/>
             <characteristic name="Lucha" characteristicTypeId="5ab1-1acc-a108-daf5" value="5+"/>
             <characteristic name="Supervivencia" characteristicTypeId="2375-5bce-3345-261b" value="4+"/>
@@ -36,12 +36,12 @@
         </rule>
       </rules>
       <infoLinks>
-        <infoLink id="81ee-0fcc-9129-31cc" name="Táctico (n)" hidden="false" targetId="61bb-0743-e806-2bfc" type="rule">
+        <infoLink id="81ee-0fcc-9129-31cc" name="TÃ¡ctico (n)" hidden="false" targetId="61bb-0743-e806-2bfc" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers>
-            <modifier type="set" field="name" value="Táctico (2)">
+            <modifier type="set" field="name" value="TÃ¡ctico (2)">
               <repeats/>
               <conditions/>
               <conditionGroups/>
@@ -166,7 +166,7 @@
             </entryLink>
           </entryLinks>
         </selectionEntryGroup>
-        <selectionEntryGroup id="3bf8-bc8a-b130-9385" name="Arma de Melé" hidden="false" collective="false" defaultSelectionEntryId="bdd0-1f53-6a42-8687">
+        <selectionEntryGroup id="3bf8-bc8a-b130-9385" name="Arma de MelÃ©" hidden="false" collective="false" defaultSelectionEntryId="bdd0-1f53-6a42-8687">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -249,7 +249,7 @@
           <characteristics>
             <characteristic name="Velocidad" characteristicTypeId="4e85-eaa5-eccb-41d1" value="2-3"/>
             <characteristic name="Armadura" characteristicTypeId="6e20-a2eb-4873-facd" value="-"/>
-            <characteristic name="Tamaño" characteristicTypeId="72ed-1424-6a6b-51d8" value="1"/>
+            <characteristic name="TamaÃ±o" characteristicTypeId="72ed-1424-6a6b-51d8" value="1"/>
             <characteristic name="Disparo" characteristicTypeId="8e81-1fe3-f677-8d5c" value="5+"/>
             <characteristic name="Lucha" characteristicTypeId="5ab1-1acc-a108-daf5" value="5+"/>
             <characteristic name="Supervivencia" characteristicTypeId="2375-5bce-3345-261b" value="4+"/>
@@ -267,12 +267,12 @@
         </rule>
       </rules>
       <infoLinks>
-        <infoLink id="3b06-95d0-9318-b0e1" name="Táctico (n)" hidden="false" targetId="61bb-0743-e806-2bfc" type="rule">
+        <infoLink id="3b06-95d0-9318-b0e1" name="TÃ¡ctico (n)" hidden="false" targetId="61bb-0743-e806-2bfc" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers>
-            <modifier type="set" field="name" value="Táctico (1)">
+            <modifier type="set" field="name" value="TÃ¡ctico (1)">
               <repeats/>
               <conditions/>
               <conditionGroups/>
@@ -293,7 +293,7 @@
       </categoryLinks>
       <selectionEntries/>
       <selectionEntryGroups>
-        <selectionEntryGroup id="4c89-dc3e-ab88-4ba7" name="Arma de Melé" hidden="false" collective="false" defaultSelectionEntryId="6e62-ca73-a4c5-6017">
+        <selectionEntryGroup id="4c89-dc3e-ab88-4ba7" name="Arma de MelÃ©" hidden="false" collective="false" defaultSelectionEntryId="6e62-ca73-a4c5-6017">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -461,7 +461,7 @@
           <characteristics>
             <characteristic name="Velocidad" characteristicTypeId="df17-4b5c-638f-0807" value="2-3"/>
             <characteristic name="Armadura" characteristicTypeId="0274-bb56-5442-a0f1" value="-"/>
-            <characteristic name="Tamaño" characteristicTypeId="2623-46e7-250f-eacf" value="1"/>
+            <characteristic name="TamaÃ±o" characteristicTypeId="2623-46e7-250f-eacf" value="1"/>
             <characteristic name="Disparo" characteristicTypeId="68ea-7e51-32e7-70c8" value="6+"/>
             <characteristic name="Lucha" characteristicTypeId="cf38-e165-7d39-0773" value="5+"/>
             <characteristic name="Supervivencia" characteristicTypeId="ecb0-eafd-b6fa-91a0" value="5+"/>
@@ -546,7 +546,7 @@
           <characteristics>
             <characteristic name="Velocidad" characteristicTypeId="4e85-eaa5-eccb-41d1" value="2-3"/>
             <characteristic name="Armadura" characteristicTypeId="6e20-a2eb-4873-facd" value="-"/>
-            <characteristic name="Tamaño" characteristicTypeId="72ed-1424-6a6b-51d8" value="1"/>
+            <characteristic name="TamaÃ±o" characteristicTypeId="72ed-1424-6a6b-51d8" value="1"/>
             <characteristic name="Disparo" characteristicTypeId="8e81-1fe3-f677-8d5c" value="5+"/>
             <characteristic name="Lucha" characteristicTypeId="5ab1-1acc-a108-daf5" value="5+"/>
             <characteristic name="Supervivencia" characteristicTypeId="2375-5bce-3345-261b" value="5+"/>
@@ -564,12 +564,12 @@
         </rule>
       </rules>
       <infoLinks>
-        <infoLink id="93f4-b9b3-21cf-38a6" name="Táctico (n)" hidden="false" targetId="61bb-0743-e806-2bfc" type="rule">
+        <infoLink id="93f4-b9b3-21cf-38a6" name="TÃ¡ctico (n)" hidden="false" targetId="61bb-0743-e806-2bfc" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers>
-            <modifier type="set" field="name" value="Táctico (1)">
+            <modifier type="set" field="name" value="TÃ¡ctico (1)">
               <repeats/>
               <conditions/>
               <conditionGroups/>
@@ -596,7 +596,7 @@
       </categoryLinks>
       <selectionEntries/>
       <selectionEntryGroups>
-        <selectionEntryGroup id="6e74-cee8-9199-e7b2" name="Arma de Melé" hidden="false" collective="false" defaultSelectionEntryId="6a69-9172-e847-9814">
+        <selectionEntryGroup id="6e74-cee8-9199-e7b2" name="Arma de MelÃ©" hidden="false" collective="false" defaultSelectionEntryId="6a69-9172-e847-9814">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -858,7 +858,7 @@
           <characteristics>
             <characteristic name="Velocidad" characteristicTypeId="df17-4b5c-638f-0807" value="2-3"/>
             <characteristic name="Armadura" characteristicTypeId="0274-bb56-5442-a0f1" value="-"/>
-            <characteristic name="Tamaño" characteristicTypeId="2623-46e7-250f-eacf" value="1"/>
+            <characteristic name="TamaÃ±o" characteristicTypeId="2623-46e7-250f-eacf" value="1"/>
             <characteristic name="Disparo" characteristicTypeId="68ea-7e51-32e7-70c8" value="7+"/>
             <characteristic name="Lucha" characteristicTypeId="cf38-e165-7d39-0773" value="4+"/>
             <characteristic name="Supervivencia" characteristicTypeId="ecb0-eafd-b6fa-91a0" value="5+"/>
@@ -938,7 +938,7 @@
           <characteristics>
             <characteristic name="Velocidad" characteristicTypeId="df17-4b5c-638f-0807" value="2-3"/>
             <characteristic name="Armadura" characteristicTypeId="0274-bb56-5442-a0f1" value="-"/>
-            <characteristic name="Tamaño" characteristicTypeId="2623-46e7-250f-eacf" value="1"/>
+            <characteristic name="TamaÃ±o" characteristicTypeId="2623-46e7-250f-eacf" value="1"/>
             <characteristic name="Disparo" characteristicTypeId="68ea-7e51-32e7-70c8" value="5+"/>
             <characteristic name="Lucha" characteristicTypeId="cf38-e165-7d39-0773" value="6+"/>
             <characteristic name="Supervivencia" characteristicTypeId="ecb0-eafd-b6fa-91a0" value="5+"/>
@@ -960,7 +960,7 @@
       </categoryLinks>
       <selectionEntries/>
       <selectionEntryGroups>
-        <selectionEntryGroup id="d7b0-fe5f-0966-1c1e" name="Arma de Melé" hidden="false" collective="false" defaultSelectionEntryId="a6e3-467a-2ceb-0806">
+        <selectionEntryGroup id="d7b0-fe5f-0966-1c1e" name="Arma de MelÃ©" hidden="false" collective="false" defaultSelectionEntryId="a6e3-467a-2ceb-0806">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1120,7 +1120,7 @@
           <characteristics>
             <characteristic name="Velocidad" characteristicTypeId="df17-4b5c-638f-0807" value="2-3"/>
             <characteristic name="Armadura" characteristicTypeId="0274-bb56-5442-a0f1" value="-"/>
-            <characteristic name="Tamaño" characteristicTypeId="2623-46e7-250f-eacf" value="3"/>
+            <characteristic name="TamaÃ±o" characteristicTypeId="2623-46e7-250f-eacf" value="3"/>
             <characteristic name="Disparo" characteristicTypeId="68ea-7e51-32e7-70c8" value="-"/>
             <characteristic name="Lucha" characteristicTypeId="cf38-e165-7d39-0773" value="4+"/>
             <characteristic name="Supervivencia" characteristicTypeId="ecb0-eafd-b6fa-91a0" value="5+"/>
@@ -1200,7 +1200,7 @@
           <characteristics>
             <characteristic name="Velocidad" characteristicTypeId="df17-4b5c-638f-0807" value="2-3"/>
             <characteristic name="Armadura" characteristicTypeId="0274-bb56-5442-a0f1" value="-"/>
-            <characteristic name="Tamaño" characteristicTypeId="2623-46e7-250f-eacf" value="3"/>
+            <characteristic name="TamaÃ±o" characteristicTypeId="2623-46e7-250f-eacf" value="3"/>
             <characteristic name="Disparo" characteristicTypeId="68ea-7e51-32e7-70c8" value="5+"/>
             <characteristic name="Lucha" characteristicTypeId="cf38-e165-7d39-0773" value="5+"/>
             <characteristic name="Supervivencia" characteristicTypeId="ecb0-eafd-b6fa-91a0" value="5+"/>
@@ -1291,7 +1291,7 @@
           <characteristics>
             <characteristic name="Velocidad" characteristicTypeId="df17-4b5c-638f-0807" value="2-3"/>
             <characteristic name="Armadura" characteristicTypeId="0274-bb56-5442-a0f1" value="-"/>
-            <characteristic name="Tamaño" characteristicTypeId="2623-46e7-250f-eacf" value="1"/>
+            <characteristic name="TamaÃ±o" characteristicTypeId="2623-46e7-250f-eacf" value="1"/>
             <characteristic name="Disparo" characteristicTypeId="68ea-7e51-32e7-70c8" value="6+"/>
             <characteristic name="Lucha" characteristicTypeId="cf38-e165-7d39-0773" value="5+"/>
             <characteristic name="Supervivencia" characteristicTypeId="ecb0-eafd-b6fa-91a0" value="5+"/>
@@ -1326,7 +1326,7 @@
       </categoryLinks>
       <selectionEntries/>
       <selectionEntryGroups>
-        <selectionEntryGroup id="be87-ae2c-14f4-da62" name="Arma de Melé" hidden="false" collective="false">
+        <selectionEntryGroup id="be87-ae2c-14f4-da62" name="Arma de MelÃ©" hidden="false" collective="false">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1588,7 +1588,7 @@
           <characteristics>
             <characteristic name="Velocidad" characteristicTypeId="df17-4b5c-638f-0807" value="2-3"/>
             <characteristic name="Armadura" characteristicTypeId="0274-bb56-5442-a0f1" value="-"/>
-            <characteristic name="Tamaño" characteristicTypeId="2623-46e7-250f-eacf" value="2"/>
+            <characteristic name="TamaÃ±o" characteristicTypeId="2623-46e7-250f-eacf" value="2"/>
             <characteristic name="Disparo" characteristicTypeId="68ea-7e51-32e7-70c8" value="-"/>
             <characteristic name="Lucha" characteristicTypeId="cf38-e165-7d39-0773" value="5+"/>
             <characteristic name="Supervivencia" characteristicTypeId="ecb0-eafd-b6fa-91a0" value="5+"/>
@@ -1677,7 +1677,7 @@
           <characteristics>
             <characteristic name="Velocidad" characteristicTypeId="df17-4b5c-638f-0807" value="1-2"/>
             <characteristic name="Armadura" characteristicTypeId="0274-bb56-5442-a0f1" value="1"/>
-            <characteristic name="Tamaño" characteristicTypeId="2623-46e7-250f-eacf" value="2"/>
+            <characteristic name="TamaÃ±o" characteristicTypeId="2623-46e7-250f-eacf" value="2"/>
             <characteristic name="Disparo" characteristicTypeId="68ea-7e51-32e7-70c8" value="6+"/>
             <characteristic name="Lucha" characteristicTypeId="cf38-e165-7d39-0773" value="4+"/>
             <characteristic name="Supervivencia" characteristicTypeId="ecb0-eafd-b6fa-91a0" value="4+"/>
@@ -1831,7 +1831,7 @@
           <characteristics>
             <characteristic name="Velocidad" characteristicTypeId="df17-4b5c-638f-0807" value="1-2"/>
             <characteristic name="Armadura" characteristicTypeId="0274-bb56-5442-a0f1" value="-"/>
-            <characteristic name="Tamaño" characteristicTypeId="2623-46e7-250f-eacf" value="4"/>
+            <characteristic name="TamaÃ±o" characteristicTypeId="2623-46e7-250f-eacf" value="4"/>
             <characteristic name="Disparo" characteristicTypeId="68ea-7e51-32e7-70c8" value="5+"/>
             <characteristic name="Lucha" characteristicTypeId="cf38-e165-7d39-0773" value="-"/>
             <characteristic name="Supervivencia" characteristicTypeId="ecb0-eafd-b6fa-91a0" value="5+"/>
@@ -1840,7 +1840,7 @@
       </profiles>
       <rules/>
       <infoLinks>
-        <infoLink id="626d-ac4d-1a96-b455" name="Vehículo" hidden="false" targetId="ea60-c32b-086e-1a17" type="rule">
+        <infoLink id="626d-ac4d-1a96-b455" name="VehÃ­culo" hidden="false" targetId="ea60-c32b-086e-1a17" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1923,7 +1923,7 @@
           <characteristics>
             <characteristic name="Velocidad" characteristicTypeId="df17-4b5c-638f-0807" value="1-1"/>
             <characteristic name="Armadura" characteristicTypeId="0274-bb56-5442-a0f1" value="1"/>
-            <characteristic name="Tamaño" characteristicTypeId="2623-46e7-250f-eacf" value="4"/>
+            <characteristic name="TamaÃ±o" characteristicTypeId="2623-46e7-250f-eacf" value="4"/>
             <characteristic name="Disparo" characteristicTypeId="68ea-7e51-32e7-70c8" value="5+"/>
             <characteristic name="Lucha" characteristicTypeId="cf38-e165-7d39-0773" value="6+"/>
             <characteristic name="Supervivencia" characteristicTypeId="ecb0-eafd-b6fa-91a0" value="5+"/>
@@ -1932,7 +1932,7 @@
       </profiles>
       <rules/>
       <infoLinks>
-        <infoLink id="e501-8673-a450-57ce" name="Vehículo" hidden="false" targetId="ea60-c32b-086e-1a17" type="rule">
+        <infoLink id="e501-8673-a450-57ce" name="VehÃ­culo" hidden="false" targetId="ea60-c32b-086e-1a17" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -2011,7 +2011,7 @@
               <characteristics>
                 <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A5"/>
                 <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
-                <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Stun, Psychic"/>
+                <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Aturdir, Psychic"/>
                 <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c"/>
               </characteristics>
             </profile>
@@ -2024,7 +2024,7 @@
               <infoLinks/>
               <modifiers/>
             </infoLink>
-            <infoLink id="6675-55d6-c670-cdcd" name="Stun" hidden="false" targetId="5007-f9e6-65c2-71f5" type="rule">
+            <infoLink id="6675-55d6-c670-cdcd" name="Aturdir" hidden="false" targetId="5007-f9e6-65c2-71f5" type="rule">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -2107,7 +2107,7 @@
           <characteristics>
             <characteristic name="Velocidad" characteristicTypeId="df17-4b5c-638f-0807" value="1-4"/>
             <characteristic name="Armadura" characteristicTypeId="0274-bb56-5442-a0f1" value="1"/>
-            <characteristic name="Tamaño" characteristicTypeId="2623-46e7-250f-eacf" value="4"/>
+            <characteristic name="TamaÃ±o" characteristicTypeId="2623-46e7-250f-eacf" value="4"/>
             <characteristic name="Disparo" characteristicTypeId="68ea-7e51-32e7-70c8" value="5+"/>
             <characteristic name="Lucha" characteristicTypeId="cf38-e165-7d39-0773" value="5+"/>
             <characteristic name="Supervivencia" characteristicTypeId="ecb0-eafd-b6fa-91a0" value="5+"/>
@@ -2116,7 +2116,7 @@
       </profiles>
       <rules/>
       <infoLinks>
-        <infoLink id="748f-94fb-ff2f-fd15" name="Vehículo" hidden="false" targetId="ea60-c32b-086e-1a17" type="rule">
+        <infoLink id="748f-94fb-ff2f-fd15" name="VehÃ­culo" hidden="false" targetId="ea60-c32b-086e-1a17" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -2423,7 +2423,7 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="a442-ce6a-703a-fd36" name="Psíquico Chovar" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="a442-ce6a-703a-fd36" name="PsÃ­quico Chovar" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -2441,7 +2441,7 @@
       <selectionEntries/>
       <selectionEntryGroups/>
       <entryLinks>
-        <entryLink id="abcf-2c46-3094-2372" name="Psíquico Chovar" hidden="false" targetId="0304-1c3a-5501-a41f" type="selectionEntry">
+        <entryLink id="abcf-2c46-3094-2372" name="PsÃ­quico Chovar" hidden="false" targetId="0304-1c3a-5501-a41f" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -2638,7 +2638,7 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="312f-64c9-9fbc-e775" name="Proyecto Oberón" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="312f-64c9-9fbc-e775" name="Proyecto OberÃ³n" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -2656,7 +2656,7 @@
       <selectionEntries/>
       <selectionEntryGroups/>
       <entryLinks>
-        <entryLink id="866c-bf8d-6021-60cc" name="Proyecto Oberón" hidden="false" targetId="1acb-ca9d-dddd-bfd6" type="selectionEntry">
+        <entryLink id="866c-bf8d-6021-60cc" name="Proyecto OberÃ³n" hidden="false" targetId="1acb-ca9d-dddd-bfd6" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -2823,7 +2823,7 @@
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="03cf-eddf-c0bb-7840" name="It Burns!" hidden="false" targetId="6b7c-f0a9-4644-398d" type="rule">
+        <infoLink id="03cf-eddf-c0bb-7840" name="Â¡Quema!" hidden="false" targetId="6b7c-f0a9-4644-398d" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -2885,13 +2885,13 @@
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="696b-95f9-1f03-229a" name="Volatile" hidden="false" targetId="66b5-4831-9238-85aa" type="rule">
+        <infoLink id="696b-95f9-1f03-229a" name="VolÃ¡til" hidden="false" targetId="66b5-4831-9238-85aa" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="b437-440d-aeef-3bfc" name="It Burns!" hidden="false" targetId="6b7c-f0a9-4644-398d" type="rule">
+        <infoLink id="b437-440d-aeef-3bfc" name="Â¡Quema!" hidden="false" targetId="6b7c-f0a9-4644-398d" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -2919,7 +2919,7 @@
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="a4de-1059-e6cb-f8e4" name="Fuego Rápido" hidden="false" targetId="dd9c-58ef-1fec-28b8" type="rule">
+        <infoLink id="a4de-1059-e6cb-f8e4" name="Fuego RÃ¡pido" hidden="false" targetId="dd9c-58ef-1fec-28b8" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -3109,13 +3109,13 @@
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="1519-0344-7c98-112f" name="Volatile" hidden="false" targetId="66b5-4831-9238-85aa" type="rule">
+        <infoLink id="1519-0344-7c98-112f" name="VolÃ¡til" hidden="false" targetId="66b5-4831-9238-85aa" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="365c-002e-c429-377e" name="It Burns!" hidden="false" targetId="6b7c-f0a9-4644-398d" type="rule">
+        <infoLink id="365c-002e-c429-377e" name="Â¡Quema!" hidden="false" targetId="6b7c-f0a9-4644-398d" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -3155,13 +3155,13 @@
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="43e1-0cb4-989b-6db2" name="It Burns!" hidden="false" targetId="6b7c-f0a9-4644-398d" type="rule">
+        <infoLink id="43e1-0cb4-989b-6db2" name="Â¡Quema!" hidden="false" targetId="6b7c-f0a9-4644-398d" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="fd39-4cf0-9921-6b33" name="Volatile" hidden="false" targetId="66b5-4831-9238-85aa" type="rule">
+        <infoLink id="fd39-4cf0-9921-6b33" name="VolÃ¡til" hidden="false" targetId="66b5-4831-9238-85aa" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -3303,7 +3303,7 @@
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="1d2e-b4ca-eb74-20a3" name="Fuego Rápido" hidden="false" targetId="dd9c-58ef-1fec-28b8" type="rule">
+        <infoLink id="1d2e-b4ca-eb74-20a3" name="Fuego RÃ¡pido" hidden="false" targetId="dd9c-58ef-1fec-28b8" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -3415,7 +3415,7 @@
             </modifier>
           </modifiers>
         </infoLink>
-        <infoLink id="b075-5de3-b4d3-31f8" name="Fuego Rápido" hidden="false" targetId="dd9c-58ef-1fec-28b8" type="rule">
+        <infoLink id="b075-5de3-b4d3-31f8" name="Fuego RÃ¡pido" hidden="false" targetId="dd9c-58ef-1fec-28b8" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -3531,7 +3531,7 @@
             </categoryLink>
           </categoryLinks>
         </entryLink>
-        <entryLink id="abb7-e522-1c3e-5bc3" name="Munición Perforante (+)" hidden="false" targetId="e73f-19f7-d7b2-06ba" type="selectionEntry">
+        <entryLink id="abb7-e522-1c3e-5bc3" name="MuniciÃ³n Perforante (+)" hidden="false" targetId="e73f-19f7-d7b2-06ba" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -3553,7 +3553,7 @@
             </categoryLink>
           </categoryLinks>
         </entryLink>
-        <entryLink id="453a-717f-a957-49d8" name="Frag Grenade (+)" hidden="false" targetId="07d6-cd01-55d9-79c0" type="selectionEntry">
+        <entryLink id="453a-717f-a957-49d8" name="Granada de FragmentaciÃ³n (+)" hidden="false" targetId="07d6-cd01-55d9-79c0" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -3628,7 +3628,7 @@
       <rules/>
       <infoLinks/>
       <modifiers/>
-      <description>This weapon follows the normal rules for Indirect weapons (page 30 of the Deadzone 2.0 Rulebook) except that instead of a variable dice 4+ test (X) attack the effect is identical to a Granada de Humo going off in the modelâ€™s cube with the added bonus of the smoke being Toxic. As long as a model remains in the smoke-filled cube it is treated as having the Vulnerable ability. Models that are immune to Toxic are immune to the Toxic effects of a Toxic Smokescreen. Models that are already Vulnerable suffer no additional effects. Adjacent cubes are not affected by this Toxic effect.
+      <description>This weapon follows the normal rules for Indirect weapons (page 30 of the Deadzone 2.0 Rulebook) except that instead of a variable dice 4+ test (X) attack the effect is identical to a Granada de Humo going off in the modelÃ¢â‚¬â„¢s cube with the added bonus of the smoke being Toxic. As long as a model remains in the smoke-filled cube it is treated as having the Vulnerable ability. Models that are immune to Toxic are immune to the Toxic effects of a Toxic Smokescreen. Models that are already Vulnerable suffer no additional effects. Adjacent cubes are not affected by this Toxic effect.
 It disperses in the same way as a Granada de Humo.</description>
     </rule>
     <rule id="fccc-6574-fe86-e5e2" name="Indirect (Smoke)" hidden="false">
@@ -3636,7 +3636,7 @@ It disperses in the same way as a Granada de Humo.</description>
       <rules/>
       <infoLinks/>
       <modifiers/>
-      <description>This weapon follows the normal rules for Indirect weapons (page 30 of the Deadzone 2.0 Rulebook) except that instead of a variable dice 4+ test (X) attack the effect is identical to a Granada de Humo going off in the modelâ€™s cube.  The smoke-filled cube blocks all LOS, including to and from models inside it. Note, however, that it does not block LOS to the cube itself. Any Disparo attacks that trace a LOS through a cube that is adjacent to a smoke-filled cube suffer a -1 dice modifier (regardless of how many such cubes they cross). At the end of each Round roll one dice per smoke-filled cube. On a 1-4 the smoke in that cube remains in place. On a 5-8 the smoke dissipates and is removed.</description>
+      <description>This weapon follows the normal rules for Indirect weapons (page 30 of the Deadzone 2.0 Rulebook) except that instead of a variable dice 4+ test (X) attack the effect is identical to a Granada de Humo going off in the modelÃ¢â‚¬â„¢s cube.  The smoke-filled cube blocks all LOS, including to and from models inside it. Note, however, that it does not block LOS to the cube itself. Any Disparo attacks that trace a LOS through a cube that is adjacent to a smoke-filled cube suffer a -1 dice modifier (regardless of how many such cubes they cross). At the end of each Round roll one dice per smoke-filled cube. On a 1-4 the smoke in that cube remains in place. On a 5-8 the smoke dissipates and is removed.</description>
     </rule>
   </sharedRules>
   <sharedProfiles>
@@ -3649,7 +3649,7 @@ It disperses in the same way as a Granada de Humo.</description>
         <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A2"/>
         <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
         <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="-"/>
-        <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Pequeño Calibre"/>
+        <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="PequeÃ±o Calibre"/>
       </characteristics>
     </profile>
     <profile id="4541-d85d-a13e-e796" name="Ray Gun" book="Deadzone: Outbreak" page="78" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
@@ -3660,8 +3660,8 @@ It disperses in the same way as a Granada de Humo.</description>
       <characteristics>
         <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A4"/>
         <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
-        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Cadencia de Fuego (1), Fuego Rápido"/>
-        <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Pequeño Calibre"/>
+        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Cadencia de Fuego (1), Fuego RÃ¡pido"/>
+        <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="PequeÃ±o Calibre"/>
       </characteristics>
     </profile>
     <profile id="230b-93b3-bcb4-8532" name="Chem Staff" book="Deadzone: Outbreak" page="78" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
@@ -3672,7 +3672,7 @@ It disperses in the same way as a Granada de Humo.</description>
       <characteristics>
         <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A1"/>
         <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="PA1"/>
-        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="It Burns!"/>
+        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Â¡Quema!"/>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Leader"/>
       </characteristics>
     </profile>
@@ -3696,7 +3696,7 @@ It disperses in the same way as a Granada de Humo.</description>
       <characteristics>
         <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A1"/>
         <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="PA1"/>
-        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Volatile, It Burns!"/>
+        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="VolÃ¡til, Â¡Quema!"/>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Asalto)"/>
       </characteristics>
     </profile>
@@ -3708,8 +3708,8 @@ It disperses in the same way as a Granada de Humo.</description>
       <characteristics>
         <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A6"/>
         <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="PA2"/>
-        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Fuego Rápido"/>
-        <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Automática)"/>
+        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Fuego RÃ¡pido"/>
+        <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (AutomÃ¡tica)"/>
       </characteristics>
     </profile>
     <profile id="1bb1-c9bb-f940-58e2" name="Chemical Grenade Launcher" book="Deadzone: Outbreak" page="78" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
@@ -3757,7 +3757,7 @@ It disperses in the same way as a Granada de Humo.</description>
         <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="AL"/>
         <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="PA1"/>
         <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="-"/>
-        <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Melé), Pesada (Melé)"/>
+        <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (MelÃ©), Pesada (MelÃ©)"/>
       </characteristics>
     </profile>
     <profile id="7e3c-511f-15e3-2273" name="Two-Handed Drill" book="Deadzone: Outbreak" page="78" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
@@ -3769,7 +3769,7 @@ It disperses in the same way as a Granada de Humo.</description>
         <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="AL"/>
         <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="PA3"/>
         <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="-"/>
-        <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Pesada (Melé)"/>
+        <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Pesada (MelÃ©)"/>
       </characteristics>
     </profile>
     <profile id="90f6-6ef6-1e09-ded3" name="Pair or Drills" book="Deadzone: Outbreak" page="78" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
@@ -3781,7 +3781,7 @@ It disperses in the same way as a Granada de Humo.</description>
         <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="AL"/>
         <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="PA1"/>
         <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Furia (1)"/>
-        <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Pesada (Melé)"/>
+        <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Pesada (MelÃ©)"/>
       </characteristics>
     </profile>
     <profile id="bb1a-330c-ccd9-5c86" name="Pesada Chem Thrower" book="Deadzone: Outbreak" page="78" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
@@ -3792,7 +3792,7 @@ It disperses in the same way as a Granada de Humo.</description>
       <characteristics>
         <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A3"/>
         <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="PA1"/>
-        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Volatile, It Burns!, Pesada"/>
+        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="VolÃ¡til, Â¡Quema!, Pesada"/>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Pesada (Asalto)"/>
       </characteristics>
     </profile>
@@ -3804,8 +3804,8 @@ It disperses in the same way as a Granada de Humo.</description>
       <characteristics>
         <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A3"/>
         <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="PA2"/>
-        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Volatile, It Burns!, Pesada"/>
-        <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Vehículo (Asalto)"/>
+        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="VolÃ¡til, Â¡Quema!, Pesada"/>
+        <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="VehÃ­culo (Asalto)"/>
       </characteristics>
     </profile>
     <profile id="7f39-72ff-f3bf-2d50" name="Scythes" book="Deadzone: Outbreak" page="78" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
@@ -3817,7 +3817,7 @@ It disperses in the same way as a Granada de Humo.</description>
         <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="AL"/>
         <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="PA1"/>
         <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Furia (1)"/>
-        <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Bestia [Animal] (Melé), Vehículo (Melé)"/>
+        <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Bestia [Animal] (MelÃ©), VehÃ­culo (MelÃ©)"/>
       </characteristics>
     </profile>
     <profile id="d267-51d9-f306-64f4" name="Super Pesada Chem Spitter" book="Deadzone: Outbreak" page="78" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
@@ -3829,7 +3829,7 @@ It disperses in the same way as a Granada de Humo.</description>
         <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A8"/>
         <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="PA2"/>
         <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Cadencia de Fuego (1), Suppression, Pesada"/>
-        <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Vehículo (Automática)"/>
+        <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="VehÃ­culo (AutomÃ¡tica)"/>
       </characteristics>
     </profile>
     <profile id="8330-d464-ea56-d935" name="Pesada Chem Spitter" book="Deadzone: Outbreak" page="78" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
@@ -3852,8 +3852,8 @@ It disperses in the same way as a Granada de Humo.</description>
       <characteristics>
         <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A6"/>
         <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="PA2"/>
-        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Cadencia de Fuego (2), Fuego Rápido"/>
-        <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Vehículo (Automática)"/>
+        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Cadencia de Fuego (2), Fuego RÃ¡pido"/>
+        <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="VehÃ­culo (AutomÃ¡tica)"/>
       </characteristics>
     </profile>
     <profile id="c65e-d8df-81e6-f7e4" name="Granada de Humo Launcher" book="Deadzone: Outbreak" page="78" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">

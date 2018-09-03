@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<catalogue id="9982-ac20-ff83-d69a" name="The Plague Elite: Dr Simmonds" book="Deadzone: Nexus Psi" page="18" revision="1" battleScribeVersion="2.01" authorName="James Tandy / Ben Edwards" authorContact="BAE2 (Github)" gameSystemId="3476-f239-cf73-2f89" gameSystemRevision="1" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
+<catalogue id="9982-ac20-ff83-d69a" name="The Plague Elite: Dr Simmonds" book="Deadzone: Nexus Psi" page="18" revision="1" battleScribeVersion="2.01" authorName="James Tandy / Ben Edwards" authorContact="BAE2 / afcj (Github)" gameSystemId="3476-f239-cf73-2f89" gameSystemRevision="1" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
   <profiles/>
   <rules/>
   <infoLinks/>
@@ -294,7 +294,7 @@ Grav-Pods: Gain Jump Pack and Glide until the end of the Round</description>
               </constraints>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="6f78-4e4c-e3f2-05dc" name="Chainsaw" hidden="false" targetId="c61b-009d-17b1-d8c9" type="selectionEntry">
+            <entryLink id="6f78-4e4c-e3f2-05dc" name="Motosierra" hidden="false" targetId="c61b-009d-17b1-d8c9" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1302,13 +1302,13 @@ Grav-Pods: Gain Jump Pack and Glide until the end of the Round</description>
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="9293-5fb7-0823-8a28" name="It Burns!" hidden="false" targetId="6b7c-f0a9-4644-398d" type="rule">
+        <infoLink id="9293-5fb7-0823-8a28" name="¡Quema!" hidden="false" targetId="6b7c-f0a9-4644-398d" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="7fcf-9118-9320-a42e" name="Volatile" hidden="false" targetId="66b5-4831-9238-85aa" type="rule">
+        <infoLink id="7fcf-9118-9320-a42e" name="Volátil" hidden="false" targetId="66b5-4831-9238-85aa" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1326,11 +1326,11 @@ Grav-Pods: Gain Jump Pack and Glide until the end of the Round</description>
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="6.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="c61b-009d-17b1-d8c9" name="Chainsaw" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="c61b-009d-17b1-d8c9" name="Motosierra" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="207f-7053-83c3-b68e" name="Chainsaw" hidden="false" targetId="e751-3e0a-a8a1-3a4e" type="profile">
+        <infoLink id="207f-7053-83c3-b68e" name="Motosierra" hidden="false" targetId="e751-3e0a-a8a1-3a4e" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1380,13 +1380,13 @@ Grav-Pods: Gain Jump Pack and Glide until the end of the Round</description>
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="481f-dd10-428a-9df6" name="Volatile" hidden="false" targetId="66b5-4831-9238-85aa" type="rule">
+        <infoLink id="481f-dd10-428a-9df6" name="Volátil" hidden="false" targetId="66b5-4831-9238-85aa" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="08d1-82fe-9750-42b4" name="It Burns!" hidden="false" targetId="6b7c-f0a9-4644-398d" type="rule">
+        <infoLink id="08d1-82fe-9750-42b4" name="¡Quema!" hidden="false" targetId="6b7c-f0a9-4644-398d" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1719,7 +1719,7 @@ Grav-Pods: Gain Jump Pack and Glide until the end of the Round</description>
             </categoryLink>
           </categoryLinks>
         </entryLink>
-        <entryLink id="d235-3746-a132-2b5b" name="Frag Grenade (+)" hidden="false" targetId="07d6-cd01-55d9-79c0" type="selectionEntry">
+        <entryLink id="d235-3746-a132-2b5b" name="Granada de Fragmentación (+)" hidden="false" targetId="07d6-cd01-55d9-79c0" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1798,11 +1798,11 @@ Grav-Pods: Gain Jump Pack and Glide until the end of the Round</description>
       <characteristics>
         <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A2"/>
         <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
-        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Volatile, It Burns!"/>
+        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Volátil, ¡Quema!"/>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Andador (Asalto)"/>
       </characteristics>
     </profile>
-    <profile id="e751-3e0a-a8a1-3a4e" name="Chainsaw" book="Reglamento Deadzone 2ª Edición" page="52" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="e751-3e0a-a8a1-3a4e" name="Motosierra" book="Reglamento Deadzone 2ª Edición" page="52" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -1834,7 +1834,7 @@ Grav-Pods: Gain Jump Pack and Glide until the end of the Round</description>
       <characteristics>
         <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A2"/>
         <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
-        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Volatile, It Burns!"/>
+        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Volátil, ¡Quema!"/>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Asalto)"/>
       </characteristics>
     </profile>

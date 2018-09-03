@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<catalogue id="5a39-b675-c8ae-aa7e" name="Forge Fathers" book="Reglamento Deadzone 2ª Edición" page="66" revision="1" battleScribeVersion="2.01" authorName="Ben Edwards" authorContact="BAE2 (GitHub)" gameSystemId="3476-f239-cf73-2f89" gameSystemRevision="1" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
+<catalogue id="5a39-b675-c8ae-aa7e" name="Padres Forjadores" book="Reglamento Deadzone 2ª Edición" page="66" revision="1" battleScribeVersion="2.01" authorName="Ben Edwards (traducción afcj)" authorContact="BAE2 (GitHub)" gameSystemId="3476-f239-cf73-2f89" gameSystemRevision="1" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
   <profiles/>
   <rules/>
   <infoLinks/>
@@ -4378,7 +4378,7 @@
               <characteristics>
                 <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A3"/>
                 <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="PA1"/>
-                <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Pesada, Volatile, It Burns!"/>
+                <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Pesada, Volátil, ¡Quema!"/>
                 <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value=""/>
               </characteristics>
             </profile>
@@ -4391,13 +4391,13 @@
               <infoLinks/>
               <modifiers/>
             </infoLink>
-            <infoLink id="8867-05cd-4793-4a60" name="Volatile" hidden="false" targetId="66b5-4831-9238-85aa" type="rule">
+            <infoLink id="8867-05cd-4793-4a60" name="Volátil" hidden="false" targetId="66b5-4831-9238-85aa" type="rule">
               <profiles/>
               <rules/>
               <infoLinks/>
               <modifiers/>
             </infoLink>
-            <infoLink id="e5a9-9123-6c79-03e4" name="It Burns!" hidden="false" targetId="6b7c-f0a9-4644-398d" type="rule">
+            <infoLink id="e5a9-9123-6c79-03e4" name="¡Quema!" hidden="false" targetId="6b7c-f0a9-4644-398d" type="rule">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -4738,7 +4738,7 @@
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="9b32-4286-6dc8-5128" name="It Burns!" hidden="false" targetId="6b7c-f0a9-4644-398d" type="rule">
+        <infoLink id="9b32-4286-6dc8-5128" name="¡Quema!" hidden="false" targetId="6b7c-f0a9-4644-398d" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -4856,7 +4856,7 @@
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="fd7e-37c4-4bef-a504" name="It Burns!" hidden="false" targetId="6b7c-f0a9-4644-398d" type="rule">
+        <infoLink id="fd7e-37c4-4bef-a504" name="¡Quema!" hidden="false" targetId="6b7c-f0a9-4644-398d" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -4924,7 +4924,7 @@
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="dd05-32b1-b924-210d" name="It Burns!" hidden="false" targetId="6b7c-f0a9-4644-398d" type="rule">
+        <infoLink id="dd05-32b1-b924-210d" name="¡Quema!" hidden="false" targetId="6b7c-f0a9-4644-398d" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -5212,7 +5212,7 @@
             </categoryLink>
           </categoryLinks>
         </entryLink>
-        <entryLink id="f632-7e5e-737b-0945" name="Frag Grenade (+)" hidden="false" targetId="07d6-cd01-55d9-79c0" type="selectionEntry">
+        <entryLink id="f632-7e5e-737b-0945" name="Granada de Fragmentación (+)" hidden="false" targetId="07d6-cd01-55d9-79c0" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -5407,7 +5407,7 @@
       <characteristics>
         <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A3"/>
         <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="PA2"/>
-        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="It Burns!"/>
+        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="¡Quema!"/>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Asalto)"/>
       </characteristics>
     </profile>
@@ -5455,7 +5455,7 @@
       <characteristics>
         <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="AL/A2"/>
         <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="PA3/PA-"/>
-        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="It Burns!"/>
+        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="¡Quema!"/>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Andador (Asalto)"/>
       </characteristics>
     </profile>
@@ -5479,7 +5479,7 @@
       <characteristics>
         <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A2"/>
         <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
-        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="It Burns!"/>
+        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="¡Quema!"/>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Asalto)"/>
       </characteristics>
     </profile>
