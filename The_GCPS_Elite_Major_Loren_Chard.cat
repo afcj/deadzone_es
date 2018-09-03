@@ -377,7 +377,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="26aa-efda-41d0-49f0" name="Grenade Launcher" hidden="false" targetId="8815-a6c2-992a-d6a6" type="selectionEntry">
+            <entryLink id="26aa-efda-41d0-49f0" name="Lanzagranadas" hidden="false" targetId="8815-a6c2-992a-d6a6" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -962,7 +962,7 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="a41d-5849-b341-368b" name="Hund Rebel Bounty Hunter" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="a41d-5849-b341-368b" name="Hund, Cazarrecompensas Rebelde" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -980,7 +980,7 @@
       <selectionEntries/>
       <selectionEntryGroups/>
       <entryLinks>
-        <entryLink id="2a4e-5467-0199-734b" name="Hund Rebel Bounty Hunter" hidden="false" targetId="82b7-ee91-ddd9-b4ea" type="selectionEntry">
+        <entryLink id="2a4e-5467-0199-734b" name="Hund, Cazarrecompensas Rebelde" hidden="false" targetId="82b7-ee91-ddd9-b4ea" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1048,7 +1048,7 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="017c-0957-4098-dcc7" name="Ogre Terminator" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="017c-0957-4098-dcc7" name="Ogro Exterminador" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -1066,7 +1066,7 @@
       <selectionEntries/>
       <selectionEntryGroups/>
       <entryLinks>
-        <entryLink id="b819-3a5a-96ff-025a" name="Ogre Terminator" hidden="false" targetId="0414-610d-4dbb-3791" type="selectionEntry">
+        <entryLink id="b819-3a5a-96ff-025a" name="Ogro Exterminador" hidden="false" targetId="0414-610d-4dbb-3791" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1134,7 +1134,7 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="6615-642e-3edc-a707" name="Teraton Shock Trooper" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="6615-642e-3edc-a707" name="Soldado de Choque Teratón" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -1152,7 +1152,7 @@
       <selectionEntries/>
       <selectionEntryGroups/>
       <entryLinks>
-        <entryLink id="22f5-f78d-e61c-7879" name="Teraton Shock Trooper" hidden="false" targetId="6543-c829-efb7-702a" type="selectionEntry">
+        <entryLink id="22f5-f78d-e61c-7879" name="Soldado de Choque Teratón" hidden="false" targetId="6543-c829-efb7-702a" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1553,11 +1553,11 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="5.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="b553-cd81-f1e9-ca95" name="Energy Gauntlet" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="b553-cd81-f1e9-ca95" name="Guantalete de Energía" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="297e-1a5a-47c4-bfef" name="Energy Gauntlet" hidden="false" targetId="32cf-1fe1-aa2a-2b6c" type="profile">
+        <infoLink id="297e-1a5a-47c4-bfef" name="Guantalete de Energía" hidden="false" targetId="32cf-1fe1-aa2a-2b6c" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1655,11 +1655,11 @@
         <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="8815-a6c2-992a-d6a6" name="Grenade Launcher" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="8815-a6c2-992a-d6a6" name="Lanzagranadas" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="799a-0ff9-9021-0981" name="Grenade Launcher" hidden="false" targetId="7955-b66d-2ce9-4e08" type="profile">
+        <infoLink id="799a-0ff9-9021-0981" name="Lanzagranadas" hidden="false" targetId="7955-b66d-2ce9-4e08" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1795,12 +1795,12 @@
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="8827-5c94-637c-c5f2" name="Frag (n)" hidden="false" targetId="f7aa-fbc1-3217-1be0" type="rule">
+        <infoLink id="8827-5c94-637c-c5f2" name="Fragmentación (n)" hidden="false" targetId="f7aa-fbc1-3217-1be0" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers>
-            <modifier type="set" field="name" value="Frag (3)">
+            <modifier type="set" field="name" value="Fragmentación (3)">
               <repeats/>
               <conditions/>
               <conditionGroups/>
@@ -2260,7 +2260,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Andador (Melé)"/>
       </characteristics>
     </profile>
-    <profile id="32cf-1fe1-aa2a-2b6c" name="Energy Gauntlet" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="32cf-1fe1-aa2a-2b6c" name="Guantalete de Energía" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -2296,7 +2296,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Leader"/>
       </characteristics>
     </profile>
-    <profile id="7955-b66d-2ce9-4e08" name="Grenade Launcher" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="7955-b66d-2ce9-4e08" name="Lanzagranadas" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -2352,7 +2352,7 @@
       <characteristics>
         <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A8"/>
         <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="PA1"/>
-        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Frag (3), Pesada"/>
+        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Fragmentación (3), Pesada"/>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Pesada (Crew Served Weapon)"/>
       </characteristics>
     </profile>

@@ -212,7 +212,7 @@
           <rules/>
           <infoLinks/>
           <modifiers/>
-          <description>Spend an Army Special result on a Command Dice at the end of a model activation. The active model slinks into hiding. For the rest of the Round, this model cannot be targeted by Disparo actions, and cannot have Line of Sight drawn to it. The model is still affected by abilities that target every model in the cube (such as Frag, indirect, ¡Quema! or Blast) and can still be the target of Lucha actions.</description>
+          <description>Spend an Army Special result on a Command Dice at the end of a model activation. The active model slinks into hiding. For the rest of the Round, this model cannot be targeted by Disparo actions, and cannot have Line of Sight drawn to it. The model is still affected by abilities that target every model in the cube (such as Fragmentación, indirect, ¡Quema! or Blast) and can still be the target of Lucha actions.</description>
         </rule>
       </rules>
       <infoLinks>
@@ -907,7 +907,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="6d8f-f300-5ff7-c238" name="Grenade Launcher" hidden="false" targetId="9609-4f43-8533-15be" type="selectionEntry">
+            <entryLink id="6d8f-f300-5ff7-c238" name="Lanzagranadas" hidden="false" targetId="9609-4f43-8533-15be" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -923,7 +923,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="11ac-b3ca-a634-4f84" name="Grenade Launcher" hidden="false" targetId="585f-d3b4-c7b1-3c36" type="selectionEntry">
+            <entryLink id="11ac-b3ca-a634-4f84" name="Lanzagranadas" hidden="false" targetId="585f-d3b4-c7b1-3c36" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1273,9 +1273,9 @@
         <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="a124-effa-3f84-3a77" name="Survey Drone" book="Reglamento Deadzone 2ª Edición" page="87" hidden="false" collective="false" type="unit">
+    <selectionEntry id="a124-effa-3f84-3a77" name="Survey Dron" book="Reglamento Deadzone 2ª Edición" page="87" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="7786-392d-e2e0-96cc" name="Survey Drone" book="Reglamento Deadzone 2ª Edición" page="87" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
+        <profile id="7786-392d-e2e0-96cc" name="Survey Dron" book="Reglamento Deadzone 2ª Edición" page="87" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1624,7 +1624,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="b683-7e4b-141b-c65c" name="Ligera Grenade Launcher" hidden="false" targetId="9609-4f43-8533-15be" type="selectionEntry">
+            <entryLink id="b683-7e4b-141b-c65c" name="Ligera Lanzagranadas" hidden="false" targetId="9609-4f43-8533-15be" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -2655,9 +2655,9 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="13.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="605b-f12f-62f4-de70" name="Teraton Shock Trooper" book="Reglamento Deadzone 2ª Edición + Erratas v2.1" page="94" hidden="false" collective="false" type="unit">
+    <selectionEntry id="605b-f12f-62f4-de70" name="Soldado de Choque Teratón" book="Reglamento Deadzone 2ª Edición + Erratas v2.1" page="94" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="cfed-91e9-f713-84d3" name="Teraton Shock Trooper" book="Reglamento Deadzone 2ª Edición" page="94" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
+        <profile id="cfed-91e9-f713-84d3" name="Soldado de Choque Teratón" book="Reglamento Deadzone 2ª Edición" page="94" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -2693,9 +2693,9 @@
         </categoryLink>
       </categoryLinks>
       <selectionEntries>
-        <selectionEntry id="bf52-bb45-c827-d177" name="ARC Launcher" hidden="false" collective="false" type="upgrade">
+        <selectionEntry id="bf52-bb45-c827-d177" name="Lanzador ARC" hidden="false" collective="false" type="upgrade">
           <profiles>
-            <profile id="dde3-0af1-bed3-edab" name="ARC Launcher" book="Reglamento Deadzone 2ª Edición" page="94" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+            <profile id="dde3-0af1-bed3-edab" name="Lanzador ARC" book="Reglamento Deadzone 2ª Edición" page="94" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -2724,9 +2724,9 @@
             <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="0.0"/>
           </costs>
         </selectionEntry>
-        <selectionEntry id="100d-62eb-5764-945c" name="Mace" book="" page="" hidden="false" collective="false" type="upgrade">
+        <selectionEntry id="100d-62eb-5764-945c" name="Maza" book="" page="" hidden="false" collective="false" type="upgrade">
           <profiles>
-            <profile id="0011-71e1-b664-89ec" name="Mace" book="Reglamento Deadzone 2ª Edición" page="94" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+            <profile id="0011-71e1-b664-89ec" name="Maza" book="Reglamento Deadzone 2ª Edición" page="94" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -3172,7 +3172,7 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="322b-5024-b0bd-b583" name="Hund Rebel Bounty Hunter" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="322b-5024-b0bd-b583" name="Hund, Cazarrecompensas Rebelde" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -3190,7 +3190,7 @@
       <selectionEntries/>
       <selectionEntryGroups/>
       <entryLinks>
-        <entryLink id="f983-42ca-2391-bf87" name="Hund Rebel Bounty Hunter" hidden="false" targetId="82b7-ee91-ddd9-b4ea" type="selectionEntry">
+        <entryLink id="f983-42ca-2391-bf87" name="Hund, Cazarrecompensas Rebelde" hidden="false" targetId="82b7-ee91-ddd9-b4ea" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -3258,7 +3258,7 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="2e99-71b6-b2fd-9ca5" name="Ogre Terminator" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="2e99-71b6-b2fd-9ca5" name="Ogro Exterminador" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -3276,7 +3276,7 @@
       <selectionEntries/>
       <selectionEntryGroups/>
       <entryLinks>
-        <entryLink id="7fb5-c397-1e1d-52b6" name="Ogre Terminator" hidden="false" targetId="0414-610d-4dbb-3791" type="selectionEntry">
+        <entryLink id="7fb5-c397-1e1d-52b6" name="Ogro Exterminador" hidden="false" targetId="0414-610d-4dbb-3791" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -3642,7 +3642,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="7bae-01fa-1979-35c6" name="Grenade Launcher" hidden="false" targetId="585f-d3b4-c7b1-3c36" type="selectionEntry">
+            <entryLink id="7bae-01fa-1979-35c6" name="Lanzagranadas" hidden="false" targetId="585f-d3b4-c7b1-3c36" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -3650,7 +3650,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="09b5-5e83-dabf-de6b" name="Ligera Grenade Launcher" hidden="false" targetId="9609-4f43-8533-15be" type="selectionEntry">
+            <entryLink id="09b5-5e83-dabf-de6b" name="Ligera Lanzagranadas" hidden="false" targetId="9609-4f43-8533-15be" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -4118,11 +4118,11 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="5.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="9609-4f43-8533-15be" name="Ligera Grenade Launcher" book="Reglamento Deadzone 2ª Edición" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="9609-4f43-8533-15be" name="Ligera Lanzagranadas" book="Reglamento Deadzone 2ª Edición" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="6a7c-61aa-ddc8-1ca1" name="Grenade Launcher" hidden="false" targetId="8567-fd93-ae8b-c1f0" type="profile">
+        <infoLink id="6a7c-61aa-ddc8-1ca1" name="Lanzagranadas" hidden="false" targetId="8567-fd93-ae8b-c1f0" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -4134,12 +4134,12 @@
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="62c3-4b96-4833-15eb" name="Frag (n)" hidden="false" targetId="f7aa-fbc1-3217-1be0" type="rule">
+        <infoLink id="62c3-4b96-4833-15eb" name="Fragmentación (n)" hidden="false" targetId="f7aa-fbc1-3217-1be0" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers>
-            <modifier type="set" field="name" value="Frag (3)">
+            <modifier type="set" field="name" value="Fragmentación (3)">
               <repeats/>
               <conditions/>
               <conditionGroups/>
@@ -4316,11 +4316,11 @@
         <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="585f-d3b4-c7b1-3c36" name="Grenade Launcher" book="Reglamento Deadzone 2ª Edición" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="585f-d3b4-c7b1-3c36" name="Lanzagranadas" book="Reglamento Deadzone 2ª Edición" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="08e0-b4ba-b5c5-ccb5" name="Grenade Launcher" hidden="false" targetId="0c19-39da-27db-768f" type="profile">
+        <infoLink id="08e0-b4ba-b5c5-ccb5" name="Lanzagranadas" hidden="false" targetId="0c19-39da-27db-768f" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -4866,7 +4866,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Melé)"/>
       </characteristics>
     </profile>
-    <profile id="8567-fd93-ae8b-c1f0" name="Ligera Grenade Launcher" book="Reglamento Deadzone 2ª Edición" page="89" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="8567-fd93-ae8b-c1f0" name="Ligera Lanzagranadas" book="Reglamento Deadzone 2ª Edición" page="89" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -4874,7 +4874,7 @@
       <characteristics>
         <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A3"/>
         <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
-        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="One Use, Frag (3)"/>
+        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="One Use, Fragmentación (3)"/>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Explosiva)"/>
       </characteristics>
     </profile>
@@ -4938,7 +4938,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Asalto)"/>
       </characteristics>
     </profile>
-    <profile id="0c19-39da-27db-768f" name="Grenade Launcher" book="Deadzone Erratas v2.1" page="89" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="0c19-39da-27db-768f" name="Lanzagranadas" book="Deadzone Erratas v2.1" page="89" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
       <profiles/>
       <rules/>
       <infoLinks/>

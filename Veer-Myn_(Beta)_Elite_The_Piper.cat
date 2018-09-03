@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<catalogue id="fead-a35d-0df3-40f0" name="Veer-Myn (Beta) Elite: The Piper" book="Deadzone: Infestation" page="16" revision="1" battleScribeVersion="2.01" authorName="James Tandy / Ben Edwards" authorContact="BAE2 / afcj (Github)" gameSystemId="3476-f239-cf73-2f89" gameSystemRevision="1" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
+<catalogue id="fead-a35d-0df3-40f0" name="Veer-Myn (Beta) Elite: The Piper" book="Deadzone: Infestación" page="16" revision="1" battleScribeVersion="2.01" authorName="James Tandy / Ben Edwards" authorContact="BAE2 / afcj (Github)" gameSystemId="3476-f239-cf73-2f89" gameSystemRevision="1" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
   <profiles/>
   <rules/>
   <infoLinks/>
@@ -420,7 +420,7 @@
     </selectionEntry>
     <selectionEntry id="2fd5-4500-0b7c-3537" name="Stalker" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="bee3-5d7e-8bed-3c62" name="Stalker" book="Deadzone: Infestation" page="16" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
+        <profile id="bee3-5d7e-8bed-3c62" name="Stalker" book="Deadzone: Infestación" page="16" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -534,9 +534,9 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="8.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="8945-440e-94cc-b479" name="The Piper" book="Deadzone: Infestation" hidden="false" collective="false" type="model">
+    <selectionEntry id="8945-440e-94cc-b479" name="The Piper" book="Deadzone: Infestación" hidden="false" collective="false" type="model">
       <profiles>
-        <profile id="1e39-7030-f6be-2912" name="The Piper" book="Deadzone: Infestation" page="16" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Leader">
+        <profile id="1e39-7030-f6be-2912" name="The Piper" book="Deadzone: Infestación" page="16" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Leader">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -553,7 +553,7 @@
         </profile>
       </profiles>
       <rules>
-        <rule id="b974-d02a-aa80-a90f" name="Swarm Lord" book="Deadzone: Infestation" hidden="false">
+        <rule id="b974-d02a-aa80-a90f" name="Swarm Lord" book="Deadzone: Infestación" hidden="false">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -561,7 +561,7 @@
           <description>When deploying your models, in addition to your strike force, deploy up to two Vermin Swarm bases in your deployment zone. If there are fewer than two Vermin Swarms in play, The Piper may use a Special Action to &quot;call&quot; a new swarm. Place a single Vermin Swarm in The Piper&apos;s cube. The target cube must have enough available room to fit the Vermin Swarm. If no cube exists, The Piper may not call a Vermin Swarm.
 Vermin Swarm&apos;s are not part of the Army List, gain no experience, and are not added to a player&apos;s roster.</description>
         </rule>
-        <rule id="cb34-8019-1604-52db" name="Tide of Vermin" book="Deadzone: Infestation" hidden="false">
+        <rule id="cb34-8019-1604-52db" name="Tide of Vermin" book="Deadzone: Infestación" hidden="false">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -597,7 +597,7 @@ Vermin Swarm&apos;s are not part of the Army List, gain no experience, and are n
       <selectionEntries>
         <selectionEntry id="2867-6818-a4c9-1e2d" name="Shock Baton" hidden="false" collective="false" type="upgrade">
           <profiles>
-            <profile id="a47e-5f00-85c5-974d" name="Shock Baton" book="Deadzone: Infestation" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+            <profile id="a47e-5f00-85c5-974d" name="Shock Baton" book="Deadzone: Infestación" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -626,9 +626,9 @@ Vermin Swarm&apos;s are not part of the Army List, gain no experience, and are n
             <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="0.0"/>
           </costs>
         </selectionEntry>
-        <selectionEntry id="de36-b4da-5d42-8806" name="Vermin Swarm" book="Deadzone: Infestation" hidden="false" collective="false" type="model">
+        <selectionEntry id="de36-b4da-5d42-8806" name="Vermin Swarm" book="Deadzone: Infestación" hidden="false" collective="false" type="model">
           <profiles>
-            <profile id="8d6c-b426-e6a2-63a5" name="Vermin Swarm" book="Deadzone: Infestation" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
+            <profile id="8d6c-b426-e6a2-63a5" name="Vermin Swarm" book="Deadzone: Infestación" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -985,7 +985,7 @@ Vermin Swarm&apos;s are not part of the Army List, gain no experience, and are n
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="64dc-1618-a0f7-fe97" name="Hund Rebel Bounty Hunter" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="64dc-1618-a0f7-fe97" name="Hund, Cazarrecompensas Rebelde" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -1003,7 +1003,7 @@ Vermin Swarm&apos;s are not part of the Army List, gain no experience, and are n
       <selectionEntries/>
       <selectionEntryGroups/>
       <entryLinks>
-        <entryLink id="ad7a-ec4b-c7d2-8280" name="Hund Rebel Bounty Hunter" hidden="false" targetId="82b7-ee91-ddd9-b4ea" type="selectionEntry">
+        <entryLink id="ad7a-ec4b-c7d2-8280" name="Hund, Cazarrecompensas Rebelde" hidden="false" targetId="82b7-ee91-ddd9-b4ea" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1071,7 +1071,7 @@ Vermin Swarm&apos;s are not part of the Army List, gain no experience, and are n
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="60d1-4b2a-438b-c652" name="Ogre Terminator" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="60d1-4b2a-438b-c652" name="Ogro Exterminador" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -1089,7 +1089,7 @@ Vermin Swarm&apos;s are not part of the Army List, gain no experience, and are n
       <selectionEntries/>
       <selectionEntryGroups/>
       <entryLinks>
-        <entryLink id="b375-c6b4-b879-c7da" name="Ogre Terminator" hidden="false" targetId="0414-610d-4dbb-3791" type="selectionEntry">
+        <entryLink id="b375-c6b4-b879-c7da" name="Ogro Exterminador" hidden="false" targetId="0414-610d-4dbb-3791" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1401,11 +1401,11 @@ Vermin Swarm&apos;s are not part of the Army List, gain no experience, and are n
         <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="4898-2a0e-dae6-ecc4" name="Chemical Grenade Launcher" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="4898-2a0e-dae6-ecc4" name="Chemical Lanzagranadas" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="1ae0-77f0-1eea-dc4b" name="Chemical Grenade Launcher" hidden="false" targetId="98eb-8680-4243-41e9" type="profile">
+        <infoLink id="1ae0-77f0-1eea-dc4b" name="Chemical Lanzagranadas" hidden="false" targetId="98eb-8680-4243-41e9" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1819,11 +1819,11 @@ Vermin Swarm&apos;s are not part of the Army List, gain no experience, and are n
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="12.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="42e4-0311-e8ab-9abf" name="Toxic Grenade Launcher" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="42e4-0311-e8ab-9abf" name="Toxic Lanzagranadas" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="cec2-2df2-9bc9-95e1" name="Toxic Grenade Launcher" hidden="false" targetId="f163-754b-8a24-01e2" type="profile">
+        <infoLink id="cec2-2df2-9bc9-95e1" name="Toxic Lanzagranadas" hidden="false" targetId="f163-754b-8a24-01e2" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -2102,7 +2102,7 @@ It disperses in the same way as a Granada de Humo.</description>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Asalto)"/>
       </characteristics>
     </profile>
-    <profile id="98eb-8680-4243-41e9" name="Chemical Grenade Launcher" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="98eb-8680-4243-41e9" name="Chemical Lanzagranadas" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -2258,7 +2258,7 @@ It disperses in the same way as a Granada de Humo.</description>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Vehículo (Asalto)"/>
       </characteristics>
     </profile>
-    <profile id="f163-754b-8a24-01e2" name="Toxic Grenade Launcher" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="f163-754b-8a24-01e2" name="Toxic Lanzagranadas" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
       <profiles/>
       <rules/>
       <infoLinks/>

@@ -1206,7 +1206,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="71fb-57f2-88b4-292a" name="Frag Launchers" hidden="false" targetId="837b-86c4-4202-b50f" type="selectionEntry">
+            <entryLink id="71fb-57f2-88b4-292a" name="Fragmentación Launchers" hidden="false" targetId="837b-86c4-4202-b50f" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1487,7 +1487,7 @@
           </constraints>
           <categoryLinks/>
         </entryLink>
-        <entryLink id="1761-430a-af8e-0134" name="Frag Launchers" hidden="false" targetId="837b-86c4-4202-b50f" type="selectionEntry">
+        <entryLink id="1761-430a-af8e-0134" name="Fragmentación Launchers" hidden="false" targetId="837b-86c4-4202-b50f" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -2603,7 +2603,7 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="008f-a21d-8e50-4651" name="Hund Rebel Bounty Hunter" hidden="true" collective="false" type="upgrade">
+    <selectionEntry id="008f-a21d-8e50-4651" name="Hund, Cazarrecompensas Rebelde" hidden="true" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -2643,7 +2643,7 @@
       <selectionEntries/>
       <selectionEntryGroups/>
       <entryLinks>
-        <entryLink id="a00d-a313-a5d8-dad2" name="Hund Rebel Bounty Hunter" hidden="false" targetId="82b7-ee91-ddd9-b4ea" type="selectionEntry">
+        <entryLink id="a00d-a313-a5d8-dad2" name="Hund, Cazarrecompensas Rebelde" hidden="false" targetId="82b7-ee91-ddd9-b4ea" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -2733,7 +2733,7 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="b3b0-ded1-c2a2-774b" name="Ogre Terminator" hidden="true" collective="false" type="upgrade">
+    <selectionEntry id="b3b0-ded1-c2a2-774b" name="Ogro Exterminador" hidden="true" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -2773,7 +2773,7 @@
       <selectionEntries/>
       <selectionEntryGroups/>
       <entryLinks>
-        <entryLink id="17f3-455a-9f25-c38e" name="Ogre Terminator" hidden="false" targetId="0414-610d-4dbb-3791" type="selectionEntry">
+        <entryLink id="17f3-455a-9f25-c38e" name="Ogro Exterminador" hidden="false" targetId="0414-610d-4dbb-3791" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -2863,7 +2863,7 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="4c2c-ea03-ebcd-0e22" name="Teraton Shock Trooper" hidden="true" collective="false" type="upgrade">
+    <selectionEntry id="4c2c-ea03-ebcd-0e22" name="Soldado de Choque Teratón" hidden="true" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -2903,7 +2903,7 @@
       <selectionEntries/>
       <selectionEntryGroups/>
       <entryLinks>
-        <entryLink id="9643-a679-017d-e8c2" name="Teraton Shock Trooper" hidden="false" targetId="6543-c829-efb7-702a" type="selectionEntry">
+        <entryLink id="9643-a679-017d-e8c2" name="Soldado de Choque Teratón" hidden="false" targetId="6543-c829-efb7-702a" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -3403,9 +3403,9 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="17.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="69c5-9d70-3ac0-0e43" name="Jefe Mauhulakh" book="Deadzone: Infestation" page="32" hidden="false" collective="false" type="unit">
+    <selectionEntry id="69c5-9d70-3ac0-0e43" name="Jefe Mauhulakh" book="Deadzone: Infestación" page="32" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="fabd-8ee9-b82e-8ed5" name="Jefe Mauhulakh" book="Deadzone: Infestation" page="32" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Leader">
+        <profile id="fabd-8ee9-b82e-8ed5" name="Jefe Mauhulakh" book="Deadzone: Infestación" page="32" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Leader">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -3422,7 +3422,7 @@
         </profile>
       </profiles>
       <rules>
-        <rule id="49e5-58d9-77dd-7c8b" name="Move It! Move It! Move It!" book="Deadzone: Infestation" page="32" hidden="false">
+        <rule id="49e5-58d9-77dd-7c8b" name="Move It! Move It! Move It!" book="Deadzone: Infestación" page="32" hidden="false">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -3464,7 +3464,7 @@
       <selectionEntries>
         <selectionEntry id="36df-2199-9026-32bd" name="Twin Pesada Pistols" book="" page="" hidden="false" collective="false" type="upgrade">
           <profiles>
-            <profile id="fc5d-da6a-6c9d-53f8" name="Twin Pesada Pistols" book="Deadzone: Infestation" page="32" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+            <profile id="fc5d-da6a-6c9d-53f8" name="Twin Pesada Pistols" book="Deadzone: Infestación" page="32" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -4256,22 +4256,22 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="8.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="837b-86c4-4202-b50f" name="Frag Launchers" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="837b-86c4-4202-b50f" name="Fragmentación Launchers" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="5016-07c2-5759-d37a" name="Frag Launchers" hidden="false" targetId="0bf3-d329-4de6-8e97" type="profile">
+        <infoLink id="5016-07c2-5759-d37a" name="Fragmentación Launchers" hidden="false" targetId="0bf3-d329-4de6-8e97" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="aea4-cf06-45eb-6072" name="Frag (n)" hidden="false" targetId="f7aa-fbc1-3217-1be0" type="rule">
+        <infoLink id="aea4-cf06-45eb-6072" name="Fragmentación (n)" hidden="false" targetId="f7aa-fbc1-3217-1be0" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers>
-            <modifier type="set" field="name" value="Frag (3)">
+            <modifier type="set" field="name" value="Fragmentación (3)">
               <repeats/>
               <conditions/>
               <conditionGroups/>
@@ -4797,7 +4797,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Pesada (Lanza)"/>
       </characteristics>
     </profile>
-    <profile id="0bf3-d329-4de6-8e97" name="Frag Launchers" book="Reglamento Deadzone 2ª Edición" page="82" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="0bf3-d329-4de6-8e97" name="Fragmentación Launchers" book="Reglamento Deadzone 2ª Edición" page="82" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -4805,7 +4805,7 @@
       <characteristics>
         <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A3"/>
         <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
-        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Frag (3)"/>
+        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Fragmentación (3)"/>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Pesada (Explosiva)"/>
       </characteristics>
     </profile>

@@ -497,19 +497,19 @@
           <characteristics>
             <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A3"/>
             <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
-            <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Frag (3), Grenade, One Use"/>
+            <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Fragmentación (3), Grenade, One Use"/>
             <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c"/>
           </characteristics>
         </profile>
       </profiles>
       <rules/>
       <infoLinks>
-        <infoLink id="67f5-aa48-cb81-9d9c" name="Frag (n)" hidden="false" targetId="f7aa-fbc1-3217-1be0" type="rule">
+        <infoLink id="67f5-aa48-cb81-9d9c" name="Fragmentación (n)" hidden="false" targetId="f7aa-fbc1-3217-1be0" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers>
-            <modifier type="set" field="name" value="Frag (3)">
+            <modifier type="set" field="name" value="Fragmentación (3)">
               <repeats/>
               <conditions/>
               <conditionGroups/>
@@ -1282,19 +1282,19 @@
               <characteristics>
                 <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A3"/>
                 <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
-                <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Frag (3), Grenade"/>
+                <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Fragmentación (3), Grenade"/>
                 <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c"/>
               </characteristics>
             </profile>
           </profiles>
           <rules/>
           <infoLinks>
-            <infoLink id="9db1-bee9-9dae-88b7" name="Frag (n)" hidden="false" targetId="f7aa-fbc1-3217-1be0" type="rule">
+            <infoLink id="9db1-bee9-9dae-88b7" name="Fragmentación (n)" hidden="false" targetId="f7aa-fbc1-3217-1be0" type="rule">
               <profiles/>
               <rules/>
               <infoLinks/>
               <modifiers>
-                <modifier type="set" field="name" value="Frag (3)">
+                <modifier type="set" field="name" value="Fragmentación (3)">
                   <repeats/>
                   <conditions/>
                   <conditionGroups/>
@@ -2252,7 +2252,7 @@
     </selectionEntry>
     <selectionEntry id="0414-610d-4dbb-3791" name="Ogro Exterminador" book="Reglamento Deadzone 2ª Edición" page="94" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="a909-ffac-c397-bb93" name="Ogre Terminator" book="Reglamento Deadzone 2ª Edición" page="94" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
+        <profile id="a909-ffac-c397-bb93" name="Ogro Exterminador" book="Reglamento Deadzone 2ª Edición" page="94" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -2344,9 +2344,9 @@
             <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="0.0"/>
           </costs>
         </selectionEntry>
-        <selectionEntry id="c06e-aa33-5cf4-8edc" name="Shank Bayonet" hidden="false" collective="false" type="upgrade">
+        <selectionEntry id="c06e-aa33-5cf4-8edc" name="Bayoneta Calada" hidden="false" collective="false" type="upgrade">
           <profiles>
-            <profile id="7355-81bc-611c-999a" name="Shank Bayonet" book="Reglamento Deadzone 2ª Edición" page="94" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+            <profile id="7355-81bc-611c-999a" name="Bayoneta Calada" book="Reglamento Deadzone 2ª Edición" page="94" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -2711,7 +2711,7 @@
     </selectionEntry>
     <selectionEntry id="6543-c829-efb7-702a" name="Soldado de Choque Teratón" book="Reglamento Deadzone 2ª Edición" page="94" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="55b9-aece-a2f5-3721" name="Teraton Shock Trooper" book="Reglamento Deadzone 2ª Edición" page="94" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
+        <profile id="55b9-aece-a2f5-3721" name="Soldado de Choque Teratón" book="Reglamento Deadzone 2ª Edición" page="94" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -2747,9 +2747,9 @@
         </categoryLink>
       </categoryLinks>
       <selectionEntries>
-        <selectionEntry id="413d-a94b-4721-1bc4" name="ARC Launcher" hidden="false" collective="false" type="upgrade">
+        <selectionEntry id="413d-a94b-4721-1bc4" name="Lanzador ARC" hidden="false" collective="false" type="upgrade">
           <profiles>
-            <profile id="9bcf-4429-d856-b989" name="ARC Launcher" book="Reglamento Deadzone 2ª Edición" page="94" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+            <profile id="9bcf-4429-d856-b989" name="Lanzador ARC" book="Reglamento Deadzone 2ª Edición" page="94" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -2784,9 +2784,9 @@
             <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="0.0"/>
           </costs>
         </selectionEntry>
-        <selectionEntry id="db54-e4b9-7046-e896" name="Mace" hidden="false" collective="false" type="upgrade">
+        <selectionEntry id="db54-e4b9-7046-e896" name="Maza" hidden="false" collective="false" type="upgrade">
           <profiles>
-            <profile id="6acf-5e04-fbf5-ce06" name="Mace" book="Reglamento Deadzone 2ª Edición" page="94" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+            <profile id="6acf-5e04-fbf5-ce06" name="Maza" book="Reglamento Deadzone 2ª Edición" page="94" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -3154,19 +3154,19 @@
               <characteristics>
                 <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A4"/>
                 <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
-                <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Frag (3), One Use"/>
+                <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Fragmentación (3), One Use"/>
                 <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c"/>
               </characteristics>
             </profile>
           </profiles>
           <rules/>
           <infoLinks>
-            <infoLink id="0550-3fab-d128-0030" name="Frag (n)" hidden="false" targetId="f7aa-fbc1-3217-1be0" type="rule">
+            <infoLink id="0550-3fab-d128-0030" name="Fragmentación (n)" hidden="false" targetId="f7aa-fbc1-3217-1be0" type="rule">
               <profiles/>
               <rules/>
               <infoLinks/>
               <modifiers>
-                <modifier type="set" field="name" value="Frag (3)">
+                <modifier type="set" field="name" value="Fragmentación (3)">
                   <repeats/>
                   <conditions/>
                   <conditionGroups/>
@@ -3308,7 +3308,7 @@
       </profiles>
       <rules/>
       <infoLinks>
-        <infoLink id="61eb-a144-21c2-1776" name="Reconocimiento Drone" hidden="false" targetId="13ea-7da7-0039-e8ad" type="rule">
+        <infoLink id="61eb-a144-21c2-1776" name="Reconocimiento Dron" hidden="false" targetId="13ea-7da7-0039-e8ad" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -3383,9 +3383,9 @@
             <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="0.0"/>
           </costs>
         </selectionEntry>
-        <selectionEntry id="05a5-ae99-162d-19da" name="Reconocimiento Drone" book="Deadzone: Nexus Psi" page="17" hidden="false" collective="false" type="unit">
+        <selectionEntry id="05a5-ae99-162d-19da" name="Reconocimiento Dron" book="Deadzone: Nexus Psi" page="17" hidden="false" collective="false" type="unit">
           <profiles>
-            <profile id="b09b-4cba-530b-bb76" name="Reconocimiento Drone" book="Deadzone: Nexus Psi" page="17" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
+            <profile id="b09b-4cba-530b-bb76" name="Reconocimiento Dron" book="Deadzone: Nexus Psi" page="17" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -3772,9 +3772,9 @@
         </categoryLink>
       </categoryLinks>
       <selectionEntries>
-        <selectionEntry id="386b-9445-b0e3-259b" name="Grenade Launcher" book="Deadzone: Infestación" page="20" hidden="false" collective="false" type="upgrade">
+        <selectionEntry id="386b-9445-b0e3-259b" name="Lanzagranadas" book="Deadzone: Infestación" page="20" hidden="false" collective="false" type="upgrade">
           <profiles>
-            <profile id="794a-1a3e-fe75-6206" name="Grenade Launcher" book="Deadzone: Infestación" page="20" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+            <profile id="794a-1a3e-fe75-6206" name="Lanzagranadas" book="Deadzone: Infestación" page="20" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -3866,9 +3866,9 @@
             <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="0.0"/>
           </costs>
         </selectionEntry>
-        <selectionEntry id="e242-70bf-8906-550c" name="Energy Gauntlet" book="Deadzone Erratas v2.1" page="3" hidden="false" collective="false" type="upgrade">
+        <selectionEntry id="e242-70bf-8906-550c" name="Guantalete de Energía" book="Deadzone Erratas v2.1" page="3" hidden="false" collective="false" type="upgrade">
           <profiles>
-            <profile id="75ac-c94d-56d2-6a70" name="Energy Gauntlet" book="Deadzone Erratas v2.1" page="3" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+            <profile id="75ac-c94d-56d2-6a70" name="Guantalete de Energía" book="Deadzone Erratas v2.1" page="3" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -4523,9 +4523,9 @@ Vermin Swarm&apos;s are not part of the Army List, gain no experience, and are n
         </categoryLink>
       </categoryLinks>
       <selectionEntries>
-        <selectionEntry id="b1eb-3157-ed0a-ed2c" name="Charge Glove" book="Reglamento Deadzone 2ª Edición" hidden="false" collective="false" type="upgrade">
+        <selectionEntry id="b1eb-3157-ed0a-ed2c" name="Guante Potenciado" book="Reglamento Deadzone 2ª Edición" hidden="false" collective="false" type="upgrade">
           <profiles>
-            <profile id="e8c8-f2c2-3570-957b" name="Charge Glove" book="Deadzone: Infestación" page="36" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+            <profile id="e8c8-f2c2-3570-957b" name="Guante Potenciado" book="Deadzone: Infestación" page="36" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -4567,9 +4567,9 @@ Vermin Swarm&apos;s are not part of the Army List, gain no experience, and are n
             <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="0.0"/>
           </costs>
         </selectionEntry>
-        <selectionEntry id="761d-3ee5-4193-7e4e" name="Charge Glove (Energy Pulse)" book="Reglamento Deadzone 2ª Edición" hidden="false" collective="false" type="upgrade">
+        <selectionEntry id="761d-3ee5-4193-7e4e" name="Guante Potenciado (Pulso de Energía)" book="Reglamento Deadzone 2ª Edición" hidden="false" collective="false" type="upgrade">
           <profiles>
-            <profile id="0a4b-147a-cf50-2832" name="Charge Glove (Energy Pulse)" book="Deadzone: Infestación" page="36" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+            <profile id="0a4b-147a-cf50-2832" name="Guante Potenciado (Pulso de Energía)" book="Deadzone: Infestación" page="36" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -4611,9 +4611,9 @@ Vermin Swarm&apos;s are not part of the Army List, gain no experience, and are n
             <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="0.0"/>
           </costs>
         </selectionEntry>
-        <selectionEntry id="2acc-7576-3dc4-2728" name="Noh Pistola" book="Reglamento Deadzone 2ª Edición" hidden="false" collective="false" type="upgrade">
+        <selectionEntry id="2acc-7576-3dc4-2728" name="Pistola Noh" book="Reglamento Deadzone 2ª Edición" hidden="false" collective="false" type="upgrade">
           <profiles>
-            <profile id="b35f-4380-25f4-b0aa" name="Noh Pistola" book="Deadzone: Infestación" page="36" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+            <profile id="b35f-4380-25f4-b0aa" name="Pistola Noh" book="Deadzone: Infestación" page="36" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -4688,7 +4688,7 @@ Vermin Swarm&apos;s are not part of the Army List, gain no experience, and are n
           <characteristics>
             <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A4"/>
             <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
-            <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Grenade, One Use, Trap (Frag(3))"/>
+            <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Grenade, One Use, Trap (Fragmentación(3))"/>
             <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c"/>
           </characteristics>
         </profile>
@@ -4713,12 +4713,12 @@ Vermin Swarm&apos;s are not part of the Army List, gain no experience, and are n
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="1dd5-aa71-688d-2baa" name="Frag (n)" hidden="false" targetId="f7aa-fbc1-3217-1be0" type="rule">
+        <infoLink id="1dd5-aa71-688d-2baa" name="Fragmentación (n)" hidden="false" targetId="f7aa-fbc1-3217-1be0" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers>
-            <modifier type="set" field="name" value="Frag (3)">
+            <modifier type="set" field="name" value="Fragmentación (3)">
               <repeats/>
               <conditions/>
               <conditionGroups/>
@@ -4985,9 +4985,9 @@ Vermin Swarm&apos;s are not part of the Army List, gain no experience, and are n
         </categoryLink>
       </categoryLinks>
       <selectionEntries>
-        <selectionEntry id="4595-9b50-4a29-c4b9" name="Singing Blade" book="Deadzone: Outbreak" page="80" hidden="false" collective="false" type="upgrade">
+        <selectionEntry id="4595-9b50-4a29-c4b9" name="Espada Cantora" book="Deadzone: Outbreak" page="80" hidden="false" collective="false" type="upgrade">
           <profiles>
-            <profile id="acee-cdfb-57c7-a7ff" name="Singing Blade" book="Deadzone: Outbreak" page="80" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+            <profile id="acee-cdfb-57c7-a7ff" name="Espada Cantora" book="Deadzone: Outbreak" page="80" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -5022,9 +5022,9 @@ Vermin Swarm&apos;s are not part of the Army List, gain no experience, and are n
             <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="0.0"/>
           </costs>
         </selectionEntry>
-        <selectionEntry id="66d8-fe29-bf75-0286" name="Noh Pistola" book="Reglamento Deadzone 2ª Edición" hidden="false" collective="false" type="upgrade">
+        <selectionEntry id="66d8-fe29-bf75-0286" name="Pistola Noh" book="Reglamento Deadzone 2ª Edición" hidden="false" collective="false" type="upgrade">
           <profiles>
-            <profile id="7a5b-a1a9-90f7-1b91" name="Noh Pistola" book="Reglamento Deadzone 2ª Edición" page="76" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+            <profile id="7a5b-a1a9-90f7-1b91" name="Pistola Noh" book="Reglamento Deadzone 2ª Edición" page="76" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -5256,9 +5256,9 @@ Vermin Swarm&apos;s are not part of the Army List, gain no experience, and are n
             <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="0.0"/>
           </costs>
         </selectionEntry>
-        <selectionEntry id="6571-6bc9-3948-10ff" name="Energy Gauntlet" book="" hidden="false" collective="false" type="upgrade">
+        <selectionEntry id="6571-6bc9-3948-10ff" name="Guantalete de Energía" book="" hidden="false" collective="false" type="upgrade">
           <profiles>
-            <profile id="dcbe-6c98-1cf9-bbdb" name="Energy Gauntlet" book="Reglamento Deadzone 2ª Edición" page="59" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+            <profile id="dcbe-6c98-1cf9-bbdb" name="Guantalete de Energía" book="Reglamento Deadzone 2ª Edición" page="59" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -5580,7 +5580,7 @@ Vermin Swarm&apos;s are not part of the Army List, gain no experience, and are n
       <rules/>
       <infoLinks/>
       <modifiers/>
-      <description>No puede coger, cargar ni usar objetos que no traiga de base.</description>
+      <description>No puede coger, cargar ni usar objetos.</description>
     </rule>
     <rule id="8744-40d0-2345-0504" name="PAX" book="Reglamento Deadzone 2ª Edición" page="28" hidden="false">
       <profiles/>
@@ -5998,7 +5998,7 @@ Puede usarla cuando realice una acción normal de Disparar. Esto añadir un modi
       <rules/>
       <infoLinks/>
       <modifiers/>
-      <description>Si una miniatura descubre una Trampa Cazabobos cuando coge un objeto, trátalo como una explosión Frag(3) (página 30) que ha detonado en el cubo de la miniatura.</description>
+      <description>Si una miniatura descubre una Trampa Cazabobos cuando coge un objeto, trátalo como una explosión Fragmentación(3) (página 30) que ha detonado en el cubo de la miniatura.</description>
     </rule>
     <rule id="3ed4-f46e-22f1-16f4" name="Escudo Protector" book="Reglamento Deadzone 2ª Edición" page="37" hidden="false">
       <profiles/>

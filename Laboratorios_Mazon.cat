@@ -129,7 +129,7 @@
           </selectionEntries>
           <selectionEntryGroups/>
           <entryLinks>
-            <entryLink id="5f9e-e47c-5238-f188" name="Energy Gauntlet" hidden="false" targetId="f608-1f6d-4280-6876" type="selectionEntry">
+            <entryLink id="5f9e-e47c-5238-f188" name="Guantalete de Energía" hidden="false" targetId="f608-1f6d-4280-6876" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -454,7 +454,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="0b77-3807-0fad-5ad2" name="Grenade Launcher" hidden="false" targetId="8f9d-dcb2-153e-dcf3" type="selectionEntry">
+            <entryLink id="0b77-3807-0fad-5ad2" name="Lanzagranadas" hidden="false" targetId="8f9d-dcb2-153e-dcf3" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -529,7 +529,7 @@
           </selectionEntries>
           <selectionEntryGroups/>
           <entryLinks>
-            <entryLink id="cea5-5fd5-afd4-e9f8" name="Energy Gauntlet" hidden="false" targetId="f608-1f6d-4280-6876" type="selectionEntry">
+            <entryLink id="cea5-5fd5-afd4-e9f8" name="Guantalete de Energía" hidden="false" targetId="f608-1f6d-4280-6876" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1223,7 +1223,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="dee6-90fb-dd9d-77bd" name="Grenade Launcher" hidden="false" targetId="8f9d-dcb2-153e-dcf3" type="selectionEntry">
+            <entryLink id="dee6-90fb-dd9d-77bd" name="Lanzagranadas" hidden="false" targetId="8f9d-dcb2-153e-dcf3" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -2683,7 +2683,7 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="e1aa-2292-712a-89ff" name="Teraton Shock Trooper" hidden="true" collective="false" type="upgrade">
+    <selectionEntry id="e1aa-2292-712a-89ff" name="Soldado de Choque Teratón" hidden="true" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -2716,7 +2716,7 @@
       <selectionEntries/>
       <selectionEntryGroups/>
       <entryLinks>
-        <entryLink id="042a-6178-d2b7-acd1" name="Teraton Shock Trooper" hidden="false" targetId="6543-c829-efb7-702a" type="selectionEntry">
+        <entryLink id="042a-6178-d2b7-acd1" name="Soldado de Choque Teratón" hidden="false" targetId="6543-c829-efb7-702a" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -2741,7 +2741,7 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="e0d6-1944-e607-7c1e" name="Ogre Terminator" hidden="true" collective="false" type="upgrade">
+    <selectionEntry id="e0d6-1944-e607-7c1e" name="Ogro Exterminador" hidden="true" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -2774,7 +2774,7 @@
       <selectionEntries/>
       <selectionEntryGroups/>
       <entryLinks>
-        <entryLink id="a914-cf48-5c9e-63ea" name="Ogre Terminator" hidden="false" targetId="0414-610d-4dbb-3791" type="selectionEntry">
+        <entryLink id="a914-cf48-5c9e-63ea" name="Ogro Exterminador" hidden="false" targetId="0414-610d-4dbb-3791" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -2799,7 +2799,7 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="16ca-e130-71ac-8970" name="Hund Rebel Bounty Hunter" hidden="true" collective="false" type="upgrade">
+    <selectionEntry id="16ca-e130-71ac-8970" name="Hund, Cazarrecompensas Rebelde" hidden="true" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -2832,7 +2832,7 @@
       <selectionEntries/>
       <selectionEntryGroups/>
       <entryLinks>
-        <entryLink id="713f-fd2d-aa2c-ea7b" name="Hund Rebel Bounty Hunter" hidden="false" targetId="82b7-ee91-ddd9-b4ea" type="selectionEntry">
+        <entryLink id="713f-fd2d-aa2c-ea7b" name="Hund, Cazarrecompensas Rebelde" hidden="false" targetId="82b7-ee91-ddd9-b4ea" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -2994,11 +2994,11 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="7.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="8f9d-dcb2-153e-dcf3" name="Grenade Launcher" book="Deadzone: Outbreak" page="55" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="8f9d-dcb2-153e-dcf3" name="Lanzagranadas" book="Deadzone: Outbreak" page="55" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="1fc6-84c2-386a-7d22" name="Grenade Launcher" hidden="false" targetId="2ec9-8041-0bcc-e8e9" type="profile">
+        <infoLink id="1fc6-84c2-386a-7d22" name="Lanzagranadas" hidden="false" targetId="2ec9-8041-0bcc-e8e9" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -3254,11 +3254,11 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="8.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="f608-1f6d-4280-6876" name="Energy Gauntlet" book="Deadzone: Outbreak" page="55" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="f608-1f6d-4280-6876" name="Guantalete de Energía" book="Deadzone: Outbreak" page="55" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="17db-83af-1064-1b2c" name="Energy Gauntlet" hidden="false" targetId="44df-b5f8-b54c-4263" type="profile">
+        <infoLink id="17db-83af-1064-1b2c" name="Guantalete de Energía" hidden="false" targetId="44df-b5f8-b54c-4263" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -3625,7 +3625,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Asalto)"/>
       </characteristics>
     </profile>
-    <profile id="2ec9-8041-0bcc-e8e9" name="Grenade Launcher" book="Deadzone: Outbreak" page="55" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="2ec9-8041-0bcc-e8e9" name="Lanzagranadas" book="Deadzone: Outbreak" page="55" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -3721,7 +3721,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Andador (Automática)"/>
       </characteristics>
     </profile>
-    <profile id="44df-b5f8-b54c-4263" name="Energy Gauntlet" book="Deadzone: Outbreak" page="55" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="44df-b5f8-b54c-4263" name="Guantalete de Energía" book="Deadzone: Outbreak" page="55" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
       <profiles/>
       <rules/>
       <infoLinks/>

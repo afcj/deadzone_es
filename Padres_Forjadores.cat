@@ -2772,7 +2772,7 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="eeec-8780-73db-e110" name="Hund Rebel Bounty Hunter" hidden="true" collective="false" type="upgrade">
+    <selectionEntry id="eeec-8780-73db-e110" name="Hund, Cazarrecompensas Rebelde" hidden="true" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -2826,7 +2826,7 @@
       <selectionEntries/>
       <selectionEntryGroups/>
       <entryLinks>
-        <entryLink id="1caf-8e50-878d-f09c" name="Hund Rebel Bounty Hunter" hidden="false" targetId="82b7-ee91-ddd9-b4ea" type="selectionEntry">
+        <entryLink id="1caf-8e50-878d-f09c" name="Hund, Cazarrecompensas Rebelde" hidden="false" targetId="82b7-ee91-ddd9-b4ea" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -2930,7 +2930,7 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="f44e-3acd-5077-9a7a" name="Ogre Terminator" hidden="true" collective="false" type="upgrade">
+    <selectionEntry id="f44e-3acd-5077-9a7a" name="Ogro Exterminador" hidden="true" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -2984,7 +2984,7 @@
       <selectionEntries/>
       <selectionEntryGroups/>
       <entryLinks>
-        <entryLink id="d18e-9f21-280b-3fde" name="Ogre Terminator" hidden="false" targetId="0414-610d-4dbb-3791" type="selectionEntry">
+        <entryLink id="d18e-9f21-280b-3fde" name="Ogro Exterminador" hidden="false" targetId="0414-610d-4dbb-3791" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -3088,7 +3088,7 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="9a69-b291-711c-aa91" name="Teraton Shock Trooper" hidden="true" collective="false" type="upgrade">
+    <selectionEntry id="9a69-b291-711c-aa91" name="Soldado de Choque Teratón" hidden="true" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -3142,7 +3142,7 @@
       <selectionEntries/>
       <selectionEntryGroups/>
       <entryLinks>
-        <entryLink id="2ed1-2248-9bc2-5b3b" name="Teraton Shock Trooper" hidden="false" targetId="6543-c829-efb7-702a" type="selectionEntry">
+        <entryLink id="2ed1-2248-9bc2-5b3b" name="Soldado de Choque Teratón" hidden="false" targetId="6543-c829-efb7-702a" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -3605,7 +3605,7 @@
           <rules/>
           <infoLinks/>
           <modifiers/>
-          <description>Spend an Army Special Result to allow a model with a Hammer to perform an A2, Frag (2) attack as a Special Action once during its activation. This ability may not be used by an Iron Ancestor.</description>
+          <description>Spend an Army Special Result to allow a model with a Hammer to perform an A2, Fragmentación (2) attack as a Special Action once during its activation. This ability may not be used by an Iron Ancestor.</description>
         </rule>
       </rules>
       <infoLinks>
@@ -3863,7 +3863,7 @@
         <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="2.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="e6d7-1039-cd2b-62bb" name="Hammerfist Drop Trooper" book="Deadzone: Infestation" page="24" hidden="true" collective="false" type="unit">
+    <selectionEntry id="e6d7-1039-cd2b-62bb" name="Hammerfist Drop Trooper" book="Deadzone: Infestación" page="24" hidden="true" collective="false" type="unit">
       <profiles>
         <profile id="9688-2350-05d5-e78b" name="Hammerfist Drop Trooper" book="Deadzone: Outbreak" page="24" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
           <profiles/>
@@ -4206,9 +4206,9 @@
         <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="3.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="2c06-b7d1-8dfa-37e9" name="Bjarn Starnafall" book="Deadzone: Infestation" page="24" hidden="false" collective="false" type="unit">
+    <selectionEntry id="2c06-b7d1-8dfa-37e9" name="Bjarn Starnafall" book="Deadzone: Infestación" page="24" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="9f56-c06c-0a12-2593" name="Bjarn Starnafall" book="Deadzone: Infestation" page="24" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Leader">
+        <profile id="9f56-c06c-0a12-2593" name="Bjarn Starnafall" book="Deadzone: Infestación" page="24" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Leader">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -4225,12 +4225,12 @@
         </profile>
       </profiles>
       <rules>
-        <rule id="629f-ab69-8057-ed75" name="Fist of an Angry God" book="Deadzone: Infestation" page="24" hidden="false">
+        <rule id="629f-ab69-8057-ed75" name="Fist of an Angry God" book="Deadzone: Infestación" page="24" hidden="false">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers/>
-          <description>Spend an Army Special result to call in a model equipped with Hammerfist Drop Armadura. Place the Hammerfist model as per the usual rules for Hammerfist Drop Armadura, with the exception that the cube may be occupied by an enemy model. When the model lands, instead of the usual rules for Hammerfist Drop Armadura, resolve a Frag (4) explosion in the cube against any models that were in the cube prior to the Hammerfist models arrival. If any enemy models remain alive in the target cube, the Hammerfist model initiates a Lucha action against one enemy model as if the enemy model was pinned and the Hammerfist model had entered the cube.</description>
+          <description>Spend an Army Special result to call in a model equipped with Hammerfist Drop Armadura. Place the Hammerfist model as per the usual rules for Hammerfist Drop Armadura, with the exception that the cube may be occupied by an enemy model. When the model lands, instead of the usual rules for Hammerfist Drop Armadura, resolve a Fragmentación (4) explosion in the cube against any models that were in the cube prior to the Hammerfist models arrival. If any enemy models remain alive in the target cube, the Hammerfist model initiates a Lucha action against one enemy model as if the enemy model was pinned and the Hammerfist model had entered the cube.</description>
         </rule>
       </rules>
       <infoLinks>
@@ -5519,7 +5519,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Melé)"/>
       </characteristics>
     </profile>
-    <profile id="ebe8-11ef-b457-b68f" name="Inferno Drill" book="Deadzone: Infestation" page="24" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="ebe8-11ef-b457-b68f" name="Inferno Drill" book="Deadzone: Infestación" page="24" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -5531,7 +5531,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c"/>
       </characteristics>
     </profile>
-    <profile id="3fe3-a385-6ad5-ad6a" name="Mining Laser" book="Deadzone: Infestation" page="24" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="3fe3-a385-6ad5-ad6a" name="Mining Laser" book="Deadzone: Infestación" page="24" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
       <profiles/>
       <rules/>
       <infoLinks/>

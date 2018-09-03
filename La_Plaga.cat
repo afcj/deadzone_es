@@ -688,7 +688,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="e985-bc2f-94b7-567b" name="Grenade Launcher" hidden="false" targetId="2ddd-d92a-96f3-c4da" type="selectionEntry">
+            <entryLink id="e985-bc2f-94b7-567b" name="Lanzagranadas" hidden="false" targetId="2ddd-d92a-96f3-c4da" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -2130,7 +2130,7 @@
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="f350-0ae6-46d1-ea8e" name="Grenade Launcher" hidden="false" targetId="58fb-4049-71e6-92c0" type="profile">
+        <infoLink id="f350-0ae6-46d1-ea8e" name="Lanzagranadas" hidden="false" targetId="58fb-4049-71e6-92c0" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>

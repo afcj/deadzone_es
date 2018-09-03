@@ -649,7 +649,7 @@ Grav-Pods: Gain Jump Pack and Glide until the end of the Round</description>
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="129f-b8ef-d621-ef31" name="Grenade Launcher" hidden="false" targetId="1393-7d98-23fe-2fa9" type="selectionEntry">
+            <entryLink id="129f-b8ef-d621-ef31" name="Lanzagranadas" hidden="false" targetId="1393-7d98-23fe-2fa9" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1410,11 +1410,11 @@ Grav-Pods: Gain Jump Pack and Glide until the end of the Round</description>
         <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="1393-7d98-23fe-2fa9" name="Grenade Launcher" book="Reglamento Deadzone 2ª Edición" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="1393-7d98-23fe-2fa9" name="Lanzagranadas" book="Reglamento Deadzone 2ª Edición" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="addd-4001-177d-496f" name="Grenade Launcher" hidden="false" targetId="75b3-cdeb-018d-4e79" type="profile">
+        <infoLink id="addd-4001-177d-496f" name="Lanzagranadas" hidden="false" targetId="75b3-cdeb-018d-4e79" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1838,7 +1838,7 @@ Grav-Pods: Gain Jump Pack and Glide until the end of the Round</description>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Asalto)"/>
       </characteristics>
     </profile>
-    <profile id="75b3-cdeb-018d-4e79" name="Grenade Launcher" book="Reglamento Deadzone 2ª Edición" page="52" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="75b3-cdeb-018d-4e79" name="Lanzagranadas" book="Reglamento Deadzone 2ª Edición" page="52" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
       <profiles/>
       <rules/>
       <infoLinks/>

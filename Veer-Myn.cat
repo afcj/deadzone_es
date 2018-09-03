@@ -108,7 +108,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="0f81-7872-6c57-6f64" name="Toxic Grenade Launcher" hidden="false" targetId="80b4-ddd0-ad93-a063" type="selectionEntry">
+            <entryLink id="0f81-7872-6c57-6f64" name="Toxic Lanzagranadas" hidden="false" targetId="80b4-ddd0-ad93-a063" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -148,7 +148,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="74e7-f38a-c9d2-7fd7" name="Chemical Grenade Launcher" hidden="false" targetId="1584-1836-2c2a-3e07" type="selectionEntry">
+            <entryLink id="74e7-f38a-c9d2-7fd7" name="Chemical Lanzagranadas" hidden="false" targetId="1584-1836-2c2a-3e07" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -361,7 +361,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="eb2f-634e-cb2a-5238" name="Toxic Grenade Launcher" hidden="false" targetId="80b4-ddd0-ad93-a063" type="selectionEntry">
+            <entryLink id="eb2f-634e-cb2a-5238" name="Toxic Lanzagranadas" hidden="false" targetId="80b4-ddd0-ad93-a063" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -407,7 +407,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="ddbd-389d-c1ac-927c" name="Chemical Grenade Launcher" hidden="false" targetId="1584-1836-2c2a-3e07" type="selectionEntry">
+            <entryLink id="ddbd-389d-c1ac-927c" name="Chemical Lanzagranadas" hidden="false" targetId="1584-1836-2c2a-3e07" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -662,7 +662,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="f86d-a22f-b21c-8be0" name="Toxic Grenade Launcher" hidden="false" targetId="80b4-ddd0-ad93-a063" type="selectionEntry">
+            <entryLink id="f86d-a22f-b21c-8be0" name="Toxic Lanzagranadas" hidden="false" targetId="80b4-ddd0-ad93-a063" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -702,7 +702,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="5066-c201-28f8-16f1" name="Chemical Grenade Launcher" hidden="false" targetId="1584-1836-2c2a-3e07" type="selectionEntry">
+            <entryLink id="5066-c201-28f8-16f1" name="Chemical Lanzagranadas" hidden="false" targetId="1584-1836-2c2a-3e07" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -755,7 +755,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="06fe-891b-9a03-412c" name="Toxic Grenade Launcher" hidden="false" targetId="80b4-ddd0-ad93-a063" type="selectionEntry">
+            <entryLink id="06fe-891b-9a03-412c" name="Toxic Lanzagranadas" hidden="false" targetId="80b4-ddd0-ad93-a063" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -795,7 +795,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="acdf-548e-64c2-bbeb" name="Chemical Grenade Launcher" hidden="false" targetId="1584-1836-2c2a-3e07" type="selectionEntry">
+            <entryLink id="acdf-548e-64c2-bbeb" name="Chemical Lanzagranadas" hidden="false" targetId="1584-1836-2c2a-3e07" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1020,7 +1020,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="deaa-2e08-90bf-8457" name="Toxic Grenade Launcher" hidden="false" targetId="80b4-ddd0-ad93-a063" type="selectionEntry">
+            <entryLink id="deaa-2e08-90bf-8457" name="Toxic Lanzagranadas" hidden="false" targetId="80b4-ddd0-ad93-a063" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1066,7 +1066,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="a7f0-73d8-cbce-01df" name="Chemical Grenade Launcher" hidden="false" targetId="1584-1836-2c2a-3e07" type="selectionEntry">
+            <entryLink id="a7f0-73d8-cbce-01df" name="Chemical Lanzagranadas" hidden="false" targetId="1584-1836-2c2a-3e07" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1392,7 +1392,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="4503-66d4-0c87-e2a3" name="Toxic Grenade Launcher" hidden="false" targetId="80b4-ddd0-ad93-a063" type="selectionEntry">
+            <entryLink id="4503-66d4-0c87-e2a3" name="Toxic Lanzagranadas" hidden="false" targetId="80b4-ddd0-ad93-a063" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1432,7 +1432,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="2e4d-1c07-da7f-0d75" name="Chemical Grenade Launcher" hidden="false" targetId="1584-1836-2c2a-3e07" type="selectionEntry">
+            <entryLink id="2e4d-1c07-da7f-0d75" name="Chemical Lanzagranadas" hidden="false" targetId="1584-1836-2c2a-3e07" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1485,7 +1485,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="fb21-3d4a-16aa-81d5" name="Toxic Grenade Launcher" hidden="false" targetId="80b4-ddd0-ad93-a063" type="selectionEntry">
+            <entryLink id="fb21-3d4a-16aa-81d5" name="Toxic Lanzagranadas" hidden="false" targetId="80b4-ddd0-ad93-a063" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1525,7 +1525,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="9dda-e210-7dfd-ac5b" name="Chemical Grenade Launcher" hidden="false" targetId="1584-1836-2c2a-3e07" type="selectionEntry">
+            <entryLink id="9dda-e210-7dfd-ac5b" name="Chemical Lanzagranadas" hidden="false" targetId="1584-1836-2c2a-3e07" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1821,9 +1821,9 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="17.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="1213-0ff7-d50d-fc9d" name="Rumbler Weapons Platform" book="Deadzone: Outbreak" page="77" hidden="false" collective="false" type="unit">
+    <selectionEntry id="1213-0ff7-d50d-fc9d" name="Rumbler Weapons Plataforma" book="Deadzone: Outbreak" page="77" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="cc85-3a62-0516-658e" name="Rumbler Weapons Platform" book="Deadzone: Outbreak" page="77" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
+        <profile id="cc85-3a62-0516-658e" name="Rumbler Weapons Plataforma" book="Deadzone: Outbreak" page="77" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -2509,7 +2509,7 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="2d25-03aa-b80f-e4ac" name="Hund Rebel Bounty Hunter" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="2d25-03aa-b80f-e4ac" name="Hund, Cazarrecompensas Rebelde" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -2527,7 +2527,7 @@
       <selectionEntries/>
       <selectionEntryGroups/>
       <entryLinks>
-        <entryLink id="b969-1108-6293-3166" name="Hund Rebel Bounty Hunter" hidden="false" targetId="82b7-ee91-ddd9-b4ea" type="selectionEntry">
+        <entryLink id="b969-1108-6293-3166" name="Hund, Cazarrecompensas Rebelde" hidden="false" targetId="82b7-ee91-ddd9-b4ea" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -2595,7 +2595,7 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="5392-b69d-32ec-b79e" name="Ogre Terminator" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="5392-b69d-32ec-b79e" name="Ogro Exterminador" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -2613,7 +2613,7 @@
       <selectionEntries/>
       <selectionEntryGroups/>
       <entryLinks>
-        <entryLink id="3720-5308-6118-d9cd" name="Ogre Terminator" hidden="false" targetId="0414-610d-4dbb-3791" type="selectionEntry">
+        <entryLink id="3720-5308-6118-d9cd" name="Ogro Exterminador" hidden="false" targetId="0414-610d-4dbb-3791" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -2937,11 +2937,11 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="9.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="1584-1836-2c2a-3e07" name="Chemical Grenade Launcher" book="Deadzone: Outbreak" page="78" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="1584-1836-2c2a-3e07" name="Chemical Lanzagranadas" book="Deadzone: Outbreak" page="78" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="0e71-950d-577a-1764" name="Chemical Grenade Launcher" hidden="false" targetId="1bb1-c9bb-f940-58e2" type="profile">
+        <infoLink id="0e71-950d-577a-1764" name="Chemical Lanzagranadas" hidden="false" targetId="1bb1-c9bb-f940-58e2" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -3349,11 +3349,11 @@
         <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="80b4-ddd0-ad93-a063" name="Toxic Grenade Launcher" book="Deadzone: Outbreak" page="78" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="80b4-ddd0-ad93-a063" name="Toxic Lanzagranadas" book="Deadzone: Outbreak" page="78" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="bdaa-b3d2-4324-56a0" name="Toxic Grenade Launcher" hidden="false" targetId="c1b2-9fc9-abd9-fb82" type="profile">
+        <infoLink id="bdaa-b3d2-4324-56a0" name="Toxic Lanzagranadas" hidden="false" targetId="c1b2-9fc9-abd9-fb82" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -3712,7 +3712,7 @@ It disperses in the same way as a Granada de Humo.</description>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Automática)"/>
       </characteristics>
     </profile>
-    <profile id="1bb1-c9bb-f940-58e2" name="Chemical Grenade Launcher" book="Deadzone: Outbreak" page="78" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="1bb1-c9bb-f940-58e2" name="Chemical Lanzagranadas" book="Deadzone: Outbreak" page="78" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -3868,7 +3868,7 @@ It disperses in the same way as a Granada de Humo.</description>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Leader, Ligera (Explosiva)"/>
       </characteristics>
     </profile>
-    <profile id="c1b2-9fc9-abd9-fb82" name="Toxic Grenade Launcher" book="Deadzone: Outbreak" page="78" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="c1b2-9fc9-abd9-fb82" name="Toxic Lanzagranadas" book="Deadzone: Outbreak" page="78" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
       <profiles/>
       <rules/>
       <infoLinks/>

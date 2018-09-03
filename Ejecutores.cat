@@ -120,7 +120,7 @@
           <selectionEntries/>
           <selectionEntryGroups/>
           <entryLinks>
-            <entryLink id="b1f5-b375-36da-024b" name="Energy Gauntlet" hidden="false" targetId="2fa1-c699-fbed-a0b4" type="selectionEntry">
+            <entryLink id="b1f5-b375-36da-024b" name="Guantalete de Energía" hidden="false" targetId="2fa1-c699-fbed-a0b4" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -283,7 +283,7 @@
           <selectionEntries/>
           <selectionEntryGroups/>
           <entryLinks>
-            <entryLink id="24c9-9842-6d15-e06b" name="Energy Gauntlet" hidden="false" targetId="2fa1-c699-fbed-a0b4" type="selectionEntry">
+            <entryLink id="24c9-9842-6d15-e06b" name="Guantalete de Energía" hidden="false" targetId="2fa1-c699-fbed-a0b4" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -409,7 +409,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="bb01-f9ef-5bd9-a331" name="Energy Gauntlet" hidden="false" targetId="2fa1-c699-fbed-a0b4" type="selectionEntry">
+            <entryLink id="bb01-f9ef-5bd9-a331" name="Guantalete de Energía" hidden="false" targetId="2fa1-c699-fbed-a0b4" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -632,7 +632,7 @@ A maximum of one dice can be used per attack.</description>
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="237d-1e62-e2f4-294c" name="Energy Gauntlet" hidden="false" targetId="2fa1-c699-fbed-a0b4" type="selectionEntry">
+            <entryLink id="237d-1e62-e2f4-294c" name="Guantalete de Energía" hidden="false" targetId="2fa1-c699-fbed-a0b4" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -794,7 +794,7 @@ A maximum of one dice can be used per attack.</description>
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="0fdf-e535-2b7a-b23c" name="Energy Gauntlet" hidden="false" targetId="2fa1-c699-fbed-a0b4" type="selectionEntry">
+            <entryLink id="0fdf-e535-2b7a-b23c" name="Guantalete de Energía" hidden="false" targetId="2fa1-c699-fbed-a0b4" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1689,7 +1689,7 @@ A maximum of one dice can be used per attack.</description>
           <selectionEntries/>
           <selectionEntryGroups/>
           <entryLinks>
-            <entryLink id="4767-ccfb-01e0-31b9" name="Energy Gauntlet" hidden="false" targetId="2fa1-c699-fbed-a0b4" type="selectionEntry">
+            <entryLink id="4767-ccfb-01e0-31b9" name="Guantalete de Energía" hidden="false" targetId="2fa1-c699-fbed-a0b4" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -2058,9 +2058,9 @@ A maximum of one dice can be used per attack.</description>
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="14.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="90b1-2770-6cf0-f677" name="D.O.G. Drone" book="Reglamento Deadzone 2ª Edición + Erratas v2.1" page="58" hidden="true" collective="false" type="unit">
+    <selectionEntry id="90b1-2770-6cf0-f677" name="D.O.G. Dron" book="Reglamento Deadzone 2ª Edición + Erratas v2.1" page="58" hidden="true" collective="false" type="unit">
       <profiles>
-        <profile id="7e9c-604d-669e-ffca" name="D.O.G. Drone" book="Reglamento Deadzone 2ª Edición" page="58" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
+        <profile id="7e9c-604d-669e-ffca" name="D.O.G. Dron" book="Reglamento Deadzone 2ª Edición" page="58" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -3026,7 +3026,7 @@ A maximum of one dice can be used per attack.</description>
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="8be4-e09d-b583-3bc0" name="Hund Rebel Bounty Hunter" hidden="true" collective="false" type="upgrade">
+    <selectionEntry id="8be4-e09d-b583-3bc0" name="Hund, Cazarrecompensas Rebelde" hidden="true" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -3073,7 +3073,7 @@ A maximum of one dice can be used per attack.</description>
       <selectionEntries/>
       <selectionEntryGroups/>
       <entryLinks>
-        <entryLink id="a6ac-6428-3544-1b20" name="Hund Rebel Bounty Hunter" hidden="false" targetId="82b7-ee91-ddd9-b4ea" type="selectionEntry">
+        <entryLink id="a6ac-6428-3544-1b20" name="Hund, Cazarrecompensas Rebelde" hidden="false" targetId="82b7-ee91-ddd9-b4ea" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -3242,7 +3242,7 @@ A maximum of one dice can be used per attack.</description>
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="8fa1-0721-1200-3de8" name="Ogre Terminator" hidden="true" collective="false" type="upgrade">
+    <selectionEntry id="8fa1-0721-1200-3de8" name="Ogro Exterminador" hidden="true" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -3289,7 +3289,7 @@ A maximum of one dice can be used per attack.</description>
       <selectionEntries/>
       <selectionEntryGroups/>
       <entryLinks>
-        <entryLink id="d786-d7d9-a12e-25e4" name="Ogre Terminator" hidden="false" targetId="0414-610d-4dbb-3791" type="selectionEntry">
+        <entryLink id="d786-d7d9-a12e-25e4" name="Ogro Exterminador" hidden="false" targetId="0414-610d-4dbb-3791" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -3458,7 +3458,7 @@ A maximum of one dice can be used per attack.</description>
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="2303-4ebd-3c0f-705b" name="Teraton Shock Trooper" hidden="true" collective="false" type="upgrade">
+    <selectionEntry id="2303-4ebd-3c0f-705b" name="Soldado de Choque Teratón" hidden="true" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -3505,7 +3505,7 @@ A maximum of one dice can be used per attack.</description>
       <selectionEntries/>
       <selectionEntryGroups/>
       <entryLinks>
-        <entryLink id="efd4-2613-8564-c0d1" name="Teraton Shock Trooper" hidden="false" targetId="6543-c829-efb7-702a" type="selectionEntry">
+        <entryLink id="efd4-2613-8564-c0d1" name="Soldado de Choque Teratón" hidden="false" targetId="6543-c829-efb7-702a" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -3746,9 +3746,9 @@ A maximum of one dice can be used per attack.</description>
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="416e-c577-3b6c-da9d" name="Long Alcance Observer N7-117" book="Deadzone: Infestation + Erratas v2.1" page="20" hidden="false" collective="false" type="unit">
+    <selectionEntry id="416e-c577-3b6c-da9d" name="Long Alcance Observer N7-117" book="Deadzone: Infestación + Erratas v2.1" page="20" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="fe51-5adc-7952-5112" name="Long Alcance Observer N7-117" book="Deadzone: Infestation" page="20" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Leader">
+        <profile id="fe51-5adc-7952-5112" name="Long Alcance Observer N7-117" book="Deadzone: Infestación" page="20" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Leader">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -3765,7 +3765,7 @@ A maximum of one dice can be used per attack.</description>
         </profile>
       </profiles>
       <rules>
-        <rule id="ad31-271a-126b-c652" name="On My Mark" book="Deadzone: Infestation" page="20" hidden="false">
+        <rule id="ad31-271a-126b-c652" name="On My Mark" book="Deadzone: Infestación" page="20" hidden="false">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -3799,9 +3799,9 @@ A maximum of one dice can be used per attack.</description>
         </categoryLink>
       </categoryLinks>
       <selectionEntries>
-        <selectionEntry id="da42-f72f-0142-b440" name="Grenade Launcher" book="Deadzone Infestation Expansion" page="20" hidden="false" collective="false" type="upgrade">
+        <selectionEntry id="da42-f72f-0142-b440" name="Lanzagranadas" book="Deadzone Infestation Expansion" page="20" hidden="false" collective="false" type="upgrade">
           <profiles>
-            <profile id="e18d-23a4-5876-991b" name="Grenade Launcher" book="Deadzone: Infestation" page="20" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+            <profile id="e18d-23a4-5876-991b" name="Lanzagranadas" book="Deadzone: Infestación" page="20" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -4027,7 +4027,7 @@ A maximum of one dice can be used per attack.</description>
           </constraints>
           <categoryLinks/>
         </entryLink>
-        <entryLink id="1cd9-bdc3-f3c2-6383" name="Energy Gauntlet" hidden="false" targetId="2fa1-c699-fbed-a0b4" type="selectionEntry">
+        <entryLink id="1cd9-bdc3-f3c2-6383" name="Guantalete de Energía" hidden="false" targetId="2fa1-c699-fbed-a0b4" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -4522,9 +4522,9 @@ A maximum of one dice can be used per attack.</description>
                 <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
               </costs>
             </selectionEntry>
-            <selectionEntry id="666f-8431-4dd8-7f13" name="Grenade Launcher" hidden="false" collective="false" type="upgrade">
+            <selectionEntry id="666f-8431-4dd8-7f13" name="Lanzagranadas" hidden="false" collective="false" type="upgrade">
               <profiles>
-                <profile id="0aea-9629-5eaf-030a" name="Grenade Launcher" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+                <profile id="0aea-9629-5eaf-030a" name="Lanzagranadas" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
                   <profiles/>
                   <rules/>
                   <infoLinks/>
@@ -4779,7 +4779,7 @@ A maximum of one dice can be used per attack.</description>
             </modifier>
           </modifiers>
         </infoLink>
-        <infoLink id="9fec-ae05-d477-45a5" name="Reconocimiento Drone" hidden="false" targetId="13ea-7da7-0039-e8ad" type="rule">
+        <infoLink id="9fec-ae05-d477-45a5" name="Reconocimiento Dron" hidden="false" targetId="13ea-7da7-0039-e8ad" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -4798,9 +4798,9 @@ A maximum of one dice can be used per attack.</description>
         </categoryLink>
       </categoryLinks>
       <selectionEntries>
-        <selectionEntry id="f53f-03d1-ed97-59d8" name="Reconocimiento Drone" book="Deadzone: Nexus Psi" page="17" hidden="false" collective="false" type="model">
+        <selectionEntry id="f53f-03d1-ed97-59d8" name="Reconocimiento Dron" book="Deadzone: Nexus Psi" page="17" hidden="false" collective="false" type="model">
           <profiles>
-            <profile id="65a5-80df-97d8-7974" name="Reconocimiento Drone" book="Deadzone: Nexus Psi" page="17" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
+            <profile id="65a5-80df-97d8-7974" name="Reconocimiento Dron" book="Deadzone: Nexus Psi" page="17" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -4853,7 +4853,7 @@ A maximum of one dice can be used per attack.</description>
           <selectionEntries>
             <selectionEntry id="b78b-4e3e-ea95-3f1e" name="Rangefinder" hidden="false" collective="false" type="upgrade">
               <profiles>
-                <profile id="d4d5-b7ee-cba7-137c" name="Rangefinder" book="Deadzone: Infestation" page="17" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+                <profile id="d4d5-b7ee-cba7-137c" name="Rangefinder" book="Deadzone: Infestación" page="17" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
                   <profiles/>
                   <rules/>
                   <infoLinks/>
@@ -5148,12 +5148,12 @@ A maximum of one dice can be used per attack.</description>
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="ebb4-fb02-6c88-d238" name="Frag (n)" hidden="false" targetId="f7aa-fbc1-3217-1be0" type="rule">
+        <infoLink id="ebb4-fb02-6c88-d238" name="Fragmentación (n)" hidden="false" targetId="f7aa-fbc1-3217-1be0" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers>
-            <modifier type="set" field="name" value="Frag (3)">
+            <modifier type="set" field="name" value="Fragmentación (3)">
               <repeats/>
               <conditions/>
               <conditionGroups/>
@@ -5274,11 +5274,11 @@ A maximum of one dice can be used per attack.</description>
         <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="2fa1-c699-fbed-a0b4" name="Energy Gauntlet" book="" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="2fa1-c699-fbed-a0b4" name="Guantalete de Energía" book="" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="0baf-9de6-3e94-5c6e" name="Energy Gauntlet" hidden="false" targetId="71d2-9be4-563e-b0b3" type="profile">
+        <infoLink id="0baf-9de6-3e94-5c6e" name="Guantalete de Energía" hidden="false" targetId="71d2-9be4-563e-b0b3" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -5536,12 +5536,12 @@ A maximum of one dice can be used per attack.</description>
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="33fb-1026-4b03-100f" name="Frag (n)" hidden="false" targetId="f7aa-fbc1-3217-1be0" type="rule">
+        <infoLink id="33fb-1026-4b03-100f" name="Fragmentación (n)" hidden="false" targetId="f7aa-fbc1-3217-1be0" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers>
-            <modifier type="set" field="name" value="Frag (3)">
+            <modifier type="set" field="name" value="Fragmentación (3)">
               <repeats/>
               <conditions/>
               <conditionGroups/>
@@ -5912,7 +5912,7 @@ A maximum of one dice can be used per attack.</description>
       <characteristics>
         <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A4"/>
         <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
-        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Pesada, Frag (3)"/>
+        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Pesada, Fragmentación (3)"/>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Asalto)"/>
       </characteristics>
     </profile>
@@ -5952,7 +5952,7 @@ A maximum of one dice can be used per attack.</description>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Pesada (Automática)"/>
       </characteristics>
     </profile>
-    <profile id="71d2-9be4-563e-b0b3" name="Energy Gauntlet" book="Reglamento Deadzone 2ª Edición" page="59" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="71d2-9be4-563e-b0b3" name="Guantalete de Energía" book="Reglamento Deadzone 2ª Edición" page="59" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -6056,7 +6056,7 @@ A maximum of one dice can be used per attack.</description>
       <characteristics>
         <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="AL/A4"/>
         <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="PA2/PA2"/>
-        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="-/Frag (3)"/>
+        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="-/Fragmentación (3)"/>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Andador (Explosiva)"/>
       </characteristics>
     </profile>
