@@ -4468,7 +4468,7 @@ No puedes usar esta habilidad dos veces sobre una misma miniatura en una misma a
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="a787-24e0-dea3-d7f0" name="Sniper Scope" hidden="false" targetId="e624-e443-da35-a014" type="rule">
+        <infoLink id="a787-24e0-dea3-d7f0" name="Mira Telescópica" hidden="false" targetId="e624-e443-da35-a014" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -5275,7 +5275,7 @@ No puedes usar esta habilidad dos veces sobre una misma miniatura en una misma a
       <characteristics>
         <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A8"/>
         <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="PA1"/>
-        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Pesada, Sniper Scope"/>
+        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Pesada, Mira Telescópica"/>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Francotirador)"/>
       </characteristics>
     </profile>

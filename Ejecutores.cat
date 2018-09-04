@@ -134,7 +134,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="f607-f172-241f-562e" name="Wristblade" hidden="false" targetId="a891-8e88-b7b0-765a" type="selectionEntry">
+            <entryLink id="f607-f172-241f-562e" name="Cuchilla Retráctic" hidden="false" targetId="a891-8e88-b7b0-765a" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -297,7 +297,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="d93e-b6e9-a26a-dd9c" name="Wristblade" hidden="false" targetId="a891-8e88-b7b0-765a" type="selectionEntry">
+            <entryLink id="d93e-b6e9-a26a-dd9c" name="Cuchilla Retráctic" hidden="false" targetId="a891-8e88-b7b0-765a" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -417,7 +417,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="2973-b58a-065a-d8d9" name="Wristblade" hidden="false" targetId="a891-8e88-b7b0-765a" type="selectionEntry">
+            <entryLink id="2973-b58a-065a-d8d9" name="Cuchilla Retráctic" hidden="false" targetId="a891-8e88-b7b0-765a" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -448,7 +448,7 @@
           <selectionEntries/>
           <selectionEntryGroups/>
           <entryLinks>
-            <entryLink id="f961-7d67-ddb8-40e2" name="Laser Rifle" hidden="false" targetId="c81b-c88d-447b-ebd5" type="selectionEntry">
+            <entryLink id="f961-7d67-ddb8-40e2" name="Rifle Láser" hidden="false" targetId="c81b-c88d-447b-ebd5" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -464,7 +464,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="194d-2aca-2010-2db5" name="Tag Rifle" hidden="false" targetId="7f90-f100-39bb-e706" type="selectionEntry">
+            <entryLink id="194d-2aca-2010-2db5" name="Marcar Rifle" hidden="false" targetId="7f90-f100-39bb-e706" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -493,7 +493,7 @@
           <selectionEntries/>
           <selectionEntryGroups/>
           <entryLinks>
-            <entryLink id="68e5-7dfd-2920-aaf4" name="Laser Rifle" hidden="false" targetId="c81b-c88d-447b-ebd5" type="selectionEntry">
+            <entryLink id="68e5-7dfd-2920-aaf4" name="Rifle Láser" hidden="false" targetId="c81b-c88d-447b-ebd5" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -509,7 +509,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="37d4-90c4-9788-e0a2" name="Tag Rifle" hidden="false" targetId="7f90-f100-39bb-e706" type="selectionEntry">
+            <entryLink id="37d4-90c4-9788-e0a2" name="Marcar Rifle" hidden="false" targetId="7f90-f100-39bb-e706" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -616,7 +616,7 @@
           <selectionEntries/>
           <selectionEntryGroups/>
           <entryLinks>
-            <entryLink id="b95f-5e3b-1566-ae90" name="Wristblade" hidden="false" targetId="a891-8e88-b7b0-765a" type="selectionEntry">
+            <entryLink id="b95f-5e3b-1566-ae90" name="Cuchilla Retráctic" hidden="false" targetId="a891-8e88-b7b0-765a" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -642,7 +642,7 @@
         </selectionEntryGroup>
       </selectionEntryGroups>
       <entryLinks>
-        <entryLink id="d4c4-3284-e8ba-28ce" name="Double-Barrelled Laser Rifle" hidden="false" targetId="0dde-f7db-085e-9a4c" type="selectionEntry">
+        <entryLink id="d4c4-3284-e8ba-28ce" name="Rifle Láser de Doble Cañón" hidden="false" targetId="0dde-f7db-085e-9a4c" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -778,7 +778,7 @@
           <selectionEntries/>
           <selectionEntryGroups/>
           <entryLinks>
-            <entryLink id="a353-0705-3247-0dd0" name="Wristblade" hidden="false" targetId="a891-8e88-b7b0-765a" type="selectionEntry">
+            <entryLink id="a353-0705-3247-0dd0" name="Cuchilla Retráctic" hidden="false" targetId="a891-8e88-b7b0-765a" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -984,7 +984,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="7c73-7004-0428-0dc5" name="Tag Rifle" hidden="false" targetId="7f90-f100-39bb-e706" type="selectionEntry">
+            <entryLink id="7c73-7004-0428-0dc5" name="Marcar Rifle" hidden="false" targetId="7f90-f100-39bb-e706" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1126,7 +1126,7 @@
           <selectionEntries/>
           <selectionEntryGroups/>
           <entryLinks>
-            <entryLink id="34ea-7cb1-a836-4e97" name="Laser Rifle" hidden="false" targetId="c81b-c88d-447b-ebd5" type="selectionEntry">
+            <entryLink id="34ea-7cb1-a836-4e97" name="Rifle Láser" hidden="false" targetId="c81b-c88d-447b-ebd5" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1279,7 +1279,7 @@
           <selectionEntries/>
           <selectionEntryGroups/>
           <entryLinks>
-            <entryLink id="804a-8d91-87da-dcee" name="Laser Rifle" hidden="false" targetId="c81b-c88d-447b-ebd5" type="selectionEntry">
+            <entryLink id="804a-8d91-87da-dcee" name="Rifle Láser" hidden="false" targetId="c81b-c88d-447b-ebd5" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1293,7 +1293,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="84d0-e81f-0364-5703" name="Burst Laser" hidden="false" targetId="d35e-c0d1-85d5-9403" type="selectionEntry">
+            <entryLink id="84d0-e81f-0364-5703" name="Láser de Ráfaga" hidden="false" targetId="d35e-c0d1-85d5-9403" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1499,7 +1499,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="2d87-cd07-48d4-a5d3" name="Tag Rifle" hidden="false" targetId="7f90-f100-39bb-e706" type="selectionEntry">
+            <entryLink id="2d87-cd07-48d4-a5d3" name="Marcar Rifle" hidden="false" targetId="7f90-f100-39bb-e706" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1650,7 +1650,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="b066-70e1-a6ff-66ab" name="Burst Laser" hidden="false" targetId="d35e-c0d1-85d5-9403" type="selectionEntry">
+            <entryLink id="b066-70e1-a6ff-66ab" name="Láser de Ráfaga" hidden="false" targetId="d35e-c0d1-85d5-9403" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1658,7 +1658,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="0ec1-4c35-725a-a942" name="Double-Barrelled Laser Rifle (Dominator)" hidden="false" targetId="0dde-f7db-085e-9a4c" type="selectionEntry">
+            <entryLink id="0ec1-4c35-725a-a942" name="Rifle Láser de Doble Cañón (Dominator)" hidden="false" targetId="0dde-f7db-085e-9a4c" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1701,7 +1701,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="ba4c-4e7d-96fa-b715" name="Wristblade" hidden="false" targetId="a891-8e88-b7b0-765a" type="selectionEntry">
+            <entryLink id="ba4c-4e7d-96fa-b715" name="Cuchilla Retráctic" hidden="false" targetId="a891-8e88-b7b0-765a" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1984,7 +1984,7 @@
           <selectionEntries/>
           <selectionEntryGroups/>
           <entryLinks>
-            <entryLink id="766f-e7b0-a2f8-0a91" name="Laser Rifle" hidden="false" targetId="c81b-c88d-447b-ebd5" type="selectionEntry">
+            <entryLink id="766f-e7b0-a2f8-0a91" name="Rifle Láser" hidden="false" targetId="c81b-c88d-447b-ebd5" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -2145,7 +2145,7 @@
       <selectionEntries/>
       <selectionEntryGroups/>
       <entryLinks>
-        <entryLink id="1103-646e-c8e0-5fa7" name="Burst Laser" hidden="false" targetId="d35e-c0d1-85d5-9403" type="selectionEntry">
+        <entryLink id="1103-646e-c8e0-5fa7" name="Láser de Ráfaga" hidden="false" targetId="d35e-c0d1-85d5-9403" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -2286,7 +2286,7 @@
           <selectionEntries/>
           <selectionEntryGroups/>
           <entryLinks>
-            <entryLink id="0b9e-20df-748e-c039" name="Double-Barrelled Laser Rifle (Dominator)" hidden="false" targetId="0dde-f7db-085e-9a4c" type="selectionEntry">
+            <entryLink id="0b9e-20df-748e-c039" name="Rifle Láser de Doble Cañón (Dominator)" hidden="false" targetId="0dde-f7db-085e-9a4c" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -2308,7 +2308,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="c185-cf65-ee99-c70c" name="Burst Laser" hidden="false" targetId="d35e-c0d1-85d5-9403" type="selectionEntry">
+            <entryLink id="c185-cf65-ee99-c70c" name="Láser de Ráfaga" hidden="false" targetId="d35e-c0d1-85d5-9403" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -2451,7 +2451,7 @@
           <selectionEntries/>
           <selectionEntryGroups/>
           <entryLinks>
-            <entryLink id="fc28-4062-392b-6cc9" name="Assault Flamer" hidden="false" targetId="1e97-05ad-b297-5af5" type="selectionEntry">
+            <entryLink id="fc28-4062-392b-6cc9" name="Lanzallamas de Asalto" hidden="false" targetId="1e97-05ad-b297-5af5" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -2481,7 +2481,7 @@
               </constraints>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="52bf-ac21-2188-a8e3" name="Andador Grav-ram Spear" hidden="false" targetId="8534-fc76-04f7-050d" type="selectionEntry">
+            <entryLink id="52bf-ac21-2188-a8e3" name="Andador Lanza de Gravitones" hidden="false" targetId="8534-fc76-04f7-050d" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -2491,7 +2491,7 @@
               </constraints>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="f6e8-5a28-d238-5d69" name="Equalizer (Genling 88) **" hidden="false" targetId="92dc-cad1-e24c-8711" type="selectionEntry">
+            <entryLink id="f6e8-5a28-d238-5d69" name="Ecualizador (Genling 88) **" hidden="false" targetId="92dc-cad1-e24c-8711" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -2501,7 +2501,7 @@
               </constraints>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="0a50-cb5f-b7cb-dd43" name="Pesada Burst Laser **" hidden="false" targetId="7a46-dab5-bf21-6719" type="selectionEntry">
+            <entryLink id="0a50-cb5f-b7cb-dd43" name="Láser de Ráfaga Pesado **" hidden="false" targetId="7a46-dab5-bf21-6719" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -3863,7 +3863,7 @@
           </constraints>
           <categoryLinks/>
         </entryLink>
-        <entryLink id="9cd8-c2c3-0708-4a47" name="Laser Rifle" hidden="false" targetId="c81b-c88d-447b-ebd5" type="selectionEntry">
+        <entryLink id="9cd8-c2c3-0708-4a47" name="Rifle Láser" hidden="false" targetId="c81b-c88d-447b-ebd5" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -3945,9 +3945,9 @@
         </categoryLink>
       </categoryLinks>
       <selectionEntries>
-        <selectionEntry id="f4fa-2f66-48e7-00e6" name="LSX Rifle de Francotirador" hidden="false" collective="false" type="upgrade">
+        <selectionEntry id="f4fa-2f66-48e7-00e6" name="Rifle LSX de Francotirador" hidden="false" collective="false" type="upgrade">
           <profiles>
-            <profile id="7e89-beca-ab7b-6cc0" name="LSX Rifle de Francotirador" book="Deadzone: Outbreak" page="81" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+            <profile id="7e89-beca-ab7b-6cc0" name="Rifle LSX de Francotirador" book="Deadzone: Outbreak" page="81" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -3955,7 +3955,7 @@
               <characteristics>
                 <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A10"/>
                 <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="PA1"/>
-                <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Pesada, Sniper Scope"/>
+                <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Pesada, Mira Telescópica"/>
                 <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value=""/>
               </characteristics>
             </profile>
@@ -3968,7 +3968,7 @@
               <infoLinks/>
               <modifiers/>
             </infoLink>
-            <infoLink id="ac1b-bfdd-9482-658a" name="Sniper Scope" hidden="false" targetId="e624-e443-da35-a014" type="rule">
+            <infoLink id="ac1b-bfdd-9482-658a" name="Mira Telescópica" hidden="false" targetId="e624-e443-da35-a014" type="rule">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -4138,9 +4138,9 @@
           </constraints>
           <categoryLinks/>
           <selectionEntries>
-            <selectionEntry id="57ee-a38e-b917-3511" name="Laser Rifle (Accutek LR-45)" hidden="false" collective="false" type="upgrade">
+            <selectionEntry id="57ee-a38e-b917-3511" name="Rifle Láser (Accutek LR-45)" hidden="false" collective="false" type="upgrade">
               <profiles>
-                <profile id="9174-8b7d-50df-1388" name="Laser Rifle (Accutek LR-45)" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+                <profile id="9174-8b7d-50df-1388" name="Rifle Láser (Accutek LR-45)" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
                   <profiles/>
                   <rules/>
                   <infoLinks/>
@@ -4321,9 +4321,9 @@
           </constraints>
           <categoryLinks/>
           <selectionEntries>
-            <selectionEntry id="1783-e4cf-f675-24d3" name="Laser Rifle (Accutek LR-45)" hidden="false" collective="false" type="upgrade">
+            <selectionEntry id="1783-e4cf-f675-24d3" name="Rifle Láser (Accutek LR-45)" hidden="false" collective="false" type="upgrade">
               <profiles>
-                <profile id="c2a0-b510-5ac4-1222" name="Laser Rifle (Accutek LR-45)" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+                <profile id="c2a0-b510-5ac4-1222" name="Rifle Láser (Accutek LR-45)" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
                   <profiles/>
                   <rules/>
                   <infoLinks/>
@@ -4401,14 +4401,14 @@
                   <characteristics>
                     <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A10"/>
                     <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
-                    <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Sniper Scope, Pesada"/>
+                    <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Mira Telescópica, Pesada"/>
                     <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Francotirador)"/>
                   </characteristics>
                 </profile>
               </profiles>
               <rules/>
               <infoLinks>
-                <infoLink id="58ed-31df-1e00-5555" name="Sniper Scope" hidden="false" targetId="e624-e443-da35-a014" type="rule">
+                <infoLink id="58ed-31df-1e00-5555" name="Mira Telescópica" hidden="false" targetId="e624-e443-da35-a014" type="rule">
                   <profiles/>
                   <rules/>
                   <infoLinks/>
@@ -4561,9 +4561,9 @@
                 <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="1.0"/>
               </costs>
             </selectionEntry>
-            <selectionEntry id="e2e1-4e39-c0b9-1329" name="Pesada Laser Rifle (Accutek LR-AM)" hidden="false" collective="false" type="upgrade">
+            <selectionEntry id="e2e1-4e39-c0b9-1329" name="Pesada Rifle Láser (Accutek LR-AM)" hidden="false" collective="false" type="upgrade">
               <profiles>
-                <profile id="9140-2e24-8835-2fa2" name="Pesada Laser Rifle (Accutek LR-AM)" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+                <profile id="9140-2e24-8835-2fa2" name="Pesada Rifle Láser (Accutek LR-AM)" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
                   <profiles/>
                   <rules/>
                   <infoLinks/>
@@ -4777,7 +4777,7 @@
             </modifier>
           </modifiers>
         </infoLink>
-        <infoLink id="9fec-ae05-d477-45a5" name="Reconocimiento Dron" hidden="false" targetId="13ea-7da7-0039-e8ad" type="rule">
+        <infoLink id="9fec-ae05-d477-45a5" name="Dron de Reconocimiento" hidden="false" targetId="13ea-7da7-0039-e8ad" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -4796,9 +4796,9 @@
         </categoryLink>
       </categoryLinks>
       <selectionEntries>
-        <selectionEntry id="f53f-03d1-ed97-59d8" name="Reconocimiento Dron" book="Deadzone: Nexus Psi" page="17" hidden="false" collective="false" type="model">
+        <selectionEntry id="f53f-03d1-ed97-59d8" name="Dron de Reconocimiento" book="Deadzone: Nexus Psi" page="17" hidden="false" collective="false" type="model">
           <profiles>
-            <profile id="65a5-80df-97d8-7974" name="Reconocimiento Dron" book="Deadzone: Nexus Psi" page="17" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
+            <profile id="65a5-80df-97d8-7974" name="Dron de Reconocimiento" book="Deadzone: Nexus Psi" page="17" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -4849,9 +4849,9 @@
             </categoryLink>
           </categoryLinks>
           <selectionEntries>
-            <selectionEntry id="b78b-4e3e-ea95-3f1e" name="Rangefinder" hidden="false" collective="false" type="upgrade">
+            <selectionEntry id="b78b-4e3e-ea95-3f1e" name="Telémetro" hidden="false" collective="false" type="upgrade">
               <profiles>
-                <profile id="d4d5-b7ee-cba7-137c" name="Rangefinder" book="Deadzone: Infestación" page="17" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+                <profile id="d4d5-b7ee-cba7-137c" name="Telémetro" book="Deadzone: Infestación" page="17" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
                   <profiles/>
                   <rules/>
                   <infoLinks/>
@@ -4859,7 +4859,7 @@
                   <characteristics>
                     <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A10"/>
                     <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
-                    <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Tag, Non-Lethal"/>
+                    <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Marcar, Non-Lethal"/>
                     <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value=""/>
                   </characteristics>
                 </profile>
@@ -4872,7 +4872,7 @@
                   <infoLinks/>
                   <modifiers/>
                 </infoLink>
-                <infoLink id="593e-2d20-cd64-4403" name="Tag" hidden="false" targetId="e92f-71ef-638e-9689" type="rule">
+                <infoLink id="593e-2d20-cd64-4403" name="Marcar" hidden="false" targetId="e92f-71ef-638e-9689" type="rule">
                   <profiles/>
                   <rules/>
                   <infoLinks/>
@@ -4922,7 +4922,7 @@
       </selectionEntries>
       <selectionEntryGroups/>
       <entryLinks>
-        <entryLink id="c41e-f60e-debe-c062" name="TAG Rifle" hidden="false" targetId="7f90-f100-39bb-e706" type="selectionEntry">
+        <entryLink id="c41e-f60e-debe-c062" name="Rifle Marcador" hidden="false" targetId="7f90-f100-39bb-e706" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -5006,7 +5006,7 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="1.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="c81b-c88d-447b-ebd5" name="Laser Rifle" book="" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="c81b-c88d-447b-ebd5" name="Rifle Láser" book="" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
@@ -5068,11 +5068,11 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="4.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="d35e-c0d1-85d5-9403" name="Burst Laser" book="" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="d35e-c0d1-85d5-9403" name="Láser de Ráfaga" book="" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="ed1b-3e9d-36aa-1d4d" name="Burst Laser" hidden="false" targetId="6551-3891-155e-b72c" type="profile">
+        <infoLink id="ed1b-3e9d-36aa-1d4d" name="Láser de Ráfaga" hidden="false" targetId="6551-3891-155e-b72c" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -5214,7 +5214,7 @@
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="0328-17aa-5ea2-faea" name="Sniper Scope" hidden="false" targetId="e624-e443-da35-a014" type="rule">
+        <infoLink id="0328-17aa-5ea2-faea" name="Mira Telescópica" hidden="false" targetId="e624-e443-da35-a014" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -5232,11 +5232,11 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="12.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="0dde-f7db-085e-9a4c" name="Double-Barrelled Laser Rifle" book="" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="0dde-f7db-085e-9a4c" name="Rifle Láser de Doble Cañón" book="" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="3470-45a0-ce2e-b6e1" name="Double-Barrelled Laser Rifle (Dominator)" hidden="false" targetId="14e3-68ae-5de1-6755" type="profile">
+        <infoLink id="3470-45a0-ce2e-b6e1" name="Rifle Láser de Doble Cañón (Dominator)" hidden="false" targetId="14e3-68ae-5de1-6755" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -5300,17 +5300,17 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="3.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="7f90-f100-39bb-e706" name="TAG Rifle" book="Reglamento Deadzone 2ª Edición" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="7f90-f100-39bb-e706" name="Rifle Marcador" book="Reglamento Deadzone 2ª Edición" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="3a20-186f-fd5d-dcd9" name="Tag Rifle" hidden="false" targetId="662d-622e-baaa-fd45" type="profile">
+        <infoLink id="3a20-186f-fd5d-dcd9" name="Marcar Rifle" hidden="false" targetId="662d-622e-baaa-fd45" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="df7f-bc8b-f6dd-b927" name="Tag" hidden="false" targetId="e92f-71ef-638e-9689" type="rule">
+        <infoLink id="df7f-bc8b-f6dd-b927" name="Marcar" hidden="false" targetId="e92f-71ef-638e-9689" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -5356,11 +5356,11 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="1.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="a891-8e88-b7b0-765a" name="Wristblade" book="Reglamento Deadzone 2ª Edición" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="a891-8e88-b7b0-765a" name="Cuchilla Retráctic" book="Reglamento Deadzone 2ª Edición" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="b043-8b65-b783-0ccc" name="Wristblade" hidden="false" targetId="c2d3-3c53-b198-5872" type="profile">
+        <infoLink id="b043-8b65-b783-0ccc" name="Cuchilla Retráctic" hidden="false" targetId="c2d3-3c53-b198-5872" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -5378,11 +5378,11 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="5.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="92dc-cad1-e24c-8711" name="Polaris Cannon **" book="" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="92dc-cad1-e24c-8711" name="Cañón Polaris **" book="" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="d084-7e5f-86cf-890f" name="Equalizer (Gerling 88) **" hidden="false" targetId="7b06-3c96-d68f-f76c" type="profile">
+        <infoLink id="d084-7e5f-86cf-890f" name="Ecualizador (Gerling 88) **" hidden="false" targetId="7b06-3c96-d68f-f76c" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -5428,11 +5428,11 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="1e97-05ad-b297-5af5" name="Assault Flamer" book="" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="1e97-05ad-b297-5af5" name="Lanzallamas de Asalto" book="" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="d05f-2747-888e-b181" name="Assault Flamer" hidden="false" targetId="64de-2818-7c25-a439" type="profile">
+        <infoLink id="d05f-2747-888e-b181" name="Lanzallamas de Asalto" hidden="false" targetId="64de-2818-7c25-a439" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -5500,7 +5500,7 @@
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="b00b-c50a-3b51-a33d" name="Andador Shield" hidden="false" targetId="bc2d-7c5f-2587-2e78" type="rule">
+        <infoLink id="b00b-c50a-3b51-a33d" name="Escudo Personal" hidden="false" targetId="bc2d-7c5f-2587-2e78" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -5524,11 +5524,11 @@
         <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="1.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="8534-fc76-04f7-050d" name="Grav-ram Spear" book="" page="" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="8534-fc76-04f7-050d" name="Lanza de Gravitones" book="" page="" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="ff89-5c75-48fc-b0ab" name="Grav-ram Spear" hidden="false" targetId="1875-98cf-692d-1c4d" type="profile">
+        <infoLink id="ff89-5c75-48fc-b0ab" name="Lanza de Gravitones" hidden="false" targetId="1875-98cf-692d-1c4d" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -5558,11 +5558,11 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="12.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="7a46-dab5-bf21-6719" name="Pesada Burst Laser **" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="7a46-dab5-bf21-6719" name="Láser de Ráfaga Pesado **" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="fa37-55bb-748c-0f42" name="Pesada Burst Laser" hidden="false" targetId="3424-ff72-64b3-dc26" type="profile">
+        <infoLink id="fa37-55bb-748c-0f42" name="Láser de Ráfaga Pesado" hidden="false" targetId="3424-ff72-64b3-dc26" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -5934,7 +5934,7 @@
       <characteristics>
         <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A10"/>
         <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="PA1"/>
-        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Pesada, Sniper Scope"/>
+        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Pesada, Mira Telescópica"/>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Francotirador)"/>
       </characteristics>
     </profile>
@@ -5970,7 +5970,7 @@
       <characteristics>
         <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A6"/>
         <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
-        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Tag"/>
+        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Marcar"/>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Reconocimiento"/>
       </characteristics>
     </profile>
@@ -6046,7 +6046,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Andador (Melé)"/>
       </characteristics>
     </profile>
-    <profile id="1875-98cf-692d-1c4d" name="Lanza Ariete-grav" book="Deadzone: Nexus Psi" page="10" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="1875-98cf-692d-1c4d" name="Lanza de Gravitones" book="Deadzone: Nexus Psi" page="10" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -6078,7 +6078,7 @@
       <characteristics>
         <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="-"/>
         <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
-        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Andador Shield"/>
+        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Escudo Personal"/>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Andador (Shield)"/>
       </characteristics>
     </profile>

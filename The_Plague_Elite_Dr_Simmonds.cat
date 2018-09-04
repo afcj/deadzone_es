@@ -284,7 +284,7 @@ Grav-Pods: Gain Jump Pack and Glide until the end of the Round</description>
           <selectionEntries/>
           <selectionEntryGroups/>
           <entryLinks>
-            <entryLink id="f182-faa2-9585-d82d" name="Assault Flamer" hidden="false" targetId="7735-9fc1-fa51-d63e" type="selectionEntry">
+            <entryLink id="f182-faa2-9585-d82d" name="Lanzallamas de Asalto" hidden="false" targetId="7735-9fc1-fa51-d63e" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -304,7 +304,7 @@ Grav-Pods: Gain Jump Pack and Glide until the end of the Round</description>
               </constraints>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="42df-8f78-1e0d-4b7d" name="Pesada Burst Laser **" hidden="false" targetId="f172-7edd-3be0-d843" type="selectionEntry">
+            <entryLink id="42df-8f78-1e0d-4b7d" name="Láser de Ráfaga Pesado **" hidden="false" targetId="f172-7edd-3be0-d843" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -314,7 +314,7 @@ Grav-Pods: Gain Jump Pack and Glide until the end of the Round</description>
               </constraints>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="dac5-413a-3f2a-1822" name="Polaris Cannon (Genling 88) **" hidden="false" targetId="e413-5b6d-f4b7-a9e2" type="selectionEntry">
+            <entryLink id="dac5-413a-3f2a-1822" name="Cañón Polaris (Genling 88) **" hidden="false" targetId="e413-5b6d-f4b7-a9e2" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1292,11 +1292,11 @@ Grav-Pods: Gain Jump Pack and Glide until the end of the Round</description>
   </selectionEntries>
   <entryLinks/>
   <sharedSelectionEntries>
-    <selectionEntry id="7735-9fc1-fa51-d63e" name="Assault Flamer" book="Reglamento Deadzone 2ª Edición" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="7735-9fc1-fa51-d63e" name="Lanzallamas de Asalto" book="Reglamento Deadzone 2ª Edición" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="dc73-b125-3567-62a4" name="Assault Flamer" hidden="false" targetId="ce7c-fabb-c0b7-f733" type="profile">
+        <infoLink id="dc73-b125-3567-62a4" name="Lanzallamas de Asalto" hidden="false" targetId="ce7c-fabb-c0b7-f733" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1546,11 +1546,11 @@ Grav-Pods: Gain Jump Pack and Glide until the end of the Round</description>
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="e413-5b6d-f4b7-a9e2" name="Polaris Cannon (Genling 88) **" book="Reglamento Deadzone 2ª Edición" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="e413-5b6d-f4b7-a9e2" name="Cañón Polaris (Genling 88) **" book="Reglamento Deadzone 2ª Edición" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="2813-48d1-738e-7792" name="Polaris Cannon (Genling 88) **" hidden="false" targetId="2f33-fa5a-1ee9-6f63" type="profile">
+        <infoLink id="2813-48d1-738e-7792" name="Cañón Polaris (Genling 88) **" hidden="false" targetId="2f33-fa5a-1ee9-6f63" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1596,11 +1596,11 @@ Grav-Pods: Gain Jump Pack and Glide until the end of the Round</description>
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="2.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="f172-7edd-3be0-d843" name="Pesada Burst Laser **" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="f172-7edd-3be0-d843" name="Láser de Ráfaga Pesado **" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="855a-ab56-9e00-3b26" name="Pesada Burst Laser" hidden="false" targetId="5fb6-317b-f634-5a71" type="profile">
+        <infoLink id="855a-ab56-9e00-3b26" name="Láser de Ráfaga Pesado" hidden="false" targetId="5fb6-317b-f634-5a71" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1790,7 +1790,7 @@ Grav-Pods: Gain Jump Pack and Glide until the end of the Round</description>
   </sharedSelectionEntryGroups>
   <sharedRules/>
   <sharedProfiles>
-    <profile id="ce7c-fabb-c0b7-f733" name="Assault Flamer" book="Reglamento Deadzone 2ª Edición" page="52" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="ce7c-fabb-c0b7-f733" name="Lanzallamas de Asalto" book="Reglamento Deadzone 2ª Edición" page="52" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -1886,7 +1886,7 @@ Grav-Pods: Gain Jump Pack and Glide until the end of the Round</description>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Pequeño Calibre"/>
       </characteristics>
     </profile>
-    <profile id="2f33-fa5a-1ee9-6f63" name="Polaris Cannon (Genling 88)" book="Reglamento Deadzone 2ª Edición" page="52" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="2f33-fa5a-1ee9-6f63" name="Cañón Polaris (Genling 88)" book="Reglamento Deadzone 2ª Edición" page="52" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -1910,7 +1910,7 @@ Grav-Pods: Gain Jump Pack and Glide until the end of the Round</description>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Pequeño Calibre"/>
       </characteristics>
     </profile>
-    <profile id="5fb6-317b-f634-5a71" name="Pesada Burst Laser" book="Deadzone: Nexus Psi" page="10" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="5fb6-317b-f634-5a71" name="Láser de Ráfaga Pesado" book="Deadzone: Nexus Psi" page="10" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
       <profiles/>
       <rules/>
       <infoLinks/>

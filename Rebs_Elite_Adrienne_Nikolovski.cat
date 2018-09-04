@@ -1859,7 +1859,7 @@
   </selectionEntries>
   <entryLinks/>
   <sharedSelectionEntries>
-    <selectionEntry id="1424-b325-f749-9092" name="Assault Flamer" book="Reglamento Deadzone 2ª Edición" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="1424-b325-f749-9092" name="Lanzallamas de Asalto" book="Reglamento Deadzone 2ª Edición" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
@@ -1875,7 +1875,7 @@
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="4a10-a5dc-b33e-681f" name="Assault Flamer" hidden="false" targetId="acf5-2258-0e2e-8987" type="profile">
+        <infoLink id="4a10-a5dc-b33e-681f" name="Lanzallamas de Asalto" hidden="false" targetId="acf5-2258-0e2e-8987" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -2280,11 +2280,11 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="304e-7b2e-f4dc-0785" name="Polaris Cannon (Genling 88) **" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="304e-7b2e-f4dc-0785" name="Cañón Polaris (Genling 88) **" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="83f3-a8cf-205d-ba57" name="Polaris Cannon (Genling 88) **" hidden="false" targetId="132f-2c80-3be2-a6a2" type="profile">
+        <infoLink id="83f3-a8cf-205d-ba57" name="Cañón Polaris (Genling 88) **" hidden="false" targetId="132f-2c80-3be2-a6a2" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -2340,7 +2340,7 @@
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="e709-9501-dfa9-b78a" name="Sniper Scope" hidden="false" targetId="e624-e443-da35-a014" type="rule">
+        <infoLink id="e709-9501-dfa9-b78a" name="Mira Telescópica" hidden="false" targetId="e624-e443-da35-a014" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -2581,7 +2581,7 @@
   </sharedSelectionEntryGroups>
   <sharedRules/>
   <sharedProfiles>
-    <profile id="acf5-2258-0e2e-8987" name="Assault Flamer" book="Reglamento Deadzone 2ª Edición" page="89" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="acf5-2258-0e2e-8987" name="Lanzallamas de Asalto" book="Reglamento Deadzone 2ª Edición" page="89" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -2749,7 +2749,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Pequeño Calibre"/>
       </characteristics>
     </profile>
-    <profile id="132f-2c80-3be2-a6a2" name="Polaris Cannon (Genling 88)" book="Reglamento Deadzone 2ª Edición" page="89" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="132f-2c80-3be2-a6a2" name="Cañón Polaris (Genling 88)" book="Reglamento Deadzone 2ª Edición" page="89" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -2781,7 +2781,7 @@
       <characteristics>
         <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A8"/>
         <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
-        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Sniper Scope"/>
+        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Mira Telescópica"/>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Francotirador)"/>
       </characteristics>
     </profile>

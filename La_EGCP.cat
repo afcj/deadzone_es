@@ -134,7 +134,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="853e-7052-b459-5ece" name="Laser Rifle (Accutek LR-45)" hidden="false" targetId="300e-7914-ee40-3e1c" type="selectionEntry">
+            <entryLink id="853e-7052-b459-5ece" name="Rifle Láser (Accutek LR-45)" hidden="false" targetId="300e-7914-ee40-3e1c" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -248,7 +248,7 @@
           <rules/>
           <infoLinks/>
           <modifiers/>
-          <description>Spend an Army Special result when an enemy model moves into a cube containing an unactivated friendly model equipped with a weapon with the Fuego Rápido ability. The friendly model may make a free Disparo action with that weapon after the enemy model has moved, but prior to resolving the Lucha action initiated as part of the enemy’s Move action. This shoot action is not modified for Clear Shot, High Ground or Friendly Fire (Deadzone Rulebook page 20) but is still modified by other bonuses or penalties (eg, Holo-sight or Sniper Scope). This Army Special cannot be played on a friendly model that is in the same cube as an enemy model (other than the model moving into the cube), and the free Disparo action cannot be used to Fire for Effect.</description>
+          <description>Spend an Army Special result when an enemy model moves into a cube containing an unactivated friendly model equipped with a weapon with the Fuego Rápido ability. The friendly model may make a free Disparo action with that weapon after the enemy model has moved, but prior to resolving the Lucha action initiated as part of the enemy’s Move action. This shoot action is not modified for Clear Shot, High Ground or Friendly Fire (Deadzone Rulebook page 20) but is still modified by other bonuses or penalties (eg, Holo-sight or Mira Telescópica). This Army Special cannot be played on a friendly model that is in the same cube as an enemy model (other than the model moving into the cube), and the free Disparo action cannot be used to Fire for Effect.</description>
         </rule>
       </rules>
       <infoLinks>
@@ -350,7 +350,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="b785-8888-c91e-85da" name="Laser Rifle (Accutek LR-45)" hidden="false" targetId="300e-7914-ee40-3e1c" type="selectionEntry">
+            <entryLink id="b785-8888-c91e-85da" name="Rifle Láser (Accutek LR-45)" hidden="false" targetId="300e-7914-ee40-3e1c" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -524,7 +524,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="5ba5-ae84-aab9-1a98" name="Laser Rifle (Accutek LR-45)" hidden="false" targetId="300e-7914-ee40-3e1c" type="selectionEntry">
+            <entryLink id="5ba5-ae84-aab9-1a98" name="Rifle Láser (Accutek LR-45)" hidden="false" targetId="300e-7914-ee40-3e1c" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -610,7 +610,7 @@
           </constraints>
           <categoryLinks/>
         </entryLink>
-        <entryLink id="ae56-bdd1-adb3-a481" name="Laser Rifle (Accutek LR-45)" hidden="false" targetId="300e-7914-ee40-3e1c" type="selectionEntry">
+        <entryLink id="ae56-bdd1-adb3-a481" name="Rifle Láser (Accutek LR-45)" hidden="false" targetId="300e-7914-ee40-3e1c" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -686,7 +686,7 @@
           <selectionEntries/>
           <selectionEntryGroups/>
           <entryLinks>
-            <entryLink id="136e-34be-4c42-dd2c" name="Laser Rifle (Accutek LR-45)" hidden="false" targetId="300e-7914-ee40-3e1c" type="selectionEntry">
+            <entryLink id="136e-34be-4c42-dd2c" name="Rifle Láser (Accutek LR-45)" hidden="false" targetId="300e-7914-ee40-3e1c" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -792,7 +792,7 @@
           <selectionEntries/>
           <selectionEntryGroups/>
           <entryLinks>
-            <entryLink id="bf2e-e5c2-d954-9049" name="Laser Rifle (Accutek LR-45)" hidden="false" targetId="300e-7914-ee40-3e1c" type="selectionEntry">
+            <entryLink id="bf2e-e5c2-d954-9049" name="Rifle Láser (Accutek LR-45)" hidden="false" targetId="300e-7914-ee40-3e1c" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -921,7 +921,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="6972-6de8-a9bb-c1f6" name="Laser Rifle (Accutek LR-45)" hidden="false" targetId="300e-7914-ee40-3e1c" type="selectionEntry">
+            <entryLink id="6972-6de8-a9bb-c1f6" name="Rifle Láser (Accutek LR-45)" hidden="false" targetId="300e-7914-ee40-3e1c" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1083,7 +1083,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="fc3f-a115-f2fa-cfeb" name="Laser Rifle (Accutek LR-45)" hidden="false" targetId="300e-7914-ee40-3e1c" type="selectionEntry">
+            <entryLink id="fc3f-a115-f2fa-cfeb" name="Rifle Láser (Accutek LR-45)" hidden="false" targetId="300e-7914-ee40-3e1c" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1252,7 +1252,7 @@
           <selectionEntries/>
           <selectionEntryGroups/>
           <entryLinks>
-            <entryLink id="c732-9fb7-578e-5011" name="Laser Rifle (Accutek LR-45)" hidden="false" targetId="300e-7914-ee40-3e1c" type="selectionEntry">
+            <entryLink id="c732-9fb7-578e-5011" name="Rifle Láser (Accutek LR-45)" hidden="false" targetId="300e-7914-ee40-3e1c" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1365,7 +1365,7 @@
           <selectionEntries/>
           <selectionEntryGroups/>
           <entryLinks>
-            <entryLink id="6c62-93d6-518e-ffa5" name="Laser Rifle (Accutek LR-45)" hidden="false" targetId="300e-7914-ee40-3e1c" type="selectionEntry">
+            <entryLink id="6c62-93d6-518e-ffa5" name="Rifle Láser (Accutek LR-45)" hidden="false" targetId="300e-7914-ee40-3e1c" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1478,7 +1478,7 @@
           <selectionEntries/>
           <selectionEntryGroups/>
           <entryLinks>
-            <entryLink id="db72-8bfe-d743-9513" name="Laser Rifle (Accutek LR-45)" hidden="false" targetId="300e-7914-ee40-3e1c" type="selectionEntry">
+            <entryLink id="db72-8bfe-d743-9513" name="Rifle Láser (Accutek LR-45)" hidden="false" targetId="300e-7914-ee40-3e1c" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1610,7 +1610,7 @@
           <selectionEntries/>
           <selectionEntryGroups/>
           <entryLinks>
-            <entryLink id="d1bb-9c45-6ea3-c67c" name="Polaris Cannon **" hidden="false" targetId="4459-65b2-c720-2dd2" type="selectionEntry">
+            <entryLink id="d1bb-9c45-6ea3-c67c" name="Cañón Polaris **" hidden="false" targetId="4459-65b2-c720-2dd2" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1618,7 +1618,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="f80a-e682-ecfd-182c" name="Pesada Burst Laser **" hidden="false" targetId="5be4-50fb-04b1-9f83" type="selectionEntry">
+            <entryLink id="f80a-e682-ecfd-182c" name="Láser de Ráfaga Pesado **" hidden="false" targetId="5be4-50fb-04b1-9f83" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1656,7 +1656,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="d0ef-913d-8490-47a3" name="Assault Flamer" hidden="false" targetId="1ae6-d9b7-fb3e-83cc" type="selectionEntry">
+            <entryLink id="d0ef-913d-8490-47a3" name="Lanzallamas de Asalto" hidden="false" targetId="1ae6-d9b7-fb3e-83cc" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1694,7 +1694,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="cc4f-400c-7ede-f413" name="Assault Flamer" hidden="false" targetId="1ae6-d9b7-fb3e-83cc" type="selectionEntry">
+            <entryLink id="cc4f-400c-7ede-f413" name="Lanzallamas de Asalto" hidden="false" targetId="1ae6-d9b7-fb3e-83cc" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -2381,11 +2381,11 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="1.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="300e-7914-ee40-3e1c" name="Laser Rifle (Accutek LR-45)" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="300e-7914-ee40-3e1c" name="Rifle Láser (Accutek LR-45)" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="6eae-c55d-1b47-596b" name="Laser Rifle (Accutek LR-45)" hidden="false" targetId="67fd-d4da-0a8e-51f8" type="profile">
+        <infoLink id="6eae-c55d-1b47-596b" name="Rifle Láser (Accutek LR-45)" hidden="false" targetId="67fd-d4da-0a8e-51f8" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -2595,7 +2595,7 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="8.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="e671-2c75-86d3-cbd1" name="Pesada Laser Rifle (Accutek LR-AM)" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="e671-2c75-86d3-cbd1" name="Pesada Rifle Láser (Accutek LR-AM)" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
@@ -2633,7 +2633,7 @@
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="4689-3f02-6ae7-5721" name="Sniper Scope" hidden="false" targetId="e624-e443-da35-a014" type="rule">
+        <infoLink id="4689-3f02-6ae7-5721" name="Mira Telescópica" hidden="false" targetId="e624-e443-da35-a014" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -2811,11 +2811,11 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="12.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="4459-65b2-c720-2dd2" name="Polaris Cannon **" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="4459-65b2-c720-2dd2" name="Cañón Polaris **" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="6be5-f381-a547-fb32" name="Polaris Cannon" hidden="false" targetId="6ded-fff3-0d17-0fb1" type="profile">
+        <infoLink id="6be5-f381-a547-fb32" name="Cañón Polaris" hidden="false" targetId="6ded-fff3-0d17-0fb1" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -2867,11 +2867,11 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="8.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="1ae6-d9b7-fb3e-83cc" name="Assault Flamer" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="1ae6-d9b7-fb3e-83cc" name="Lanzallamas de Asalto" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="aaa1-114a-ebea-9df8" name="Assault Flamer" hidden="false" targetId="aae8-2378-e436-9959" type="profile">
+        <infoLink id="aaa1-114a-ebea-9df8" name="Lanzallamas de Asalto" hidden="false" targetId="aae8-2378-e436-9959" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -2900,11 +2900,11 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="6.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="5be4-50fb-04b1-9f83" name="Pesada Burst Laser **" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="5be4-50fb-04b1-9f83" name="Láser de Ráfaga Pesado **" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="42ed-125d-74e2-a2a8" name="Pesada Burst Laser" hidden="false" targetId="b7e2-0d67-0ca5-6873" type="profile">
+        <infoLink id="42ed-125d-74e2-a2a8" name="Láser de Ráfaga Pesado" hidden="false" targetId="b7e2-0d67-0ca5-6873" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -3281,7 +3281,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Pequeño Calibre"/>
       </characteristics>
     </profile>
-    <profile id="67fd-d4da-0a8e-51f8" name="Laser Rifle (Accutek LR-45)" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="67fd-d4da-0a8e-51f8" name="Rifle Láser (Accutek LR-45)" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -3365,7 +3365,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Marksman)"/>
       </characteristics>
     </profile>
-    <profile id="9b33-3ca7-8da3-ee0e" name="Pesada Laser Rifle (Accutek LR-AM)" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="9b33-3ca7-8da3-ee0e" name="Pesada Rifle Láser (Accutek LR-AM)" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -3385,7 +3385,7 @@
       <characteristics>
         <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A10"/>
         <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
-        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Sniper Scope, Pesada"/>
+        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Mira Telescópica, Pesada"/>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Francotirador)"/>
       </characteristics>
     </profile>
@@ -3437,7 +3437,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Pesada (Crew Served Weapon)"/>
       </characteristics>
     </profile>
-    <profile id="6ded-fff3-0d17-0fb1" name="Polaris Cannon" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="6ded-fff3-0d17-0fb1" name="Cañón Polaris" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -3461,7 +3461,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Andador (Melé)"/>
       </characteristics>
     </profile>
-    <profile id="aae8-2378-e436-9959" name="Assault Flamer" book="Deadzone Erratas v2.2" page="" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="aae8-2378-e436-9959" name="Lanzallamas de Asalto" book="Deadzone Erratas v2.2" page="" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -3473,7 +3473,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Andador (Asalto)"/>
       </characteristics>
     </profile>
-    <profile id="b7e2-0d67-0ca5-6873" name="Pesada Burst Laser" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="b7e2-0d67-0ca5-6873" name="Láser de Ráfaga Pesado" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
       <profiles/>
       <rules/>
       <infoLinks/>

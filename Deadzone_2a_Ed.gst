@@ -1917,9 +1917,9 @@
         </categoryLink>
       </categoryLinks>
       <selectionEntries>
-        <selectionEntry id="251f-c70a-62dd-6330" name="Pistola de Granizo [Hailstorm]" hidden="false" collective="false" type="upgrade">
+        <selectionEntry id="251f-c70a-62dd-6330" name="Pistola Granítica" hidden="false" collective="false" type="upgrade">
           <profiles>
-            <profile id="0b22-ec74-1a3d-d72f" name="Pistola de Granizo [Hailstorm]" book="Reglamento Deadzone 2ª Edición" page="92" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+            <profile id="0b22-ec74-1a3d-d72f" name="Pistola Granítica" book="Reglamento Deadzone 2ª Edición" page="92" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -2085,14 +2085,14 @@
               <characteristics>
                 <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A8"/>
                 <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
-                <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Sniper Scope"/>
+                <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Mira Telescópica"/>
                 <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c"/>
               </characteristics>
             </profile>
           </profiles>
           <rules/>
           <infoLinks>
-            <infoLink id="dc0c-0452-afc1-8c16" name="Sniper Scope" hidden="false" targetId="e624-e443-da35-a014" type="rule">
+            <infoLink id="dc0c-0452-afc1-8c16" name="Mira Telescópica" hidden="false" targetId="e624-e443-da35-a014" type="rule">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -2168,14 +2168,14 @@
               <characteristics>
                 <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A14"/>
                 <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="PA1"/>
-                <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Sniper Scope"/>
+                <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Mira Telescópica"/>
                 <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c"/>
               </characteristics>
             </profile>
           </profiles>
           <rules/>
           <infoLinks>
-            <infoLink id="1d81-0c15-1a50-981f" name="Sniper Scope" hidden="false" targetId="e624-e443-da35-a014" type="rule">
+            <infoLink id="1d81-0c15-1a50-981f" name="Mira Telescópica" hidden="false" targetId="e624-e443-da35-a014" type="rule">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -3308,7 +3308,7 @@
       </profiles>
       <rules/>
       <infoLinks>
-        <infoLink id="61eb-a144-21c2-1776" name="Reconocimiento Dron" hidden="false" targetId="13ea-7da7-0039-e8ad" type="rule">
+        <infoLink id="61eb-a144-21c2-1776" name="Dron de Reconocimiento" hidden="false" targetId="13ea-7da7-0039-e8ad" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -3339,9 +3339,9 @@
         </categoryLink>
       </categoryLinks>
       <selectionEntries>
-        <selectionEntry id="f1d1-1627-afe7-a761" name="Tag Rifle" hidden="false" collective="false" type="upgrade">
+        <selectionEntry id="f1d1-1627-afe7-a761" name="Marcar Rifle" hidden="false" collective="false" type="upgrade">
           <profiles>
-            <profile id="0007-33dd-ab8b-3795" name="Tag Rifle" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+            <profile id="0007-33dd-ab8b-3795" name="Marcar Rifle" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -3349,14 +3349,14 @@
               <characteristics>
                 <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A6"/>
                 <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
-                <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Tag"/>
+                <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Marcar"/>
                 <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c"/>
               </characteristics>
             </profile>
           </profiles>
           <rules/>
           <infoLinks>
-            <infoLink id="43c5-ad97-e7b1-9ea1" name="Tag" hidden="false" targetId="e92f-71ef-638e-9689" type="rule">
+            <infoLink id="43c5-ad97-e7b1-9ea1" name="Marcar" hidden="false" targetId="e92f-71ef-638e-9689" type="rule">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -3383,9 +3383,9 @@
             <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="0.0"/>
           </costs>
         </selectionEntry>
-        <selectionEntry id="05a5-ae99-162d-19da" name="Reconocimiento Dron" book="Deadzone: Nexus Psi" page="17" hidden="false" collective="false" type="unit">
+        <selectionEntry id="05a5-ae99-162d-19da" name="Dron de Reconocimiento" book="Deadzone: Nexus Psi" page="17" hidden="false" collective="false" type="unit">
           <profiles>
-            <profile id="b09b-4cba-530b-bb76" name="Reconocimiento Dron" book="Deadzone: Nexus Psi" page="17" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
+            <profile id="b09b-4cba-530b-bb76" name="Dron de Reconocimiento" book="Deadzone: Nexus Psi" page="17" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -3472,9 +3472,9 @@
                 <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="0.0"/>
               </costs>
             </selectionEntry>
-            <selectionEntry id="c62b-14a6-5dfb-3c7e" name="Rangefinder" book="Deadzone Nexus Psi" hidden="false" collective="false" type="unit">
+            <selectionEntry id="c62b-14a6-5dfb-3c7e" name="Telémetro" book="Deadzone Nexus Psi" hidden="false" collective="false" type="unit">
               <profiles>
-                <profile id="274d-9e0a-9d04-43cc" name="Rangefinder" book="Deadzone: Nexus Psi" page="17" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+                <profile id="274d-9e0a-9d04-43cc" name="Telémetro" book="Deadzone: Nexus Psi" page="17" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
                   <profiles/>
                   <rules/>
                   <infoLinks/>
@@ -3482,14 +3482,14 @@
                   <characteristics>
                     <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A10"/>
                     <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
-                    <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Tag, Non-Lethal"/>
+                    <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Marcar, Non-Lethal"/>
                     <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c"/>
                   </characteristics>
                 </profile>
               </profiles>
               <rules/>
               <infoLinks>
-                <infoLink id="684d-46e9-6e56-f260" name="Tag" hidden="false" targetId="e92f-71ef-638e-9689" type="rule">
+                <infoLink id="684d-46e9-6e56-f260" name="Marcar" hidden="false" targetId="e92f-71ef-638e-9689" type="rule">
                   <profiles/>
                   <rules/>
                   <infoLinks/>
@@ -3822,9 +3822,9 @@
             <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="0.0"/>
           </costs>
         </selectionEntry>
-        <selectionEntry id="2c89-218f-81ad-f0c6" name="Laser Rifle" book="Deadzone: Infestación" page="20" hidden="false" collective="false" type="upgrade">
+        <selectionEntry id="2c89-218f-81ad-f0c6" name="Rifle Láser" book="Deadzone: Infestación" page="20" hidden="false" collective="false" type="upgrade">
           <profiles>
-            <profile id="4559-353e-57b3-619a" name="Laser Rifle" book="Deadzone: Infestación" page="20" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+            <profile id="4559-353e-57b3-619a" name="Rifle Láser" book="Deadzone: Infestación" page="20" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -5169,9 +5169,9 @@ Vermin Swarm&apos;s are not part of the Army List, gain no experience, and are n
         </categoryLink>
       </categoryLinks>
       <selectionEntries>
-        <selectionEntry id="77cf-01c0-e19c-230b" name="LSX Rifle de Francotirador" hidden="false" collective="false" type="upgrade">
+        <selectionEntry id="77cf-01c0-e19c-230b" name="Rifle LSX de Francotirador" hidden="false" collective="false" type="upgrade">
           <profiles>
-            <profile id="df7b-fc73-74a4-c95a" name="LSX Rifle de Francotirador" book="Deadzone: Outbreak" page="81" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+            <profile id="df7b-fc73-74a4-c95a" name="Rifle LSX de Francotirador" book="Deadzone: Outbreak" page="81" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -5179,7 +5179,7 @@ Vermin Swarm&apos;s are not part of the Army List, gain no experience, and are n
               <characteristics>
                 <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A10"/>
                 <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="PA1"/>
-                <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Pesada, Sniper Scope"/>
+                <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Pesada, Mira Telescópica"/>
                 <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value=""/>
               </characteristics>
             </profile>
@@ -5192,7 +5192,7 @@ Vermin Swarm&apos;s are not part of the Army List, gain no experience, and are n
               <infoLinks/>
               <modifiers/>
             </infoLink>
-            <infoLink id="2f6a-e7f4-388f-9057" name="Sniper Scope" hidden="false" targetId="e624-e443-da35-a014" type="rule">
+            <infoLink id="2f6a-e7f4-388f-9057" name="Mira Telescópica" hidden="false" targetId="e624-e443-da35-a014" type="rule">
               <profiles/>
               <rules/>
               <infoLinks/>

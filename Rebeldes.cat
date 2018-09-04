@@ -2379,7 +2379,7 @@
           <selectionEntries/>
           <selectionEntryGroups/>
           <entryLinks>
-            <entryLink id="2f2f-02d0-e804-77b8" name="Assault Flamer" hidden="false" targetId="d19e-4522-f8cb-41df" type="selectionEntry">
+            <entryLink id="2f2f-02d0-e804-77b8" name="Lanzallamas de Asalto" hidden="false" targetId="d19e-4522-f8cb-41df" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -2399,7 +2399,7 @@
               </constraints>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="4748-1d22-8d42-3b9f" name="Pesada Burst Laser **" hidden="false" targetId="6a98-9528-0087-ea51" type="selectionEntry">
+            <entryLink id="4748-1d22-8d42-3b9f" name="Láser de Ráfaga Pesado **" hidden="false" targetId="6a98-9528-0087-ea51" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -2409,7 +2409,7 @@
               </constraints>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="35bb-5a90-cf9a-c07d" name="Polaris Cannon (Genling 88) **" hidden="false" targetId="5f6d-723b-7064-92a1" type="selectionEntry">
+            <entryLink id="35bb-5a90-cf9a-c07d" name="Cañón Polaris (Genling 88) **" hidden="false" targetId="5f6d-723b-7064-92a1" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -3888,7 +3888,7 @@
         <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="d19e-4522-f8cb-41df" name="Assault Flamer" book="Reglamento Deadzone 2ª Edición" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="d19e-4522-f8cb-41df" name="Lanzallamas de Asalto" book="Reglamento Deadzone 2ª Edición" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
@@ -3904,7 +3904,7 @@
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="b019-d565-c458-4797" name="Assault Flamer" hidden="false" targetId="2459-ddf2-bc7c-99e7" type="profile">
+        <infoLink id="b019-d565-c458-4797" name="Lanzallamas de Asalto" hidden="false" targetId="2459-ddf2-bc7c-99e7" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -3966,7 +3966,7 @@
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="77fd-330e-0bf5-d89d" name="Sniper Scope" hidden="false" targetId="e624-e443-da35-a014" type="rule">
+        <infoLink id="77fd-330e-0bf5-d89d" name="Mira Telescópica" hidden="false" targetId="e624-e443-da35-a014" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -3984,11 +3984,11 @@
         <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="1.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="5f6d-723b-7064-92a1" name="Polaris Cannon **" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="5f6d-723b-7064-92a1" name="Cañón Polaris **" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="af0c-2985-ee87-3705" name="Polaris Cannon (Genling 88) **" hidden="false" targetId="8c14-7fdb-0116-fc2d" type="profile">
+        <infoLink id="af0c-2985-ee87-3705" name="Cañón Polaris (Genling 88) **" hidden="false" targetId="8c14-7fdb-0116-fc2d" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -4350,11 +4350,11 @@
         <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="1.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="6a98-9528-0087-ea51" name="Pesada Burst Laser **" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="6a98-9528-0087-ea51" name="Láser de Ráfaga Pesado **" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="1fd9-4fbf-847e-b85b" name="Pesada Burst Laser" hidden="false" targetId="511a-5846-47c2-7089" type="profile">
+        <infoLink id="1fd9-4fbf-847e-b85b" name="Láser de Ráfaga Pesado" hidden="false" targetId="511a-5846-47c2-7089" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -4770,7 +4770,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Pequeño Calibre"/>
       </characteristics>
     </profile>
-    <profile id="2459-ddf2-bc7c-99e7" name="Assault Flamer" book="Reglamento Deadzone 2ª Edición" page="89" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="2459-ddf2-bc7c-99e7" name="Lanzallamas de Asalto" book="Reglamento Deadzone 2ª Edición" page="89" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -4802,11 +4802,11 @@
       <characteristics>
         <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A8"/>
         <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
-        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Sniper Scope"/>
+        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Mira Telescópica"/>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Francotirador)"/>
       </characteristics>
     </profile>
-    <profile id="8c14-7fdb-0116-fc2d" name="Polaris Cannon" book="Reglamento Deadzone 2ª Edición" page="89" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="8c14-7fdb-0116-fc2d" name="Cañón Polaris" book="Reglamento Deadzone 2ª Edición" page="89" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -4950,7 +4950,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Explosiva)"/>
       </characteristics>
     </profile>
-    <profile id="511a-5846-47c2-7089" name="Pesada Burst Laser" book="Deadzone: Nexus Psi" page="10" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="511a-5846-47c2-7089" name="Láser de Ráfaga Pesado" book="Deadzone: Nexus Psi" page="10" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
       <profiles/>
       <rules/>
       <infoLinks/>

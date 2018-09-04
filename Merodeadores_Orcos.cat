@@ -4426,7 +4426,7 @@
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="5e21-3b0f-147d-4da9" name="Sniper Scope" hidden="false" targetId="e624-e443-da35-a014" type="rule">
+        <infoLink id="5e21-3b0f-147d-4da9" name="Mira Telescópica" hidden="false" targetId="e624-e443-da35-a014" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -4853,7 +4853,7 @@
       <characteristics>
         <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A8"/>
         <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="PA1"/>
-        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Pesada, Sniper Scope"/>
+        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Pesada, Mira Telescópica"/>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Francotirador)"/>
       </characteristics>
     </profile>

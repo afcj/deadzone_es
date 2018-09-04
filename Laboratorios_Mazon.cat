@@ -204,7 +204,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="c9eb-82b6-eabe-51ae" name="Laser Rifle (Accutek LR-45)" hidden="false" targetId="0bf2-bea9-c966-f49d" type="selectionEntry">
+            <entryLink id="c9eb-82b6-eabe-51ae" name="Rifle Láser (Accutek LR-45)" hidden="false" targetId="0bf2-bea9-c966-f49d" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -263,7 +263,7 @@
           </selectionEntries>
           <selectionEntryGroups/>
           <entryLinks>
-            <entryLink id="f526-474f-b7a4-56b1" name="Laser Rifle (Accutek LR-45)" hidden="false" targetId="0bf2-bea9-c966-f49d" type="selectionEntry">
+            <entryLink id="f526-474f-b7a4-56b1" name="Rifle Láser (Accutek LR-45)" hidden="false" targetId="0bf2-bea9-c966-f49d" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -430,7 +430,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="16bf-365f-c8c3-5ce1" name="Laser Rifle (Accutek LR-45)" hidden="false" targetId="0bf2-bea9-c966-f49d" type="selectionEntry">
+            <entryLink id="16bf-365f-c8c3-5ce1" name="Rifle Láser (Accutek LR-45)" hidden="false" targetId="0bf2-bea9-c966-f49d" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -743,7 +743,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="148f-2129-4e92-09e0" name="Laser Rifle (Accutek LR-45)" hidden="false" targetId="0bf2-bea9-c966-f49d" type="selectionEntry">
+            <entryLink id="148f-2129-4e92-09e0" name="Rifle Láser (Accutek LR-45)" hidden="false" targetId="0bf2-bea9-c966-f49d" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1199,7 +1199,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="0e41-cf90-c5de-d0fe" name="Laser Rifle (Accutek LR-45)" hidden="false" targetId="0bf2-bea9-c966-f49d" type="selectionEntry">
+            <entryLink id="0e41-cf90-c5de-d0fe" name="Rifle Láser (Accutek LR-45)" hidden="false" targetId="0bf2-bea9-c966-f49d" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1362,7 +1362,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="753a-1bc3-c116-2c6a" name="Laser Rifle (Accutek LR-45)" hidden="false" targetId="0bf2-bea9-c966-f49d" type="selectionEntry">
+            <entryLink id="753a-1bc3-c116-2c6a" name="Rifle Láser (Accutek LR-45)" hidden="false" targetId="0bf2-bea9-c966-f49d" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1493,7 +1493,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="a7de-397f-1138-5dfa" name="Laser Rifle (Accutek LR-45)" hidden="false" targetId="0bf2-bea9-c966-f49d" type="selectionEntry">
+            <entryLink id="a7de-397f-1138-5dfa" name="Rifle Láser (Accutek LR-45)" hidden="false" targetId="0bf2-bea9-c966-f49d" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1996,7 +1996,7 @@
           <selectionEntries/>
           <selectionEntryGroups/>
           <entryLinks>
-            <entryLink id="3cbf-c661-357e-036c" name="Polaris Cannon **" hidden="false" targetId="4413-38e2-0e23-6351" type="selectionEntry">
+            <entryLink id="3cbf-c661-357e-036c" name="Cañón Polaris **" hidden="false" targetId="4413-38e2-0e23-6351" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -2006,7 +2006,7 @@
               </constraints>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="bc52-8168-7cf5-5a7a" name="Pesada Burst Laser **" hidden="false" targetId="6875-bc05-8299-497b" type="selectionEntry">
+            <entryLink id="bc52-8168-7cf5-5a7a" name="Láser de Ráfaga Pesado **" hidden="false" targetId="6875-bc05-8299-497b" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -2026,7 +2026,7 @@
               </constraints>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="fc61-0ee0-429d-84f5" name="Assault Flamer" hidden="false" targetId="49bf-8186-47f1-6643" type="selectionEntry">
+            <entryLink id="fc61-0ee0-429d-84f5" name="Lanzallamas de Asalto" hidden="false" targetId="49bf-8186-47f1-6643" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -2882,11 +2882,11 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="1.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="0bf2-bea9-c966-f49d" name="Laser Rifle (Accutek LR-45)" book="Deadzone: Outbreak" page="55" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="0bf2-bea9-c966-f49d" name="Rifle Láser (Accutek LR-45)" book="Deadzone: Outbreak" page="55" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="e32b-bb0a-8b84-91f0" name="Laser Rifle (Accutek LR-45)" hidden="false" targetId="45a4-786e-e86c-dd7b" type="profile">
+        <infoLink id="e32b-bb0a-8b84-91f0" name="Rifle Láser (Accutek LR-45)" hidden="false" targetId="45a4-786e-e86c-dd7b" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -3124,11 +3124,11 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="4413-38e2-0e23-6351" name="Polaris Cannon **" book="Deadzone: Outbreak" page="55" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="4413-38e2-0e23-6351" name="Cañón Polaris **" book="Deadzone: Outbreak" page="55" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="3087-5e02-90f4-b46f" name="Polaris Cannon" hidden="false" targetId="a5eb-0001-60a5-18f9" type="profile">
+        <infoLink id="3087-5e02-90f4-b46f" name="Cañón Polaris" hidden="false" targetId="a5eb-0001-60a5-18f9" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -3180,11 +3180,11 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="8.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="49bf-8186-47f1-6643" name="Assault Flamer" book="Deadzone: Outbreak" page="55" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="49bf-8186-47f1-6643" name="Lanzallamas de Asalto" book="Deadzone: Outbreak" page="55" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="3d9b-7224-2c87-0324" name="Assault Flamer" hidden="false" targetId="c395-271a-5b93-2a83" type="profile">
+        <infoLink id="3d9b-7224-2c87-0324" name="Lanzallamas de Asalto" hidden="false" targetId="c395-271a-5b93-2a83" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -3214,11 +3214,11 @@
         <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="6875-bc05-8299-497b" name="Pesada Burst Laser **" book="Deadzone: Outbreak" page="55" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="6875-bc05-8299-497b" name="Láser de Ráfaga Pesado **" book="Deadzone: Outbreak" page="55" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="2654-2718-1298-0e5a" name="Pesada Burst Laser" hidden="false" targetId="0fb8-44ba-2b1a-33af" type="profile">
+        <infoLink id="2654-2718-1298-0e5a" name="Láser de Ráfaga Pesado" hidden="false" targetId="0fb8-44ba-2b1a-33af" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -3577,7 +3577,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Pequeño Calibre"/>
       </characteristics>
     </profile>
-    <profile id="45a4-786e-e86c-dd7b" name="Laser Rifle (Accutek LR-45)" book="Deadzone: Outbreak" page="55" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="45a4-786e-e86c-dd7b" name="Rifle Láser (Accutek LR-45)" book="Deadzone: Outbreak" page="55" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -3673,7 +3673,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Melé)"/>
       </characteristics>
     </profile>
-    <profile id="a5eb-0001-60a5-18f9" name="Polaris Cannon" book="Deadzone: Outbreak" page="55" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="a5eb-0001-60a5-18f9" name="Cañón Polaris" book="Deadzone: Outbreak" page="55" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -3697,7 +3697,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Andador (Melé)"/>
       </characteristics>
     </profile>
-    <profile id="c395-271a-5b93-2a83" name="Assault Flamer" book="Deadzone: Outbreak" page="55" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="c395-271a-5b93-2a83" name="Lanzallamas de Asalto" book="Deadzone: Outbreak" page="55" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -3709,7 +3709,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Andador (Asalto)"/>
       </characteristics>
     </profile>
-    <profile id="0fb8-44ba-2b1a-33af" name="Pesada Burst Laser" book="Deadzone: Outbreak" page="55" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="0fb8-44ba-2b1a-33af" name="Láser de Ráfaga Pesado" book="Deadzone: Outbreak" page="55" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
       <profiles/>
       <rules/>
       <infoLinks/>
