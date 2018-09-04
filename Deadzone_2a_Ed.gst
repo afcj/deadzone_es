@@ -4206,7 +4206,7 @@
             </modifier>
           </modifiers>
         </infoLink>
-        <infoLink id="c0a0-6448-5ecb-dd5e" name="Medic" hidden="false" targetId="d4ff-88bd-fc26-94e2" type="rule">
+        <infoLink id="c0a0-6448-5ecb-dd5e" name="Médico" hidden="false" targetId="d4ff-88bd-fc26-94e2" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>

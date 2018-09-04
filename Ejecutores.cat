@@ -8,9 +8,9 @@
   <categoryEntries/>
   <forceEntries/>
   <selectionEntries>
-    <selectionEntry id="90ff-d52d-ea94-b6bd" name="Enforcer Captain" book="Reglamento Deadzone 2ª Edición" page="56" hidden="false" collective="false" type="unit">
+    <selectionEntry id="90ff-d52d-ea94-b6bd" name="Capitán Ejecutor" book="Reglamento Deadzone 2ª Edición" page="56" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="0c1b-8de8-7fed-1343" name="Enforcer Captain" book="Reglamento Deadzone 2ª Edición" page="55" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Leader">
+        <profile id="0c1b-8de8-7fed-1343" name="Capitán Ejecutor" book="Reglamento Deadzone 2ª Edición" page="55" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Leader">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -27,12 +27,12 @@
         </profile>
       </profiles>
       <rules>
-        <rule id="a497-f158-72db-d449" name="Stalwart" book="Reglamento Deadzone 2ª Edición" page="56" hidden="false">
+        <rule id="a497-f158-72db-d449" name="Inquebrantable" book="Reglamento Deadzone 2ª Edición" page="56" hidden="false">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers/>
-          <description>Enforcers are famed for their resilience and stubbornness. You may spend a Special result on your Command Dice to immediately reroll any number of your dice on a Supervivencia test.</description>
+          <description>Gasta un resultado Especial de los Dados de Mando para repetir inmediatamente cualquier número de dados en una prueba de Supervivencia.</description>
         </rule>
       </rules>
       <infoLinks>
@@ -171,9 +171,9 @@
         <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="4.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="8251-ba05-7171-401c" name="Enforcer Sergeant" book="Reglamento Deadzone 2ª Edición" page="55" hidden="false" collective="false" type="unit">
+    <selectionEntry id="8251-ba05-7171-401c" name="Sargento Ejecutor" book="Reglamento Deadzone 2ª Edición" page="55" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="b8cf-876c-7d72-53c0" name="Enforcer Sergeant" book="Reglamento Deadzone 2ª Edición" page="55" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Leader">
+        <profile id="b8cf-876c-7d72-53c0" name="Sargento Ejecutor" book="Reglamento Deadzone 2ª Edición" page="55" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Leader">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -190,12 +190,12 @@
         </profile>
       </profiles>
       <rules>
-        <rule id="b228-beca-2ad3-3378" name="Mobile Infantry" book="Reglamento Deadzone 2ª Edición" page="55" hidden="false">
+        <rule id="b228-beca-2ad3-3378" name="Infantería Móvil" book="Reglamento Deadzone 2ª Edición" page="55" hidden="false">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers/>
-          <description>Spend an Army Special result at the beginning of a model’s activation. If the active model is equipped with a Jump Pack, and does not have the Vehículo ability, it may make a free Sprint action. The model may not take a second Sprint action or a Move action this activation.</description>
+          <description>Gasta un resultado Especial al comienzo de la activación de una miniatura con Mochila de Salto que no tenga la habilidad Vehículo: puede realizar una acción gratuita de Esprintar. La miniatura no podrá realizar acciones de Mover o Esprintar adicionales durante esta activación.</description>
         </rule>
       </rules>
       <infoLinks>
@@ -334,9 +334,9 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="28.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="17ae-7a2e-490d-8648" name="Pathfinder Sergeant" book="Reglamento Deadzone 2ª Edición + Erratas v2.1" page="55" hidden="false" collective="false" type="unit">
+    <selectionEntry id="17ae-7a2e-490d-8648" name="Sargento Pionero" book="Reglamento Deadzone 2ª Edición + Erratas v2.1" page="55" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="30e5-b19f-031e-34ad" name="Pathfinder Sergeant" book="Reglamento Deadzone 2ª Edición" page="55" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Leader">
+        <profile id="30e5-b19f-031e-34ad" name="Sargento Pionero" book="Reglamento Deadzone 2ª Edición" page="55" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Leader">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -353,12 +353,12 @@
         </profile>
       </profiles>
       <rules>
-        <rule id="8690-7c4e-b3e9-614e" name="Target Acquisition" book="Reglamento Deadzone 2ª Edición" page="55" hidden="false">
+        <rule id="8690-7c4e-b3e9-614e" name="Adquisición de Objetivo" book="Reglamento Deadzone 2ª Edición" page="55" hidden="false">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers/>
-          <description>Target Acquisition: Spend an Army Special result on your Command Dice to mark an enemy model as a target for the rest of the Round. The model is treated as though it had been marked as a target by a model using the Tag ability. This does not require Line of Sight and does not count as an action.</description>
+          <description>Gasta un resultado Especial de los Dados de Mando para Marcar una miniatura enemiga como objetivo para el resto de la Ronda. No requiere LdV ni cuenta como acción.</description>
         </rule>
       </rules>
       <infoLinks>
@@ -549,9 +549,9 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="22.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="b86f-b6a1-5f9e-5c8e" name="Peacekeper Captain" book="Reglamento Deadzone 2ª Edición + Erratas v2.1" page="55" hidden="false" collective="false" type="unit">
+    <selectionEntry id="b86f-b6a1-5f9e-5c8e" name="Capitán Pacificador" book="Reglamento Deadzone 2ª Edición + Erratas v2.1" page="55" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="6da0-d898-5a09-c110" name="Peacekeeper Captain" book="Reglamento Deadzone 2ª Edición" page="55" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Leader">
+        <profile id="6da0-d898-5a09-c110" name="Capitán Pacificador" book="Reglamento Deadzone 2ª Edición" page="55" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Leader">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -568,14 +568,12 @@
         </profile>
       </profiles>
       <rules>
-        <rule id="7c0f-9258-5b2a-7166" name="Bastion" book="Reglamento Deadzone 2ª Edición" page="55" hidden="false">
+        <rule id="7c0f-9258-5b2a-7166" name="Bastión" book="Reglamento Deadzone 2ª Edición" page="55" hidden="false">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers/>
-          <description>You may spend a Special Result on a Command Dice to add +1 Armadura to a
-model for a single attack. You must decide to use this dice before the attack is rolled.
-A maximum of one dice can be used per attack.</description>
+          <description>Gastar un único resultado Especial de tus Dados de Mando contra un único ataque para añadir +1 Armadura a la miniatura afectada. Debes decidir gastarlo antes de que se tiren los dados.</description>
         </rule>
       </rules>
       <infoLinks>
@@ -686,9 +684,9 @@ A maximum of one dice can be used per attack.</description>
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="44.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="53fa-ae19-1056-ccf0" name="Assault Enforcer" book="Reglamento Deadzone 2ª Edición + Erratas v2.1" page="56" hidden="true" collective="false" type="unit">
+    <selectionEntry id="53fa-ae19-1056-ccf0" name="Ejecutor de Asalto" book="Reglamento Deadzone 2ª Edición + Erratas v2.1" page="56" hidden="true" collective="false" type="unit">
       <profiles>
-        <profile id="3c60-b7ee-0475-d7f6" name="Assault Enforcer" book="Reglamento Deadzone 2ª Edición" page="56" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
+        <profile id="3c60-b7ee-0475-d7f6" name="Ejecutor de Asalto" book="Reglamento Deadzone 2ª Edición" page="56" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -876,9 +874,9 @@ A maximum of one dice can be used per attack.</description>
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="14.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="c214-6584-6447-ae50" name="Pathfinder" book="Reglamento Deadzone 2ª Edición" page="56" hidden="true" collective="false" type="unit">
+    <selectionEntry id="c214-6584-6447-ae50" name="Pionero" book="Reglamento Deadzone 2ª Edición" page="56" hidden="true" collective="false" type="unit">
       <profiles>
-        <profile id="1534-6a9f-e913-14d6" name="Pathfinder" book="Reglamento Deadzone 2ª Edición" page="56" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
+        <profile id="1534-6a9f-e913-14d6" name="Pionero" book="Reglamento Deadzone 2ª Edición" page="56" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1047,9 +1045,9 @@ A maximum of one dice can be used per attack.</description>
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="15.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="24bf-fc15-2815-7f21" name="Enforcer" book="Reglamento Deadzone 2ª Edición" page="56" hidden="true" collective="false" type="unit">
+    <selectionEntry id="24bf-fc15-2815-7f21" name="Ejecutor" book="Reglamento Deadzone 2ª Edición" page="56" hidden="true" collective="false" type="unit">
       <profiles>
-        <profile id="9e7a-93f9-92a0-d886" name="Enforcer" book="Reglamento Deadzone 2ª Edición" page="56" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
+        <profile id="9e7a-93f9-92a0-d886" name="Ejecutor" book="Reglamento Deadzone 2ª Edición" page="56" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1200,9 +1198,9 @@ A maximum of one dice can be used per attack.</description>
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="16.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="d8ed-364d-5462-5d39" name="Enforcer Especialista" book="Reglamento Deadzone 2ª Edición" page="57" hidden="true" collective="false" type="unit">
+    <selectionEntry id="d8ed-364d-5462-5d39" name="Ejecutor Especialista" book="Reglamento Deadzone 2ª Edición" page="57" hidden="true" collective="false" type="unit">
       <profiles>
-        <profile id="6290-d766-9bde-ee33" name="Enforcer Especialista" book="Reglamento Deadzone 2ª Edición" page="57" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
+        <profile id="6290-d766-9bde-ee33" name="Ejecutor Especialista" book="Reglamento Deadzone 2ª Edición" page="57" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1391,9 +1389,9 @@ A maximum of one dice can be used per attack.</description>
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="16.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="fa84-8782-681c-8f8c" name="Pathfinder Especialista" book="Reglamento Deadzone 2ª Edición" page="57" hidden="true" collective="false" type="unit">
+    <selectionEntry id="fa84-8782-681c-8f8c" name="Pionero Especialista" book="Reglamento Deadzone 2ª Edición" page="57" hidden="true" collective="false" type="unit">
       <profiles>
-        <profile id="2f43-f06d-bc57-e62d" name="Pathfinder Especialista" book="Reglamento Deadzone 2ª Edición" page="57" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
+        <profile id="2f43-f06d-bc57-e62d" name="Pionero Especialista" book="Reglamento Deadzone 2ª Edición" page="57" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1570,9 +1568,9 @@ A maximum of one dice can be used per attack.</description>
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="15.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="caf0-e1ce-1f1d-81c6" name="Peacekeeper" book="Reglamento Deadzone 2ª Edición" page="57" hidden="true" collective="false" type="unit">
+    <selectionEntry id="caf0-e1ce-1f1d-81c6" name="Pacificador" book="Reglamento Deadzone 2ª Edición" page="57" hidden="true" collective="false" type="unit">
       <profiles>
-        <profile id="9031-b191-85f4-cd30" name="Peacekeeper" book="Reglamento Deadzone 2ª Edición" page="57" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
+        <profile id="9031-b191-85f4-cd30" name="Pacificador" book="Reglamento Deadzone 2ª Edición" page="57" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1740,9 +1738,9 @@ A maximum of one dice can be used per attack.</description>
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="30.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="caeb-0747-e0f0-101d" name="Enforcer Medic" book="Reglamento Deadzone 2ª Edición" page="57" hidden="true" collective="false" type="unit">
+    <selectionEntry id="caeb-0747-e0f0-101d" name="Ejecutor Médico" book="Reglamento Deadzone 2ª Edición" page="57" hidden="true" collective="false" type="unit">
       <profiles>
-        <profile id="39a3-6888-b0d0-2707" name="Enforcer Medic" book="Reglamento Deadzone 2ª Edición" page="57" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
+        <profile id="39a3-6888-b0d0-2707" name="Ejecutor Médico" book="Reglamento Deadzone 2ª Edición" page="57" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1759,7 +1757,7 @@ A maximum of one dice can be used per attack.</description>
       </profiles>
       <rules/>
       <infoLinks>
-        <infoLink id="6031-6ea7-a95e-e761" name="Medic" hidden="false" targetId="d4ff-88bd-fc26-94e2" type="rule">
+        <infoLink id="6031-6ea7-a95e-e761" name="Médico" hidden="false" targetId="d4ff-88bd-fc26-94e2" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1898,9 +1896,9 @@ A maximum of one dice can be used per attack.</description>
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="20.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="8150-9b01-bcfe-d39e" name="Enforcer Ingeniero" book="Reglamento Deadzone 2ª Edición" page="57" hidden="true" collective="false" type="unit">
+    <selectionEntry id="8150-9b01-bcfe-d39e" name="Ejecutor Ingeniero" book="Reglamento Deadzone 2ª Edición" page="57" hidden="true" collective="false" type="unit">
       <profiles>
-        <profile id="9f8f-5206-e03b-86a5" name="Enforcer Ingeniero" book="Reglamento Deadzone 2ª Edición" page="57" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
+        <profile id="9f8f-5206-e03b-86a5" name="Ejecutor Ingeniero" book="Reglamento Deadzone 2ª Edición" page="57" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -2058,9 +2056,9 @@ A maximum of one dice can be used per attack.</description>
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="14.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="90b1-2770-6cf0-f677" name="D.O.G. Dron" book="Reglamento Deadzone 2ª Edición + Erratas v2.1" page="58" hidden="true" collective="false" type="unit">
+    <selectionEntry id="90b1-2770-6cf0-f677" name="Dron D.O.G." book="Reglamento Deadzone 2ª Edición + Erratas v2.1" page="58" hidden="true" collective="false" type="unit">
       <profiles>
-        <profile id="7e9c-604d-669e-ffca" name="D.O.G. Dron" book="Reglamento Deadzone 2ª Edición" page="58" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
+        <profile id="7e9c-604d-669e-ffca" name="Dron D.O.G." book="Reglamento Deadzone 2ª Edición" page="58" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -2170,9 +2168,9 @@ A maximum of one dice can be used per attack.</description>
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="12.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="01eb-b112-75c5-a2f0" name="Enforcer Jet Bike" book="Reglamento Deadzone 2ª Edición + Erratas v2.1" page="58" hidden="true" collective="false" type="unit">
+    <selectionEntry id="01eb-b112-75c5-a2f0" name="Ejecutor en Motojet" book="Reglamento Deadzone 2ª Edición + Erratas v2.1" page="58" hidden="true" collective="false" type="unit">
       <profiles>
-        <profile id="6564-8a3c-e6a8-6a10" name="Enforcer Jet Bike" book="Reglamento Deadzone 2ª Edición" page="58" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
+        <profile id="6564-8a3c-e6a8-6a10" name="Ejecutor en Motojet" book="Reglamento Deadzone 2ª Edición" page="58" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -2339,9 +2337,9 @@ A maximum of one dice can be used per attack.</description>
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="24.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="0f84-6a2f-c0f4-0033" name="Enforcer Andador" book="Reglamento Deadzone 2ª Edición + Erratas v2.1" page="58" hidden="true" collective="false" type="unit">
+    <selectionEntry id="0f84-6a2f-c0f4-0033" name="Andador Ejecutor" book="Reglamento Deadzone 2ª Edición + Erratas v2.1" page="58" hidden="true" collective="false" type="unit">
       <profiles>
-        <profile id="24e2-3297-00cb-6c3b" name="Enforcer Andador" book="Reglamento Deadzone 2ª Edición" page="58" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
+        <profile id="24e2-3297-00cb-6c3b" name="Andador Ejecutor" book="Reglamento Deadzone 2ª Edición" page="58" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -2522,7 +2520,7 @@ A maximum of one dice can be used per attack.</description>
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="35.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="73dd-422c-9852-0ba4" name="Sergeant Howlett" hidden="true" collective="false" type="upgrade">
+    <selectionEntry id="73dd-422c-9852-0ba4" name="Sargento Howlett" hidden="true" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -2569,7 +2567,7 @@ A maximum of one dice can be used per attack.</description>
       <selectionEntries/>
       <selectionEntryGroups/>
       <entryLinks>
-        <entryLink id="fd20-f23b-b3e9-503d" name="Sergeant Howlett" hidden="false" targetId="83f4-1717-400c-b618" type="selectionEntry">
+        <entryLink id="fd20-f23b-b3e9-503d" name="Sargento Howlett" hidden="false" targetId="83f4-1717-400c-b618" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -3098,7 +3096,7 @@ A maximum of one dice can be used per attack.</description>
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="2633-c9d4-0a9d-0e33" name="Long Alcance Observer N7-117" hidden="true" collective="false" type="upgrade">
+    <selectionEntry id="2633-c9d4-0a9d-0e33" name="Observador de Largo Alcance N7-117" hidden="true" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -3145,7 +3143,7 @@ A maximum of one dice can be used per attack.</description>
       <selectionEntries/>
       <selectionEntryGroups/>
       <entryLinks>
-        <entryLink id="cdcc-ec72-28c5-3e38" name="Long Alcance Observer N7-117" hidden="false" targetId="a637-544b-7314-67e8" type="selectionEntry">
+        <entryLink id="cdcc-ec72-28c5-3e38" name="Observador de Largo Alcance N7-117" hidden="false" targetId="a637-544b-7314-67e8" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -3386,7 +3384,7 @@ A maximum of one dice can be used per attack.</description>
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="9123-b6e9-a768-88e4" name="Reconocimiento Unit N32-19" hidden="true" collective="false" type="upgrade">
+    <selectionEntry id="9123-b6e9-a768-88e4" name="Unidad de Reconocimiento N32-19" hidden="true" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -3674,7 +3672,7 @@ A maximum of one dice can be used per attack.</description>
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="51cd-298a-5285-55f9" name="Lt. Commander Roca" hidden="true" collective="false" type="upgrade">
+    <selectionEntry id="51cd-298a-5285-55f9" name="Capitán de Corbeta Roca" hidden="true" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -3746,9 +3744,9 @@ A maximum of one dice can be used per attack.</description>
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="416e-c577-3b6c-da9d" name="Long Alcance Observer N7-117" book="Deadzone: Infestación + Erratas v2.1" page="20" hidden="false" collective="false" type="unit">
+    <selectionEntry id="416e-c577-3b6c-da9d" name="Observador de Largo Alcance N7-117" book="Deadzone: Infestación + Erratas v2.1" page="20" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="fe51-5adc-7952-5112" name="Long Alcance Observer N7-117" book="Deadzone: Infestación" page="20" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Leader">
+        <profile id="fe51-5adc-7952-5112" name="Observador de Largo Alcance N7-117" book="Deadzone: Infestación" page="20" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Leader">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -3765,12 +3763,12 @@ A maximum of one dice can be used per attack.</description>
         </profile>
       </profiles>
       <rules>
-        <rule id="ad31-271a-126b-c652" name="On My Mark" book="Deadzone: Infestación" page="20" hidden="false">
+        <rule id="ad31-271a-126b-c652" name="A Mi Señal" book="Deadzone: Infestación" page="20" hidden="false">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers/>
-          <description>Spend and Army Special result when one of your models has taken a Disparo action. A second un-activated model with LOS to the target of the first Disparo action may take a Disparo action aimed at the same target. Mark the second model activated once this second Disparo action is resolved</description>
+          <description>Gasta un resultado Especial de los Dados de Mando al realizar una acción de Disparo con una miniatura. Una segunda miniatura no activada con LdV al objetivo del primer Disparo puede marcarse como activada para realizar una acción de Disparo contra el.</description>
         </rule>
       </rules>
       <infoLinks>
@@ -3888,9 +3886,9 @@ A maximum of one dice can be used per attack.</description>
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="34.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="3b42-42b4-f8b6-bb3e" name="Lt. Commander Roca" book="Deadzone: Outbreak" page="81" hidden="false" collective="false" type="unit">
+    <selectionEntry id="3b42-42b4-f8b6-bb3e" name="Capitán de Corbeta Roca" book="Deadzone: Outbreak" page="81" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="d98e-db70-a7b6-dc0f" name="Lt. Commander Roca" book="Deadzone: Outbreak" page="81" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Leader">
+        <profile id="d98e-db70-a7b6-dc0f" name="Capitán de Corbeta Roca" book="Deadzone: Outbreak" page="81" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Leader">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -3907,12 +3905,12 @@ A maximum of one dice can be used per attack.</description>
         </profile>
       </profiles>
       <rules>
-        <rule id="586e-dedd-0f31-b36c" name="Precision Shot" book="Deadzone: Outbreak" page="81" hidden="false">
+        <rule id="586e-dedd-0f31-b36c" name="Disparo de Precisión" book="Deadzone: Outbreak" page="81" hidden="false">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers/>
-          <description>Spend an Army Special Result to ignore the dice modifier when performing a Disparo action targeting an enemy in a cube containing friendly models or for shooting into or through a cube adjacent to smoke.  However, you may not shoot into a cube containing smoke.</description>
+          <description>Gasta un resultado Especial de los Dados de Mando para ignorar los penalizadores de dados por miniaturas amigas en el cubo del objetivo o por disparar a (o a través de) cubos adyacentes a Humo. Aún así no podrás disparar a un cubo que contenga Humo.</description>
         </rule>
       </rules>
       <infoLinks>
@@ -4058,9 +4056,9 @@ A maximum of one dice can be used per attack.</description>
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="43.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="cb57-a94e-61a1-2b82" name="Corporation Marine" book="Deadzone Erratas v2.2" hidden="true" collective="false" type="unit">
+    <selectionEntry id="cb57-a94e-61a1-2b82" name="Marine Corporativo" book="Deadzone Erratas v2.2" hidden="true" collective="false" type="unit">
       <profiles>
-        <profile id="fbae-4769-7c98-82fd" name="Corporation Marine" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
+        <profile id="fbae-4769-7c98-82fd" name="Marine Corporativo" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -4739,9 +4737,9 @@ A maximum of one dice can be used per attack.</description>
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="8.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="8650-9bf5-5950-ff1d" name="Reconocimiento Unit N32-19" book="Deadzone: Nexus Psi" page="16" hidden="false" collective="false" type="model">
+    <selectionEntry id="8650-9bf5-5950-ff1d" name="Unidad de Reconocimiento N32-19" book="Deadzone: Nexus Psi" page="16" hidden="false" collective="false" type="model">
       <profiles>
-        <profile id="3c2d-a260-23ef-e898" name="Reconocimiento Unit N32-19" book="Deadzone: Nexus Psi" page="16" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Leader">
+        <profile id="3c2d-a260-23ef-e898" name="Unidad de Reconocimiento N32-19" book="Deadzone: Nexus Psi" page="16" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Leader">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -4758,12 +4756,12 @@ A maximum of one dice can be used per attack.</description>
         </profile>
       </profiles>
       <rules>
-        <rule id="3303-de9c-a5cb-9880" name="Rope-a-dope" book="Deadzone: Nexus Psi" page="17" hidden="false">
+        <rule id="3303-de9c-a5cb-9880" name="Contra las Cuerdas" book="Deadzone: Nexus Psi" page="17" hidden="false">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers/>
-          <description>Spend an Army Special result when an enemy model moves into a cube containing one of your unactivated models. Move an unactivated model in that cube one cube, as if it had a Move Command Dice played on it; it does not need to make a test to leave an enemy occupied cube. This model remains unactivated.</description>
+          <description>Cuando una miniatura enemiga entre en un cubo que contenga alguna de tus miniaturas no activadas, gasta un resultado Especial de los Dados de Mando para mover una de tus miniaturas no activadas de dicho cubo a uno adyacente. No es necesario realizar prueba alguna por abandonar un cubo con enemigos y la miniatura permanecerá no activada.</description>
         </rule>
       </rules>
       <infoLinks>
@@ -5856,7 +5854,7 @@ A maximum of one dice can be used per attack.</description>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Pequeño Calibre"/>
       </characteristics>
     </profile>
-    <profile id="6790-93b3-301b-d349" name="Laser Rifle" book="Reglamento Deadzone 2ª Edición" page="59" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="6790-93b3-301b-d349" name="Rifle Láser" book="Reglamento Deadzone 2ª Edición" page="59" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -5868,7 +5866,7 @@ A maximum of one dice can be used per attack.</description>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Pequeño Calibre"/>
       </characteristics>
     </profile>
-    <profile id="cd69-28d4-8dfc-d637" name="Incinerator" book="Reglamento Deadzone 2ª Edición" page="59" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="cd69-28d4-8dfc-d637" name="Incinerador" book="Reglamento Deadzone 2ª Edición" page="59" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -5880,7 +5878,7 @@ A maximum of one dice can be used per attack.</description>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Asalto), Pesada (Asalto)"/>
       </characteristics>
     </profile>
-    <profile id="6551-3891-155e-b72c" name="Burst Laser" book="Reglamento Deadzone 2ª Edición" page="59" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="6551-3891-155e-b72c" name="Láser de Ráfaga" book="Reglamento Deadzone 2ª Edición" page="59" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -5892,7 +5890,7 @@ A maximum of one dice can be used per attack.</description>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Automática), Pesada (Automática)"/>
       </characteristics>
     </profile>
-    <profile id="5755-2a4b-7e97-0d99" name="Thermal Rifle" book="Reglamento Deadzone 2ª Edición" page="59" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="5755-2a4b-7e97-0d99" name="Rifle Térmico" book="Reglamento Deadzone 2ª Edición" page="59" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -5904,7 +5902,7 @@ A maximum of one dice can be used per attack.</description>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Asalto)"/>
       </characteristics>
     </profile>
-    <profile id="b4d7-a27f-34be-6c9d" name="Fusion Gun" book="Reglamento Deadzone 2ª Edición" page="59" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="b4d7-a27f-34be-6c9d" name="Cañón de Fusión" book="Reglamento Deadzone 2ª Edición" page="59" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -5940,7 +5938,7 @@ A maximum of one dice can be used per attack.</description>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Francotirador)"/>
       </characteristics>
     </profile>
-    <profile id="14e3-68ae-5de1-6755" name="Double-Barrelled Laser Rifle" book="Reglamento Deadzone 2ª Edición" page="59" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="14e3-68ae-5de1-6755" name="Rifle Láser de Doble Cañón (Dominador)" book="Reglamento Deadzone 2ª Edición" page="59" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -5964,7 +5962,7 @@ A maximum of one dice can be used per attack.</description>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Melé)"/>
       </characteristics>
     </profile>
-    <profile id="662d-622e-baaa-fd45" name="TAG Rifle" book="Reglamento Deadzone 2ª Edición" page="59" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="662d-622e-baaa-fd45" name="Rifle Marcador" book="Reglamento Deadzone 2ª Edición" page="59" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -5976,7 +5974,7 @@ A maximum of one dice can be used per attack.</description>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Reconocimiento"/>
       </characteristics>
     </profile>
-    <profile id="4fb3-dc51-92c6-030d" name="Combat Shotgun" book="Reglamento Deadzone 2ª Edición" page="59" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="4fb3-dc51-92c6-030d" name="Escopeta de Combate" book="Reglamento Deadzone 2ª Edición" page="59" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -5988,7 +5986,7 @@ A maximum of one dice can be used per attack.</description>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Pequeño Calibre"/>
       </characteristics>
     </profile>
-    <profile id="c2d3-3c53-b198-5872" name="Wristblade" book="Reglamento Deadzone 2ª Edición" page="59" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="c2d3-3c53-b198-5872" name="Espada Retráctil" book="Reglamento Deadzone 2ª Edición" page="59" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -6000,7 +5998,7 @@ A maximum of one dice can be used per attack.</description>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Melé)"/>
       </characteristics>
     </profile>
-    <profile id="7b06-3c96-d68f-f76c" name="Equalizer (Genling 88)" book="Reglamento Deadzone 2ª Edición" page="59" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="7b06-3c96-d68f-f76c" name="Ecualizador (Genling 88)" book="Reglamento Deadzone 2ª Edición" page="59" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -6024,7 +6022,7 @@ A maximum of one dice can be used per attack.</description>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="-"/>
       </characteristics>
     </profile>
-    <profile id="64de-2818-7c25-a439" name="Assault Flamer" book="Reglamento Deadzone 2ª Edición" page="59" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="64de-2818-7c25-a439" name="Lanzallamas de Asalto" book="Reglamento Deadzone 2ª Edición" page="59" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -6048,7 +6046,7 @@ A maximum of one dice can be used per attack.</description>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Andador (Melé)"/>
       </characteristics>
     </profile>
-    <profile id="1875-98cf-692d-1c4d" name="Grav-ram Spear" book="Deadzone: Nexus Psi" page="10" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="1875-98cf-692d-1c4d" name="Lanza Ariete-grav" book="Deadzone: Nexus Psi" page="10" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -6060,7 +6058,7 @@ A maximum of one dice can be used per attack.</description>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Andador (Explosiva)"/>
       </characteristics>
     </profile>
-    <profile id="3424-ff72-64b3-dc26" name="Pesada Burst Laser" book="Deadzone: Nexus Psi" page="10" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="3424-ff72-64b3-dc26" name="Láser de Ráfaga Pesado" book="Deadzone: Nexus Psi" page="10" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -6072,7 +6070,7 @@ A maximum of one dice can be used per attack.</description>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Andador (Automática)"/>
       </characteristics>
     </profile>
-    <profile id="474c-c0a3-2259-0242" name="Aggressor Shield" book="Deadzone: Nexus Psi" page="10" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="474c-c0a3-2259-0242" name="Escudo Agresor" book="Deadzone: Nexus Psi" page="10" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
       <profiles/>
       <rules/>
       <infoLinks/>

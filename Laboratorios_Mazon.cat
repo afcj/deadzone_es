@@ -36,7 +36,7 @@
         </rule>
       </rules>
       <infoLinks>
-        <infoLink id="58f4-a2a1-f272-ec5a" name="Medic" hidden="false" targetId="d4ff-88bd-fc26-94e2" type="rule">
+        <infoLink id="58f4-a2a1-f272-ec5a" name="Médico" hidden="false" targetId="d4ff-88bd-fc26-94e2" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1418,9 +1418,9 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="12.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="c5d6-7a5a-b27a-8d96" name="Urbana Black Wing Medic" book="Deadzone: Outbreak" page="54" hidden="true" collective="false" type="unit">
+    <selectionEntry id="c5d6-7a5a-b27a-8d96" name="Urbana Black Wing Médico" book="Deadzone: Outbreak" page="54" hidden="true" collective="false" type="unit">
       <profiles>
-        <profile id="1ba9-dc71-a238-fb2f" name="Urbana Black Wing Medic" book="Deadzone: Outbreak" page="54" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
+        <profile id="1ba9-dc71-a238-fb2f" name="Urbana Black Wing Médico" book="Deadzone: Outbreak" page="54" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1437,7 +1437,7 @@
       </profiles>
       <rules/>
       <infoLinks>
-        <infoLink id="65f5-5713-8dc8-3535" name="Medic" hidden="false" targetId="d4ff-88bd-fc26-94e2" type="rule">
+        <infoLink id="65f5-5713-8dc8-3535" name="Médico" hidden="false" targetId="d4ff-88bd-fc26-94e2" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>

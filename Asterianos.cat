@@ -32,7 +32,7 @@
           <rules/>
           <infoLinks/>
           <modifiers/>
-          <description>Puedes gastar un resultado de Especial de Ejército de tus Dados de Mando por activación para descartar un Dado de mando cualquiera de tu oponente. Esto no cuenta como acción.</description>
+          <description>Gasta un resultado Especial de tus Dados de Mando por activación para descartar un Dado de mando cualquiera de tu oponente. Esto no cuenta como acción.</description>
         </rule>
       </rules>
       <infoLinks>
@@ -3631,7 +3631,7 @@
           <rules/>
           <infoLinks/>
           <modifiers/>
-          <description>Gasta un resultado de Especial de Ejército de tus Dados de Mando para repetir cualquier número de tus Dados de Mando restantes.</description>
+          <description>Gasta un resultado Especial de tus Dados de Mando para repetir cualquier número de tus Dados de Mando restantes.</description>
         </rule>
       </rules>
       <infoLinks>
@@ -3903,7 +3903,7 @@
           <rules/>
           <infoLinks/>
           <modifiers/>
-          <description>Gasta un resultado de Especial de Ejército de los Dados de Mando para proporcionar a una miniatura Cadencia de Fuego (2) o Furia (2) durante esta Ronda.  
+          <description>Gasta un resultado Especial de los Dados de Mando para proporcionar a una miniatura Cadencia de Fuego (2) o Furia (2) durante esta Ronda.  
 No puedes usar esta habilidad dos veces sobre una misma miniatura en una misma activación.</description>
         </rule>
       </rules>

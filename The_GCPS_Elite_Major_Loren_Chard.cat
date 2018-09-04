@@ -464,9 +464,9 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="8.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="5d7f-893d-350e-452c" name="Corporation Medic" book="Deadzone Erratas v2.2" hidden="false" collective="false" type="unit">
+    <selectionEntry id="5d7f-893d-350e-452c" name="Corporation Médico" book="Deadzone Erratas v2.2" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="02c3-5dc3-d182-535e" name="Corporation Medic" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
+        <profile id="02c3-5dc3-d182-535e" name="Corporation Médico" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -483,7 +483,7 @@
       </profiles>
       <rules/>
       <infoLinks>
-        <infoLink id="be1e-1593-b6d4-9e9c" name="Medic" hidden="false" targetId="d4ff-88bd-fc26-94e2" type="rule">
+        <infoLink id="be1e-1593-b6d4-9e9c" name="Médico" hidden="false" targetId="d4ff-88bd-fc26-94e2" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>

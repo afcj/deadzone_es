@@ -224,7 +224,7 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="30.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="3465-3a94-6ea5-5445" name="Corporation Marine Sergeant" book="Deadzone Erratas v2.2" hidden="false" collective="false" type="unit">
+    <selectionEntry id="3465-3a94-6ea5-5445" name="Marine Corporativo Sergeant" book="Deadzone Erratas v2.2" hidden="false" collective="false" type="unit">
       <profiles>
         <profile id="5ae7-c6cb-26f0-532a" name="Corporation Sgt." book="Deadzone Erratas v2.2" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Leader">
           <profiles/>
@@ -641,9 +641,9 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="6.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="da35-d217-929a-6282" name="Corporation Marine" book="Deadzone Erratas v2.2" hidden="false" collective="false" type="unit">
+    <selectionEntry id="da35-d217-929a-6282" name="Marine Corporativo" book="Deadzone Erratas v2.2" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="0375-1b33-af70-8295" name="Corporation Marine" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
+        <profile id="0375-1b33-af70-8295" name="Marine Corporativo" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1200,9 +1200,9 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="8.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="be23-0bb2-6ee4-8567" name="Corporation Medic" book="Deadzone Erratas v2.2" hidden="false" collective="false" type="unit">
+    <selectionEntry id="be23-0bb2-6ee4-8567" name="Corporation Médico" book="Deadzone Erratas v2.2" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="73c2-df20-9328-f839" name="Corporation Medic" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
+        <profile id="73c2-df20-9328-f839" name="Corporation Médico" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1219,7 +1219,7 @@
       </profiles>
       <rules/>
       <infoLinks>
-        <infoLink id="c76b-268a-ca65-cda2" name="Medic" hidden="false" targetId="d4ff-88bd-fc26-94e2" type="rule">
+        <infoLink id="c76b-268a-ca65-cda2" name="Médico" hidden="false" targetId="d4ff-88bd-fc26-94e2" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1315,7 +1315,7 @@
     </selectionEntry>
     <selectionEntry id="99ec-9eb2-4962-aa36" name="Corporation Ingeniero" book="Deadzone Erratas v2.2" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="0d5f-bfa6-8d6b-4eaf" name="Corporation Marine" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
+        <profile id="0d5f-bfa6-8d6b-4eaf" name="Marine Corporativo" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
           <profiles/>
           <rules/>
           <infoLinks/>

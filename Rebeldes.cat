@@ -1330,9 +1330,9 @@
         <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="594a-34f7-5e45-5b6e" name="Judwan Medic" book="Reglamento Deadzone 2ª Edición + Erratas v2.1" page="87" hidden="false" collective="false" type="unit">
+    <selectionEntry id="594a-34f7-5e45-5b6e" name="Judwan Médico" book="Reglamento Deadzone 2ª Edición + Erratas v2.1" page="87" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="62eb-3cad-0e7d-2d02" name="Judwan Medic" book="Reglamento Deadzone 2ª Edición" page="87" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
+        <profile id="62eb-3cad-0e7d-2d02" name="Judwan Médico" book="Reglamento Deadzone 2ª Edición" page="87" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1355,7 +1355,7 @@
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="c258-f742-d383-cd7a" name="Medic" hidden="false" targetId="d4ff-88bd-fc26-94e2" type="rule">
+        <infoLink id="c258-f742-d383-cd7a" name="Médico" hidden="false" targetId="d4ff-88bd-fc26-94e2" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>

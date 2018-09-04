@@ -32,7 +32,7 @@
           <rules/>
           <infoLinks/>
           <modifiers/>
-          <description>Gasta un resultado de Especial del Ejército de los Dados de Mando al principio de la activación de la miniatura. Esta miniatura manifiesta una mutación al azar durante el resto de la ronda, tira un d8: 1-2 Ágil, 3-4 Furia (+1), 5-6 +1 PA de un arma AL, 7-8 +1 de Armadura.</description>
+          <description>Gasta un resultado Especial de tus Dados de Mando al principio de la activación de la miniatura. Esta miniatura manifiesta una mutación al azar durante el resto de la ronda, tira un d8: 1-2 Ágil, 3-4 Furia (+1), 5-6 +1 PA de un arma AL, 7-8 +1 de Armadura.</description>
         </rule>
       </rules>
       <infoLinks>
@@ -139,7 +139,7 @@
           <rules/>
           <infoLinks/>
           <modifiers/>
-          <description>Cuando muere una miniatura enemiga puedes gastar un resultado de Especial de Ejército de los Dados de Mando para colocar en su lugar a un Zombi. El Zombi entra en juego activado y Suprimido y forma parte del Equipo de Asalto que lo ha creado a partir de ese momento.</description>
+          <description>Cuando muere una miniatura enemiga puedes gastar un resultado Especial de tus Dados de Mando para colocar en su lugar a un Zombi. El Zombi entra en juego activado y Suprimido y forma parte del Equipo de Asalto que lo ha creado a partir de ese momento.</description>
         </rule>
       </rules>
       <infoLinks>
@@ -1950,7 +1950,7 @@
           <rules/>
           <infoLinks/>
           <modifiers/>
-          <description>Gasta cualquier número de resultados de Especial de Ejército de los Dados de Mando al comienzo de la activación de una miniatura Fase 2A, 2B or Aberración para que reciba 0/+1 Velocidad y PA1 en un arma AL (o lo incremente en +1) para el resto del Turno. Además, no debe hacer la prueba de Desbocado al comienzo de esta activación.</description>
+          <description>Gasta cualquier número de resultados Especiales de tus Dados de Mando al comienzo de la activación de una miniatura Fase 2A, 2B or Aberración para que reciba 0/+1 Velocidad y PA1 en un arma AL (o lo incremente en +1) para el resto del Turno. Además, no debe hacer la prueba de Desbocado al comienzo de esta activación.</description>
         </rule>
       </rules>
       <infoLinks>

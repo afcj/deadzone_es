@@ -51,7 +51,7 @@ Grav-Pods: Gain Jump Pack and Glide until the end of the Round</description>
             </modifier>
           </modifiers>
         </infoLink>
-        <infoLink id="731d-ecd9-f439-f0b5" name="Medic" hidden="false" targetId="d4ff-88bd-fc26-94e2" type="rule">
+        <infoLink id="731d-ecd9-f439-f0b5" name="Médico" hidden="false" targetId="d4ff-88bd-fc26-94e2" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
