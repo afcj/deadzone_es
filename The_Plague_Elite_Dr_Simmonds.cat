@@ -10,7 +10,7 @@
   <selectionEntries>
     <selectionEntry id="18ff-abab-b959-69a0" name="Dr Simmonds" book="Deadzone: Nexus Psi" page="20" hidden="false" collective="false" type="model">
       <profiles>
-        <profile id="7a77-1908-713b-c337" name="Dr Simmonds" book="Deadzone: Nexus Psi" page="20" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Leader">
+        <profile id="7a77-1908-713b-c337" name="Dr Simmonds" book="Deadzone: Nexus Psi" page="20" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Líder">
           <profiles/>
           <rules/>
           <infoLinks/>

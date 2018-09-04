@@ -10,7 +10,7 @@
   <selectionEntries>
     <selectionEntry id="b180-480a-8117-0ee7" name="Dr. Lukas Koyner" book="Deadzone: Outbreak" page="52" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="9136-6150-48ae-8ea7" name="Dr. Lukas Koyner" book="Deadzone: Outbreak" page="52" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Leader">
+        <profile id="9136-6150-48ae-8ea7" name="Dr. Lukas Koyner" book="Deadzone: Outbreak" page="52" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Líder">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -309,7 +309,7 @@
     </selectionEntry>
     <selectionEntry id="a0df-7f38-a4ff-cfee" name="Guard Commander Graves" book="Deadzone: Outbreak" page="52" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="1a83-3fcf-29ec-f705" name="Guard Commander Graves" book="Deadzone: Outbreak" page="52" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Leader">
+        <profile id="1a83-3fcf-29ec-f705" name="Guard Commander Graves" book="Deadzone: Outbreak" page="52" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Líder">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -462,7 +462,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="dc65-3c88-453b-4a6f" name="Laser Carbine (Accutek LR-32)" hidden="false" targetId="4ede-48c1-6607-914a" type="selectionEntry">
+            <entryLink id="dc65-3c88-453b-4a6f" name="Carabina Láser (Accutek LR-32)" hidden="false" targetId="4ede-48c1-6607-914a" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -864,7 +864,7 @@
       <selectionEntries/>
       <selectionEntryGroups/>
       <entryLinks>
-        <entryLink id="7284-f18a-2110-79d2" name="Laser Carbine (Accutek LR-32)" hidden="false" targetId="4ede-48c1-6607-914a" type="selectionEntry">
+        <entryLink id="7284-f18a-2110-79d2" name="Carabina Láser (Accutek LR-32)" hidden="false" targetId="4ede-48c1-6607-914a" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1084,7 +1084,7 @@
       <selectionEntries/>
       <selectionEntryGroups/>
       <entryLinks>
-        <entryLink id="f5ad-e8f0-ed5a-0ff6" name="Laser Carbine (Accutek LR-32)" hidden="false" targetId="4ede-48c1-6607-914a" type="selectionEntry">
+        <entryLink id="f5ad-e8f0-ed5a-0ff6" name="Carabina Láser (Accutek LR-32)" hidden="false" targetId="4ede-48c1-6607-914a" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1231,7 +1231,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="675b-b8a6-1d5a-d6de" name="Laser Carbine (Accutek LR-32)" hidden="false" targetId="4ede-48c1-6607-914a" type="selectionEntry">
+            <entryLink id="675b-b8a6-1d5a-d6de" name="Carabina Láser (Accutek LR-32)" hidden="false" targetId="4ede-48c1-6607-914a" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -3028,11 +3028,11 @@
         <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="1.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="4ede-48c1-6607-914a" name="Laser Carbine (Accutek LR-32)" book="Deadzone: Outbreak" page="55" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="4ede-48c1-6607-914a" name="Carabina Láser (Accutek LR-32)" book="Deadzone: Outbreak" page="55" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="2be0-1a1e-1a7d-79fa" name="Laser Carbine (Accutek LR-32)" hidden="false" targetId="42d4-69dc-8111-e660" type="profile">
+        <infoLink id="2be0-1a1e-1a7d-79fa" name="Carabina Láser (Accutek LR-32)" hidden="false" targetId="42d4-69dc-8111-e660" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -3362,7 +3362,7 @@
             </categoryLink>
           </categoryLinks>
         </entryLink>
-        <entryLink id="f830-f33a-a454-93c0" name="Trip Mine" hidden="false" targetId="af0c-5df6-5f3a-3754" type="selectionEntry">
+        <entryLink id="f830-f33a-a454-93c0" name="Mina Trampa" hidden="false" targetId="af0c-5df6-5f3a-3754" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -3637,7 +3637,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Explosiva)"/>
       </characteristics>
     </profile>
-    <profile id="42d4-69dc-8111-e660" name="Laser Carbine (Accutek LR-32)" book="Deadzone: Outbreak" page="55" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="42d4-69dc-8111-e660" name="Carabina Láser (Accutek LR-32)" book="Deadzone: Outbreak" page="55" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -3730,7 +3730,7 @@
         <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="AL"/>
         <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
         <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Derribo"/>
-        <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Leader"/>
+        <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Líder"/>
       </characteristics>
     </profile>
     <profile id="90d8-6dfe-ea60-f396" name="Officer&apos;s Sword" book="Deadzone: Outbreak" page="55" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
@@ -3742,7 +3742,7 @@
         <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="AL"/>
         <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="PA1"/>
         <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="-"/>
-        <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Leader"/>
+        <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Líder"/>
       </characteristics>
     </profile>
   </sharedProfiles>

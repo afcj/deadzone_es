@@ -10,7 +10,7 @@
   <selectionEntries>
     <selectionEntry id="2827-7eea-c47f-5ef2" name="Steel Warrior Huscarl" book="Reglamento Deadzone 2ª Edición + Erratas v2.1" page="67" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="6f14-4ecb-a340-4036" name="Steel Warrior Huscarl" book="Reglamento Deadzone 2ª Edición" page="67" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Leader">
+        <profile id="6f14-4ecb-a340-4036" name="Steel Warrior Huscarl" book="Reglamento Deadzone 2ª Edición" page="67" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Líder">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -164,7 +164,7 @@
     </selectionEntry>
     <selectionEntry id="abe6-83e9-27ad-8bb0" name="Jefe Brokkr" book="Reglamento Deadzone 2ª Edición + Erratas v2.1" page="67" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="a594-3465-2613-2042" name="Jefe Brokkr" book="Reglamento Deadzone 2ª Edición" page="67" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Leader">
+        <profile id="a594-3465-2613-2042" name="Jefe Brokkr" book="Reglamento Deadzone 2ª Edición" page="67" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Líder">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -343,7 +343,7 @@
     </selectionEntry>
     <selectionEntry id="e6ef-e77b-0c73-2c4a" name="Forge Guard Huscarl" book="Reglamento Deadzone 2ª Edición + Erratas v2.1" page="67" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="57a5-1821-9b87-90c5" name="Forge Guard Huscarl" book="Reglamento Deadzone 2ª Edición" page="67" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Leader">
+        <profile id="57a5-1821-9b87-90c5" name="Forge Guard Huscarl" book="Reglamento Deadzone 2ª Edición" page="67" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Líder">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -3403,7 +3403,7 @@
     </selectionEntry>
     <selectionEntry id="bf6e-a2cf-5add-b09f" name="Forge Lord" book="Deadzone: Outbreak" page="34" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="a5b9-a25e-6e2d-3a88" name="Forge Lord" book="Deadzone: Outbreak" page="34" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Leader">
+        <profile id="a5b9-a25e-6e2d-3a88" name="Forge Lord" book="Deadzone: Outbreak" page="34" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Líder">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -3583,7 +3583,7 @@
     </selectionEntry>
     <selectionEntry id="22dc-8c82-8d80-dd5c" name="Thorgarim Huscarl" book="Deadzone: Outbreak" page="35" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="0ae5-7e8a-452e-33bc" name="Thorgarim Huscarl" book="Reglamento Deadzone 2ª Edición" page="67" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Leader">
+        <profile id="0ae5-7e8a-452e-33bc" name="Thorgarim Huscarl" book="Reglamento Deadzone 2ª Edición" page="67" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Líder">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -4208,7 +4208,7 @@
     </selectionEntry>
     <selectionEntry id="2c06-b7d1-8dfa-37e9" name="Bjarn Starnafall" book="Deadzone: Infestación" page="24" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="9f56-c06c-0a12-2593" name="Bjarn Starnafall" book="Deadzone: Infestación" page="24" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Leader">
+        <profile id="9f56-c06c-0a12-2593" name="Bjarn Starnafall" book="Deadzone: Infestación" page="24" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Líder">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -4299,7 +4299,7 @@
     </selectionEntry>
     <selectionEntry id="a7fb-9223-70fb-6b87" name="Forge Lord Ingulf Krestrsson" book="Deadzone: Outbreak" page="82" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="c903-8c7e-9a98-a1e0" name="Forge Lord Ingulf Krestrsson" book="Deadzone: Outbreak" page="82" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Leader">
+        <profile id="c903-8c7e-9a98-a1e0" name="Forge Lord Ingulf Krestrsson" book="Deadzone: Outbreak" page="82" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Líder">
           <profiles/>
           <rules/>
           <infoLinks/>

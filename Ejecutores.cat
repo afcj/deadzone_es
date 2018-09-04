@@ -10,7 +10,7 @@
   <selectionEntries>
     <selectionEntry id="90ff-d52d-ea94-b6bd" name="Capitán Ejecutor" book="Reglamento Deadzone 2ª Edición" page="56" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="0c1b-8de8-7fed-1343" name="Capitán Ejecutor" book="Reglamento Deadzone 2ª Edición" page="55" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Leader">
+        <profile id="0c1b-8de8-7fed-1343" name="Capitán Ejecutor" book="Reglamento Deadzone 2ª Edición" page="55" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Líder">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -173,7 +173,7 @@
     </selectionEntry>
     <selectionEntry id="8251-ba05-7171-401c" name="Sargento Ejecutor" book="Reglamento Deadzone 2ª Edición" page="55" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="b8cf-876c-7d72-53c0" name="Sargento Ejecutor" book="Reglamento Deadzone 2ª Edición" page="55" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Leader">
+        <profile id="b8cf-876c-7d72-53c0" name="Sargento Ejecutor" book="Reglamento Deadzone 2ª Edición" page="55" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Líder">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -336,7 +336,7 @@
     </selectionEntry>
     <selectionEntry id="17ae-7a2e-490d-8648" name="Sargento Pionero" book="Reglamento Deadzone 2ª Edición + Erratas v2.1" page="55" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="30e5-b19f-031e-34ad" name="Sargento Pionero" book="Reglamento Deadzone 2ª Edición" page="55" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Leader">
+        <profile id="30e5-b19f-031e-34ad" name="Sargento Pionero" book="Reglamento Deadzone 2ª Edición" page="55" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Líder">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -551,7 +551,7 @@
     </selectionEntry>
     <selectionEntry id="b86f-b6a1-5f9e-5c8e" name="Capitán Pacificador" book="Reglamento Deadzone 2ª Edición + Erratas v2.1" page="55" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="6da0-d898-5a09-c110" name="Capitán Pacificador" book="Reglamento Deadzone 2ª Edición" page="55" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Leader">
+        <profile id="6da0-d898-5a09-c110" name="Capitán Pacificador" book="Reglamento Deadzone 2ª Edición" page="55" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Líder">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -3746,7 +3746,7 @@
     </selectionEntry>
     <selectionEntry id="416e-c577-3b6c-da9d" name="Observador de Largo Alcance N7-117" book="Deadzone: Infestación + Erratas v2.1" page="20" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="fe51-5adc-7952-5112" name="Observador de Largo Alcance N7-117" book="Deadzone: Infestación" page="20" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Leader">
+        <profile id="fe51-5adc-7952-5112" name="Observador de Largo Alcance N7-117" book="Deadzone: Infestación" page="20" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Líder">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -3888,7 +3888,7 @@
     </selectionEntry>
     <selectionEntry id="3b42-42b4-f8b6-bb3e" name="Capitán de Corbeta Roca" book="Deadzone: Outbreak" page="81" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="d98e-db70-a7b6-dc0f" name="Capitán de Corbeta Roca" book="Deadzone: Outbreak" page="81" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Leader">
+        <profile id="d98e-db70-a7b6-dc0f" name="Capitán de Corbeta Roca" book="Deadzone: Outbreak" page="81" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Líder">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -4473,9 +4473,9 @@
                 <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
               </costs>
             </selectionEntry>
-            <selectionEntry id="0bc2-153f-13ad-cff7" name="Genling 340 &apos;Frontiersman&apos;" hidden="false" collective="false" type="upgrade">
+            <selectionEntry id="0bc2-153f-13ad-cff7" name="Genling 340 &apos;Colonizador&apos;" hidden="false" collective="false" type="upgrade">
               <profiles>
-                <profile id="e910-31a9-43ad-e553" name="Genling 340 &apos;Frontiersman&apos;" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+                <profile id="e910-31a9-43ad-e553" name="Genling 340 &apos;Colonizador&apos;" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
                   <profiles/>
                   <rules/>
                   <infoLinks/>
@@ -4484,7 +4484,7 @@
                     <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A4"/>
                     <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
                     <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Fuego Rápido, Cadencia de Fuego (1)"/>
-                    <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Leader"/>
+                    <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Líder"/>
                   </characteristics>
                 </profile>
               </profiles>
@@ -4596,9 +4596,9 @@
                 <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="6.0"/>
               </costs>
             </selectionEntry>
-            <selectionEntry id="f968-a697-9912-502d" name="Laser Carbine (Accutek LR-32)" hidden="false" collective="false" type="upgrade">
+            <selectionEntry id="f968-a697-9912-502d" name="Carabina Láser (Accutek LR-32)" hidden="false" collective="false" type="upgrade">
               <profiles>
-                <profile id="a7c1-09d7-cf43-8172" name="Laser Carbine (Accutek LR-32)" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+                <profile id="a7c1-09d7-cf43-8172" name="Carabina Láser (Accutek LR-32)" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
                   <profiles/>
                   <rules/>
                   <infoLinks/>
@@ -4739,7 +4739,7 @@
     </selectionEntry>
     <selectionEntry id="8650-9bf5-5950-ff1d" name="Unidad de Reconocimiento N32-19" book="Deadzone: Nexus Psi" page="16" hidden="false" collective="false" type="model">
       <profiles>
-        <profile id="3c2d-a260-23ef-e898" name="Unidad de Reconocimiento N32-19" book="Deadzone: Nexus Psi" page="16" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Leader">
+        <profile id="3c2d-a260-23ef-e898" name="Unidad de Reconocimiento N32-19" book="Deadzone: Nexus Psi" page="16" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Líder">
           <profiles/>
           <rules/>
           <infoLinks/>

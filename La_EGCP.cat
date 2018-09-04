@@ -8,9 +8,9 @@
   <categoryEntries/>
   <forceEntries/>
   <selectionEntries>
-    <selectionEntry id="a421-4ad8-5e21-c42e" name="Major-General" book="Deadzone Erratas v2.2" hidden="false" collective="false" type="unit">
+    <selectionEntry id="a421-4ad8-5e21-c42e" name="General" book="Deadzone Erratas v2.2" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="9ce3-6f40-bd13-dc42" name="Major-General" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Leader">
+        <profile id="9ce3-6f40-bd13-dc42" name="General" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Líder">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -27,12 +27,12 @@
         </profile>
       </profiles>
       <rules>
-        <rule id="a8bb-0c81-b54c-dfd9" name="Dron Strike" book="Deadzone Erratas v2.2" hidden="false">
+        <rule id="a8bb-0c81-b54c-dfd9" name="Ataque de Drones" book="Deadzone Erratas v2.2" hidden="false">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers/>
-          <description>Spend an Army Special result on a Command Dice to allow the active model to take a Special Action to perform an A8, Indirect (2) attack.</description>
+          <description>Gasta un resultado Especial de tus Dados de Mando para que la miniatura activa pueda realizar una Acción Especial para realizar un ataque de A8, Indirecto (2).</description>
         </rule>
       </rules>
       <infoLinks>
@@ -126,7 +126,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="dc67-96f3-03e5-6dc5" name="Genling 340 Frontiersman" hidden="false" targetId="5314-054e-3444-ac93" type="selectionEntry">
+            <entryLink id="dc67-96f3-03e5-6dc5" name="Genling 340 Colonizador" hidden="false" targetId="5314-054e-3444-ac93" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -174,7 +174,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="a46f-1343-3b43-6222" name="Accutek LR-32 Laser Carbine" hidden="false" targetId="ed1b-a6b3-c000-283f" type="selectionEntry">
+            <entryLink id="a46f-1343-3b43-6222" name="Accutek LR-32 Carabina Láser" hidden="false" targetId="ed1b-a6b3-c000-283f" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -224,9 +224,9 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="30.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="3465-3a94-6ea5-5445" name="Marine Corporativo Sergeant" book="Deadzone Erratas v2.2" hidden="false" collective="false" type="unit">
+    <selectionEntry id="3465-3a94-6ea5-5445" name="Sargento Marine Corporativo" book="Deadzone Erratas v2.2" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="5ae7-c6cb-26f0-532a" name="Corporation Sgt." book="Deadzone Erratas v2.2" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Leader">
+        <profile id="5ae7-c6cb-26f0-532a" name="Sgt. Corporativo" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Líder">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -243,12 +243,13 @@
         </profile>
       </profiles>
       <rules>
-        <rule id="0f22-9bb8-f3d9-8510" name="Overwatch" book="Deadzone Erratas v2.2" hidden="false">
+        <rule id="0f22-9bb8-f3d9-8510" name="Disparo de Oportunidad" book="Deadzone Erratas v2.2" hidden="false">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers/>
-          <description>Spend an Army Special result when an enemy model moves into a cube containing an unactivated friendly model equipped with a weapon with the Fuego Rápido ability. The friendly model may make a free Disparo action with that weapon after the enemy model has moved, but prior to resolving the Lucha action initiated as part of the enemy’s Move action. This shoot action is not modified for Clear Shot, High Ground or Friendly Fire (Deadzone Rulebook page 20) but is still modified by other bonuses or penalties (eg, Holo-sight or Mira Telescópica). This Army Special cannot be played on a friendly model that is in the same cube as an enemy model (other than the model moving into the cube), and the free Disparo action cannot be used to Fire for Effect.</description>
+          <description>Cuando una miniatura enemiga se mueva a un cubo en el que hay al menos una miniatura amiga no activada con un arma de Fuego Rápido y ninguna otra miniatura enemiga, puedes gastar un resultado Especial de tus Dados de Mando para realizar una acción de Disparo gratuita con esa arma después de que el enemigo haya movido, pero antes de resolver la acción de Lucha iniciada como parte de la acción de Movimiento del enemigo. Esta acción de Disparo no puede ser modificada por Tiro Limpio, Altura o Fuego Amigo (pág. 20 del reglamento de Deadzone) pero sí puede ser modificada por otras bonificaciones o penalizaciones (por ejemplo, Mira Holográfica o Mira Telescópica).
+Esta acción de Disparo gratuita no se puede usar para realizar Fuego de Supresión.</description>
         </rule>
       </rules>
       <infoLinks>
@@ -342,7 +343,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="a0ab-c311-160b-346e" name="Genling 340 Frontiersman" hidden="false" targetId="5314-054e-3444-ac93" type="selectionEntry">
+            <entryLink id="a0ab-c311-160b-346e" name="Genling 340 Colonizador" hidden="false" targetId="5314-054e-3444-ac93" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -392,9 +393,9 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="22.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="ef64-d725-6341-fcda" name="Ranger Sergeant" book="Deadzone Erratas v2.2" hidden="false" collective="false" type="unit">
+    <selectionEntry id="ef64-d725-6341-fcda" name="Sargento Ranger" book="Deadzone Erratas v2.2" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="620d-5bc0-b4d0-190e" name="Ranger Sgt." book="Deadzone Erratas v2.2" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Leader">
+        <profile id="620d-5bc0-b4d0-190e" name="Sgt. Ranger" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Líder">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -411,12 +412,12 @@
         </profile>
       </profiles>
       <rules>
-        <rule id="3008-bf16-0e84-1399" name="Eye in the Sky" book="Deadzone Erratas v2.2" hidden="false">
+        <rule id="3008-bf16-0e84-1399" name="Ojo en el Cielo" book="Deadzone Erratas v2.2" hidden="false">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers/>
-          <description>Spend an Army Special result on a Command Dice to reroll any number of dice when rolling to hit the target cube with an Indirect weapon or grenade during a Disparo action. You may only use one Army Special result per Disparo action..</description>
+          <description>Cuando tires para impactar a un cubo objetivo con una Granada o un arma con Indirecto durante una acción de Disparo, puedes gastar un único resultado Especial de tus Dados de Mando para repetir cualquier cantidad de dados. </description>
         </rule>
       </rules>
       <infoLinks>
@@ -432,7 +433,7 @@
             </modifier>
           </modifiers>
         </infoLink>
-        <infoLink id="5bb6-51db-ba36-6275" name="Aerial Deployment" hidden="false" targetId="64db-79a6-a8f3-a2cb" type="rule">
+        <infoLink id="5bb6-51db-ba36-6275" name="Despliegue Aéreo" hidden="false" targetId="64db-79a6-a8f3-a2cb" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -516,7 +517,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="d02f-6a44-0d64-3763" name="Genling 340 Frontiersman" hidden="false" targetId="5314-054e-3444-ac93" type="selectionEntry">
+            <entryLink id="d02f-6a44-0d64-3763" name="Genling 340 Colonizador" hidden="false" targetId="5314-054e-3444-ac93" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -566,9 +567,9 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="30.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="9556-e83e-8346-7963" name="Corporation Recruit" book="Deadzone Erratas v2.2" hidden="false" collective="false" type="unit">
+    <selectionEntry id="9556-e83e-8346-7963" name="Recluta Corporativo" book="Deadzone Erratas v2.2" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="ee5b-0f2a-dcd4-0534" name="Corporation Recruit" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
+        <profile id="ee5b-0f2a-dcd4-0534" name="Recluta Corporativo" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -747,9 +748,9 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="8.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="fbcb-2e5e-3b92-f438" name="Corporation Veteran" book="Deadzone Erratas v2.2" hidden="false" collective="false" type="unit">
+    <selectionEntry id="fbcb-2e5e-3b92-f438" name="Veterano Corporativo" book="Deadzone Erratas v2.2" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="b034-ae59-14ea-14ab" name="Corporation Veteran" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
+        <profile id="b034-ae59-14ea-14ab" name="Veterano Corporativo" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -808,7 +809,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="2abc-45f0-f7df-00dc" name="Accutek LR-32 Laser Carbine" hidden="false" targetId="ed1b-a6b3-c000-283f" type="selectionEntry">
+            <entryLink id="2abc-45f0-f7df-00dc" name="Accutek LR-32 Carabina Láser" hidden="false" targetId="ed1b-a6b3-c000-283f" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -913,7 +914,7 @@
           <selectionEntries/>
           <selectionEntryGroups/>
           <entryLinks>
-            <entryLink id="4e5e-f679-6649-1ad3" name="Genling 340 Frontiersman" hidden="false" targetId="5314-054e-3444-ac93" type="selectionEntry">
+            <entryLink id="4e5e-f679-6649-1ad3" name="Genling 340 Colonizador" hidden="false" targetId="5314-054e-3444-ac93" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -959,7 +960,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="8948-7aa2-cddd-e6d5" name="Accutek LR-32 Laser Carbine" hidden="false" targetId="ed1b-a6b3-c000-283f" type="selectionEntry">
+            <entryLink id="8948-7aa2-cddd-e6d5" name="Accutek LR-32 Carabina Láser" hidden="false" targetId="ed1b-a6b3-c000-283f" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1075,7 +1076,7 @@
           <selectionEntries/>
           <selectionEntryGroups/>
           <entryLinks>
-            <entryLink id="43ea-5e1e-9a48-32f4" name="Genling 340 Frontiersman" hidden="false" targetId="5314-054e-3444-ac93" type="selectionEntry">
+            <entryLink id="43ea-5e1e-9a48-32f4" name="Genling 340 Colonizador" hidden="false" targetId="5314-054e-3444-ac93" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1129,7 +1130,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="271f-d902-5aac-ab84" name="Accutek LR-32 Laser Carbine" hidden="false" targetId="ed1b-a6b3-c000-283f" type="selectionEntry">
+            <entryLink id="271f-d902-5aac-ab84" name="Accutek LR-32 Carabina Láser" hidden="false" targetId="ed1b-a6b3-c000-283f" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1200,9 +1201,9 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="8.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="be23-0bb2-6ee4-8567" name="Corporation Médico" book="Deadzone Erratas v2.2" hidden="false" collective="false" type="unit">
+    <selectionEntry id="be23-0bb2-6ee4-8567" name="Médico Corporativo" book="Deadzone Erratas v2.2" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="73c2-df20-9328-f839" name="Corporation Médico" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
+        <profile id="73c2-df20-9328-f839" name="Médico Corporativo" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1313,7 +1314,7 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="13.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="99ec-9eb2-4962-aa36" name="Corporation Ingeniero" book="Deadzone Erratas v2.2" hidden="false" collective="false" type="unit">
+    <selectionEntry id="99ec-9eb2-4962-aa36" name="Ingeniero Corporativo" book="Deadzone Erratas v2.2" hidden="false" collective="false" type="unit">
       <profiles>
         <profile id="0d5f-bfa6-8d6b-4eaf" name="Marine Corporativo" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
           <profiles/>
@@ -1426,9 +1427,9 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="13.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="844f-c806-3d2c-3b53" name="Pesada Weapons Squad" book="Deadzone Erratas v2.2" hidden="false" collective="false" type="unit">
+    <selectionEntry id="844f-c806-3d2c-3b53" name="Equipo de Armas Pesadas" book="Deadzone Erratas v2.2" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="071e-6cba-9357-7c7b" name="Pesada Weapons Squad" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
+        <profile id="071e-6cba-9357-7c7b" name="Equipo de Armas Pesadas" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1553,9 +1554,9 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="12.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="6761-dab8-3b74-c180" name="Corporation Andador" book="Deadzone Erratas v2.2" hidden="false" collective="false" type="unit">
+    <selectionEntry id="6761-dab8-3b74-c180" name="Andador Corporativo" book="Deadzone Erratas v2.2" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="a4c0-e14d-87b6-0e61" name="Corporation Andador" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
+        <profile id="a4c0-e14d-87b6-0e61" name="Andador Corporativo" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -2313,7 +2314,7 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="fc12-4b32-7db2-0886" name="Major Loren Chard" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="fc12-4b32-7db2-0886" name="Mayor Loren Chard" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -2331,7 +2332,7 @@
       <selectionEntries/>
       <selectionEntryGroups/>
       <entryLinks>
-        <entryLink id="a263-fa1c-eb69-2a79" name="Major Loren Chard" hidden="false" targetId="dd48-1ccc-428d-4227" type="selectionEntry">
+        <entryLink id="a263-fa1c-eb69-2a79" name="Mayor Loren Chard" hidden="false" targetId="dd48-1ccc-428d-4227" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -2409,7 +2410,7 @@
         <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="7fb2-a4e7-a8ae-2264" name="Shotgun (Accutek ID-KFA)" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="7fb2-a4e7-a8ae-2264" name="Escopeta (Accutek ID-KFA)" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
@@ -2437,7 +2438,7 @@
         <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="c024-afd3-6a4c-14ae" name="Flame Thrower" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="c024-afd3-6a4c-14ae" name="Lanzallamas" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
@@ -2505,7 +2506,7 @@
         <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="1.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="78c3-4d51-12bd-6d66" name="Thermal Rifle" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="78c3-4d51-12bd-6d66" name="Rifle Térmico" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
@@ -2527,11 +2528,11 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="7.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="ed1b-a6b3-c000-283f" name="Laser Carbine (Accutek LR-32)" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="ed1b-a6b3-c000-283f" name="Carabina Láser (Accutek LR-32)" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="447f-68b3-7a37-f16a" name="Accutek LR-32 Laser Carbine" hidden="false" targetId="d5e5-44b9-df5c-4ffe" type="profile">
+        <infoLink id="447f-68b3-7a37-f16a" name="Accutek LR-32 Carabina Láser" hidden="false" targetId="d5e5-44b9-df5c-4ffe" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -2567,7 +2568,7 @@
         <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="6620-2cb8-6c9c-9948" name="Marksman Rifle (Accutek LR-45 DMR)" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="6620-2cb8-6c9c-9948" name="Rifle de Tirador (Accutek LR-45 DMR)" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
@@ -2595,7 +2596,7 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="8.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="e671-2c75-86d3-cbd1" name="Pesada Rifle Láser (Accutek LR-AM)" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="e671-2c75-86d3-cbd1" name="Rifle Láser Pesado (Accutek LR-AM)" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
@@ -2657,7 +2658,7 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="12.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="1bd5-8b4b-24aa-2576" name="Autocannon" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="1bd5-8b4b-24aa-2576" name="Autocañón" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
@@ -2703,7 +2704,7 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="4.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="97c1-0865-84b9-1fe2" name="Laser Cannon" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="97c1-0865-84b9-1fe2" name="Cañón Láser" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
@@ -2771,7 +2772,7 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="10.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="8bc5-1c5c-0b1c-ba18" name="Mortar" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="8bc5-1c5c-0b1c-ba18" name="Mortero" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
@@ -2898,6 +2899,7 @@
       <entryLinks/>
       <costs>
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="6.0"/>
+        <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="5be4-50fb-04b1-9f83" name="Láser de Ráfaga Pesado **" hidden="false" collective="false" type="upgrade">
@@ -2968,7 +2970,7 @@
         <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="71cc-3e0a-dac1-687e" name="Officer&apos;s Sword" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="71cc-3e0a-dac1-687e" name="Espada de Oficial" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
@@ -2990,11 +2992,11 @@
         <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="5314-054e-3444-ac93" name="Genling 340 &apos;Frontiersman&apos;" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="5314-054e-3444-ac93" name="Genling 340 &apos;Colonizador&apos;" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="aaa5-9687-3b34-1c2c" name="Genling 340 Frontiersman" hidden="false" targetId="5b4b-ff8c-8e82-4f3e" type="profile">
+        <infoLink id="aaa5-9687-3b34-1c2c" name="Genling 340 Colonizador" hidden="false" targetId="5b4b-ff8c-8e82-4f3e" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -3293,7 +3295,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Pequeño Calibre"/>
       </characteristics>
     </profile>
-    <profile id="f9d7-c4be-3aaa-0859" name="Shotgun (Accutek ID-KFA)" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="f9d7-c4be-3aaa-0859" name="Escopeta (Accutek ID-KFA)" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -3305,7 +3307,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Pequeño Calibre"/>
       </characteristics>
     </profile>
-    <profile id="ed00-6f74-bde1-fd19" name="Flame Thrower" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="ed00-6f74-bde1-fd19" name="Lanzallamas" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -3329,7 +3331,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Explosiva)"/>
       </characteristics>
     </profile>
-    <profile id="2274-48b7-20d9-9480" name="Thermal Rifle" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="2274-48b7-20d9-9480" name="Rifle Térmico" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -3341,7 +3343,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Asalto)"/>
       </characteristics>
     </profile>
-    <profile id="d5e5-44b9-df5c-4ffe" name="Laser Carbine (Accutek LR-32)" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="d5e5-44b9-df5c-4ffe" name="Carabina Láser (Accutek LR-32)" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -3365,7 +3367,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Marksman)"/>
       </characteristics>
     </profile>
-    <profile id="9b33-3ca7-8da3-ee0e" name="Pesada Rifle Láser (Accutek LR-AM)" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="9b33-3ca7-8da3-ee0e" name="Rifle Láser Pesado (Accutek LR-AM)" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -3389,7 +3391,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Francotirador)"/>
       </characteristics>
     </profile>
-    <profile id="198e-6537-d880-3e8c" name="Autocannon" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="198e-6537-d880-3e8c" name="Autocañón" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -3401,7 +3403,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Pesada (Crew Served Weapon)"/>
       </characteristics>
     </profile>
-    <profile id="4afd-cc3b-c22e-334b" name="Laser Cannon" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="4afd-cc3b-c22e-334b" name="Cañón Láser" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -3425,7 +3427,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Pesada (Crew Served Weapon)"/>
       </characteristics>
     </profile>
-    <profile id="940a-73e7-0063-3aa5" name="Mortar" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="940a-73e7-0063-3aa5" name="Mortero" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -3494,10 +3496,10 @@
         <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="AL"/>
         <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
         <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Derribo"/>
-        <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Leader"/>
+        <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Líder"/>
       </characteristics>
     </profile>
-    <profile id="f9ad-a260-33a0-cc25" name="Officer&apos;s Sword" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="f9ad-a260-33a0-cc25" name="Espada de Oficial" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -3506,10 +3508,10 @@
         <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="AL"/>
         <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="PA1"/>
         <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="-"/>
-        <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Leader"/>
+        <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Líder"/>
       </characteristics>
     </profile>
-    <profile id="5b4b-ff8c-8e82-4f3e" name="Genling 340 &apos;Frontiersman&apos;" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="5b4b-ff8c-8e82-4f3e" name="Genling 340 &apos;Colonizador&apos;" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -3518,7 +3520,7 @@
         <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A4"/>
         <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
         <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Fuego Rápido, Cadencia de Fuego (1)"/>
-        <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Leader"/>
+        <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Líder"/>
       </characteristics>
     </profile>
   </sharedProfiles>

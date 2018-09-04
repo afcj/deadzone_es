@@ -375,7 +375,7 @@
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="8c10-84c9-9291-fd8b" name="One Use" hidden="false" targetId="dfd9-06aa-8e54-53af" type="rule">
+        <infoLink id="8c10-84c9-9291-fd8b" name="Un solo Uso" hidden="false" targetId="dfd9-06aa-8e54-53af" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -403,7 +403,7 @@
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="af84-0455-3db2-9915" name="One Use" hidden="false" targetId="dfd9-06aa-8e54-53af" type="rule">
+        <infoLink id="af84-0455-3db2-9915" name="Un solo Uso" hidden="false" targetId="dfd9-06aa-8e54-53af" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -497,7 +497,7 @@
           <characteristics>
             <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A3"/>
             <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
-            <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Fragmentación (3), Grenade, One Use"/>
+            <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Fragmentación (3), Granada, Un solo Uso"/>
             <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c"/>
           </characteristics>
         </profile>
@@ -516,13 +516,13 @@
             </modifier>
           </modifiers>
         </infoLink>
-        <infoLink id="a2ea-dbc2-1870-6d44" name="One Use" hidden="false" targetId="dfd9-06aa-8e54-53af" type="rule">
+        <infoLink id="a2ea-dbc2-1870-6d44" name="Un solo Uso" hidden="false" targetId="dfd9-06aa-8e54-53af" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="d31f-8030-da36-64f1" name="Grenade" hidden="false" targetId="336e-9dc4-7706-61d6" type="rule">
+        <infoLink id="d31f-8030-da36-64f1" name="Granada" hidden="false" targetId="336e-9dc4-7706-61d6" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -616,7 +616,7 @@
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="7b26-54ff-77ad-826e" name="One Use" hidden="false" targetId="dfd9-06aa-8e54-53af" type="rule">
+        <infoLink id="7b26-54ff-77ad-826e" name="Un solo Uso" hidden="false" targetId="dfd9-06aa-8e54-53af" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -672,7 +672,7 @@
           <characteristics>
             <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A3"/>
             <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
-            <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Granada de Humo, Grenade, One Use"/>
+            <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Granada de Humo, Granada, Un solo Uso"/>
             <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c"/>
           </characteristics>
         </profile>
@@ -685,13 +685,13 @@
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="4f4c-467f-8689-4162" name="Grenade" hidden="false" targetId="336e-9dc4-7706-61d6" type="rule">
+        <infoLink id="4f4c-467f-8689-4162" name="Granada" hidden="false" targetId="336e-9dc4-7706-61d6" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="95ea-e18d-123d-695d" name="One Use" hidden="false" targetId="dfd9-06aa-8e54-53af" type="rule">
+        <infoLink id="95ea-e18d-123d-695d" name="Un solo Uso" hidden="false" targetId="dfd9-06aa-8e54-53af" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -719,7 +719,7 @@
           <characteristics>
             <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A3"/>
             <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
-            <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Granada Aturdidora, Grenade, One Use"/>
+            <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Granada Aturdidora, Granada, Un solo Uso"/>
             <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c"/>
           </characteristics>
         </profile>
@@ -732,13 +732,13 @@
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="044a-08b4-a463-b7f9" name="Grenade" hidden="false" targetId="336e-9dc4-7706-61d6" type="rule">
+        <infoLink id="044a-08b4-a463-b7f9" name="Granada" hidden="false" targetId="336e-9dc4-7706-61d6" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="87ce-ee65-5738-1e3d" name="One Use" hidden="false" targetId="dfd9-06aa-8e54-53af" type="rule">
+        <infoLink id="87ce-ee65-5738-1e3d" name="Un solo Uso" hidden="false" targetId="dfd9-06aa-8e54-53af" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -779,7 +779,7 @@
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="8bc4-771c-41cb-a509" name="One Use" hidden="false" targetId="dfd9-06aa-8e54-53af" type="rule">
+        <infoLink id="8bc4-771c-41cb-a509" name="Un solo Uso" hidden="false" targetId="dfd9-06aa-8e54-53af" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1282,7 +1282,7 @@
               <characteristics>
                 <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A3"/>
                 <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
-                <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Fragmentación (3), Grenade"/>
+                <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Fragmentación (3), Granada"/>
                 <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c"/>
               </characteristics>
             </profile>
@@ -1301,7 +1301,7 @@
                 </modifier>
               </modifiers>
             </infoLink>
-            <infoLink id="6325-20b2-12cb-d1aa" name="Grenade" hidden="false" targetId="336e-9dc4-7706-61d6" type="rule">
+            <infoLink id="6325-20b2-12cb-d1aa" name="Granada" hidden="false" targetId="336e-9dc4-7706-61d6" type="rule">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1332,7 +1332,7 @@
               <characteristics>
                 <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A3"/>
                 <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
-                <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Granada de Humo, Grenade"/>
+                <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Granada de Humo, Granada"/>
                 <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c"/>
               </characteristics>
             </profile>
@@ -1345,7 +1345,7 @@
               <infoLinks/>
               <modifiers/>
             </infoLink>
-            <infoLink id="bb35-f545-d036-da22" name="Grenade" hidden="false" targetId="336e-9dc4-7706-61d6" type="rule">
+            <infoLink id="bb35-f545-d036-da22" name="Granada" hidden="false" targetId="336e-9dc4-7706-61d6" type="rule">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1376,7 +1376,7 @@
               <characteristics>
                 <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A3"/>
                 <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
-                <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Granada de Humo, Grenade"/>
+                <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Granada de Humo, Granada"/>
                 <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c"/>
               </characteristics>
             </profile>
@@ -1389,7 +1389,7 @@
               <infoLinks/>
               <modifiers/>
             </infoLink>
-            <infoLink id="4bd9-d0a3-72e6-2a92" name="Grenade" hidden="false" targetId="336e-9dc4-7706-61d6" type="rule">
+            <infoLink id="4bd9-d0a3-72e6-2a92" name="Granada" hidden="false" targetId="336e-9dc4-7706-61d6" type="rule">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1420,7 +1420,7 @@
     </selectionEntry>
     <selectionEntry id="ec30-5a87-2544-b5d3" name="Jefe Radgrad" book="Deadzone: Outbreak" page="84" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="194b-8146-6c9d-900f" name="Jefe Radgrad" book="Deadzone: Outbreak" page="84" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Leader">
+        <profile id="194b-8146-6c9d-900f" name="Jefe Radgrad" book="Deadzone: Outbreak" page="84" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Líder">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -2391,7 +2391,7 @@
     </selectionEntry>
     <selectionEntry id="1acb-ca9d-dddd-bfd6" name="Proyecto Oberón" book="Deadzone: Outbreak" page="85" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="b663-7e28-3973-4a17" name="Proyecto Oberón" book="Deadzone: Outbreak" page="85" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Leader">
+        <profile id="b663-7e28-3973-4a17" name="Proyecto Oberón" book="Deadzone: Outbreak" page="85" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Líder">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -3154,7 +3154,7 @@
               <characteristics>
                 <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A4"/>
                 <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
-                <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Fragmentación (3), One Use"/>
+                <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Fragmentación (3), Un solo Uso"/>
                 <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c"/>
               </characteristics>
             </profile>
@@ -3173,7 +3173,7 @@
                 </modifier>
               </modifiers>
             </infoLink>
-            <infoLink id="20b1-324b-64f2-9089" name="One Use" hidden="false" targetId="dfd9-06aa-8e54-53af" type="rule">
+            <infoLink id="20b1-324b-64f2-9089" name="Un solo Uso" hidden="false" targetId="dfd9-06aa-8e54-53af" type="rule">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -4297,7 +4297,7 @@
     </selectionEntry>
     <selectionEntry id="e34a-6d79-52a3-65d9" name="El Flautista" book="Deadzone: Infestación" page="16" hidden="false" collective="false" type="model">
       <profiles>
-        <profile id="d675-e2cf-6cfd-00de" name="The Piper" book="Deadzone: Infestación" page="16" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Leader">
+        <profile id="d675-e2cf-6cfd-00de" name="The Piper" book="Deadzone: Infestación" page="16" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Líder">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -4480,7 +4480,7 @@ Vermin Swarm&apos;s are not part of the Army List, gain no experience, and are n
     </selectionEntry>
     <selectionEntry id="0b52-2559-227a-5b19" name="Nem-Rath" book="Deadzone: Infestación" page="36" hidden="false" collective="false" type="model">
       <profiles>
-        <profile id="ae43-8cc0-9a08-3c92" name="Nem-Rath" book="Deadzone: Infestación" page="36" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Leader">
+        <profile id="ae43-8cc0-9a08-3c92" name="Nem-Rath" book="Deadzone: Infestación" page="36" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Líder">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -4678,9 +4678,9 @@ Vermin Swarm&apos;s are not part of the Army List, gain no experience, and are n
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="af0c-5df6-5f3a-3754" name="Trip Mine" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="af0c-5df6-5f3a-3754" name="Mina Trampa" hidden="false" collective="false" type="upgrade">
       <profiles>
-        <profile id="85a0-4f0c-3e6b-16f9" name="Trip Mine" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+        <profile id="85a0-4f0c-3e6b-16f9" name="Mina Trampa" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -4688,26 +4688,26 @@ Vermin Swarm&apos;s are not part of the Army List, gain no experience, and are n
           <characteristics>
             <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A4"/>
             <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
-            <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Grenade, One Use, Trap (Fragmentación(3))"/>
+            <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Granada, Un solo Uso, Trampa (Fragmentación(3))"/>
             <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c"/>
           </characteristics>
         </profile>
       </profiles>
       <rules/>
       <infoLinks>
-        <infoLink id="95a3-63ad-acde-b302" name="Grenade" hidden="false" targetId="336e-9dc4-7706-61d6" type="rule">
+        <infoLink id="95a3-63ad-acde-b302" name="Granada" hidden="false" targetId="336e-9dc4-7706-61d6" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="5933-34b2-e635-6e70" name="One Use" hidden="false" targetId="dfd9-06aa-8e54-53af" type="rule">
+        <infoLink id="5933-34b2-e635-6e70" name="Un solo Uso" hidden="false" targetId="dfd9-06aa-8e54-53af" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="8cd2-5f76-65ab-86d2" name="Trap" hidden="false" targetId="0619-45db-fd26-fe4c" type="rule">
+        <infoLink id="8cd2-5f76-65ab-86d2" name="Trampa" hidden="false" targetId="0619-45db-fd26-fe4c" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -4737,9 +4737,9 @@ Vermin Swarm&apos;s are not part of the Army List, gain no experience, and are n
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="dd48-1ccc-428d-4227" name="Major Loren Chard 2.2" book="Deadzone Erratas v2.2" hidden="false" collective="false" type="unit">
+    <selectionEntry id="dd48-1ccc-428d-4227" name="Mayor Loren Chard 2.2" book="Deadzone Erratas v2.2" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="3abf-87f1-6e05-9933" name="Major Loren Chard" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
+        <profile id="3abf-87f1-6e05-9933" name="Mayor Loren Chard" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -4781,9 +4781,9 @@ Vermin Swarm&apos;s are not part of the Army List, gain no experience, and are n
         </categoryLink>
       </categoryLinks>
       <selectionEntries>
-        <selectionEntry id="e85f-cd98-d2e3-8eb6" name="Genling 340 Frontiersman" hidden="false" collective="false" type="upgrade">
+        <selectionEntry id="e85f-cd98-d2e3-8eb6" name="Genling 340 Colonizador" hidden="false" collective="false" type="upgrade">
           <profiles>
-            <profile id="efb8-207b-65ef-94db" name="Genling 340 Frontiersman" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+            <profile id="efb8-207b-65ef-94db" name="Genling 340 Colonizador" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -4792,7 +4792,7 @@ Vermin Swarm&apos;s are not part of the Army List, gain no experience, and are n
                 <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A4"/>
                 <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
                 <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Fuego Rápido, Cadencia de Fuego (1)"/>
-                <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Leader"/>
+                <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Líder"/>
               </characteristics>
             </profile>
           </profiles>
@@ -4873,7 +4873,7 @@ Vermin Swarm&apos;s are not part of the Army List, gain no experience, and are n
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="05f8-84fa-759c-c461" name="One Use" hidden="false" targetId="dfd9-06aa-8e54-53af" type="rule">
+        <infoLink id="05f8-84fa-759c-c461" name="Un solo Uso" hidden="false" targetId="dfd9-06aa-8e54-53af" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -4895,7 +4895,7 @@ Vermin Swarm&apos;s are not part of the Army List, gain no experience, and are n
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="6dc0-3edf-eda4-a778" name="One Use" hidden="false" targetId="dfd9-06aa-8e54-53af" type="rule">
+        <infoLink id="6dc0-3edf-eda4-a778" name="Un solo Uso" hidden="false" targetId="dfd9-06aa-8e54-53af" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -4921,7 +4921,7 @@ Vermin Swarm&apos;s are not part of the Army List, gain no experience, and are n
     </selectionEntry>
     <selectionEntry id="77e2-70bf-5e6a-c3b4" name="Ten &apos;Ur-Go" book="Deadzone: Outbreak" page="80" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="c005-ce33-14fa-1d6c" name="Ten &apos;Ur-Go" book="Deadzone: Outbreak" page="80" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Leader">
+        <profile id="c005-ce33-14fa-1d6c" name="Ten &apos;Ur-Go" book="Deadzone: Outbreak" page="80" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Líder">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -5109,7 +5109,7 @@ Vermin Swarm&apos;s are not part of the Army List, gain no experience, and are n
     </selectionEntry>
     <selectionEntry id="7d6e-cc91-a0e1-d8bd" name="Capitán de Corbeta Roca" book="Deadzone: Outbreak" page="81" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="c425-7388-5f49-9428" name="Lt. Commander Roca" book="Deadzone: Outbreak" page="81" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Leader">
+        <profile id="c425-7388-5f49-9428" name="Lt. Commander Roca" book="Deadzone: Outbreak" page="81" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Líder">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -5325,7 +5325,7 @@ Vermin Swarm&apos;s are not part of the Army List, gain no experience, and are n
     </selectionEntry>
     <selectionEntry id="7f4f-38ec-616e-e8f3" name="Ingulf Krestürsson, Señor de la Forja" book="Deadzone: Outbreak" page="82" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="5252-ea89-2c0e-8721" name="Ingulf Krestürsson, Señor de la Forja" book="Deadzone: Outbreak" page="82" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Leader">
+        <profile id="5252-ea89-2c0e-8721" name="Ingulf Krestürsson, Señor de la Forja" book="Deadzone: Outbreak" page="82" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Líder">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -6145,7 +6145,7 @@ Si ambos jugadores tienen despliegue aéreo alterna los despliegues comenzando p
       <rules/>
       <infoLinks/>
       <modifiers/>
-      <description>A model with a commlink is able to act as a spotter for their comrades. The model may use a special action to call in the co-ordinates of a target. Place a token in a cube within the model’s line of sight. Models throwing Grenades or using Indirect weapons treat this cube as being within their line of sight.
+      <description>A model with a commlink is able to act as a spotter for their comrades. The model may use a special action to call in the co-ordinates of a target. Place a token in a cube within the model’s line of sight. Models throwing Granadas or using Indirect weapons treat this cube as being within their line of sight.
 
 Note that this does not allow models to target cubes outside of their weapon’s range, or to otherwise target cubes that are not valid targets.</description>
     </rule>

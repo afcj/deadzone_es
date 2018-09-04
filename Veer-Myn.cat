@@ -8,9 +8,9 @@
   <categoryEntries/>
   <forceEntries/>
   <selectionEntries>
-    <selectionEntry id="d271-b0ee-5ae3-b438" name="Brood Mother" book="Deadzone: Outbreak" page="74" hidden="false" collective="false" type="unit">
+    <selectionEntry id="d271-b0ee-5ae3-b438" name="Madre de la Prole" book="Deadzone: Outbreak" page="74" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="c1d0-06aa-05cf-04c4" name="Brood Mother" book="Deadzone: Outbreak" page="74" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Leader">
+        <profile id="c1d0-06aa-05cf-04c4" name="Madre de la Prole" book="Deadzone: Outbreak" page="74" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Líder">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -32,7 +32,7 @@
           <rules/>
           <infoLinks/>
           <modifiers/>
-          <description>When the Broodmother is close to any of her progeny, she will inspire them to even greater heights of savagery! You may spend an Army Special result on your Command Dice to give all Veer-Myn models within 2 cubes of the Broodmother Furia (1) until the end of the Round. If a model already has Furia (n) they will gain an additional point of Furia. You may not use multiple Army Special results on the same model, although if the Brood Mother moves you may use a subsequent Army Special result to give Furia (1) to any new models within range. </description>
+          <description>When the Broodmother is close to any of her progeny, she will inspire them to even greater heights of savagery! You may spend an Army Special result on your Command Dice to give all Veer-Myn models within 2 cubes of the Broodmother Furia (1) until the end of the Round. If a model already has Furia (n) they will gain an additional point of Furia. You may not use multiple Army Special results on the same model, although if the Madre de la Prole moves you may use a subsequent Army Special result to give Furia (1) to any new models within range. </description>
         </rule>
       </rules>
       <infoLinks>
@@ -241,7 +241,7 @@
     </selectionEntry>
     <selectionEntry id="6883-61f2-bcc4-c9dc" name="Progenitor" book="Deadzone: Outbreak" page="75" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="18f7-5ce3-c9f2-3ce8" name="Progenitor" book="Deadzone: Outbreak" page="75" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Leader">
+        <profile id="18f7-5ce3-c9f2-3ce8" name="Progenitor" book="Deadzone: Outbreak" page="75" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Líder">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -451,9 +451,9 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="20.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="be63-eada-d3b5-0835" name="Crawler" book="Deadzone: Outbreak" page="75" hidden="false" collective="false" type="unit">
+    <selectionEntry id="be63-eada-d3b5-0835" name="Acechante" book="Deadzone: Outbreak" page="75" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="7a86-d891-5819-b9cc" name="Crawler" book="Deadzone: Outbreak" page="75" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
+        <profile id="7a86-d891-5819-b9cc" name="Acechante" book="Deadzone: Outbreak" page="75" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -536,9 +536,9 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="10.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="1d49-05b9-c9ca-77e2" name="Master Creeper" book="Deadzone: Outbreak" page="74" hidden="false" collective="false" type="unit">
+    <selectionEntry id="1d49-05b9-c9ca-77e2" name="Master Sucio" book="Deadzone: Outbreak" page="74" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="e3c6-3330-aedd-05ae" name="Master Creeper" book="Deadzone: Outbreak" page="74" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Leader">
+        <profile id="e3c6-3330-aedd-05ae" name="Master Sucio" book="Deadzone: Outbreak" page="74" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Líder">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -555,7 +555,7 @@
         </profile>
       </profiles>
       <rules>
-        <rule id="9825-8236-0855-2f71" name="Master Creeper" book="Bomb Expert" hidden="false">
+        <rule id="9825-8236-0855-2f71" name="Master Sucio" book="Bomb Expert" hidden="false">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -848,9 +848,9 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="20.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="b947-8590-c336-b7ac" name="Stalker" book="Deadzone: Outbreak" page="75" hidden="false" collective="false" type="unit">
+    <selectionEntry id="b947-8590-c336-b7ac" name="Acosador" book="Deadzone: Outbreak" page="75" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="1d0b-7843-e0b6-e228" name="Stalker" book="Deadzone: Outbreak" page="75" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
+        <profile id="1d0b-7843-e0b6-e228" name="Acosador" book="Deadzone: Outbreak" page="75" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -928,9 +928,9 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="8.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="15ad-4f5a-94e9-c51a" name="Malignus" book="Deadzone: Outbreak" page="76" hidden="false" collective="false" type="unit">
+    <selectionEntry id="15ad-4f5a-94e9-c51a" name="Maligno con Rociador Químico" book="Deadzone: Outbreak" page="76" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="b5ab-1c84-25c6-f701" name="Malignus" book="Deadzone: Outbreak" page="76" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
+        <profile id="b5ab-1c84-25c6-f701" name="Maligno con Rociador Químico" book="Deadzone: Outbreak" page="76" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1110,9 +1110,9 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="12.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="3e61-b324-e4cc-eccd" name="Night Terror with Scythes" book="Deadzone: Outbreak" page="76" hidden="false" collective="false" type="unit">
+    <selectionEntry id="3e61-b324-e4cc-eccd" name="Terror Nocturno con Guadañas" book="Deadzone: Outbreak" page="76" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="a2ee-6a0d-b8f9-ec4f" name="Night Terror with Scythes" book="Deadzone: Outbreak" page="76" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
+        <profile id="a2ee-6a0d-b8f9-ec4f" name="Terror Nocturno con Guadañas" book="Deadzone: Outbreak" page="76" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1190,9 +1190,9 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="26.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="eec4-a701-6c11-ed91" name="Night Terror with Spitter" book="Deadzone: Outbreak" page="76" hidden="false" collective="false" type="unit">
+    <selectionEntry id="eec4-a701-6c11-ed91" name="Terror Nocturno con Escupidor" book="Deadzone: Outbreak" page="76" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="8f22-d3a7-e0ba-60ec" name="Night Terror with Spitter" book="Deadzone: Outbreak" page="76" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
+        <profile id="8f22-d3a7-e0ba-60ec" name="Terror Nocturno con Escupidor" book="Deadzone: Outbreak" page="76" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1281,9 +1281,9 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="26.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="ed8d-f769-04da-90f3" name="Creeper" book="Deadzone: Outbreak" page="76" hidden="false" collective="false" type="unit">
+    <selectionEntry id="ed8d-f769-04da-90f3" name="Sucio" book="Deadzone: Outbreak" page="76" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="8b03-6539-14ee-bb18" name="Creeper" book="Deadzone: Outbreak" page="76" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
+        <profile id="8b03-6539-14ee-bb18" name="Sucio" book="Deadzone: Outbreak" page="76" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1667,9 +1667,9 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="14.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="34d4-fefd-9bbf-48cf" name="Nightmare" book="Deadzone: Outbreak" page="77" hidden="false" collective="false" type="unit">
+    <selectionEntry id="34d4-fefd-9bbf-48cf" name="Pesadilla" book="Deadzone: Outbreak" page="77" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="e673-b5ec-2de5-910c" name="Nightmare" book="Deadzone: Outbreak" page="77" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
+        <profile id="e673-b5ec-2de5-910c" name="Pesadilla" book="Deadzone: Outbreak" page="77" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1821,9 +1821,9 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="17.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="1213-0ff7-d50d-fc9d" name="Rumbler Weapons Plataforma" book="Deadzone: Outbreak" page="77" hidden="false" collective="false" type="unit">
+    <selectionEntry id="1213-0ff7-d50d-fc9d" name="Arma Retumbadoras Plataforma" book="Deadzone: Outbreak" page="77" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="cc85-3a62-0516-658e" name="Rumbler Weapons Plataforma" book="Deadzone: Outbreak" page="77" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
+        <profile id="cc85-3a62-0516-658e" name="Arma Retumbadoras Plataforma" book="Deadzone: Outbreak" page="77" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1913,9 +1913,9 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="16.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="3ddf-14ec-380d-da79" name="Tangle" book="Deadzone: Outbreak" page="77" hidden="false" collective="false" type="unit">
+    <selectionEntry id="3ddf-14ec-380d-da79" name="Maraña [Tejedor]" book="Deadzone: Outbreak" page="77" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="074e-f5cf-b95e-1574" name="Tangle" book="Deadzone: Outbreak" page="77" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
+        <profile id="074e-f5cf-b95e-1574" name="Maraña [Tejedor]" book="Deadzone: Outbreak" page="77" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -3451,9 +3451,9 @@
       </constraints>
       <categoryLinks/>
       <selectionEntries>
-        <selectionEntry id="24ca-e940-18c8-6139" name="Toxic Grenade (+)" hidden="false" collective="false" type="upgrade">
+        <selectionEntry id="24ca-e940-18c8-6139" name="Toxic Granada (+)" hidden="false" collective="false" type="upgrade">
           <profiles>
-            <profile id="17bb-f5b8-7b1c-9e68" name="Toxic Grenade" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+            <profile id="17bb-f5b8-7b1c-9e68" name="Toxic Granada" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -3461,20 +3461,20 @@
               <characteristics>
                 <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A3"/>
                 <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
-                <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Grenade, Toxic Smokescreen, One Use"/>
+                <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Granada, Toxic Smokescreen, Un solo Uso"/>
                 <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c"/>
               </characteristics>
             </profile>
           </profiles>
           <rules/>
           <infoLinks>
-            <infoLink id="27ed-7965-3fbc-9bfd" name="One Use" hidden="false" targetId="dfd9-06aa-8e54-53af" type="rule">
+            <infoLink id="27ed-7965-3fbc-9bfd" name="Un solo Uso" hidden="false" targetId="dfd9-06aa-8e54-53af" type="rule">
               <profiles/>
               <rules/>
               <infoLinks/>
               <modifiers/>
             </infoLink>
-            <infoLink id="987f-2a58-19df-d51c" name="Grenade" hidden="false" targetId="336e-9dc4-7706-61d6" type="rule">
+            <infoLink id="987f-2a58-19df-d51c" name="Granada" hidden="false" targetId="336e-9dc4-7706-61d6" type="rule">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -3673,7 +3673,7 @@ It disperses in the same way as a Granada de Humo.</description>
         <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A1"/>
         <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="PA1"/>
         <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="¡Quema!"/>
-        <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Leader"/>
+        <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Líder"/>
       </characteristics>
     </profile>
     <profile id="df87-ddb6-9412-edf3" name="Spitter Rifle" book="Deadzone: Outbreak" page="78" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
@@ -3685,7 +3685,7 @@ It disperses in the same way as a Granada de Humo.</description>
         <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A6"/>
         <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="PA1"/>
         <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Mira Telescópica, Pesada"/>
-        <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Leader, Ligera (Francotirador)"/>
+        <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Líder, Ligera (Francotirador)"/>
       </characteristics>
     </profile>
     <profile id="d2c5-afcf-3226-c6f4" name="Chem Thrower" book="Deadzone: Outbreak" page="78" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
@@ -3865,7 +3865,7 @@ It disperses in the same way as a Granada de Humo.</description>
         <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A5"/>
         <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
         <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Indirect (Smoke)"/>
-        <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Leader, Ligera (Explosiva)"/>
+        <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Líder, Ligera (Explosiva)"/>
       </characteristics>
     </profile>
     <profile id="c1b2-9fc9-abd9-fb82" name="Toxic Lanzagranadas" book="Deadzone: Outbreak" page="78" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
@@ -3877,7 +3877,7 @@ It disperses in the same way as a Granada de Humo.</description>
         <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A5"/>
         <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
         <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Indirect (Toxic)"/>
-        <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Leader, Ligera (Explosiva)"/>
+        <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Líder, Ligera (Explosiva)"/>
       </characteristics>
     </profile>
   </sharedProfiles>

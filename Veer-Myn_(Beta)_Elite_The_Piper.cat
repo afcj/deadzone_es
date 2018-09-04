@@ -8,9 +8,9 @@
   <categoryEntries/>
   <forceEntries/>
   <selectionEntries>
-    <selectionEntry id="2fb9-c503-9eac-b6fe" name="Crawler" book="" hidden="false" collective="false" type="unit">
+    <selectionEntry id="2fb9-c503-9eac-b6fe" name="Acechante" book="" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="d9c6-15b6-5d58-163e" name="Crawler" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
+        <profile id="d9c6-15b6-5d58-163e" name="Acechante" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -93,9 +93,9 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="10.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="8bf1-2bff-d372-95c4" name="Night Terror with Scythes" hidden="false" collective="false" type="unit">
+    <selectionEntry id="8bf1-2bff-d372-95c4" name="Terror Nocturno con Guadañas" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="ef63-a6b0-5dbe-93e0" name="Night Terror with Scythes" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
+        <profile id="ef63-a6b0-5dbe-93e0" name="Terror Nocturno con Guadañas" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -173,9 +173,9 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="26.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="b67a-a45c-2f16-bcf4" name="Night Terror with Spitter" hidden="false" collective="false" type="unit">
+    <selectionEntry id="b67a-a45c-2f16-bcf4" name="Terror Nocturno con Escupidor" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="40c8-ee33-b282-cac1" name="Night Terror with Spitter" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
+        <profile id="40c8-ee33-b282-cac1" name="Terror Nocturno con Escupidor" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -264,9 +264,9 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="26.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="17ad-1448-7e28-6233" name="Nightmare" hidden="false" collective="false" type="unit">
+    <selectionEntry id="17ad-1448-7e28-6233" name="Pesadilla" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="b878-8623-4bdc-aa1d" name="Nightmare" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
+        <profile id="b878-8623-4bdc-aa1d" name="Pesadilla" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -418,9 +418,9 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="17.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="2fd5-4500-0b7c-3537" name="Stalker" hidden="false" collective="false" type="unit">
+    <selectionEntry id="2fd5-4500-0b7c-3537" name="Acosador" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="bee3-5d7e-8bed-3c62" name="Stalker" book="Deadzone: Infestación" page="16" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
+        <profile id="bee3-5d7e-8bed-3c62" name="Acosador" book="Deadzone: Infestación" page="16" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -536,7 +536,7 @@
     </selectionEntry>
     <selectionEntry id="8945-440e-94cc-b479" name="The Piper" book="Deadzone: Infestación" hidden="false" collective="false" type="model">
       <profiles>
-        <profile id="1e39-7030-f6be-2912" name="The Piper" book="Deadzone: Infestación" page="16" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Leader">
+        <profile id="1e39-7030-f6be-2912" name="The Piper" book="Deadzone: Infestación" page="16" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Líder">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -2087,7 +2087,7 @@ It disperses in the same way as a Granada de Humo.</description>
         <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A1"/>
         <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="PA1"/>
         <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="¡Quema!"/>
-        <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Leader"/>
+        <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Líder"/>
       </characteristics>
     </profile>
     <profile id="d5ec-5b37-57ef-807a" name="Chem Thrower" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
@@ -2219,7 +2219,7 @@ It disperses in the same way as a Granada de Humo.</description>
         <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A5"/>
         <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
         <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Indirect (Smoke)"/>
-        <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Leader, Ligera (Explosiva)"/>
+        <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Líder, Ligera (Explosiva)"/>
       </characteristics>
     </profile>
     <profile id="b3ec-acf6-b583-dce4" name="Spitter Rifle" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
@@ -2231,7 +2231,7 @@ It disperses in the same way as a Granada de Humo.</description>
         <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A6"/>
         <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="PA1"/>
         <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Mira Telescópica, Pesada"/>
-        <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Leader, Ligera (Francotirador)"/>
+        <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Líder, Ligera (Francotirador)"/>
       </characteristics>
     </profile>
     <profile id="f30b-e4d7-03f3-6d82" name="Super Pesada Chem Spitter" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
@@ -2267,7 +2267,7 @@ It disperses in the same way as a Granada de Humo.</description>
         <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A5"/>
         <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
         <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Indirect (Toxic)"/>
-        <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Leader, Ligera (Explosiva)"/>
+        <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Líder, Ligera (Explosiva)"/>
       </characteristics>
     </profile>
     <profile id="ef2e-8b7c-624d-6f19" name="Twin Chem Spitter" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">

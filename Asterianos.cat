@@ -10,7 +10,7 @@
   <selectionEntries>
     <selectionEntry id="7881-d778-ac63-7375" name="Supervisor" book="Reglamento Deadzone 2ª Edición" page="73" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="04ae-54c9-06b2-4399" name="Supervisor" book="Reglamento Deadzone 2ª Edición" page="73" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Leader">
+        <profile id="04ae-54c9-06b2-4399" name="Supervisor" book="Reglamento Deadzone 2ª Edición" page="73" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Líder">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -249,7 +249,7 @@
     </selectionEntry>
     <selectionEntry id="a805-80b2-a76e-9f6a" name="Cifra Supremo" book="Reglamento Deadzone 2ª Edición" page="73" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="6380-5238-2775-920d" name="Cifra Supremo" book="Reglamento Deadzone 2ª Edición" page="73" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Leader">
+        <profile id="6380-5238-2775-920d" name="Cifra Supremo" book="Reglamento Deadzone 2ª Edición" page="73" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Líder">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -3156,7 +3156,7 @@
     </selectionEntry>
     <selectionEntry id="b721-ddb3-7cb1-97b8" name="Garra Negra Supremo" book="Lista de Ejército Asterianos (Descargable)" page="3" hidden="false" collective="false" type="model">
       <profiles>
-        <profile id="a5ff-3aef-b76a-880c" name="Garra Negra Supremo" book="Lista de Ejército Asterianos (Descargable)" page="3" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Leader">
+        <profile id="a5ff-3aef-b76a-880c" name="Garra Negra Supremo" book="Lista de Ejército Asterianos (Descargable)" page="3" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Líder">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -3364,7 +3364,7 @@
     </selectionEntry>
     <selectionEntry id="56f0-1ee6-94a9-9f35" name="Derviche Kalyshi" book="Lista de Ejército Asterianos (Descargable)" page="2" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="2369-0d05-4bfb-8d05" name="Derviche Kalyshi" book="Lista de Ejército Asterianos (Descargable)" page="2" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Leader">
+        <profile id="2369-0d05-4bfb-8d05" name="Derviche Kalyshi" book="Lista de Ejército Asterianos (Descargable)" page="2" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Líder">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -3609,7 +3609,7 @@
     </selectionEntry>
     <selectionEntry id="782c-4076-a109-6449" name="Nem-Rath" book="Deadzone: Infestación" page="34" hidden="false" collective="false" type="model">
       <profiles>
-        <profile id="53ce-a263-57ae-3e3f" name="Nem-Rath" book="Deadzone: Infestación" page="36" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Leader">
+        <profile id="53ce-a263-57ae-3e3f" name="Nem-Rath" book="Deadzone: Infestación" page="36" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Líder">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -3881,7 +3881,7 @@
     </selectionEntry>
     <selectionEntry id="38ce-8e0d-f349-6191" name="Ten &apos;Ur-Go" book="Deadzone: Outbreak" page="80" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="c846-03a8-6947-2976" name="Ten &apos;Ur-Go" book="Deadzone: Outbreak" page="80" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Leader">
+        <profile id="c846-03a8-6947-2976" name="Ten &apos;Ur-Go" book="Deadzone: Outbreak" page="80" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Líder">
           <profiles/>
           <rules/>
           <infoLinks/>

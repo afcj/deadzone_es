@@ -10,7 +10,7 @@
   <selectionEntries>
     <selectionEntry id="4a13-bfb6-2282-7a2e" name="Fase 1A" book="Reglamento Deadzone 2ª Edición" page="49" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="9a9b-a136-d63f-616e" name="Fase 1A" book="Reglamento Deadzone 2ª Edición" page="49" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Leader">
+        <profile id="9a9b-a136-d63f-616e" name="Fase 1A" book="Reglamento Deadzone 2ª Edición" page="49" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Líder">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -117,7 +117,7 @@
     </selectionEntry>
     <selectionEntry id="89f6-9f41-f4b6-10a5" name="Fase 3A &quot;General&quot;" book="Reglamento Deadzone 2ª Edición" page="49" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="cec6-10f7-0a2e-458f" name="Fase 3A &quot;General&quot;" book="Reglamento Deadzone 2ª Edición" page="49" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Leader">
+        <profile id="cec6-10f7-0a2e-458f" name="Fase 3A &quot;General&quot;" book="Reglamento Deadzone 2ª Edición" page="49" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Líder">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1928,7 +1928,7 @@
     </selectionEntry>
     <selectionEntry id="2fb1-6625-5dff-0ba7" name="Fase 3A &quot;Teniente&quot;" book="Deadzone: Outbreak" page="62" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="78f5-dd1d-a94f-5d17" name="Fase 3A &quot;Teniente&quot;" book="Deadzone: Outbreak" page="62" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Leader">
+        <profile id="78f5-dd1d-a94f-5d17" name="Fase 3A &quot;Teniente&quot;" book="Deadzone: Outbreak" page="62" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Líder">
           <profiles/>
           <rules/>
           <infoLinks/>

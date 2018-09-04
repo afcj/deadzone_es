@@ -10,7 +10,7 @@
   <selectionEntries>
     <selectionEntry id="391d-9013-6d70-cac4" name="Adrienne Nikolovski" book="Deadzone: Infestación" page="28" hidden="false" collective="false" type="model">
       <profiles>
-        <profile id="fdfe-d6dd-6d98-8d4a" name="Adrienne Nikolovski" book="Deadzone: Infestación" page="28" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Leader">
+        <profile id="fdfe-d6dd-6d98-8d4a" name="Adrienne Nikolovski" book="Deadzone: Infestación" page="28" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Líder">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -534,9 +534,9 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="30.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="5478-ae5d-e76b-fa71" name="Rebel Trooper" book="Deadzone: Infestación" page="28" hidden="false" collective="false" type="unit">
+    <selectionEntry id="5478-ae5d-e76b-fa71" name="Soldado Rebelde" book="Deadzone: Infestación" page="28" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="daa3-8d4a-0af2-f835" name="Rebel Trooper" book="Deadzone: Infestación" page="28" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
+        <profile id="daa3-8d4a-0af2-f835" name="Soldado Rebelde" book="Deadzone: Infestación" page="28" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1100,9 +1100,9 @@
         <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="9981-4b3f-99a6-aba9" name="Zee Scavenger" book="Deadzone: Infestación" page="28" hidden="false" collective="false" type="unit">
+    <selectionEntry id="9981-4b3f-99a6-aba9" name="Saqueador Zee" book="Deadzone: Infestación" page="28" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="1d63-19fb-538c-e7cb" name="Zee Scavenger" book="Deadzone: Infestación" page="28" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
+        <profile id="1d63-19fb-538c-e7cb" name="Saqueador Zee" book="Deadzone: Infestación" page="28" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -2093,7 +2093,7 @@
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="b348-694e-debd-c554" name="One Use" hidden="false" targetId="dfd9-06aa-8e54-53af" type="rule">
+        <infoLink id="b348-694e-debd-c554" name="Un solo Uso" hidden="false" targetId="dfd9-06aa-8e54-53af" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -2133,7 +2133,7 @@
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="9e6c-ea2e-08d8-f218" name="One Use" hidden="false" targetId="dfd9-06aa-8e54-53af" type="rule">
+        <infoLink id="9e6c-ea2e-08d8-f218" name="Un solo Uso" hidden="false" targetId="dfd9-06aa-8e54-53af" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -2685,7 +2685,7 @@
       <characteristics>
         <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A2"/>
         <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
-        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="One Use, ¡Quema!"/>
+        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Un solo Uso, ¡Quema!"/>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Asalto)"/>
       </characteristics>
     </profile>
@@ -2697,7 +2697,7 @@
       <characteristics>
         <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A3"/>
         <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
-        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="One Use, Fragmentación (3)"/>
+        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Un solo Uso, Fragmentación (3)"/>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Explosiva)"/>
       </characteristics>
     </profile>

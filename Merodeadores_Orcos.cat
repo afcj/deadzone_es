@@ -8,9 +8,9 @@
   <categoryEntries/>
   <forceEntries/>
   <selectionEntries>
-    <selectionEntry id="6408-255e-57f1-39fd" name="Commando Captain" book="Reglamento Deadzone 2ª Edición + Erratas v2.1" page="79" hidden="false" collective="false" type="unit">
+    <selectionEntry id="6408-255e-57f1-39fd" name="Capitán Comando" book="Reglamento Deadzone 2ª Edición + Erratas v2.1" page="79" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="4e35-6435-b3e3-c88e" name="Commando Captain" book="Reglamento Deadzone 2ª Edición" page="79" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Leader">
+        <profile id="4e35-6435-b3e3-c88e" name="Capitán Comando" book="Reglamento Deadzone 2ª Edición" page="79" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Líder">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -140,9 +140,9 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="28.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="27b2-b49d-7830-1d43" name="Commando Sergeant" book="Reglamento Deadzone 2ª Edición" page="79" hidden="false" collective="false" type="unit">
+    <selectionEntry id="27b2-b49d-7830-1d43" name="Sargento Comando" book="Reglamento Deadzone 2ª Edición" page="79" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="4622-501f-85db-8cb6" name="Commando Sergeant" book="Reglamento Deadzone 2ª Edición" page="79" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Leader">
+        <profile id="4622-501f-85db-8cb6" name="Sargento Comando" book="Reglamento Deadzone 2ª Edición" page="79" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Líder">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -164,7 +164,7 @@
           <rules/>
           <infoLinks/>
           <modifiers/>
-          <description>You may spend an Army Special result on your Command Dice to re-roll any normal test made by a model with Commando in their type name.</description>
+          <description>You may spend an Army Special result on your Command Dice to re-roll any normal test made by a model with Comando in their type name.</description>
         </rule>
       </rules>
       <infoLinks>
@@ -302,9 +302,9 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="18.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="992c-0492-5c46-7944" name="Marauder Warlord" book="Reglamento Deadzone 2ª Edición + Erratas v2.1" page="79" hidden="false" collective="false" type="unit">
+    <selectionEntry id="992c-0492-5c46-7944" name="Caudillo Merodeador" book="Reglamento Deadzone 2ª Edición + Erratas v2.1" page="79" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="9b10-729b-f6f7-ca9d" name="Marauder Warlord" book="Reglamento Deadzone 2ª Edición" page="79" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Leader">
+        <profile id="9b10-729b-f6f7-ca9d" name="Caudillo Merodeador" book="Reglamento Deadzone 2ª Edición" page="79" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Líder">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -482,9 +482,9 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="26.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="bb17-2b22-a11c-a7e8" name="Commando" book="Reglamento Deadzone 2ª Edición" page="80" hidden="true" collective="false" type="unit">
+    <selectionEntry id="bb17-2b22-a11c-a7e8" name="Comando" book="Reglamento Deadzone 2ª Edición" page="80" hidden="true" collective="false" type="unit">
       <profiles>
-        <profile id="e96f-07a7-f3e0-aea7" name="Commando" book="Reglamento Deadzone 2ª Edición" page="80" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
+        <profile id="e96f-07a7-f3e0-aea7" name="Comando" book="Reglamento Deadzone 2ª Edición" page="80" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -660,9 +660,9 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="12.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="8385-c6aa-8a83-474e" name="Mawbeast" book="Reglamento Deadzone 2ª Edición" page="80" hidden="true" collective="false" type="unit">
+    <selectionEntry id="8385-c6aa-8a83-474e" name="Bocón" book="Reglamento Deadzone 2ª Edición" page="80" hidden="true" collective="false" type="unit">
       <profiles>
-        <profile id="87ac-1eb3-c234-1e5b" name="Mawbeast" book="Reglamento Deadzone 2ª Edición" page="80" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
+        <profile id="87ac-1eb3-c234-1e5b" name="Bocón" book="Reglamento Deadzone 2ª Edición" page="80" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -752,9 +752,9 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="12.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="35b1-dd9e-7111-46f9" name="Commando Especialista" book="Reglamento Deadzone 2ª Edición" page="80" hidden="true" collective="false" type="unit">
+    <selectionEntry id="35b1-dd9e-7111-46f9" name="Comando Especialista" book="Reglamento Deadzone 2ª Edición" page="80" hidden="true" collective="false" type="unit">
       <profiles>
-        <profile id="3b4f-76db-7a6d-fdd5" name="Commando Especialista" book="Reglamento Deadzone 2ª Edición" page="80" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
+        <profile id="3b4f-76db-7a6d-fdd5" name="Comando Especialista" book="Reglamento Deadzone 2ª Edición" page="80" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -903,9 +903,9 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="12.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="7c3c-9d2c-eaf1-5535" name="Goblin Sniper" book="Reglamento Deadzone 2ª Edición" page="80" hidden="true" collective="false" type="unit">
+    <selectionEntry id="7c3c-9d2c-eaf1-5535" name="Francotirador Goblin" book="Reglamento Deadzone 2ª Edición" page="80" hidden="true" collective="false" type="unit">
       <profiles>
-        <profile id="8e00-170d-69ac-6a9e" name="Goblin Sniper" book="Reglamento Deadzone 2ª Edición" page="80" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
+        <profile id="8e00-170d-69ac-6a9e" name="Francotirador Goblin" book="Reglamento Deadzone 2ª Edición" page="80" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1058,9 +1058,9 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="14.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="fd5c-8ac8-e643-7bab" name="Hulk" book="Reglamento Deadzone 2ª Edición + Erratas v2.1" page="80" hidden="true" collective="false" type="unit">
+    <selectionEntry id="fd5c-8ac8-e643-7bab" name="Mole [Hulk]" book="Reglamento Deadzone 2ª Edición + Erratas v2.1" page="80" hidden="true" collective="false" type="unit">
       <profiles>
-        <profile id="126b-7d46-eae4-e87b" name="Hulk" book="Reglamento Deadzone 2ª Edición" page="80" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
+        <profile id="126b-7d46-eae4-e87b" name="Mole [Hulk]" book="Reglamento Deadzone 2ª Edición" page="80" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1240,9 +1240,9 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="30.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="3a7c-8fc2-5df7-df6b" name="Ripper Mauler" book="Reglamento Deadzone 2ª Edición + Erratas v2.1" page="81" hidden="true" collective="false" type="unit">
+    <selectionEntry id="3a7c-8fc2-5df7-df6b" name="Destripador Triturador [Ripper Mauler]" book="Reglamento Deadzone 2ª Edición + Erratas v2.1" page="81" hidden="true" collective="false" type="unit">
       <profiles>
-        <profile id="85a0-bf62-1e15-28d8" name="Ripper Mauler" book="Reglamento Deadzone 2ª Edición" page="81" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
+        <profile id="85a0-bf62-1e15-28d8" name="Destripador Triturador [Ripper Mauler]" book="Reglamento Deadzone 2ª Edición" page="81" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1374,9 +1374,9 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="25.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="6d28-4161-cc3b-25dc" name="Ripper Rainmaker" book="Reglamento Deadzone 2ª Edición + Erratas v2.1" page="81" hidden="true" collective="false" type="unit">
+    <selectionEntry id="6d28-4161-cc3b-25dc" name="Destripador Lluviaplomo [Ripper Rainmaker]" book="Reglamento Deadzone 2ª Edición + Erratas v2.1" page="81" hidden="true" collective="false" type="unit">
       <profiles>
-        <profile id="930e-3ce1-32ab-6603" name="Ripper Rainmaker" book="Reglamento Deadzone 2ª Edición" page="81" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
+        <profile id="930e-3ce1-32ab-6603" name="Destripador Lluviaplomo [Ripper Rainmaker]" book="Reglamento Deadzone 2ª Edición" page="81" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1556,9 +1556,9 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="27.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="bb4e-eb1e-ffe6-f546" name="Mawbeast Bomber" book="Reglamento Deadzone 2ª Edición" page="81" hidden="true" collective="false" type="unit">
+    <selectionEntry id="bb4e-eb1e-ffe6-f546" name="Bocón Explosivo" book="Reglamento Deadzone 2ª Edición" page="81" hidden="true" collective="false" type="unit">
       <profiles>
-        <profile id="6149-baa2-47fb-e863" name="Mawbeast Bomber" book="Reglamento Deadzone 2ª Edición" page="81" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
+        <profile id="6149-baa2-47fb-e863" name="Bocón Explosivo" book="Reglamento Deadzone 2ª Edición" page="81" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1653,9 +1653,9 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="14.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="8d35-2bee-847b-650a" name="Sky Scraper" book="Reglamento Deadzone 2ª Edición" page="81" hidden="true" collective="false" type="unit">
+    <selectionEntry id="8d35-2bee-847b-650a" name="Rascacielos" book="Reglamento Deadzone 2ª Edición" page="81" hidden="true" collective="false" type="unit">
       <profiles>
-        <profile id="4715-f7b5-2bdd-31b1" name="Sky Scraper" book="Reglamento Deadzone 2ª Edición" page="81" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
+        <profile id="4715-f7b5-2bdd-31b1" name="Rascacielos" book="Reglamento Deadzone 2ª Edición" page="81" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1843,9 +1843,9 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="15.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="07aa-6ace-5ead-f69b" name="Guntrack" book="Reglamento Deadzone 2ª Edición + Erratas v2.1" page="81" hidden="true" collective="false" type="unit">
+    <selectionEntry id="07aa-6ace-5ead-f69b" name="Cañón Mecanizado" book="Reglamento Deadzone 2ª Edición + Erratas v2.1" page="81" hidden="true" collective="false" type="unit">
       <profiles>
-        <profile id="5b55-ce1f-3602-d1de" name="Guntrack" book="Reglamento Deadzone 2ª Edición" page="81" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
+        <profile id="5b55-ce1f-3602-d1de" name="Cañón Mecanizado" book="Reglamento Deadzone 2ª Edición" page="81" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1941,9 +1941,9 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="13.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="ad47-01e7-7981-ddd9" name="Stuntbot" book="Reglamento Deadzone 2ª Edición + Erratas v2.1" page="82" hidden="true" collective="false" type="unit">
+    <selectionEntry id="ad47-01e7-7981-ddd9" name="Robotorpe" book="Reglamento Deadzone 2ª Edición + Erratas v2.1" page="82" hidden="true" collective="false" type="unit">
       <profiles>
-        <profile id="5366-3790-c8e2-2b6f" name="Stuntbot" book="Reglamento Deadzone 2ª Edición" page="82" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
+        <profile id="5366-3790-c8e2-2b6f" name="Robotorpe" book="Reglamento Deadzone 2ª Edición" page="82" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -3405,7 +3405,7 @@
     </selectionEntry>
     <selectionEntry id="69c5-9d70-3ac0-0e43" name="Jefe Mauhulakh" book="Deadzone: Infestación" page="32" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="fabd-8ee9-b82e-8ed5" name="Jefe Mauhulakh" book="Deadzone: Infestación" page="32" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Leader">
+        <profile id="fabd-8ee9-b82e-8ed5" name="Jefe Mauhulakh" book="Deadzone: Infestación" page="32" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Líder">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -3545,9 +3545,9 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="28.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="1fa0-9c6e-4b62-de61" name="Commando Especialista" book="Reglamento Deadzone 2ª Edición" page="80" hidden="true" collective="false" type="unit">
+    <selectionEntry id="1fa0-9c6e-4b62-de61" name="Comando Especialista" book="Reglamento Deadzone 2ª Edición" page="80" hidden="true" collective="false" type="unit">
       <profiles>
-        <profile id="0357-088b-e1c8-0a7c" name="Commando Especialista" book="Reglamento Deadzone 2ª Edición" page="80" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
+        <profile id="0357-088b-e1c8-0a7c" name="Comando Especialista" book="Reglamento Deadzone 2ª Edición" page="80" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -3677,7 +3677,7 @@
     </selectionEntry>
     <selectionEntry id="cffc-03c3-7261-fdeb" name="Jefe Radgrad" book="Deadzone: Outbreak" page="84" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="9a1a-4d4c-8b84-2fb5" name="Jefe Radgrad" book="Deadzone: Outbreak" page="84" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Leader">
+        <profile id="9a1a-4d4c-8b84-2fb5" name="Jefe Radgrad" book="Deadzone: Outbreak" page="84" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Líder">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -3984,7 +3984,7 @@
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="5062-355c-1197-f714" name="One Use" hidden="false" targetId="dfd9-06aa-8e54-53af" type="rule">
+        <infoLink id="5062-355c-1197-f714" name="Un solo Uso" hidden="false" targetId="dfd9-06aa-8e54-53af" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -4312,7 +4312,7 @@
             </modifier>
           </modifiers>
         </infoLink>
-        <infoLink id="bb44-4f7d-4d50-4d30" name="One Use" hidden="false" targetId="dfd9-06aa-8e54-53af" type="rule">
+        <infoLink id="bb44-4f7d-4d50-4d30" name="Un solo Uso" hidden="false" targetId="dfd9-06aa-8e54-53af" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -4697,7 +4697,7 @@
       <characteristics>
         <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A2"/>
         <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
-        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="One Use, ¡Quema!"/>
+        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Un solo Uso, ¡Quema!"/>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Andador (Asalto)"/>
       </characteristics>
     </profile>
@@ -4817,7 +4817,7 @@
       <characteristics>
         <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A8"/>
         <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
-        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Indirect (3), One Use"/>
+        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Indirect (3), Un solo Uso"/>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Pesada (Explosiva)"/>
       </characteristics>
     </profile>
@@ -4830,7 +4830,7 @@
         <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A12"/>
         <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="PA5"/>
         <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Pesada, Cadencia de Fuego (1)"/>
-        <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Vehículo (Lanza), Hulk"/>
+        <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Vehículo (Lanza), Mole [Hulk]"/>
       </characteristics>
     </profile>
     <profile id="c2e4-6130-8ed3-206a" name="Pesada Mortar" book="Reglamento Deadzone 2ª Edición" page="82" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">

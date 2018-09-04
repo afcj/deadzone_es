@@ -10,7 +10,7 @@
   <selectionEntries>
     <selectionEntry id="3035-9267-2a08-1bfc" name="The Fear" book="Deadzone: Outbreak" page="56" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="9584-92c0-51fe-c077" name="The Fear" book="Deadzone: Outbreak" page="56" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Leader">
+        <profile id="9584-92c0-51fe-c077" name="The Fear" book="Deadzone: Outbreak" page="56" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Líder">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -194,7 +194,7 @@
     </selectionEntry>
     <selectionEntry id="2c0f-59f0-68da-dd33" name="Psychotroid" book="Deadzone: Outbreak" page="56" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="e46b-dfc7-7ff5-82cb" name="Psychotroid" book="Deadzone: Outbreak" page="56" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Leader">
+        <profile id="e46b-dfc7-7ff5-82cb" name="Psychotroid" book="Deadzone: Outbreak" page="56" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Líder">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -412,7 +412,7 @@
     </selectionEntry>
     <selectionEntry id="4685-0f46-c5e2-a523" name="The Blight" book="Deadzone: Outbreak" page="57" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="29ed-333c-d67c-2a45" name="The Blight" book="Deadzone: Outbreak" page="57" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Leader">
+        <profile id="29ed-333c-d67c-2a45" name="The Blight" book="Deadzone: Outbreak" page="57" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Líder">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -2992,7 +2992,7 @@
     </selectionEntry>
     <selectionEntry id="aac5-7756-ce9f-38e4" name="Proyecto Oberón" book="Deadzone: Outbreak" page="85" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="06bc-5e6e-0408-3f99" name="Proyecto Oberón" book="Deadzone: Outbreak" page="85" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Leader">
+        <profile id="06bc-5e6e-0408-3f99" name="Proyecto Oberón" book="Deadzone: Outbreak" page="85" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Líder">
           <profiles/>
           <rules/>
           <infoLinks/>

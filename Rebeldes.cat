@@ -8,9 +8,9 @@
   <categoryEntries/>
   <forceEntries/>
   <selectionEntries>
-    <selectionEntry id="856b-17c7-4802-231f" name="Rebel Commander" book="Reglamento Deadzone 2ª Edición" page="75" hidden="false" collective="false" type="unit">
+    <selectionEntry id="856b-17c7-4802-231f" name="Comandante Rebelde" book="Reglamento Deadzone 2ª Edición" page="75" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="4692-9f77-5d75-bea0" name="Rebel Commander" book="Reglamento Deadzone 2ª Edición" page="85" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Leader">
+        <profile id="4692-9f77-5d75-bea0" name="Comandante Rebelde" book="Reglamento Deadzone 2ª Edición" page="85" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Líder">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -188,9 +188,9 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="28.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="56c8-a16e-1066-fc7b" name="Yndij Infiltrator Commander" book="Reglamento Deadzone 2ª Edición" page="85" hidden="false" collective="false" type="unit">
+    <selectionEntry id="56c8-a16e-1066-fc7b" name="Comandante de Infiltración Yndij" book="Reglamento Deadzone 2ª Edición" page="85" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="e2ff-63ae-f454-9d57" name="Yndij Infiltrator Commander" book="Reglamento Deadzone 2ª Edición" page="85" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Leader">
+        <profile id="e2ff-63ae-f454-9d57" name="Comandante de Infiltración Yndij" book="Reglamento Deadzone 2ª Edición" page="85" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Líder">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -380,9 +380,9 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="20.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="9753-3d8b-b0f4-1d18" name="Rebel Trooper" book="Reglamento Deadzone 2ª Edición" page="86" hidden="false" collective="false" type="unit">
+    <selectionEntry id="9753-3d8b-b0f4-1d18" name="Soldado Rebelde" book="Reglamento Deadzone 2ª Edición" page="86" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="baaf-7115-3171-cddf" name="Rebel Trooper" book="Reglamento Deadzone 2ª Edición" page="86" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
+        <profile id="baaf-7115-3171-cddf" name="Soldado Rebelde" book="Reglamento Deadzone 2ª Edición" page="86" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -514,9 +514,9 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="7.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="0cc8-839f-97b9-66ec" name="Rebel Yndij" book="Reglamento Deadzone 2ª Edición" page="86" hidden="false" collective="false" type="unit">
+    <selectionEntry id="0cc8-839f-97b9-66ec" name="Yndij Rebelde" book="Reglamento Deadzone 2ª Edición" page="86" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="250b-2abf-66cc-7373" name="Rebel Yndij" book="Reglamento Deadzone 2ª Edición" page="86" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
+        <profile id="250b-2abf-66cc-7373" name="Yndij Rebelde" book="Reglamento Deadzone 2ª Edición" page="86" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -661,9 +661,9 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="12.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="ac56-bd80-13b0-ca65" name="Rebel Sorak" book="Reglamento Deadzone 2ª Edición + Erratas v2.1" page="86" hidden="false" collective="false" type="unit">
+    <selectionEntry id="ac56-bd80-13b0-ca65" name="Sorak Rebelde" book="Reglamento Deadzone 2ª Edición + Erratas v2.1" page="86" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="728e-6993-7a80-f5b3" name="Rebel Sorak" book="Reglamento Deadzone 2ª Edición" page="86" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
+        <profile id="728e-6993-7a80-f5b3" name="Sorak Rebelde" book="Reglamento Deadzone 2ª Edición" page="86" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -978,9 +978,9 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="7.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="1f60-d906-3c70-1362" name="Kraaw Warrior" book="Reglamento Deadzone 2ª Edición + Erratas v2.1" page="87" hidden="false" collective="false" type="unit">
+    <selectionEntry id="1f60-d906-3c70-1362" name="Guerrero Kraaw" book="Reglamento Deadzone 2ª Edición + Erratas v2.1" page="87" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="7f88-c37e-1a2d-44b6" name="Kraaw Warrior" book="Reglamento Deadzone 2ª Edición" page="87" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
+        <profile id="7f88-c37e-1a2d-44b6" name="Guerrero Kraaw" book="Reglamento Deadzone 2ª Edición" page="87" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1162,9 +1162,9 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="10.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="fe25-6767-0e6a-fbca" name="Zee Scavenger" book="Reglamento Deadzone 2ª Edición" page="87" hidden="false" collective="false" type="unit">
+    <selectionEntry id="fe25-6767-0e6a-fbca" name="Saqueador Zee" book="Reglamento Deadzone 2ª Edición" page="87" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="8f8a-bd15-7a80-a259" name="Zee Scavenger" book="Reglamento Deadzone 2ª Edición" page="87" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
+        <profile id="8f8a-bd15-7a80-a259" name="Saqueador Zee" book="Reglamento Deadzone 2ª Edición" page="87" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -2539,9 +2539,9 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="11.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="27a2-7a6d-ddc3-46fc" name="Rebel Sorak Swordspawn" book="Reglamento Deadzone 2ª Edición + Erratas v2.1" hidden="false" collective="false" type="unit">
+    <selectionEntry id="27a2-7a6d-ddc3-46fc" name="Sorak Rebelde Espadanato" book="Reglamento Deadzone 2ª Edición + Erratas v2.1" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="6082-b343-f1ca-204b" name="Rebel Sorak Swordspawn" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
+        <profile id="6082-b343-f1ca-204b" name="Sorak Rebelde Espadanato" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -3086,7 +3086,7 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="5692-2a21-b695-5fbf" name="Eddak PMera" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="5692-2a21-b695-5fbf" name="Eddak P'Mera" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -3104,7 +3104,7 @@
       <selectionEntries/>
       <selectionEntryGroups/>
       <entryLinks>
-        <entryLink id="84c9-9e0a-779a-d77d" name="Eddak PMera" hidden="false" targetId="546a-e2df-8db8-0091" type="selectionEntry">
+        <entryLink id="84c9-9e0a-779a-d77d" name="Eddak P'Mera" hidden="false" targetId="546a-e2df-8db8-0091" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -3430,9 +3430,9 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="fa37-2810-af27-94f2" name="Rebel Cell Leader" book="Deadzone: Outbreak" page="68" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="fa37-2810-af27-94f2" name="Rebel Cell Líder" book="Deadzone: Outbreak" page="68" hidden="false" collective="false" type="upgrade">
       <profiles>
-        <profile id="b543-efb8-92b9-c62d" name="Rebel Cell Leader" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Leader">
+        <profile id="b543-efb8-92b9-c62d" name="Rebel Cell Líder" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Líder">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -4128,7 +4128,7 @@
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="67eb-7f3f-b513-2d3c" name="One Use" hidden="false" targetId="dfd9-06aa-8e54-53af" type="rule">
+        <infoLink id="67eb-7f3f-b513-2d3c" name="Un solo Uso" hidden="false" targetId="dfd9-06aa-8e54-53af" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -4162,7 +4162,7 @@
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="7704-878c-265e-1de2" name="One Use" hidden="false" targetId="dfd9-06aa-8e54-53af" type="rule">
+        <infoLink id="7704-878c-265e-1de2" name="Un solo Uso" hidden="false" targetId="dfd9-06aa-8e54-53af" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -4428,7 +4428,7 @@
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="c23b-25ea-134a-d1de" name="One Use" hidden="false" targetId="dfd9-06aa-8e54-53af" type="rule">
+        <infoLink id="c23b-25ea-134a-d1de" name="Un solo Uso" hidden="false" targetId="dfd9-06aa-8e54-53af" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -4874,7 +4874,7 @@
       <characteristics>
         <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A3"/>
         <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
-        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="One Use, Fragmentación (3)"/>
+        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Un solo Uso, Fragmentación (3)"/>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Explosiva)"/>
       </characteristics>
     </profile>
@@ -4886,7 +4886,7 @@
       <characteristics>
         <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A2"/>
         <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
-        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="One Use, ¡Quema!"/>
+        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Un solo Uso, ¡Quema!"/>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Asalto)"/>
       </characteristics>
     </profile>
@@ -4982,7 +4982,7 @@
       <characteristics>
         <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A2"/>
         <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
-        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Volátil, ¡Quema!, One Use"/>
+        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Volátil, ¡Quema!, Un solo Uso"/>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Asalto)"/>
       </characteristics>
     </profile>
