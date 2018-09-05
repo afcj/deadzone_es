@@ -93,7 +93,7 @@
           <selectionEntries>
             <selectionEntry id="52d9-4d76-4269-9bd0" name="Anaesthetic Injectors" book="Deadzone: Outbreak" page="52" hidden="false" collective="false" type="upgrade">
               <profiles>
-                <profile id="ddf1-d2b3-69e9-c7f0" name="Anaesthetic Injectors" book="Deadzone: Outbreak" page="52" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+                <profile id="ddf1-d2b3-69e9-c7f0" name="Anaesthetic Injectors" book="Deadzone: Outbreak" page="52" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
                   <profiles/>
                   <rules/>
                   <infoLinks/>
@@ -160,7 +160,7 @@
           <selectionEntries>
             <selectionEntry id="7259-da13-2cd3-0a8a" name="Anaesthetic Injectors" book="Deadzone: Outbreak" page="52" hidden="false" collective="false" type="upgrade">
               <profiles>
-                <profile id="ebde-3c4d-bb1d-c42b" name="Anaesthetic Injectors" book="Deadzone: Outbreak" page="52" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+                <profile id="ebde-3c4d-bb1d-c42b" name="Anaesthetic Injectors" book="Deadzone: Outbreak" page="52" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
                   <profiles/>
                   <rules/>
                   <infoLinks/>
@@ -227,7 +227,7 @@
           <selectionEntries>
             <selectionEntry id="a6f1-5fe3-b614-bc2f" name="Laser Cutter" book="Deadzone: Outbreak" page="52" hidden="false" collective="false" type="upgrade">
               <profiles>
-                <profile id="45e1-cd18-fae2-539a" name="Laser Cutter" book="Deadzone: Outbreak" page="52" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+                <profile id="45e1-cd18-fae2-539a" name="Laser Cutter" book="Deadzone: Outbreak" page="52" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
                   <profiles/>
                   <rules/>
                   <infoLinks/>
@@ -380,7 +380,7 @@
           <selectionEntries>
             <selectionEntry id="0c2f-0c83-b95a-88ba" name="Laser Pistola" book="Deadzone: Outbreak" page="52" hidden="false" collective="false" type="upgrade">
               <profiles>
-                <profile id="60fe-41a7-19fc-c112" name="Laser Pistola" book="Deadzone: Outbreak" page="52" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+                <profile id="60fe-41a7-19fc-c112" name="Laser Pistola" book="Deadzone: Outbreak" page="52" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
                   <profiles/>
                   <rules/>
                   <infoLinks/>
@@ -493,7 +493,7 @@
           <selectionEntries>
             <selectionEntry id="f0e1-0feb-55f9-5718" name="Bionic Arm" hidden="false" collective="false" type="upgrade">
               <profiles>
-                <profile id="960a-7923-9f91-7453" name="Bionic Arm" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+                <profile id="960a-7923-9f91-7453" name="Bionic Arm" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
                   <profiles/>
                   <rules/>
                   <infoLinks/>
@@ -985,7 +985,7 @@
       <selectionEntries>
         <selectionEntry id="b954-feaa-4ed5-c582" name="Espolones" book="Deadzone: Outbreak" page="53" hidden="false" collective="false" type="upgrade">
           <profiles>
-            <profile id="9339-384c-8023-82ce" name="Espolones" book="Deadzone: Outbreak" page="53" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+            <profile id="9339-384c-8023-82ce" name="Espolones" book="Deadzone: Outbreak" page="53" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1718,7 +1718,7 @@
       <selectionEntries>
         <selectionEntry id="07b0-e3d0-0704-5eae" name="Mind Blast" book="Deadzone: Outbreak" page="54" hidden="false" collective="false" type="upgrade">
           <profiles>
-            <profile id="d1c2-2784-e6f1-e4c8" name="Mind Blast" book="Deadzone: Outbreak" page="54" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+            <profile id="d1c2-2784-e6f1-e4c8" name="Mind Blast" book="Deadzone: Outbreak" page="54" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1762,7 +1762,7 @@
         </selectionEntry>
         <selectionEntry id="39a4-ffa7-c335-93cb" name="Mind Terror" book="Deadzone: Outbreak" page="54" hidden="false" collective="false" type="upgrade">
           <profiles>
-            <profile id="8174-de64-3ecc-bec8" name="Mind Terror" book="Deadzone: Outbreak" page="54" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+            <profile id="8174-de64-3ecc-bec8" name="Mind Terror" book="Deadzone: Outbreak" page="54" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1806,7 +1806,7 @@
         </selectionEntry>
         <selectionEntry id="b6b9-de2d-41a3-de83" name="Hyperkinesis" book="Deadzone: Outbreak" page="54" hidden="false" collective="false" type="upgrade">
           <profiles>
-            <profile id="ca7b-53fd-390c-1b2b" name="Hyperkinesis" book="Deadzone: Outbreak" page="54" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+            <profile id="ca7b-53fd-390c-1b2b" name="Hyperkinesis" book="Deadzone: Outbreak" page="54" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1850,7 +1850,7 @@
         </selectionEntry>
         <selectionEntry id="79d4-a3f1-aff5-1649" name="Electrical Discharge" book="Deadzone: Outbreak" page="54" hidden="false" collective="false" type="upgrade">
           <profiles>
-            <profile id="b5e7-09f0-23c5-12c4" name="Electrical Discharge" book="Deadzone: Outbreak" page="54" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+            <profile id="b5e7-09f0-23c5-12c4" name="Electrical Discharge" book="Deadzone: Outbreak" page="54" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -3565,7 +3565,7 @@
   </sharedSelectionEntryGroups>
   <sharedRules/>
   <sharedProfiles>
-    <profile id="b69a-8f74-dd7f-4042" name="Pistola" book="Deadzone: Outbreak" page="55" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="b69a-8f74-dd7f-4042" name="Pistola" book="Deadzone: Outbreak" page="55" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -3577,7 +3577,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Pequeño Calibre"/>
       </characteristics>
     </profile>
-    <profile id="45a4-786e-e86c-dd7b" name="Rifle Láser (Accutek LR-45)" book="Deadzone: Outbreak" page="55" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="45a4-786e-e86c-dd7b" name="Rifle Láser (Accutek LR-45)" book="Deadzone: Outbreak" page="55" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -3589,7 +3589,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Pequeño Calibre"/>
       </characteristics>
     </profile>
-    <profile id="7dc5-dc66-8315-ca04" name="Shotgun (Accutek ID-KFA)" book="Deadzone: Outbreak" page="55" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="7dc5-dc66-8315-ca04" name="Shotgun (Accutek ID-KFA)" book="Deadzone: Outbreak" page="55" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -3601,7 +3601,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Pequeño Calibre"/>
       </characteristics>
     </profile>
-    <profile id="c59d-75f2-5a8d-f468" name="Flame Thrower" book="Deadzone: Outbreak" page="55" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="c59d-75f2-5a8d-f468" name="Flame Thrower" book="Deadzone: Outbreak" page="55" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -3613,7 +3613,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Asalto)"/>
       </characteristics>
     </profile>
-    <profile id="bb48-2ccd-969b-d735" name="Thermal Rifle" book="Deadzone: Outbreak" page="55" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="bb48-2ccd-969b-d735" name="Thermal Rifle" book="Deadzone: Outbreak" page="55" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -3625,7 +3625,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Asalto)"/>
       </characteristics>
     </profile>
-    <profile id="2ec9-8041-0bcc-e8e9" name="Lanzagranadas" book="Deadzone: Outbreak" page="55" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="2ec9-8041-0bcc-e8e9" name="Lanzagranadas" book="Deadzone: Outbreak" page="55" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -3637,7 +3637,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Explosiva)"/>
       </characteristics>
     </profile>
-    <profile id="42d4-69dc-8111-e660" name="Carabina Láser (Accutek LR-32)" book="Deadzone: Outbreak" page="55" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="42d4-69dc-8111-e660" name="Carabina Láser (Accutek LR-32)" book="Deadzone: Outbreak" page="55" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -3649,7 +3649,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Marksman)"/>
       </characteristics>
     </profile>
-    <profile id="23b9-f8f7-0f8f-9fa1" name="Accutek LR-45 DMR" book="Deadzone: Outbreak" page="55" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="23b9-f8f7-0f8f-9fa1" name="Accutek LR-45 DMR" book="Deadzone: Outbreak" page="55" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -3661,7 +3661,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Marksman)"/>
       </characteristics>
     </profile>
-    <profile id="af4b-e3db-f86a-736c" name="Shock Baton" book="Deadzone: Outbreak" page="55" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="af4b-e3db-f86a-736c" name="Shock Baton" book="Deadzone: Outbreak" page="55" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -3673,7 +3673,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Melé)"/>
       </characteristics>
     </profile>
-    <profile id="a5eb-0001-60a5-18f9" name="Cañón Polaris" book="Deadzone: Outbreak" page="55" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="a5eb-0001-60a5-18f9" name="Cañón Polaris" book="Deadzone: Outbreak" page="55" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -3685,7 +3685,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Andador (Lanza)"/>
       </characteristics>
     </profile>
-    <profile id="fba0-ddb8-5821-61c2" name="Motosierra" book="Deadzone: Outbreak" page="55" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="fba0-ddb8-5821-61c2" name="Motosierra" book="Deadzone: Outbreak" page="55" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -3697,7 +3697,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Andador (Melé)"/>
       </characteristics>
     </profile>
-    <profile id="c395-271a-5b93-2a83" name="Lanzallamas de Asalto" book="Deadzone: Outbreak" page="55" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="c395-271a-5b93-2a83" name="Lanzallamas de Asalto" book="Deadzone: Outbreak" page="55" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -3709,7 +3709,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Andador (Asalto)"/>
       </characteristics>
     </profile>
-    <profile id="0fb8-44ba-2b1a-33af" name="Láser de Ráfaga Pesado" book="Deadzone: Outbreak" page="55" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="0fb8-44ba-2b1a-33af" name="Láser de Ráfaga Pesado" book="Deadzone: Outbreak" page="55" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -3721,7 +3721,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Andador (Automática)"/>
       </characteristics>
     </profile>
-    <profile id="44df-b5f8-b54c-4263" name="Guantalete de Energía" book="Deadzone: Outbreak" page="55" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="44df-b5f8-b54c-4263" name="Guantalete de Energía" book="Deadzone: Outbreak" page="55" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -3733,7 +3733,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Líder"/>
       </characteristics>
     </profile>
-    <profile id="90d8-6dfe-ea60-f396" name="Officer&apos;s Sword" book="Deadzone: Outbreak" page="55" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="90d8-6dfe-ea60-f396" name="Officer&apos;s Sword" book="Deadzone: Outbreak" page="55" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>

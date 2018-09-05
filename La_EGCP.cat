@@ -150,7 +150,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="9385-fdd6-4b1f-1566" name="Flamer Thrower" hidden="false" targetId="c024-afd3-6a4c-14ae" type="selectionEntry">
+            <entryLink id="9385-fdd6-4b1f-1566" name="Flameador Thrower" hidden="false" targetId="c024-afd3-6a4c-14ae" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -190,7 +190,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="409e-c86b-ee6b-f499" name="Accutek LR-AM Pesada Rifle" hidden="false" targetId="e671-2c75-86d3-cbd1" type="selectionEntry">
+            <entryLink id="409e-c86b-ee6b-f499" name="Accutek LR-AM Rifle Pesado" hidden="false" targetId="e671-2c75-86d3-cbd1" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -367,7 +367,7 @@ Esta acción de Disparo gratuita no se puede usar para realizar Fuego de Supresi
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="6744-97cb-e440-2074" name="Flamer Thrower" hidden="false" targetId="c024-afd3-6a4c-14ae" type="selectionEntry">
+            <entryLink id="6744-97cb-e440-2074" name="Flameador Thrower" hidden="false" targetId="c024-afd3-6a4c-14ae" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -541,7 +541,7 @@ Esta acción de Disparo gratuita no se puede usar para realizar Fuego de Supresi
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="ba48-06cd-e05a-91f2" name="Flamer Thrower" hidden="false" targetId="c024-afd3-6a4c-14ae" type="selectionEntry">
+            <entryLink id="ba48-06cd-e05a-91f2" name="Flameador Thrower" hidden="false" targetId="c024-afd3-6a4c-14ae" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -944,7 +944,7 @@ Esta acción de Disparo gratuita no se puede usar para realizar Fuego de Supresi
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="870c-363e-e32b-ca0d" name="Flamer Thrower" hidden="false" targetId="c024-afd3-6a4c-14ae" type="selectionEntry">
+            <entryLink id="870c-363e-e32b-ca0d" name="Flameador Thrower" hidden="false" targetId="c024-afd3-6a4c-14ae" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -976,7 +976,7 @@ Esta acción de Disparo gratuita no se puede usar para realizar Fuego de Supresi
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="d7b3-5c03-89fd-3a41" name="Accutek LR-AM Pesada Rifle" hidden="false" targetId="e671-2c75-86d3-cbd1" type="selectionEntry">
+            <entryLink id="d7b3-5c03-89fd-3a41" name="Accutek LR-AM Rifle Pesado" hidden="false" targetId="e671-2c75-86d3-cbd1" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1106,7 +1106,7 @@ Esta acción de Disparo gratuita no se puede usar para realizar Fuego de Supresi
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="a5b1-3faf-7fdb-1ec7" name="Flamer Thrower" hidden="false" targetId="c024-afd3-6a4c-14ae" type="selectionEntry">
+            <entryLink id="a5b1-3faf-7fdb-1ec7" name="Flameador Thrower" hidden="false" targetId="c024-afd3-6a4c-14ae" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1146,7 +1146,7 @@ Esta acción de Disparo gratuita no se puede usar para realizar Fuego de Supresi
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="9a7c-28c1-731b-a693" name="Accutek LR-AM Pesada Rifle" hidden="false" targetId="e671-2c75-86d3-cbd1" type="selectionEntry">
+            <entryLink id="9a7c-28c1-731b-a693" name="Accutek LR-AM Rifle Pesado" hidden="false" targetId="e671-2c75-86d3-cbd1" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -2442,7 +2442,7 @@ Esta acción de Disparo gratuita no se puede usar para realizar Fuego de Supresi
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="f94e-4fa7-6279-d4fb" name="Flame Thrower" hidden="false" targetId="ed00-6f74-bde1-fd19" type="profile">
+        <infoLink id="f94e-4fa7-6279-d4fb" name="Lanzallamas" hidden="false" targetId="ed00-6f74-bde1-fd19" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -2600,7 +2600,7 @@ Esta acción de Disparo gratuita no se puede usar para realizar Fuego de Supresi
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="8feb-5e49-70d4-f44c" name="Accutek LR-AM Pesada Rifle" hidden="false" targetId="9b33-3ca7-8da3-ee0e" type="profile">
+        <infoLink id="8feb-5e49-70d4-f44c" name="Accutek LR-AM Rifle Pesado" hidden="false" targetId="9b33-3ca7-8da3-ee0e" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -3271,7 +3271,7 @@ Esta acción de Disparo gratuita no se puede usar para realizar Fuego de Supresi
   </sharedSelectionEntryGroups>
   <sharedRules/>
   <sharedProfiles>
-    <profile id="57c1-2b4c-4190-2dca" name="Pistola" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="57c1-2b4c-4190-2dca" name="Pistola" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -3283,7 +3283,7 @@ Esta acción de Disparo gratuita no se puede usar para realizar Fuego de Supresi
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Pequeño Calibre"/>
       </characteristics>
     </profile>
-    <profile id="67fd-d4da-0a8e-51f8" name="Rifle Láser (Accutek LR-45)" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="67fd-d4da-0a8e-51f8" name="Rifle Láser (Accutek LR-45)" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -3295,7 +3295,7 @@ Esta acción de Disparo gratuita no se puede usar para realizar Fuego de Supresi
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Pequeño Calibre"/>
       </characteristics>
     </profile>
-    <profile id="f9d7-c4be-3aaa-0859" name="Escopeta (Accutek ID-KFA)" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="f9d7-c4be-3aaa-0859" name="Escopeta (Accutek ID-KFA)" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -3307,7 +3307,7 @@ Esta acción de Disparo gratuita no se puede usar para realizar Fuego de Supresi
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Pequeño Calibre"/>
       </characteristics>
     </profile>
-    <profile id="ed00-6f74-bde1-fd19" name="Lanzallamas" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="ed00-6f74-bde1-fd19" name="Lanzallamas" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -3319,7 +3319,7 @@ Esta acción de Disparo gratuita no se puede usar para realizar Fuego de Supresi
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Asalto)"/>
       </characteristics>
     </profile>
-    <profile id="82e5-6c7b-7a18-802e" name="Lanzagranadas" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="82e5-6c7b-7a18-802e" name="Lanzagranadas" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -3331,7 +3331,7 @@ Esta acción de Disparo gratuita no se puede usar para realizar Fuego de Supresi
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Explosiva)"/>
       </characteristics>
     </profile>
-    <profile id="2274-48b7-20d9-9480" name="Rifle Térmico" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="2274-48b7-20d9-9480" name="Rifle Térmico" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -3343,7 +3343,7 @@ Esta acción de Disparo gratuita no se puede usar para realizar Fuego de Supresi
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Asalto)"/>
       </characteristics>
     </profile>
-    <profile id="d5e5-44b9-df5c-4ffe" name="Carabina Láser (Accutek LR-32)" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="d5e5-44b9-df5c-4ffe" name="Carabina Láser (Accutek LR-32)" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -3355,7 +3355,7 @@ Esta acción de Disparo gratuita no se puede usar para realizar Fuego de Supresi
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Marksman)"/>
       </characteristics>
     </profile>
-    <profile id="9c77-0a5f-102a-32c4" name="Accutek LR-45 DMR" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="9c77-0a5f-102a-32c4" name="Accutek LR-45 DMR" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -3367,7 +3367,7 @@ Esta acción de Disparo gratuita no se puede usar para realizar Fuego de Supresi
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Marksman)"/>
       </characteristics>
     </profile>
-    <profile id="9b33-3ca7-8da3-ee0e" name="Rifle Láser Pesado (Accutek LR-AM)" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="9b33-3ca7-8da3-ee0e" name="Rifle Láser Pesado (Accutek LR-AM)" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -3379,7 +3379,7 @@ Esta acción de Disparo gratuita no se puede usar para realizar Fuego de Supresi
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Francotirador)"/>
       </characteristics>
     </profile>
-    <profile id="2b27-ab66-56a1-902d" name="Accutek LR-AWP" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="2b27-ab66-56a1-902d" name="Accutek LR-AWP" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -3391,7 +3391,7 @@ Esta acción de Disparo gratuita no se puede usar para realizar Fuego de Supresi
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Francotirador)"/>
       </characteristics>
     </profile>
-    <profile id="198e-6537-d880-3e8c" name="Autocañón" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="198e-6537-d880-3e8c" name="Autocañón" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -3403,7 +3403,7 @@ Esta acción de Disparo gratuita no se puede usar para realizar Fuego de Supresi
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Pesada (Crew Served Weapon)"/>
       </characteristics>
     </profile>
-    <profile id="4afd-cc3b-c22e-334b" name="Cañón Láser" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="4afd-cc3b-c22e-334b" name="Cañón Láser" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -3415,7 +3415,7 @@ Esta acción de Disparo gratuita no se puede usar para realizar Fuego de Supresi
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Pesada (Crew Served Weapon)"/>
       </characteristics>
     </profile>
-    <profile id="7e6e-d945-c50d-0e48" name="Lanzamisiles" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="7e6e-d945-c50d-0e48" name="Lanzamisiles" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -3427,7 +3427,7 @@ Esta acción de Disparo gratuita no se puede usar para realizar Fuego de Supresi
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Pesada (Crew Served Weapon)"/>
       </characteristics>
     </profile>
-    <profile id="940a-73e7-0063-3aa5" name="Mortero" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="940a-73e7-0063-3aa5" name="Mortero" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -3439,7 +3439,7 @@ Esta acción de Disparo gratuita no se puede usar para realizar Fuego de Supresi
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Pesada (Crew Served Weapon)"/>
       </characteristics>
     </profile>
-    <profile id="6ded-fff3-0d17-0fb1" name="Cañón Polaris" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="6ded-fff3-0d17-0fb1" name="Cañón Polaris" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -3451,7 +3451,7 @@ Esta acción de Disparo gratuita no se puede usar para realizar Fuego de Supresi
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Andador (Lanza)"/>
       </characteristics>
     </profile>
-    <profile id="f39a-3997-2828-df34" name="Motosierra" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="f39a-3997-2828-df34" name="Motosierra" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -3463,7 +3463,7 @@ Esta acción de Disparo gratuita no se puede usar para realizar Fuego de Supresi
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Andador (Melé)"/>
       </characteristics>
     </profile>
-    <profile id="aae8-2378-e436-9959" name="Lanzallamas de Asalto" book="Deadzone Erratas v2.2" page="" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="aae8-2378-e436-9959" name="Lanzallamas de Asalto" book="Deadzone Erratas v2.2" page="" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -3475,7 +3475,7 @@ Esta acción de Disparo gratuita no se puede usar para realizar Fuego de Supresi
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Andador (Asalto)"/>
       </characteristics>
     </profile>
-    <profile id="b7e2-0d67-0ca5-6873" name="Láser de Ráfaga Pesado" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="b7e2-0d67-0ca5-6873" name="Láser de Ráfaga Pesado" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -3487,7 +3487,7 @@ Esta acción de Disparo gratuita no se puede usar para realizar Fuego de Supresi
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Andador (Automática)"/>
       </characteristics>
     </profile>
-    <profile id="6818-b1c2-18f9-527c" name="Guantalete de Energía" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="6818-b1c2-18f9-527c" name="Guantalete de Energía" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -3499,7 +3499,7 @@ Esta acción de Disparo gratuita no se puede usar para realizar Fuego de Supresi
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Líder"/>
       </characteristics>
     </profile>
-    <profile id="f9ad-a260-33a0-cc25" name="Espada de Oficial" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="f9ad-a260-33a0-cc25" name="Espada de Oficial" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -3511,7 +3511,7 @@ Esta acción de Disparo gratuita no se puede usar para realizar Fuego de Supresi
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Líder"/>
       </characteristics>
     </profile>
-    <profile id="5b4b-ff8c-8e82-4f3e" name="Genling 340 &apos;Colonizador&apos;" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="5b4b-ff8c-8e82-4f3e" name="Genling 340 &apos;Colonizador&apos;" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>

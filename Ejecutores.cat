@@ -3799,7 +3799,7 @@
       <selectionEntries>
         <selectionEntry id="da42-f72f-0142-b440" name="Lanzagranadas" book="Deadzone Infestation Expansion" page="20" hidden="false" collective="false" type="upgrade">
           <profiles>
-            <profile id="e18d-23a4-5876-991b" name="Lanzagranadas" book="Deadzone: Infestación" page="20" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+            <profile id="e18d-23a4-5876-991b" name="Lanzagranadas" book="Deadzone: Infestación" page="20" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -3947,7 +3947,7 @@
       <selectionEntries>
         <selectionEntry id="f4fa-2f66-48e7-00e6" name="Rifle LSX de Francotirador" hidden="false" collective="false" type="upgrade">
           <profiles>
-            <profile id="7e89-beca-ab7b-6cc0" name="Rifle LSX de Francotirador" book="Deadzone: Outbreak" page="81" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+            <profile id="7e89-beca-ab7b-6cc0" name="Rifle LSX de Francotirador" book="Deadzone: Outbreak" page="81" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -4097,7 +4097,7 @@
       <selectionEntries>
         <selectionEntry id="c6e9-6d85-72b3-1b8c" name="Pistola" book="" hidden="false" collective="false" type="upgrade">
           <profiles>
-            <profile id="2bc3-c8e5-5149-8718" name="Pistola" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+            <profile id="2bc3-c8e5-5149-8718" name="Pistola" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -4140,7 +4140,7 @@
           <selectionEntries>
             <selectionEntry id="57ee-a38e-b917-3511" name="Rifle Láser (Accutek LR-45)" hidden="false" collective="false" type="upgrade">
               <profiles>
-                <profile id="9174-8b7d-50df-1388" name="Rifle Láser (Accutek LR-45)" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+                <profile id="9174-8b7d-50df-1388" name="Rifle Láser (Accutek LR-45)" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
                   <profiles/>
                   <rules/>
                   <infoLinks/>
@@ -4175,7 +4175,7 @@
             </selectionEntry>
             <selectionEntry id="e62c-dca1-c7c5-0324" name="Shotgun (Accutek ID-KFA)" hidden="false" collective="false" type="upgrade">
               <profiles>
-                <profile id="43c1-91ac-8d46-1d02" name="Shotgun (Accutek ID-KFA)" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+                <profile id="43c1-91ac-8d46-1d02" name="Shotgun (Accutek ID-KFA)" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
                   <profiles/>
                   <rules/>
                   <infoLinks/>
@@ -4280,7 +4280,7 @@
       <selectionEntries>
         <selectionEntry id="6aec-3c30-3acf-d189" name="Pistola" book="" hidden="false" collective="false" type="upgrade">
           <profiles>
-            <profile id="f664-af4c-033f-3f99" name="Pistola" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+            <profile id="f664-af4c-033f-3f99" name="Pistola" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -4323,7 +4323,7 @@
           <selectionEntries>
             <selectionEntry id="1783-e4cf-f675-24d3" name="Rifle Láser (Accutek LR-45)" hidden="false" collective="false" type="upgrade">
               <profiles>
-                <profile id="c2a0-b510-5ac4-1222" name="Rifle Láser (Accutek LR-45)" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+                <profile id="c2a0-b510-5ac4-1222" name="Rifle Láser (Accutek LR-45)" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
                   <profiles/>
                   <rules/>
                   <infoLinks/>
@@ -4358,7 +4358,7 @@
             </selectionEntry>
             <selectionEntry id="1b12-a501-7337-c1d3" name="Shotgun (Accutek ID-KFA)" hidden="false" collective="false" type="upgrade">
               <profiles>
-                <profile id="6426-15ac-7cf6-86b1" name="Shotgun (Accutek ID-KFA)" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+                <profile id="6426-15ac-7cf6-86b1" name="Shotgun (Accutek ID-KFA)" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
                   <profiles/>
                   <rules/>
                   <infoLinks/>
@@ -4393,7 +4393,7 @@
             </selectionEntry>
             <selectionEntry id="5dd9-e19b-6a53-5e9a" name="Accutek LR-AWP" hidden="false" collective="false" type="upgrade">
               <profiles>
-                <profile id="d230-cf21-d16a-e7da" name="Accutek LR-AWP" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+                <profile id="d230-cf21-d16a-e7da" name="Accutek LR-AWP" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
                   <profiles/>
                   <rules/>
                   <infoLinks/>
@@ -4434,7 +4434,7 @@
             </selectionEntry>
             <selectionEntry id="ab3d-4e4b-b5a2-8518" name="Flame Thrower" hidden="false" collective="false" type="upgrade">
               <profiles>
-                <profile id="38af-57f2-3bd0-597e" name="Flame Thrower" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+                <profile id="38af-57f2-3bd0-597e" name="Flame Thrower" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
                   <profiles/>
                   <rules/>
                   <infoLinks/>
@@ -4475,7 +4475,7 @@
             </selectionEntry>
             <selectionEntry id="0bc2-153f-13ad-cff7" name="Genling 340 &apos;Colonizador&apos;" hidden="false" collective="false" type="upgrade">
               <profiles>
-                <profile id="e910-31a9-43ad-e553" name="Genling 340 &apos;Colonizador&apos;" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+                <profile id="e910-31a9-43ad-e553" name="Genling 340 &apos;Colonizador&apos;" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
                   <profiles/>
                   <rules/>
                   <infoLinks/>
@@ -4522,7 +4522,7 @@
             </selectionEntry>
             <selectionEntry id="666f-8431-4dd8-7f13" name="Lanzagranadas" hidden="false" collective="false" type="upgrade">
               <profiles>
-                <profile id="0aea-9629-5eaf-030a" name="Lanzagranadas" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+                <profile id="0aea-9629-5eaf-030a" name="Lanzagranadas" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
                   <profiles/>
                   <rules/>
                   <infoLinks/>
@@ -4561,9 +4561,9 @@
                 <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="1.0"/>
               </costs>
             </selectionEntry>
-            <selectionEntry id="e2e1-4e39-c0b9-1329" name="Pesada Rifle Láser (Accutek LR-AM)" hidden="false" collective="false" type="upgrade">
+            <selectionEntry id="e2e1-4e39-c0b9-1329" name="Rifle Pesado Láser (Accutek LR-AM)" hidden="false" collective="false" type="upgrade">
               <profiles>
-                <profile id="9140-2e24-8835-2fa2" name="Pesada Rifle Láser (Accutek LR-AM)" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+                <profile id="9140-2e24-8835-2fa2" name="Rifle Pesado Láser (Accutek LR-AM)" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
                   <profiles/>
                   <rules/>
                   <infoLinks/>
@@ -4598,7 +4598,7 @@
             </selectionEntry>
             <selectionEntry id="f968-a697-9912-502d" name="Carabina Láser (Accutek LR-32)" hidden="false" collective="false" type="upgrade">
               <profiles>
-                <profile id="a7c1-09d7-cf43-8172" name="Carabina Láser (Accutek LR-32)" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+                <profile id="a7c1-09d7-cf43-8172" name="Carabina Láser (Accutek LR-32)" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
                   <profiles/>
                   <rules/>
                   <infoLinks/>
@@ -4645,7 +4645,7 @@
             </selectionEntry>
             <selectionEntry id="ca08-4804-9275-d224" name="Marksman Rifle (Accutek LR-45 DMR)" hidden="false" collective="false" type="upgrade">
               <profiles>
-                <profile id="42fd-37ab-9ca1-95d6" name="Marksman Rifle (Accutek LR-45 DMR)" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+                <profile id="42fd-37ab-9ca1-95d6" name="Marksman Rifle (Accutek LR-45 DMR)" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
                   <profiles/>
                   <rules/>
                   <infoLinks/>
@@ -4680,7 +4680,7 @@
             </selectionEntry>
             <selectionEntry id="ab99-d293-4b07-b888" name="Thermal Rifle" hidden="false" collective="false" type="upgrade">
               <profiles>
-                <profile id="c124-ea06-fcc5-4076" name="Thermal Rifle" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+                <profile id="c124-ea06-fcc5-4076" name="Thermal Rifle" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
                   <profiles/>
                   <rules/>
                   <infoLinks/>
@@ -4851,7 +4851,7 @@
           <selectionEntries>
             <selectionEntry id="b78b-4e3e-ea95-3f1e" name="Telémetro" hidden="false" collective="false" type="upgrade">
               <profiles>
-                <profile id="d4d5-b7ee-cba7-137c" name="Telémetro" book="Deadzone: Infestación" page="17" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+                <profile id="d4d5-b7ee-cba7-137c" name="Telémetro" book="Deadzone: Infestación" page="17" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
                   <profiles/>
                   <rules/>
                   <infoLinks/>
@@ -5842,7 +5842,7 @@
   </sharedSelectionEntryGroups>
   <sharedRules/>
   <sharedProfiles>
-    <profile id="036f-5817-df66-03fe" name="Pistola" book="Reglamento Deadzone 2ª Edición" page="59" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="036f-5817-df66-03fe" name="Pistola" book="Reglamento Deadzone 2ª Edición" page="59" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -5854,7 +5854,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Pequeño Calibre"/>
       </characteristics>
     </profile>
-    <profile id="6790-93b3-301b-d349" name="Rifle Láser" book="Reglamento Deadzone 2ª Edición" page="59" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="6790-93b3-301b-d349" name="Rifle Láser" book="Reglamento Deadzone 2ª Edición" page="59" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -5866,7 +5866,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Pequeño Calibre"/>
       </characteristics>
     </profile>
-    <profile id="cd69-28d4-8dfc-d637" name="Incinerador" book="Reglamento Deadzone 2ª Edición" page="59" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="cd69-28d4-8dfc-d637" name="Incinerador" book="Reglamento Deadzone 2ª Edición" page="59" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -5878,7 +5878,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Asalto), Pesada (Asalto)"/>
       </characteristics>
     </profile>
-    <profile id="6551-3891-155e-b72c" name="Láser de Ráfaga" book="Reglamento Deadzone 2ª Edición" page="59" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="6551-3891-155e-b72c" name="Láser de Ráfaga" book="Reglamento Deadzone 2ª Edición" page="59" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -5890,7 +5890,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Automática), Pesada (Automática)"/>
       </characteristics>
     </profile>
-    <profile id="5755-2a4b-7e97-0d99" name="Rifle Térmico" book="Reglamento Deadzone 2ª Edición" page="59" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="5755-2a4b-7e97-0d99" name="Rifle Térmico" book="Reglamento Deadzone 2ª Edición" page="59" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -5902,7 +5902,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Asalto)"/>
       </characteristics>
     </profile>
-    <profile id="b4d7-a27f-34be-6c9d" name="Cañón de Fusión" book="Reglamento Deadzone 2ª Edición" page="59" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="b4d7-a27f-34be-6c9d" name="Cañón de Fusión" book="Reglamento Deadzone 2ª Edición" page="59" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -5914,7 +5914,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Asalto)"/>
       </characteristics>
     </profile>
-    <profile id="1261-bff7-fff2-f30a" name="Lanzamisiles" book="Reglamento Deadzone 2ª Edición" page="59" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="1261-bff7-fff2-f30a" name="Lanzamisiles" book="Reglamento Deadzone 2ª Edición" page="59" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -5926,7 +5926,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Explosiva)"/>
       </characteristics>
     </profile>
-    <profile id="395d-3634-19a8-36d3" name="Rifle de Francotirador" book="Reglamento Deadzone 2ª Edición" page="59" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="395d-3634-19a8-36d3" name="Rifle de Francotirador" book="Reglamento Deadzone 2ª Edición" page="59" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -5938,7 +5938,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Francotirador)"/>
       </characteristics>
     </profile>
-    <profile id="14e3-68ae-5de1-6755" name="Rifle Láser de Doble Cañón (Dominador)" book="Reglamento Deadzone 2ª Edición" page="59" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="14e3-68ae-5de1-6755" name="Rifle Láser de Doble Cañón (Dominador)" book="Reglamento Deadzone 2ª Edición" page="59" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -5950,7 +5950,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Pesada (Automática)"/>
       </characteristics>
     </profile>
-    <profile id="71d2-9be4-563e-b0b3" name="Guantalete de Energía" book="Reglamento Deadzone 2ª Edición" page="59" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="71d2-9be4-563e-b0b3" name="Guantalete de Energía" book="Reglamento Deadzone 2ª Edición" page="59" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -5962,7 +5962,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Melé)"/>
       </characteristics>
     </profile>
-    <profile id="662d-622e-baaa-fd45" name="Rifle Marcador" book="Reglamento Deadzone 2ª Edición" page="59" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="662d-622e-baaa-fd45" name="Rifle Marcador" book="Reglamento Deadzone 2ª Edición" page="59" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -5974,7 +5974,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Reconocimiento"/>
       </characteristics>
     </profile>
-    <profile id="4fb3-dc51-92c6-030d" name="Escopeta de Combate" book="Reglamento Deadzone 2ª Edición" page="59" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="4fb3-dc51-92c6-030d" name="Escopeta de Combate" book="Reglamento Deadzone 2ª Edición" page="59" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -5986,7 +5986,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Pequeño Calibre"/>
       </characteristics>
     </profile>
-    <profile id="c2d3-3c53-b198-5872" name="Espada Retráctil" book="Reglamento Deadzone 2ª Edición" page="59" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="c2d3-3c53-b198-5872" name="Espada Retráctil" book="Reglamento Deadzone 2ª Edición" page="59" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -5998,7 +5998,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Melé)"/>
       </characteristics>
     </profile>
-    <profile id="7b06-3c96-d68f-f76c" name="Ecualizador (Genling 88)" book="Reglamento Deadzone 2ª Edición" page="59" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="7b06-3c96-d68f-f76c" name="Ecualizador (Genling 88)" book="Reglamento Deadzone 2ª Edición" page="59" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -6010,7 +6010,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Andador (Lanza)"/>
       </characteristics>
     </profile>
-    <profile id="391a-3a3b-4a09-e72d" name="Electro-Shock" book="Reglamento Deadzone 2ª Edición" page="59" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="391a-3a3b-4a09-e72d" name="Electro-Shock" book="Reglamento Deadzone 2ª Edición" page="59" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -6022,7 +6022,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="-"/>
       </characteristics>
     </profile>
-    <profile id="64de-2818-7c25-a439" name="Lanzallamas de Asalto" book="Reglamento Deadzone 2ª Edición" page="59" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="64de-2818-7c25-a439" name="Lanzallamas de Asalto" book="Reglamento Deadzone 2ª Edición" page="59" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -6034,7 +6034,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Andador (Asalto)"/>
       </characteristics>
     </profile>
-    <profile id="7a8b-33b9-a17c-9c63" name="Motosierra" book="Reglamento Deadzone 2ª Edición" page="59" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="7a8b-33b9-a17c-9c63" name="Motosierra" book="Reglamento Deadzone 2ª Edición" page="59" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -6046,7 +6046,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Andador (Melé)"/>
       </characteristics>
     </profile>
-    <profile id="1875-98cf-692d-1c4d" name="Lanza de Gravitones" book="Deadzone: Nexus Psi" page="10" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="1875-98cf-692d-1c4d" name="Lanza de Gravitones" book="Deadzone: Nexus Psi" page="10" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -6058,7 +6058,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Andador (Explosiva)"/>
       </characteristics>
     </profile>
-    <profile id="3424-ff72-64b3-dc26" name="Láser de Ráfaga Pesado" book="Deadzone: Nexus Psi" page="10" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="3424-ff72-64b3-dc26" name="Láser de Ráfaga Pesado" book="Deadzone: Nexus Psi" page="10" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -6070,7 +6070,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Andador (Automática)"/>
       </characteristics>
     </profile>
-    <profile id="474c-c0a3-2259-0242" name="Escudo Agresor" book="Deadzone: Nexus Psi" page="10" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="474c-c0a3-2259-0242" name="Escudo Agresor" book="Deadzone: Nexus Psi" page="10" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>

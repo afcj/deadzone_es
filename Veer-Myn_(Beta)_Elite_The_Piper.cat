@@ -597,7 +597,7 @@ Vermin Swarm&apos;s are not part of the Army List, gain no experience, and are n
       <selectionEntries>
         <selectionEntry id="2867-6818-a4c9-1e2d" name="Shock Baton" hidden="false" collective="false" type="upgrade">
           <profiles>
-            <profile id="a47e-5f00-85c5-974d" name="Shock Baton" book="Deadzone: Infestación" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+            <profile id="a47e-5f00-85c5-974d" name="Shock Baton" book="Deadzone: Infestación" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -673,7 +673,7 @@ Vermin Swarm&apos;s are not part of the Army List, gain no experience, and are n
           <selectionEntries>
             <selectionEntry id="8377-aed5-f2df-6b4a" name="Teeth and Garras" hidden="false" collective="false" type="upgrade">
               <profiles>
-                <profile id="6654-8af7-d062-e1b7" name="Teeth and Garras" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+                <profile id="6654-8af7-d062-e1b7" name="Teeth and Garras" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
                   <profiles/>
                   <rules/>
                   <infoLinks/>
@@ -2054,7 +2054,7 @@ It disperses in the same way as a Granada de Humo.</description>
     </rule>
   </sharedRules>
   <sharedProfiles>
-    <profile id="c79e-04df-eec9-374b" name="Big Drill" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="c79e-04df-eec9-374b" name="Big Drill" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -2066,7 +2066,7 @@ It disperses in the same way as a Granada de Humo.</description>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Melé), Pesada (Melé)"/>
       </characteristics>
     </profile>
-    <profile id="70f7-e2f4-4411-7de4" name="Chem Spitter" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="70f7-e2f4-4411-7de4" name="Chem Spitter" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -2078,7 +2078,7 @@ It disperses in the same way as a Granada de Humo.</description>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Automática)"/>
       </characteristics>
     </profile>
-    <profile id="7010-eb5b-30fb-3e90" name="Chem Staff" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="7010-eb5b-30fb-3e90" name="Chem Staff" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -2090,7 +2090,7 @@ It disperses in the same way as a Granada de Humo.</description>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Líder"/>
       </characteristics>
     </profile>
-    <profile id="d5ec-5b37-57ef-807a" name="Chem Thrower" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="d5ec-5b37-57ef-807a" name="Chem Thrower" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -2102,7 +2102,7 @@ It disperses in the same way as a Granada de Humo.</description>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Asalto)"/>
       </characteristics>
     </profile>
-    <profile id="98eb-8680-4243-41e9" name="Chemical Lanzagranadas" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="98eb-8680-4243-41e9" name="Chemical Lanzagranadas" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -2114,7 +2114,7 @@ It disperses in the same way as a Granada de Humo.</description>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Explosiva)"/>
       </characteristics>
     </profile>
-    <profile id="06e1-bccc-8f82-4be6" name="Det Pack (Mag Lock)" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="06e1-bccc-8f82-4be6" name="Det Pack (Mag Lock)" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -2126,7 +2126,7 @@ It disperses in the same way as a Granada de Humo.</description>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Explosiva)"/>
       </characteristics>
     </profile>
-    <profile id="ff00-8026-2b8e-565b" name="Det Pack (Prox Fuse)" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="ff00-8026-2b8e-565b" name="Det Pack (Prox Fuse)" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -2138,7 +2138,7 @@ It disperses in the same way as a Granada de Humo.</description>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Explosiva)"/>
       </characteristics>
     </profile>
-    <profile id="d610-767d-67ad-718a" name="Pesada Chem Spitter" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="d610-767d-67ad-718a" name="Pesada Chem Spitter" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -2150,7 +2150,7 @@ It disperses in the same way as a Granada de Humo.</description>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Bestia [Animal] (Ranged)"/>
       </characteristics>
     </profile>
-    <profile id="6f51-25f7-5f7c-38a3" name="Pesada Chem Thrower" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="6f51-25f7-5f7c-38a3" name="Pesada Chem Thrower" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -2162,7 +2162,7 @@ It disperses in the same way as a Granada de Humo.</description>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Pesada (Asalto)"/>
       </characteristics>
     </profile>
-    <profile id="fcad-4274-fd00-14bf" name="Pair or Drills" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="fcad-4274-fd00-14bf" name="Pair or Drills" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -2174,7 +2174,7 @@ It disperses in the same way as a Granada de Humo.</description>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Pesada (Melé)"/>
       </characteristics>
     </profile>
-    <profile id="5061-54cd-37f0-d82b" name="Ray Gun" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="5061-54cd-37f0-d82b" name="Ray Gun" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -2186,7 +2186,7 @@ It disperses in the same way as a Granada de Humo.</description>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Pequeño Calibre"/>
       </characteristics>
     </profile>
-    <profile id="b4a9-b545-a8d1-83bc" name="Ray Pistola" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="b4a9-b545-a8d1-83bc" name="Ray Pistola" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -2198,7 +2198,7 @@ It disperses in the same way as a Granada de Humo.</description>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Pequeño Calibre"/>
       </characteristics>
     </profile>
-    <profile id="d243-f886-2261-eb5e" name="Scythes" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="d243-f886-2261-eb5e" name="Scythes" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -2210,7 +2210,7 @@ It disperses in the same way as a Granada de Humo.</description>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Bestia [Animal] (Melé), Vehículo (Melé)"/>
       </characteristics>
     </profile>
-    <profile id="780a-f388-f7c4-c014" name="Granada de Humo Launcher" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="780a-f388-f7c4-c014" name="Granada de Humo Launcher" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -2222,7 +2222,7 @@ It disperses in the same way as a Granada de Humo.</description>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Líder, Ligera (Explosiva)"/>
       </characteristics>
     </profile>
-    <profile id="b3ec-acf6-b583-dce4" name="Spitter Rifle" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="b3ec-acf6-b583-dce4" name="Spitter Rifle" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -2234,7 +2234,7 @@ It disperses in the same way as a Granada de Humo.</description>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Líder, Ligera (Francotirador)"/>
       </characteristics>
     </profile>
-    <profile id="f30b-e4d7-03f3-6d82" name="Super Pesada Chem Spitter" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="f30b-e4d7-03f3-6d82" name="Super Pesada Chem Spitter" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -2246,7 +2246,7 @@ It disperses in the same way as a Granada de Humo.</description>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Vehículo (Automática)"/>
       </characteristics>
     </profile>
-    <profile id="1393-230e-e421-018f" name="Super Pesada Chem Thrower" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="1393-230e-e421-018f" name="Super Pesada Chem Thrower" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -2258,7 +2258,7 @@ It disperses in the same way as a Granada de Humo.</description>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Vehículo (Asalto)"/>
       </characteristics>
     </profile>
-    <profile id="f163-754b-8a24-01e2" name="Toxic Lanzagranadas" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="f163-754b-8a24-01e2" name="Toxic Lanzagranadas" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -2270,7 +2270,7 @@ It disperses in the same way as a Granada de Humo.</description>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Líder, Ligera (Explosiva)"/>
       </characteristics>
     </profile>
-    <profile id="ef2e-8b7c-624d-6f19" name="Twin Chem Spitter" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="ef2e-8b7c-624d-6f19" name="Twin Chem Spitter" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -2282,7 +2282,7 @@ It disperses in the same way as a Granada de Humo.</description>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Vehículo (Automática)"/>
       </characteristics>
     </profile>
-    <profile id="f262-b8ef-c6db-bda5" name="Two-Handed Drill **" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="f262-b8ef-c6db-bda5" name="Two-Handed Drill **" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>

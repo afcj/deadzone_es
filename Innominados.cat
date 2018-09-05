@@ -293,7 +293,7 @@
       <selectionEntries>
         <selectionEntry id="2c34-1312-eb97-8756" name="Psychic Surge" book="Deadzone: Outbreak" page="56" hidden="false" collective="false" type="upgrade">
           <profiles>
-            <profile id="602c-2ee8-40b2-8b59" name="Psychic Surge" book="Deadzone: Outbreak" page="56" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+            <profile id="602c-2ee8-40b2-8b59" name="Psychic Surge" book="Deadzone: Outbreak" page="56" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -337,7 +337,7 @@
         </selectionEntry>
         <selectionEntry id="502c-9d78-23d5-8786" name="Psychic Stunning" book="Deadzone: Outbreak" page="56" hidden="false" collective="false" type="upgrade">
           <profiles>
-            <profile id="1d91-85de-fd8e-f752" name="Psychic Stunning" book="Deadzone: Outbreak" page="56" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+            <profile id="1d91-85de-fd8e-f752" name="Psychic Stunning" book="Deadzone: Outbreak" page="56" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -660,7 +660,7 @@
       <selectionEntries>
         <selectionEntry id="48fb-c654-1a56-a5db" name="Teeth" book="Deadzone: Outbreak" page="57" hidden="false" collective="false" type="upgrade">
           <profiles>
-            <profile id="2743-9e32-763a-1d96" name="Teeth" book="Deadzone: Outbreak" page="57" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+            <profile id="2743-9e32-763a-1d96" name="Teeth" book="Deadzone: Outbreak" page="57" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -793,7 +793,7 @@
       <selectionEntries>
         <selectionEntry id="73fc-77f1-7dae-c963" name="Garras" book="Deadzone: Outbreak" page="57" hidden="false" collective="false" type="upgrade">
           <profiles>
-            <profile id="7d7c-c465-6350-79be" name="Garras" book="Deadzone: Outbreak" page="57" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+            <profile id="7d7c-c465-6350-79be" name="Garras" book="Deadzone: Outbreak" page="57" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -923,7 +923,7 @@
           <selectionEntries>
             <selectionEntry id="d677-7175-5780-ea12" name="Garras" book="Deadzone: Outbreak" page="57" hidden="false" collective="false" type="upgrade">
               <profiles>
-                <profile id="5f71-f112-ba98-04fb" name="Garras" book="Deadzone: Outbreak" page="57" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+                <profile id="5f71-f112-ba98-04fb" name="Garras" book="Deadzone: Outbreak" page="57" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
                   <profiles/>
                   <rules/>
                   <infoLinks/>
@@ -2005,7 +2005,7 @@
       <selectionEntries>
         <selectionEntry id="9b36-7dfc-e1ec-4ffe" name="Crushing Maw" book="Deadzone: Outbreak" page="59" hidden="false" collective="false" type="upgrade">
           <profiles>
-            <profile id="1b70-21a7-46dd-cfdb" name="Crushing Maw" book="Deadzone: Outbreak" page="59" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+            <profile id="1b70-21a7-46dd-cfdb" name="Crushing Maw" book="Deadzone: Outbreak" page="59" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -2036,7 +2036,7 @@
         </selectionEntry>
         <selectionEntry id="e3de-dfba-df2f-7f9a" name="Lashing Tentacles" book="Deadzone: Outbreak" page="59" hidden="false" collective="false" type="upgrade">
           <profiles>
-            <profile id="2914-3298-4116-02f0" name="Lashing Tentacles" book="Deadzone: Outbreak" page="59" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+            <profile id="2914-3298-4116-02f0" name="Lashing Tentacles" book="Deadzone: Outbreak" page="59" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -3039,7 +3039,7 @@
       <selectionEntries>
         <selectionEntry id="a931-ebe7-0566-b98a" name="Lanzaagujas" book="Deadzone: Outbreak" page="85" hidden="false" collective="false" type="upgrade">
           <profiles>
-            <profile id="9a0b-1517-cd93-5d47" name="Lanzaagujas" book="Deadzone: Outbreak" page="85" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+            <profile id="9a0b-1517-cd93-5d47" name="Lanzaagujas" book="Deadzone: Outbreak" page="85" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -3083,7 +3083,7 @@
         </selectionEntry>
         <selectionEntry id="a427-fe4d-ce2c-a4ec" name="Fragmentos Tóxicos" book="Deadzone: Outbreak" page="85" hidden="false" collective="false" type="upgrade">
           <profiles>
-            <profile id="2489-8e72-60db-d31d" name="Fragmentos Tóxicos" book="Deadzone: Outbreak" page="85" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+            <profile id="2489-8e72-60db-d31d" name="Fragmentos Tóxicos" book="Deadzone: Outbreak" page="85" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -3871,7 +3871,7 @@
   </sharedSelectionEntryGroups>
   <sharedRules/>
   <sharedProfiles>
-    <profile id="6a1d-d15d-914c-9d6c" name="Crystal Pistola" book="Deadzone: Outbreak" page="60" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="6a1d-d15d-914c-9d6c" name="Crystal Pistola" book="Deadzone: Outbreak" page="60" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -3883,7 +3883,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Pequeño Calibre"/>
       </characteristics>
     </profile>
-    <profile id="3528-93e2-5543-5e8e" name="Twin Crystal Pistols" book="Deadzone: Outbreak" page="60" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="3528-93e2-5543-5e8e" name="Twin Crystal Pistols" book="Deadzone: Outbreak" page="60" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -3895,7 +3895,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Pequeño Calibre"/>
       </characteristics>
     </profile>
-    <profile id="202a-2023-9d02-ef34" name="Corrosive Blast" book="Deadzone: Outbreak" page="60" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="202a-2023-9d02-ef34" name="Corrosive Blast" book="Deadzone: Outbreak" page="60" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -3907,7 +3907,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Asalto)"/>
       </characteristics>
     </profile>
-    <profile id="4ecf-d6ed-9635-8f06" name="Shoulder-mounted Phaser" book="Deadzone: Outbreak" page="60" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="4ecf-d6ed-9635-8f06" name="Shoulder-mounted Phaser" book="Deadzone: Outbreak" page="60" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -3919,7 +3919,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Asalto)"/>
       </characteristics>
     </profile>
-    <profile id="3d19-1df7-74f7-c766" name="Ravenous Maw" book="Deadzone: Outbreak" page="60" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="3d19-1df7-74f7-c766" name="Ravenous Maw" book="Deadzone: Outbreak" page="60" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -3931,7 +3931,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Melé)"/>
       </characteristics>
     </profile>
-    <profile id="0d56-c263-fce7-015b" name="Razor Garras" book="Deadzone: Outbreak" page="60" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="0d56-c263-fce7-015b" name="Razor Garras" book="Deadzone: Outbreak" page="60" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -3943,7 +3943,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Melé)"/>
       </characteristics>
     </profile>
-    <profile id="7f5b-a576-89c2-94ad" name="Ripping Tentacles" book="Deadzone: Outbreak" page="60" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="7f5b-a576-89c2-94ad" name="Ripping Tentacles" book="Deadzone: Outbreak" page="60" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -3955,7 +3955,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Melé)"/>
       </characteristics>
     </profile>
-    <profile id="5ef9-62cc-8edc-3a4a" name="Psychic Charge" book="Deadzone: Outbreak" page="60" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="5ef9-62cc-8edc-3a4a" name="Psychic Charge" book="Deadzone: Outbreak" page="60" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -3967,7 +3967,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Psychic)"/>
       </characteristics>
     </profile>
-    <profile id="68b3-b71b-40b8-dec5" name="Psychic Subjugation" book="Deadzone: Outbreak" page="60" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="68b3-b71b-40b8-dec5" name="Psychic Subjugation" book="Deadzone: Outbreak" page="60" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -3979,7 +3979,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Psychic)"/>
       </characteristics>
     </profile>
-    <profile id="d72a-950d-6e04-8e07" name="Crystal Rifle" book="Deadzone: Outbreak" page="60" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="d72a-950d-6e04-8e07" name="Crystal Rifle" book="Deadzone: Outbreak" page="60" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -3991,7 +3991,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Francotirador)"/>
       </characteristics>
     </profile>
-    <profile id="61bd-868a-6f2d-a55b" name="Corrosive Bile Ducts" book="Deadzone: Outbreak" page="60" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="61bd-868a-6f2d-a55b" name="Corrosive Bile Ducts" book="Deadzone: Outbreak" page="60" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -4003,7 +4003,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Pesada (Asalto)"/>
       </characteristics>
     </profile>
-    <profile id="9166-2328-e448-4550" name="Crystal Cannon" book="Deadzone: Outbreak" page="60" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="9166-2328-e448-4550" name="Crystal Cannon" book="Deadzone: Outbreak" page="60" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -4015,7 +4015,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Pesada (Explosiva)"/>
       </characteristics>
     </profile>
-    <profile id="1cc1-ab31-ba0b-9740" name="Crystal Launcher" book="Deadzone: Outbreak" page="60" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="1cc1-ab31-ba0b-9740" name="Crystal Launcher" book="Deadzone: Outbreak" page="60" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -4027,7 +4027,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Pesada (Explosiva)"/>
       </characteristics>
     </profile>
-    <profile id="e2fc-d1dc-8686-6ba0" name="Psionic Disruptor" book="Deadzone: Outbreak" page="60" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="e2fc-d1dc-8686-6ba0" name="Psionic Disruptor" book="Deadzone: Outbreak" page="60" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -4039,7 +4039,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Pesada (Lanza)"/>
       </characteristics>
     </profile>
-    <profile id="101e-3b2c-c783-dbe8" name="Massive Garras" book="Deadzone: Outbreak" page="60" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="101e-3b2c-c783-dbe8" name="Massive Garras" book="Deadzone: Outbreak" page="60" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>

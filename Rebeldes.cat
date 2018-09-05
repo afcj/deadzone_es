@@ -891,7 +891,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="e52b-fab9-f59a-a128" name="Hand Flamer" hidden="false" targetId="aeac-4622-eb9c-a034" type="selectionEntry">
+            <entryLink id="e52b-fab9-f59a-a128" name="Hand Flameador" hidden="false" targetId="aeac-4622-eb9c-a034" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1079,7 +1079,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="85d9-804e-25f6-3eeb" name="Ligera Flamer" hidden="false" targetId="0dc4-f1c2-9e55-4ec6" type="selectionEntry">
+            <entryLink id="85d9-804e-25f6-3eeb" name="Ligera Flameador" hidden="false" targetId="0dc4-f1c2-9e55-4ec6" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1616,7 +1616,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="9a21-cecf-d1b5-2bc3" name="Hand Flamer" hidden="false" targetId="aeac-4622-eb9c-a034" type="selectionEntry">
+            <entryLink id="9a21-cecf-d1b5-2bc3" name="Hand Flameador" hidden="false" targetId="aeac-4622-eb9c-a034" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1732,7 +1732,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="1727-dca3-815e-0ef9" name="Hand Flamer" hidden="false" targetId="aeac-4622-eb9c-a034" type="selectionEntry">
+            <entryLink id="1727-dca3-815e-0ef9" name="Hand Flameador" hidden="false" targetId="aeac-4622-eb9c-a034" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1830,7 +1830,7 @@
           <selectionEntries>
             <selectionEntry id="73e9-fc77-8e03-14bb" name="Mata Magma Lance" hidden="false" collective="false" type="upgrade">
               <profiles>
-                <profile id="9e24-b8d1-1012-4171" name="Mata Magma Lance" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+                <profile id="9e24-b8d1-1012-4171" name="Mata Magma Lance" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
                   <profiles/>
                   <rules/>
                   <infoLinks/>
@@ -1883,7 +1883,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="eee7-ce46-0cfa-9ec4" name="Hand Flamer" hidden="false" targetId="aeac-4622-eb9c-a034" type="selectionEntry">
+            <entryLink id="eee7-ce46-0cfa-9ec4" name="Hand Flameador" hidden="false" targetId="aeac-4622-eb9c-a034" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1999,7 +1999,7 @@
           <selectionEntries>
             <selectionEntry id="bedf-5c32-ccb0-dfd6" name="Twin Knives" hidden="false" collective="false" type="upgrade">
               <profiles>
-                <profile id="82da-9d06-4957-979f" name="Twin Knives" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+                <profile id="82da-9d06-4957-979f" name="Twin Knives" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
                   <profiles/>
                   <rules/>
                   <infoLinks/>
@@ -2072,7 +2072,7 @@
           <selectionEntries>
             <selectionEntry id="9801-3a7d-51ad-0f8c" name="Twin Pistols" hidden="false" collective="false" type="upgrade">
               <profiles>
-                <profile id="deb3-98b3-a1b6-1a6d" name="Twin Pistols" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+                <profile id="deb3-98b3-a1b6-1a6d" name="Twin Pistols" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
                   <profiles/>
                   <rules/>
                   <infoLinks/>
@@ -2695,7 +2695,7 @@
       <selectionEntries>
         <selectionEntry id="bf52-bb45-c827-d177" name="Lanzador ARC" hidden="false" collective="false" type="upgrade">
           <profiles>
-            <profile id="dde3-0af1-bed3-edab" name="Lanzador ARC" book="Reglamento Deadzone 2ª Edición" page="94" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+            <profile id="dde3-0af1-bed3-edab" name="Lanzador ARC" book="Reglamento Deadzone 2ª Edición" page="94" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -2726,7 +2726,7 @@
         </selectionEntry>
         <selectionEntry id="100d-62eb-5764-945c" name="Maza" book="" page="" hidden="false" collective="false" type="upgrade">
           <profiles>
-            <profile id="0011-71e1-b664-89ec" name="Maza" book="Reglamento Deadzone 2ª Edición" page="94" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+            <profile id="0011-71e1-b664-89ec" name="Maza" book="Reglamento Deadzone 2ª Edición" page="94" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -3634,7 +3634,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="af3b-1280-9f2a-cbc8" name="Ligera Flamer" hidden="false" targetId="0dc4-f1c2-9e55-4ec6" type="selectionEntry">
+            <entryLink id="af3b-1280-9f2a-cbc8" name="Ligera Flameador" hidden="false" targetId="0dc4-f1c2-9e55-4ec6" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -3718,7 +3718,7 @@
               <selectionEntries>
                 <selectionEntry id="5332-3dfd-f856-6229" name="Mata Magma Lance" book="Deadzone: Outbreak" page="68" hidden="false" collective="false" type="upgrade">
                   <profiles>
-                    <profile id="3659-6e1b-a816-0377" name="Mata Magma Lance" book="Deadzone: Outbreak" page="68" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+                    <profile id="3659-6e1b-a816-0377" name="Mata Magma Lance" book="Deadzone: Outbreak" page="68" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
                       <profiles/>
                       <rules/>
                       <infoLinks/>
@@ -4158,7 +4158,7 @@
         <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="aeac-4622-eb9c-a034" name="Hand Flamer" book="Reglamento Deadzone 2ª Edición" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="aeac-4622-eb9c-a034" name="Hand Flameador" book="Reglamento Deadzone 2ª Edición" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
@@ -4174,7 +4174,7 @@
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="84d4-f43c-d1c1-b6ba" name="Hand Flamer" hidden="false" targetId="c4eb-fd08-bee3-2a8d" type="profile">
+        <infoLink id="84d4-f43c-d1c1-b6ba" name="Hand Flameador" hidden="false" targetId="c4eb-fd08-bee3-2a8d" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -4412,11 +4412,11 @@
         <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="0dc4-f1c2-9e55-4ec6" name="Ligera Flamer" book="Deadzone: Outbreak" page="73" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="0dc4-f1c2-9e55-4ec6" name="Ligera Flameador" book="Deadzone: Outbreak" page="73" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="9fe0-e27c-e426-88fc" name="Ligera Flamer" hidden="false" targetId="c649-8050-edff-a6eb" type="profile">
+        <infoLink id="9fe0-e27c-e426-88fc" name="Ligera Flameador" hidden="false" targetId="c649-8050-edff-a6eb" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -4734,7 +4734,7 @@
   </sharedSelectionEntryGroups>
   <sharedRules/>
   <sharedProfiles>
-    <profile id="30cb-a41c-a4ab-82b1" name="Pistola" book="Reglamento Deadzone 2ª Edición" page="89" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="30cb-a41c-a4ab-82b1" name="Pistola" book="Reglamento Deadzone 2ª Edición" page="89" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -4746,7 +4746,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Pequeño Calibre"/>
       </characteristics>
     </profile>
-    <profile id="95f3-3211-e712-bf3e" name="Rifle" book="Reglamento Deadzone 2ª Edición" page="89" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="95f3-3211-e712-bf3e" name="Rifle" book="Reglamento Deadzone 2ª Edición" page="89" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -4758,7 +4758,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Pequeño Calibre"/>
       </characteristics>
     </profile>
-    <profile id="bbe2-b77a-f775-febf" name="Long Rifle" book="Reglamento Deadzone 2ª Edición" page="89" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="bbe2-b77a-f775-febf" name="Long Rifle" book="Reglamento Deadzone 2ª Edición" page="89" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -4770,7 +4770,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Pequeño Calibre"/>
       </characteristics>
     </profile>
-    <profile id="2459-ddf2-bc7c-99e7" name="Lanzallamas de Asalto" book="Reglamento Deadzone 2ª Edición" page="89" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="2459-ddf2-bc7c-99e7" name="Lanzallamas de Asalto" book="Reglamento Deadzone 2ª Edición" page="89" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -4782,7 +4782,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Andador (Asalto)"/>
       </characteristics>
     </profile>
-    <profile id="964f-8933-a857-916f" name="Motosierra" book="Reglamento Deadzone 2ª Edición" page="89" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="964f-8933-a857-916f" name="Motosierra" book="Reglamento Deadzone 2ª Edición" page="89" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -4794,7 +4794,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Andador (Melé)"/>
       </characteristics>
     </profile>
-    <profile id="975c-b46b-263b-9f1a" name="Rifle de Francotirador" book="Reglamento Deadzone 2ª Edición" page="89" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="975c-b46b-263b-9f1a" name="Rifle de Francotirador" book="Reglamento Deadzone 2ª Edición" page="89" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -4806,7 +4806,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Francotirador)"/>
       </characteristics>
     </profile>
-    <profile id="8c14-7fdb-0116-fc2d" name="Cañón Polaris" book="Reglamento Deadzone 2ª Edición" page="89" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="8c14-7fdb-0116-fc2d" name="Cañón Polaris" book="Reglamento Deadzone 2ª Edición" page="89" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -4818,7 +4818,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Andador (Lanza)"/>
       </characteristics>
     </profile>
-    <profile id="9893-d668-f455-a335" name="Onslaught Cannon" book="Reglamento Deadzone 2ª Edición" page="89" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="9893-d668-f455-a335" name="Onslaught Cannon" book="Reglamento Deadzone 2ª Edición" page="89" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -4830,7 +4830,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Pesada (Automática)"/>
       </characteristics>
     </profile>
-    <profile id="fcde-7b24-cff6-4e25" name="Desolator" book="Reglamento Deadzone 2ª Edición" page="89" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="fcde-7b24-cff6-4e25" name="Desolator" book="Reglamento Deadzone 2ª Edición" page="89" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -4842,7 +4842,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Pesada (Lanza)"/>
       </characteristics>
     </profile>
-    <profile id="c2f7-6954-337a-d7fa" name="Lanzamisiles" book="Reglamento Deadzone 2ª Edición" page="89" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="c2f7-6954-337a-d7fa" name="Lanzamisiles" book="Reglamento Deadzone 2ª Edición" page="89" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -4854,7 +4854,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Pesada (Crew Served Weapon)"/>
       </characteristics>
     </profile>
-    <profile id="2314-247f-d507-5333" name="Ceremonial Blades" book="Reglamento Deadzone 2ª Edición" page="89" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="2314-247f-d507-5333" name="Ceremonial Blades" book="Reglamento Deadzone 2ª Edición" page="89" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -4866,7 +4866,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Melé)"/>
       </characteristics>
     </profile>
-    <profile id="8567-fd93-ae8b-c1f0" name="Ligera Lanzagranadas" book="Reglamento Deadzone 2ª Edición" page="89" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="8567-fd93-ae8b-c1f0" name="Ligera Lanzagranadas" book="Reglamento Deadzone 2ª Edición" page="89" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -4878,7 +4878,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Explosiva)"/>
       </characteristics>
     </profile>
-    <profile id="c4eb-fd08-bee3-2a8d" name="Hand Flamer" book="Reglamento Deadzone 2ª Edición" page="89" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="c4eb-fd08-bee3-2a8d" name="Hand Flameador" book="Reglamento Deadzone 2ª Edición" page="89" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -4890,7 +4890,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Asalto)"/>
       </characteristics>
     </profile>
-    <profile id="9333-5383-7495-d98b" name="Wrist Blaster" book="Reglamento Deadzone 2ª Edición" page="89" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="9333-5383-7495-d98b" name="Wrist Blaster" book="Reglamento Deadzone 2ª Edición" page="89" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -4902,7 +4902,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Automática)"/>
       </characteristics>
     </profile>
-    <profile id="27aa-21f0-576e-287a" name="Blaster" book="Reglamento Deadzone 2ª Edición" page="89" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="27aa-21f0-576e-287a" name="Blaster" book="Reglamento Deadzone 2ª Edición" page="89" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -4914,7 +4914,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Automática)"/>
       </characteristics>
     </profile>
-    <profile id="cc12-82dd-49e0-96f8" name="Combat Blades" book="Reglamento Deadzone 2ª Edición" page="89" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="cc12-82dd-49e0-96f8" name="Combat Blades" book="Reglamento Deadzone 2ª Edición" page="89" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -4926,7 +4926,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Melé)"/>
       </characteristics>
     </profile>
-    <profile id="9f86-7d7e-3ffc-d4a2" name="Flame Thrower" book="Deadzone Erratas v2.1" page="89" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="9f86-7d7e-3ffc-d4a2" name="Flame Thrower" book="Deadzone Erratas v2.1" page="89" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -4938,7 +4938,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Asalto)"/>
       </characteristics>
     </profile>
-    <profile id="0c19-39da-27db-768f" name="Lanzagranadas" book="Deadzone Erratas v2.1" page="89" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="0c19-39da-27db-768f" name="Lanzagranadas" book="Deadzone Erratas v2.1" page="89" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -4950,7 +4950,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Explosiva)"/>
       </characteristics>
     </profile>
-    <profile id="511a-5846-47c2-7089" name="Láser de Ráfaga Pesado" book="Deadzone: Nexus Psi" page="10" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="511a-5846-47c2-7089" name="Láser de Ráfaga Pesado" book="Deadzone: Nexus Psi" page="10" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -4962,7 +4962,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Andador (Automática)"/>
       </characteristics>
     </profile>
-    <profile id="6096-e298-ff33-be0b" name="Harpoon Gun" book="Deadzone: Outbreak" page="73" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="6096-e298-ff33-be0b" name="Harpoon Gun" book="Deadzone: Outbreak" page="73" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -4974,7 +4974,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Asalto)"/>
       </characteristics>
     </profile>
-    <profile id="c649-8050-edff-a6eb" name="Ligera Flamer" book="Deadzone: Outbreak" page="73" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="c649-8050-edff-a6eb" name="Ligera Flameador" book="Deadzone: Outbreak" page="73" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -4986,7 +4986,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Asalto)"/>
       </characteristics>
     </profile>
-    <profile id="fe57-32a5-cb19-f146" name="Mortar" book="Deadzone: Outbreak" page="73" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="fe57-32a5-cb19-f146" name="Mortar" book="Deadzone: Outbreak" page="73" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -4998,7 +4998,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Pesada (Crew Served Weapon)"/>
       </characteristics>
     </profile>
-    <profile id="43be-2ae3-7d63-c7de" name="Spiked Gloves" book="Deadzone: Outbreak" page="69" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="43be-2ae3-7d63-c7de" name="Spiked Gloves" book="Deadzone: Outbreak" page="69" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>

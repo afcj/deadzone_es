@@ -157,7 +157,7 @@
           <selectionEntries>
             <selectionEntry id="aa4b-00c9-3380-6be4" name="Bastón de Mando" hidden="false" collective="false" type="upgrade">
               <profiles>
-                <profile id="6edb-7600-2699-d7c3" name="Bastón de Mando" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+                <profile id="6edb-7600-2699-d7c3" name="Bastón de Mando" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
                   <profiles/>
                   <rules/>
                   <infoLinks/>
@@ -332,7 +332,7 @@
           <selectionEntries>
             <selectionEntry id="d507-9f4d-efc5-fc7b" name="Sable de Luz" hidden="false" collective="false" type="upgrade">
               <profiles>
-                <profile id="1421-dbbb-4d0a-1481" name="Sable de Luz" book="Reglamento Deadzone 2ª Edición" page="27" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+                <profile id="1421-dbbb-4d0a-1481" name="Sable de Luz" book="Reglamento Deadzone 2ª Edición" page="27" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
                   <profiles/>
                   <rules/>
                   <infoLinks/>
@@ -3953,7 +3953,7 @@ No puedes usar esta habilidad dos veces sobre una misma miniatura en una misma a
       <selectionEntries>
         <selectionEntry id="38a9-9fb1-9f8b-a06b" name="Espada Cantora" book="Deadzone: Outbreak" page="80" hidden="false" collective="false" type="upgrade">
           <profiles>
-            <profile id="e5ec-95b4-b7b9-0d2e" name="Espada Cantora" book="Deadzone: Outbreak" page="80" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+            <profile id="e5ec-95b4-b7b9-0d2e" name="Espada Cantora" book="Deadzone: Outbreak" page="80" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -5171,7 +5171,7 @@ No puedes usar esta habilidad dos veces sobre una misma miniatura en una misma a
     </rule>
   </sharedRules>
   <sharedProfiles>
-    <profile id="19dd-1ca3-9511-9bd5" name="Arco de Energía" book="Reglamento Deadzone 2ª Edición" page="76" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="19dd-1ca3-9511-9bd5" name="Arco de Energía" book="Reglamento Deadzone 2ª Edición" page="76" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -5183,7 +5183,7 @@ No puedes usar esta habilidad dos veces sobre una misma miniatura en una misma a
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Kalyshi"/>
       </characteristics>
     </profile>
-    <profile id="d8c3-0bb4-1821-646c" name="Guja" book="Reglamento Deadzone 2ª Edición" page="76" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="d8c3-0bb4-1821-646c" name="Guja" book="Reglamento Deadzone 2ª Edición" page="76" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -5195,7 +5195,7 @@ No puedes usar esta habilidad dos veces sobre una misma miniatura en una misma a
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Kalyshi"/>
       </characteristics>
     </profile>
-    <profile id="f05f-f314-9f79-55a4" name="Guante Potenciado (Pulso de Energía)" book="Reglamento Deadzone 2ª Edición" page="76" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="f05f-f314-9f79-55a4" name="Guante Potenciado (Pulso de Energía)" book="Reglamento Deadzone 2ª Edición" page="76" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -5207,7 +5207,7 @@ No puedes usar esta habilidad dos veces sobre una misma miniatura en una misma a
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Pequeño Calibre"/>
       </characteristics>
     </profile>
-    <profile id="671f-5743-c3da-364b" name="Guante Potenciado" book="Reglamento Deadzone 2ª Edición" page="76" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="671f-5743-c3da-364b" name="Guante Potenciado" book="Reglamento Deadzone 2ª Edición" page="76" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -5219,7 +5219,7 @@ No puedes usar esta habilidad dos veces sobre una misma miniatura en una misma a
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Pequeño Calibre"/>
       </characteristics>
     </profile>
-    <profile id="8cf3-bfd7-cf5e-02bc" name="Bastón de Mando" book="Reglamento Deadzone 2ª Edición" page="76" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="8cf3-bfd7-cf5e-02bc" name="Bastón de Mando" book="Reglamento Deadzone 2ª Edición" page="76" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -5231,7 +5231,7 @@ No puedes usar esta habilidad dos veces sobre una misma miniatura en una misma a
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Supervisor"/>
       </characteristics>
     </profile>
-    <profile id="c80c-319d-a370-9105" name="Sable de Luz" book="Reglamento Deadzone 2ª Edición" page="76" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="c80c-319d-a370-9105" name="Sable de Luz" book="Reglamento Deadzone 2ª Edición" page="76" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -5243,7 +5243,7 @@ No puedes usar esta habilidad dos veces sobre una misma miniatura en una misma a
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Melé)"/>
       </characteristics>
     </profile>
-    <profile id="f4c2-5a3b-7546-b2c1" name="Lanzagranadas" book="Reglamento Deadzone 2ª Edición" page="76" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="f4c2-5a3b-7546-b2c1" name="Lanzagranadas" book="Reglamento Deadzone 2ª Edición" page="76" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -5255,7 +5255,7 @@ No puedes usar esta habilidad dos veces sobre una misma miniatura en una misma a
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Explosiva)"/>
       </characteristics>
     </profile>
-    <profile id="d431-fdc7-f251-84bd" name="Flogistor" book="Reglamento Deadzone 2ª Edición" page="76" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="d431-fdc7-f251-84bd" name="Flogistor" book="Reglamento Deadzone 2ª Edición" page="76" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -5267,7 +5267,7 @@ No puedes usar esta habilidad dos veces sobre una misma miniatura en una misma a
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Asalto)"/>
       </characteristics>
     </profile>
-    <profile id="d63d-d316-1fc6-a1c9" name="Rifle de Francotirador" book="Reglamento Deadzone 2ª Edición" page="76" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="d63d-d316-1fc6-a1c9" name="Rifle de Francotirador" book="Reglamento Deadzone 2ª Edición" page="76" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -5279,7 +5279,7 @@ No puedes usar esta habilidad dos veces sobre una misma miniatura en una misma a
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Francotirador)"/>
       </characteristics>
     </profile>
-    <profile id="9a8a-32e8-3c16-095d" name="Rifle de Fuerza" book="Reglamento Deadzone 2ª Edición" page="76" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="9a8a-32e8-3c16-095d" name="Rifle de Fuerza" book="Reglamento Deadzone 2ª Edición" page="76" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -5291,7 +5291,7 @@ No puedes usar esta habilidad dos veces sobre una misma miniatura en una misma a
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Explosiva)"/>
       </characteristics>
     </profile>
-    <profile id="f1f4-0b97-c8f7-8944" name="Proyector de Fisión" book="Reglamento Deadzone 2ª Edición" page="76" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="f1f4-0b97-c8f7-8944" name="Proyector de Fisión" book="Reglamento Deadzone 2ª Edición" page="76" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -5303,7 +5303,7 @@ No puedes usar esta habilidad dos veces sobre una misma miniatura en una misma a
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Plataforma (Lanza), Pesada (Lanza)"/>
       </characteristics>
     </profile>
-    <profile id="da4a-1df2-cec3-bccc" name="Lanzamisiles Ligero" book="Reglamento Deadzone 2ª Edición" page="76" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="da4a-1df2-cec3-bccc" name="Lanzamisiles Ligero" book="Reglamento Deadzone 2ª Edición" page="76" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -5315,7 +5315,7 @@ No puedes usar esta habilidad dos veces sobre una misma miniatura en una misma a
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Explosiva)"/>
       </characteristics>
     </profile>
-    <profile id="c9ab-03ad-20c9-70ed" name="Rifle Noh" book="Reglamento Deadzone 2ª Edición" page="76" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="c9ab-03ad-20c9-70ed" name="Rifle Noh" book="Reglamento Deadzone 2ª Edición" page="76" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -5327,7 +5327,7 @@ No puedes usar esta habilidad dos veces sobre una misma miniatura en una misma a
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Pequeño Calibre"/>
       </characteristics>
     </profile>
-    <profile id="d198-3b57-93f2-bcf2" name="Pistola Noh" book="Reglamento Deadzone 2ª Edición" page="76" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="d198-3b57-93f2-bcf2" name="Pistola Noh" book="Reglamento Deadzone 2ª Edición" page="76" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -5339,7 +5339,7 @@ No puedes usar esta habilidad dos veces sobre una misma miniatura en una misma a
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Pequeño Calibre"/>
       </characteristics>
     </profile>
-    <profile id="5bfc-fcd1-7fcf-ffaf" name="Rifles Noh Gemelos" book="Reglamento Deadzone 2ª Edición" page="76" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="5bfc-fcd1-7fcf-ffaf" name="Rifles Noh Gemelos" book="Reglamento Deadzone 2ª Edición" page="76" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -5351,7 +5351,7 @@ No puedes usar esta habilidad dos veces sobre una misma miniatura en una misma a
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Bike (Automática)"/>
       </characteristics>
     </profile>
-    <profile id="fa97-ea59-b49c-632f" name="Vórtice de Plasma" book="Reglamento Deadzone 2ª Edición" page="76" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="fa97-ea59-b49c-632f" name="Vórtice de Plasma" book="Reglamento Deadzone 2ª Edición" page="76" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -5363,7 +5363,7 @@ No puedes usar esta habilidad dos veces sobre una misma miniatura en una misma a
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Plataforma (Explosiva)"/>
       </characteristics>
     </profile>
-    <profile id="6b14-8172-2066-91c4" name="Bombarda de Pulsos" book="Reglamento Deadzone 2ª Edición" page="76" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="6b14-8172-2066-91c4" name="Bombarda de Pulsos" book="Reglamento Deadzone 2ª Edición" page="76" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -5375,7 +5375,7 @@ No puedes usar esta habilidad dos veces sobre una misma miniatura en una misma a
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Plataforma (Artillería)"/>
       </characteristics>
     </profile>
-    <profile id="4c76-22c8-6188-0020" name="Generador de Escudo" book="Reglamento Deadzone 2ª Edición" page="76" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="4c76-22c8-6188-0020" name="Generador de Escudo" book="Reglamento Deadzone 2ª Edición" page="76" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -5387,7 +5387,7 @@ No puedes usar esta habilidad dos veces sobre una misma miniatura en una misma a
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Plataforma (Shield)"/>
       </characteristics>
     </profile>
-    <profile id="5324-e0dd-f240-ec0c" name="Dispositivo de Ocultación" book="Asterian Faction Booklet" page="8" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="5324-e0dd-f240-ec0c" name="Dispositivo de Ocultación" book="Asterian Faction Booklet" page="8" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -5399,7 +5399,7 @@ No puedes usar esta habilidad dos veces sobre una misma miniatura en una misma a
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Plataforma (Camouflage)"/>
       </characteristics>
     </profile>
-    <profile id="c5a8-a0a5-e036-f448" name="Relé de Comunicaciones" book="Asterian Faction Booklet" page="8" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="c5a8-a0a5-e036-f448" name="Relé de Comunicaciones" book="Asterian Faction Booklet" page="8" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -5411,7 +5411,7 @@ No puedes usar esta habilidad dos veces sobre una misma miniatura en una misma a
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Plataforma (Communications)"/>
       </characteristics>
     </profile>
-    <profile id="39b9-7e0e-de27-fd39" name="Flagelos Segadores [Razor Flails]" book="Asterian Faction Booklet" page="2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="39b9-7e0e-de27-fd39" name="Flagelos Segadores [Razor Flails]" book="Asterian Faction Booklet" page="2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>

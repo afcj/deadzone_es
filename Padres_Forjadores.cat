@@ -1554,7 +1554,7 @@
       <selectionEntries>
         <selectionEntry id="1a8f-fe55-3121-3a8f" name="Mining Laser" hidden="false" collective="false" type="upgrade">
           <profiles>
-            <profile id="dcbc-d75f-b97a-f2d9" name="Mining Laser" book="Reglamento Deadzone 2ª Edición" page="70" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+            <profile id="dcbc-d75f-b97a-f2d9" name="Mining Laser" book="Reglamento Deadzone 2ª Edición" page="70" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1836,7 +1836,7 @@
               </constraints>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="2d21-bca9-6539-2d2c" name="Power Claw and Flamer" hidden="false" targetId="8146-444d-0531-fabc" type="selectionEntry">
+            <entryLink id="2d21-bca9-6539-2d2c" name="Power Garra and Flameador" hidden="false" targetId="8146-444d-0531-fabc" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1982,7 +1982,7 @@
       <selectionEntries>
         <selectionEntry id="b503-c25b-91ea-c169" name="Twin IA Forge Hammers" book="" page="" hidden="false" collective="false" type="upgrade">
           <profiles>
-            <profile id="5042-b7f7-2680-4b0c" name="Twin IA Forge Hammers" book="Reglamento Deadzone 2ª Edición" page="70" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+            <profile id="5042-b7f7-2680-4b0c" name="Twin IA Forge Hammers" book="Reglamento Deadzone 2ª Edición" page="70" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -4370,7 +4370,7 @@
       <selectionEntries>
         <selectionEntry id="37ff-1efb-0d07-1286" name="Dragon Breath" book="Deadzone: Outbreak" page="82" hidden="false" collective="false" type="upgrade">
           <profiles>
-            <profile id="e920-78f3-0fff-a442" name="Dragon Breath" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+            <profile id="e920-78f3-0fff-a442" name="Dragon Breath" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -4468,7 +4468,7 @@
           <selectionEntries>
             <selectionEntry id="5adf-3dd5-2181-1ab1" name="Teeth" hidden="false" collective="false" type="upgrade">
               <profiles>
-                <profile id="4bc0-7b88-2c75-3513" name="Teeth" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+                <profile id="4bc0-7b88-2c75-3513" name="Teeth" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
                   <profiles/>
                   <rules/>
                   <infoLinks/>
@@ -4852,7 +4852,7 @@
         <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="1.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="8146-444d-0531-fabc" name="Power Claw and Flamer" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="8146-444d-0531-fabc" name="Power Garra and Flameador" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
@@ -4862,7 +4862,7 @@
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="4c24-6750-3797-fc52" name="Power Claw and Flamer" hidden="false" targetId="58c7-69c4-be22-aa9f" type="profile">
+        <infoLink id="4c24-6750-3797-fc52" name="Power Garra and Flameador" hidden="false" targetId="58c7-69c4-be22-aa9f" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -5327,7 +5327,7 @@
   </sharedSelectionEntryGroups>
   <sharedRules/>
   <sharedProfiles>
-    <profile id="ac02-8d0f-75d6-0a4a" name="Forge Hammer" book="Reglamento Deadzone 2ª Edición" page="71" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="ac02-8d0f-75d6-0a4a" name="Forge Hammer" book="Reglamento Deadzone 2ª Edición" page="71" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -5339,7 +5339,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Melé)"/>
       </characteristics>
     </profile>
-    <profile id="44cb-8209-f1e2-69f0" name="Rifle Granítico" book="Reglamento Deadzone 2ª Edición" page="71" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="44cb-8209-f1e2-69f0" name="Rifle Granítico" book="Reglamento Deadzone 2ª Edición" page="71" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -5351,7 +5351,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Pequeño Calibre"/>
       </characteristics>
     </profile>
-    <profile id="95e0-c1c0-1a1a-347c" name="Burst Pistola" book="Reglamento Deadzone 2ª Edición" page="71" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="95e0-c1c0-1a1a-347c" name="Burst Pistola" book="Reglamento Deadzone 2ª Edición" page="71" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -5363,7 +5363,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Pequeño Calibre"/>
       </characteristics>
     </profile>
-    <profile id="cad6-0564-9d9e-6fd8" name="Pistola Granítica" book="Reglamento Deadzone 2ª Edición" page="71" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="cad6-0564-9d9e-6fd8" name="Pistola Granítica" book="Reglamento Deadzone 2ª Edición" page="71" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -5375,7 +5375,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Automática)"/>
       </characteristics>
     </profile>
-    <profile id="73e7-934a-58d1-dc2c" name="Lanzamisiles" book="Reglamento Deadzone 2ª Edición" page="71" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="73e7-934a-58d1-dc2c" name="Lanzamisiles" book="Reglamento Deadzone 2ª Edición" page="71" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -5387,7 +5387,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Explosiva)"/>
       </characteristics>
     </profile>
-    <profile id="d5a1-e52d-2454-23f0" name="Twin Rifles Granítica" book="Reglamento Deadzone 2ª Edición" page="71" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="d5a1-e52d-2454-23f0" name="Twin Rifles Granítica" book="Reglamento Deadzone 2ª Edición" page="71" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -5399,7 +5399,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Bike (Automática)"/>
       </characteristics>
     </profile>
-    <profile id="170a-893e-315f-3dfb" name="Magma Rifle" book="Reglamento Deadzone 2ª Edición" page="71" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="170a-893e-315f-3dfb" name="Magma Rifle" book="Reglamento Deadzone 2ª Edición" page="71" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -5411,7 +5411,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Asalto)"/>
       </characteristics>
     </profile>
-    <profile id="6fac-d282-02b4-92e7" name="Magma Cannon" book="Reglamento Deadzone 2ª Edición" page="71" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="6fac-d282-02b4-92e7" name="Magma Cannon" book="Reglamento Deadzone 2ª Edición" page="71" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -5423,7 +5423,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Pesada (Asalto)"/>
       </characteristics>
     </profile>
-    <profile id="b9dd-77c3-92a8-39f1" name="Twin Hailstorm Pistols" book="Reglamento Deadzone 2ª Edición" page="71" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="b9dd-77c3-92a8-39f1" name="Twin Hailstorm Pistols" book="Reglamento Deadzone 2ª Edición" page="71" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -5435,7 +5435,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Automática)"/>
       </characteristics>
     </profile>
-    <profile id="f3a1-1017-7e97-e765" name="Twin Magma Cannon" book="Reglamento Deadzone 2ª Edición" page="71" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="f3a1-1017-7e97-e765" name="Twin Magma Cannon" book="Reglamento Deadzone 2ª Edición" page="71" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -5447,7 +5447,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Andador (Lanza)"/>
       </characteristics>
     </profile>
-    <profile id="58c7-69c4-be22-aa9f" name="Power Claw and Flamer" book="Reglamento Deadzone 2ª Edición" page="71" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="58c7-69c4-be22-aa9f" name="Power Garra and Flameador" book="Reglamento Deadzone 2ª Edición" page="71" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -5459,7 +5459,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Andador (Asalto)"/>
       </characteristics>
     </profile>
-    <profile id="1530-5173-e5a7-8b44" name="Twin Hailstorm Autocannons" book="Reglamento Deadzone 2ª Edición" page="71" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="1530-5173-e5a7-8b44" name="Twin Hailstorm Autocannons" book="Reglamento Deadzone 2ª Edición" page="71" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -5471,7 +5471,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Andador (Automática)"/>
       </characteristics>
     </profile>
-    <profile id="b4bb-653e-9f45-5762" name="Dragon&apos;s Breath" book="Reglamento Deadzone 2ª Edición" page="71" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="b4bb-653e-9f45-5762" name="Dragon&apos;s Breath" book="Reglamento Deadzone 2ª Edición" page="71" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -5483,7 +5483,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Asalto)"/>
       </characteristics>
     </profile>
-    <profile id="afab-6ed3-1f02-2059" name="Hailstorm Autocannon" book="Reglamento Deadzone 2ª Edición" page="71" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="afab-6ed3-1f02-2059" name="Hailstorm Autocannon" book="Reglamento Deadzone 2ª Edición" page="71" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -5495,7 +5495,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Pesada (Automática)"/>
       </characteristics>
     </profile>
-    <profile id="c46c-4939-8bf8-d82d" name="IA Forge Hammer" book="Reglamento Deadzone 2ª Edición" page="71" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="c46c-4939-8bf8-d82d" name="IA Forge Hammer" book="Reglamento Deadzone 2ª Edición" page="71" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -5507,7 +5507,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Andador (Melé)"/>
       </characteristics>
     </profile>
-    <profile id="dd0d-3ee9-d32a-c587" name="2-Handed Heat Hammer" book="Deadzone: Outbreak" page="39" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="dd0d-3ee9-d32a-c587" name="2-Handed Heat Hammer" book="Deadzone: Outbreak" page="39" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -5519,7 +5519,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Melé)"/>
       </characteristics>
     </profile>
-    <profile id="ebe8-11ef-b457-b68f" name="Inferno Drill" book="Deadzone: Infestación" page="24" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="ebe8-11ef-b457-b68f" name="Inferno Drill" book="Deadzone: Infestación" page="24" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -5531,7 +5531,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c"/>
       </characteristics>
     </profile>
-    <profile id="3fe3-a385-6ad5-ad6a" name="Mining Laser" book="Deadzone: Infestación" page="24" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="3fe3-a385-6ad5-ad6a" name="Mining Laser" book="Deadzone: Infestación" page="24" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>

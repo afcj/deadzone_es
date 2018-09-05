@@ -27,12 +27,12 @@
         </profile>
       </profiles>
       <rules>
-        <rule id="3908-fcb4-72fc-1c3d" name="Tactical Genius" book="Reglamento Deadzone 2ª Edición" page="79" hidden="false">
+        <rule id="3908-fcb4-72fc-1c3d" name="Genio Táctico" book="Reglamento Deadzone 2ª Edición" page="79" hidden="false">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers/>
-          <description>Spend an Army Special result during a model’s activation. The active model may immediately use and discard one of your opponent’s Move, Disparo, or Lucha Command Dice results. This result may only be played once per activation, and the active model may not also use a Move, Disparo, or Lucha Command Dice result from the owning player’s Command Dice pool.</description>
+          <description>Gasta un único resultado de Especial de tus Dados de Mando durante la activación de una miniatura para que pueda inmediatamente gastar un resultado de Mover, Disparo o Lucha de los Dados de Mando de tu oponente. La miniatura no puede usar adicionalmente otro resultado de Mover, Disparo o Lucha de sus propios Dados de Mando.</description>
         </rule>
       </rules>
       <infoLinks>
@@ -95,7 +95,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="4b53-c621-0f5a-64a4" name="Pesada Pistola" hidden="false" targetId="fc04-7d7b-5f0c-4ad3" type="selectionEntry">
+            <entryLink id="4b53-c621-0f5a-64a4" name="Pistola Pesada" hidden="false" targetId="fc04-7d7b-5f0c-4ad3" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -159,12 +159,12 @@
         </profile>
       </profiles>
       <rules>
-        <rule id="cd5c-140d-d1cc-a7c6" name="By The Numbers" book="Reglamento Deadzone 2ª Edición" page="79" hidden="false">
+        <rule id="cd5c-140d-d1cc-a7c6" name="Por Números" book="Reglamento Deadzone 2ª Edición" page="79" hidden="false">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers/>
-          <description>You may spend an Army Special result on your Command Dice to re-roll any normal test made by a model with Comando in their type name.</description>
+          <description>Gasta un resultado de Especial de tus Dados de Mando para repetir cualquier prueba normal realizada por una miniatura con Comando en su nombre.</description>
         </rule>
       </rules>
       <infoLinks>
@@ -221,7 +221,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="0c27-7dc3-3c7f-3f79" name="Pesada Pistola" hidden="false" targetId="fc04-7d7b-5f0c-4ad3" type="selectionEntry">
+            <entryLink id="0c27-7dc3-3c7f-3f79" name="Pistola Pesada" hidden="false" targetId="fc04-7d7b-5f0c-4ad3" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -260,7 +260,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="b0c7-cee4-dcc4-c2cc" name="Claw" hidden="false" targetId="d7fc-ae26-2641-a2c2" type="selectionEntry">
+            <entryLink id="b0c7-cee4-dcc4-c2cc" name="Garra" hidden="false" targetId="d7fc-ae26-2641-a2c2" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -268,7 +268,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="7f51-f6f3-caf1-4f2d" name="Ripper Talon" hidden="false" targetId="9784-409a-e56c-ca60" type="selectionEntry">
+            <entryLink id="7f51-f6f3-caf1-4f2d" name="Garra Destripadora" hidden="false" targetId="9784-409a-e56c-ca60" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -321,12 +321,12 @@
         </profile>
       </profiles>
       <rules>
-        <rule id="4c4b-c4c9-c8b0-c200" name="Green Rage" book="Reglamento Deadzone 2ª Edición" page="79" hidden="false">
+        <rule id="4c4b-c4c9-c8b0-c200" name="Rabia Verde" book="Reglamento Deadzone 2ª Edición" page="79" hidden="false">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers/>
-          <description>Spend an Army Special result to give Furia (4) to a model for the rest of the Round. You may spend this dice before taking any Lucha test. If the model already has Furia, then the higher of the two values is used.</description>
+          <description>Antes de resolver una prueba de Lucha, gasta un resultado de Especial de tus Dados de Mando para proporcionar Furia (4) a la miniatura involucrada durante el resto de la Ronda. Si la miniatura ya tenía Furia no se acumula, se usa el valor más alto.</description>
         </rule>
       </rules>
       <infoLinks>
@@ -387,7 +387,7 @@
           <selectionEntries/>
           <selectionEntryGroups/>
           <entryLinks>
-            <entryLink id="341e-525f-c13d-1be1" name="Claw" hidden="false" targetId="d7fc-ae26-2641-a2c2" type="selectionEntry">
+            <entryLink id="341e-525f-c13d-1be1" name="Garra" hidden="false" targetId="d7fc-ae26-2641-a2c2" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -401,7 +401,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="bcb8-7444-ec94-c5b3" name="Ripper Talon" hidden="false" targetId="9784-409a-e56c-ca60" type="selectionEntry">
+            <entryLink id="bcb8-7444-ec94-c5b3" name="Garra Destripadora" hidden="false" targetId="9784-409a-e56c-ca60" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -432,7 +432,7 @@
           <selectionEntries/>
           <selectionEntryGroups/>
           <entryLinks>
-            <entryLink id="25fc-3bb1-d3a4-30d5" name="Pesada Pistola" hidden="false" targetId="fc04-7d7b-5f0c-4ad3" type="selectionEntry">
+            <entryLink id="25fc-3bb1-d3a4-30d5" name="Pistola Pesada" hidden="false" targetId="fc04-7d7b-5f0c-4ad3" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -571,7 +571,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="2a1c-74f7-e474-5c7b" name="Claw" hidden="false" targetId="d7fc-ae26-2641-a2c2" type="selectionEntry">
+            <entryLink id="2a1c-74f7-e474-5c7b" name="Garra" hidden="false" targetId="d7fc-ae26-2641-a2c2" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -579,7 +579,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="1f90-725d-98a6-1869" name="Ripper Talon" hidden="false" targetId="9784-409a-e56c-ca60" type="selectionEntry">
+            <entryLink id="1f90-725d-98a6-1869" name="Garra Destripadora" hidden="false" targetId="9784-409a-e56c-ca60" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -610,7 +610,7 @@
           <selectionEntries/>
           <selectionEntryGroups/>
           <entryLinks>
-            <entryLink id="153f-2e84-59ad-94b1" name="Pesada Pistola" hidden="false" targetId="fc04-7d7b-5f0c-4ad3" type="selectionEntry">
+            <entryLink id="153f-2e84-59ad-94b1" name="Pistola Pesada" hidden="false" targetId="fc04-7d7b-5f0c-4ad3" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -729,7 +729,7 @@
       <selectionEntries/>
       <selectionEntryGroups/>
       <entryLinks>
-        <entryLink id="ed1d-4e53-95b8-0fe8" name="Chainmaw" hidden="false" targetId="cc36-6c99-1a91-8987" type="selectionEntry">
+        <entryLink id="ed1d-4e53-95b8-0fe8" name="Fauces Mecánicas" hidden="false" targetId="cc36-6c99-1a91-8987" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -826,7 +826,7 @@
           <selectionEntries/>
           <selectionEntryGroups/>
           <entryLinks>
-            <entryLink id="0687-169c-ebec-a8ba" name="Pesada Pistola" hidden="false" targetId="fc04-7d7b-5f0c-4ad3" type="selectionEntry">
+            <entryLink id="0687-169c-ebec-a8ba" name="Pistola Pesada" hidden="false" targetId="fc04-7d7b-5f0c-4ad3" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -848,7 +848,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="cd77-9b17-20d6-c904" name="HMG" hidden="false" targetId="1169-7b88-5b10-80ee" type="selectionEntry">
+            <entryLink id="cd77-9b17-20d6-c904" name="Ametralladora Pesada" hidden="false" targetId="1169-7b88-5b10-80ee" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -856,7 +856,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="9f59-cba9-2270-450a" name="Flamer" hidden="false" targetId="d235-fede-7086-8302" type="selectionEntry">
+            <entryLink id="9f59-cba9-2270-450a" name="Flameador" hidden="false" targetId="d235-fede-7086-8302" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -984,7 +984,7 @@
           <selectionEntries/>
           <selectionEntryGroups/>
           <entryLinks>
-            <entryLink id="86e6-fd0d-bf1a-8cad" name="Pesada Pistola" hidden="false" targetId="fc04-7d7b-5f0c-4ad3" type="selectionEntry">
+            <entryLink id="86e6-fd0d-bf1a-8cad" name="Pistola Pesada" hidden="false" targetId="fc04-7d7b-5f0c-4ad3" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1000,7 +1000,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="db82-9a15-2488-2280" name="Pesada Rifle" hidden="false" targetId="cd7b-cf0d-650f-7a83" type="selectionEntry">
+            <entryLink id="db82-9a15-2488-2280" name="Rifle Pesado" hidden="false" targetId="cd7b-cf0d-650f-7a83" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1140,7 +1140,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="f63d-5dbb-aa2d-402a" name="Buzzsaw" hidden="false" targetId="a0a1-cf8f-b50b-a297" type="selectionEntry">
+            <entryLink id="f63d-5dbb-aa2d-402a" name="Sierra Circular" hidden="false" targetId="a0a1-cf8f-b50b-a297" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1148,7 +1148,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="ffde-2f30-a50d-1e0b" name="Ram" hidden="false" targetId="16a0-076d-ae94-9523" type="selectionEntry">
+            <entryLink id="ffde-2f30-a50d-1e0b" name="Ariete" hidden="false" targetId="16a0-076d-ae94-9523" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1171,7 +1171,7 @@
           <selectionEntries/>
           <selectionEntryGroups/>
           <entryLinks>
-            <entryLink id="cb07-5b94-6bd0-6421" name="HEW Cannon" hidden="false" targetId="c38b-0b5a-09d2-7672" type="selectionEntry">
+            <entryLink id="cb07-5b94-6bd0-6421" name="Cañón AE" hidden="false" targetId="c38b-0b5a-09d2-7672" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1190,7 +1190,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="10c7-f116-bf3a-cb3d" name="Rotary Cannon" hidden="false" targetId="5b23-a587-9051-3b9b" type="selectionEntry">
+            <entryLink id="10c7-f116-bf3a-cb3d" name="Cañón Rotatorio" hidden="false" targetId="5b23-a587-9051-3b9b" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1198,7 +1198,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="3cb7-3d21-fcfc-2a95" name="HEW Beamer" hidden="false" targetId="9e6b-ed73-952c-9e7a" type="selectionEntry">
+            <entryLink id="3cb7-3d21-fcfc-2a95" name="Proyector AE" hidden="false" targetId="9e6b-ed73-952c-9e7a" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1206,7 +1206,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="71fb-57f2-88b4-292a" name="Fragmentación Launchers" hidden="false" targetId="837b-86c4-4202-b50f" type="selectionEntry">
+            <entryLink id="71fb-57f2-88b4-292a" name="Lanzadores de Fragmentación" hidden="false" targetId="837b-86c4-4202-b50f" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1214,7 +1214,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="3ca6-cc8e-2a79-68fa" name="Rocket Salvo" hidden="false" targetId="b4ea-8fb9-7c15-081d" type="selectionEntry">
+            <entryLink id="3ca6-cc8e-2a79-68fa" name="Salva de Cohetes" hidden="false" targetId="b4ea-8fb9-7c15-081d" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1321,7 +1321,7 @@
       <selectionEntries/>
       <selectionEntryGroups/>
       <entryLinks>
-        <entryLink id="6fe4-7d11-6e31-3419" name="Ram" hidden="false" targetId="16a0-076d-ae94-9523" type="selectionEntry">
+        <entryLink id="6fe4-7d11-6e31-3419" name="Ariete" hidden="false" targetId="16a0-076d-ae94-9523" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1338,7 +1338,7 @@
           </constraints>
           <categoryLinks/>
         </entryLink>
-        <entryLink id="ff9d-13f3-5dcf-e874" name="Buzzsaw" hidden="false" targetId="a0a1-cf8f-b50b-a297" type="selectionEntry">
+        <entryLink id="ff9d-13f3-5dcf-e874" name="Sierra Circular" hidden="false" targetId="a0a1-cf8f-b50b-a297" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1443,7 +1443,7 @@
       <selectionEntries/>
       <selectionEntryGroups/>
       <entryLinks>
-        <entryLink id="e80e-d426-5f1e-6da7" name="Rotary Cannon" hidden="false" targetId="5b23-a587-9051-3b9b" type="selectionEntry">
+        <entryLink id="e80e-d426-5f1e-6da7" name="Cañón Rotatorio" hidden="false" targetId="5b23-a587-9051-3b9b" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1465,7 +1465,7 @@
           </constraints>
           <categoryLinks/>
         </entryLink>
-        <entryLink id="75c5-85f5-8294-a8ea" name="Rocket Salvo" hidden="false" targetId="b4ea-8fb9-7c15-081d" type="selectionEntry">
+        <entryLink id="75c5-85f5-8294-a8ea" name="Salva de Cohetes" hidden="false" targetId="b4ea-8fb9-7c15-081d" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1487,7 +1487,7 @@
           </constraints>
           <categoryLinks/>
         </entryLink>
-        <entryLink id="1761-430a-af8e-0134" name="Fragmentación Launchers" hidden="false" targetId="837b-86c4-4202-b50f" type="selectionEntry">
+        <entryLink id="1761-430a-af8e-0134" name="Lanzadores de Fragmentación" hidden="false" targetId="837b-86c4-4202-b50f" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1509,7 +1509,7 @@
           </constraints>
           <categoryLinks/>
         </entryLink>
-        <entryLink id="7139-3bf0-0ccb-42ef" name="HEW Beamer" hidden="false" targetId="9e6b-ed73-952c-9e7a" type="selectionEntry">
+        <entryLink id="7139-3bf0-0ccb-42ef" name="Proyector AE" hidden="false" targetId="9e6b-ed73-952c-9e7a" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1630,7 +1630,7 @@
       <selectionEntries/>
       <selectionEntryGroups/>
       <entryLinks>
-        <entryLink id="7389-bb29-8712-7cd0" name="Chainmaw" hidden="false" targetId="cc36-6c99-1a91-8987" type="selectionEntry">
+        <entryLink id="7389-bb29-8712-7cd0" name="Fauces Mecánicas" hidden="false" targetId="cc36-6c99-1a91-8987" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1727,7 +1727,7 @@
           <selectionEntries/>
           <selectionEntryGroups/>
           <entryLinks>
-            <entryLink id="5020-003e-13de-d3e5" name="Pesada Pistola" hidden="false" targetId="fc04-7d7b-5f0c-4ad3" type="selectionEntry">
+            <entryLink id="5020-003e-13de-d3e5" name="Pistola Pesada" hidden="false" targetId="fc04-7d7b-5f0c-4ad3" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1749,7 +1749,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="6d8e-0eb3-5eff-226e" name="HMG" hidden="false" targetId="1169-7b88-5b10-80ee" type="selectionEntry">
+            <entryLink id="6d8e-0eb3-5eff-226e" name="Ametralladora Pesada" hidden="false" targetId="1169-7b88-5b10-80ee" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1780,7 +1780,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="74a4-be69-934d-89bc" name="Claw" hidden="false" targetId="d7fc-ae26-2641-a2c2" type="selectionEntry">
+            <entryLink id="74a4-be69-934d-89bc" name="Garra" hidden="false" targetId="d7fc-ae26-2641-a2c2" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1788,7 +1788,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="80f8-3e90-45e4-34b3" name="Ripper Talon" hidden="false" targetId="9784-409a-e56c-ca60" type="selectionEntry">
+            <entryLink id="80f8-3e90-45e4-34b3" name="Garra Destripadora" hidden="false" targetId="9784-409a-e56c-ca60" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1916,7 +1916,7 @@
           <selectionEntries/>
           <selectionEntryGroups/>
           <entryLinks>
-            <entryLink id="8952-f413-8dd5-704a" name="HEW Cannon" hidden="false" targetId="c38b-0b5a-09d2-7672" type="selectionEntry">
+            <entryLink id="8952-f413-8dd5-704a" name="Cañón AE" hidden="false" targetId="c38b-0b5a-09d2-7672" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1924,7 +1924,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="c122-0ca4-d9db-2c98" name="Pesada Mortar" hidden="false" targetId="9cbc-84ef-156e-db6f" type="selectionEntry">
+            <entryLink id="c122-0ca4-d9db-2c98" name="Mortero Pesado" hidden="false" targetId="9cbc-84ef-156e-db6f" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -2038,7 +2038,7 @@
           <selectionEntries/>
           <selectionEntryGroups/>
           <entryLinks>
-            <entryLink id="2c3c-12e8-2c9b-4bb9" name="Auxiliary Flamer" hidden="false" targetId="95d5-31f4-c109-fab4" type="selectionEntry">
+            <entryLink id="2c3c-12e8-2c9b-4bb9" name="Flameador Auxiliar" hidden="false" targetId="95d5-31f4-c109-fab4" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -2048,7 +2048,7 @@
               </constraints>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="e5e3-fc42-2d6b-e9d4" name="Buzzsaw" hidden="false" targetId="a0a1-cf8f-b50b-a297" type="selectionEntry">
+            <entryLink id="e5e3-fc42-2d6b-e9d4" name="Sierra Circular" hidden="false" targetId="a0a1-cf8f-b50b-a297" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -2058,7 +2058,7 @@
               </constraints>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="aba0-238d-3f5f-cb8d" name="Thermal Cannon" hidden="false" targetId="467b-2fc8-3a98-3e9f" type="selectionEntry">
+            <entryLink id="aba0-238d-3f5f-cb8d" name="Cañón Térmico" hidden="false" targetId="467b-2fc8-3a98-3e9f" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -3058,9 +3058,9 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="4f31-0927-fd95-1983" name="Goran Auxiliary" book="Deadzone: Outbreak" page="47" hidden="true" collective="false" type="unit">
+    <selectionEntry id="4f31-0927-fd95-1983" name="Auxiliar Goran" book="Deadzone: Outbreak" page="47" hidden="true" collective="false" type="unit">
       <profiles>
-        <profile id="da66-bbe4-efbd-7bd0" name="Goran Auxiliary" book="Deadzone: Outbreak" page="47" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
+        <profile id="da66-bbe4-efbd-7bd0" name="Auxiliar Goran" book="Deadzone: Outbreak" page="47" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -3133,7 +3133,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="c8d1-1d11-1e8d-54bf" name="Claw" hidden="false" targetId="d7fc-ae26-2641-a2c2" type="selectionEntry">
+            <entryLink id="c8d1-1d11-1e8d-54bf" name="Garra" hidden="false" targetId="d7fc-ae26-2641-a2c2" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -3141,7 +3141,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="0f97-5e14-c681-ad42" name="Ripper Talon" hidden="false" targetId="9784-409a-e56c-ca60" type="selectionEntry">
+            <entryLink id="0f97-5e14-c681-ad42" name="Garra Destripadora" hidden="false" targetId="9784-409a-e56c-ca60" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -3172,7 +3172,7 @@
           <selectionEntries/>
           <selectionEntryGroups/>
           <entryLinks>
-            <entryLink id="3207-3ab6-7b1a-b325" name="Pesada Pistola" hidden="false" targetId="fc04-7d7b-5f0c-4ad3" type="selectionEntry">
+            <entryLink id="3207-3ab6-7b1a-b325" name="Pistola Pesada" hidden="false" targetId="fc04-7d7b-5f0c-4ad3" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -3222,9 +3222,9 @@
         <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="1.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="6875-c1e7-e894-abdd" name="Goran Saboteur" book="Deadzone: Outbreak" page="48" hidden="true" collective="false" type="unit">
+    <selectionEntry id="6875-c1e7-e894-abdd" name="Saboteador Goran" book="Deadzone: Outbreak" page="48" hidden="true" collective="false" type="unit">
       <profiles>
-        <profile id="9b01-cc50-8742-dc43" name="Goran Saboteur" book="Deadzone: Outbreak" page="48" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
+        <profile id="9b01-cc50-8742-dc43" name="Saboteador Goran" book="Deadzone: Outbreak" page="48" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -3296,7 +3296,7 @@
           <selectionEntries/>
           <selectionEntryGroups/>
           <entryLinks>
-            <entryLink id="e23c-0a9b-18d1-07cb" name="Claw" hidden="false" targetId="d7fc-ae26-2641-a2c2" type="selectionEntry">
+            <entryLink id="e23c-0a9b-18d1-07cb" name="Garra" hidden="false" targetId="d7fc-ae26-2641-a2c2" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -3304,7 +3304,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="32b0-1216-eaef-29a1" name="Ripper Talon" hidden="false" targetId="9784-409a-e56c-ca60" type="selectionEntry">
+            <entryLink id="32b0-1216-eaef-29a1" name="Garra Destripadora" hidden="false" targetId="9784-409a-e56c-ca60" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -3341,7 +3341,7 @@
           <selectionEntries/>
           <selectionEntryGroups/>
           <entryLinks>
-            <entryLink id="c45b-a8bd-0e59-3811" name="Pesada Pistola" hidden="false" targetId="fc04-7d7b-5f0c-4ad3" type="selectionEntry">
+            <entryLink id="c45b-a8bd-0e59-3811" name="Pistola Pesada" hidden="false" targetId="fc04-7d7b-5f0c-4ad3" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -3462,9 +3462,9 @@
         </categoryLink>
       </categoryLinks>
       <selectionEntries>
-        <selectionEntry id="36df-2199-9026-32bd" name="Twin Pesada Pistols" book="" page="" hidden="false" collective="false" type="upgrade">
+        <selectionEntry id="36df-2199-9026-32bd" name="Pistolas Gemelas Pesadas" book="" page="" hidden="false" collective="false" type="upgrade">
           <profiles>
-            <profile id="fc5d-da6a-6c9d-53f8" name="Twin Pesada Pistols" book="Deadzone: Infestación" page="32" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+            <profile id="fc5d-da6a-6c9d-53f8" name="Pistolas Gemelas Pesadas" book="Deadzone: Infestación" page="32" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -3598,7 +3598,7 @@
           <selectionEntries/>
           <selectionEntryGroups/>
           <entryLinks>
-            <entryLink id="f793-d6fb-6633-5b49" name="Pesada Pistola" hidden="false" targetId="fc04-7d7b-5f0c-4ad3" type="selectionEntry">
+            <entryLink id="f793-d6fb-6633-5b49" name="Pistola Pesada" hidden="false" targetId="fc04-7d7b-5f0c-4ad3" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -3620,7 +3620,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="6437-8fb4-61e2-fbea" name="HMG" hidden="false" targetId="1169-7b88-5b10-80ee" type="selectionEntry">
+            <entryLink id="6437-8fb4-61e2-fbea" name="Ametralladora Pesada" hidden="false" targetId="1169-7b88-5b10-80ee" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -3628,7 +3628,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="66ae-8761-5983-5fdc" name="Flamer" hidden="false" targetId="d235-fede-7086-8302" type="selectionEntry">
+            <entryLink id="66ae-8761-5983-5fdc" name="Flameador" hidden="false" targetId="d235-fede-7086-8302" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -3753,7 +3753,7 @@
       <selectionEntries>
         <selectionEntry id="0c2e-352e-866a-b6cc" name="Decapitador" book="Deadzone: Outbreak" page="84" hidden="false" collective="false" type="upgrade">
           <profiles>
-            <profile id="9e65-082e-2152-58d0" name="Decapitador" book="Deadzone: Outbreak" page="84" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+            <profile id="9e65-082e-2152-58d0" name="Decapitador" book="Deadzone: Outbreak" page="84" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -3784,7 +3784,7 @@
         </selectionEntry>
         <selectionEntry id="3880-e969-ff1f-80ee" name="Blásteres Gemelos" book="Deadzone: Outbreak" page="84" hidden="false" collective="false" type="upgrade">
           <profiles>
-            <profile id="fa43-2644-c995-9841" name="Blásteres Gemelos" book="Deadzone: Outbreak" page="84" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+            <profile id="fa43-2644-c995-9841" name="Blásteres Gemelos" book="Deadzone: Outbreak" page="84" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -3868,11 +3868,11 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="fc04-7d7b-5f0c-4ad3" name="Pesada Pistola" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="fc04-7d7b-5f0c-4ad3" name="Pistola Pesada" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="fb00-9b33-5f6f-ff8a" name="Pesada Pistola" hidden="false" targetId="1c0c-f4d2-3b1e-c87b" type="profile">
+        <infoLink id="fb00-9b33-5f6f-ff8a" name="Pistola Pesada" hidden="false" targetId="1c0c-f4d2-3b1e-c87b" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -3902,11 +3902,11 @@
         <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="d7fc-ae26-2641-a2c2" name="Claw" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="d7fc-ae26-2641-a2c2" name="Garra" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="9789-9c83-73c5-133e" name="Claw" hidden="false" targetId="343a-fc75-3483-1160" type="profile">
+        <infoLink id="9789-9c83-73c5-133e" name="Garra" hidden="false" targetId="343a-fc75-3483-1160" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -3924,11 +3924,11 @@
         <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="9784-409a-e56c-ca60" name="Ripper Talon" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="9784-409a-e56c-ca60" name="Garra Destripadora" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="4add-c29f-ec8a-9a3b" name="Ripper Talon" hidden="false" targetId="92e1-bc9b-f046-24d5" type="profile">
+        <infoLink id="4add-c29f-ec8a-9a3b" name="Garra Destripadora" hidden="false" targetId="92e1-bc9b-f046-24d5" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -3946,11 +3946,11 @@
         <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="467b-2fc8-3a98-3e9f" name="Thermal Cannon" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="467b-2fc8-3a98-3e9f" name="Cañón Térmico" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="4f37-36dc-5861-74be" name="Thermal Cannon" hidden="false" targetId="d237-dda9-9a93-1fc9" type="profile">
+        <infoLink id="4f37-36dc-5861-74be" name="Cañón Térmico" hidden="false" targetId="d237-dda9-9a93-1fc9" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -3968,11 +3968,11 @@
         <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="95d5-31f4-c109-fab4" name="Auxiliary Flamer" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="95d5-31f4-c109-fab4" name="Flameador Auxiliar" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="a838-b0da-6f9a-abe6" name="Auxiliary Flamer" hidden="false" targetId="37b9-67c7-c9ba-b75a" type="profile">
+        <infoLink id="a838-b0da-6f9a-abe6" name="Flameador Auxiliar" hidden="false" targetId="37b9-67c7-c9ba-b75a" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -4002,11 +4002,11 @@
         <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="cc36-6c99-1a91-8987" name="Chainmaw" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="cc36-6c99-1a91-8987" name="Fauces Mecánicas" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="eeba-faf7-6646-0b5c" name="Chainmaw" hidden="false" targetId="f143-dd86-1341-3f5c" type="profile">
+        <infoLink id="eeba-faf7-6646-0b5c" name="Fauces Mecánicas" hidden="false" targetId="f143-dd86-1341-3f5c" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -4052,11 +4052,11 @@
         <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="d235-fede-7086-8302" name="Flamer" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="d235-fede-7086-8302" name="Flameador" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="0245-a76a-6f71-714f" name="Flamer" hidden="false" targetId="b1bd-3bad-5a2f-c879" type="profile">
+        <infoLink id="0245-a76a-6f71-714f" name="Flameador" hidden="false" targetId="b1bd-3bad-5a2f-c879" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -4086,11 +4086,11 @@
         <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="1169-7b88-5b10-80ee" name="HMG" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="1169-7b88-5b10-80ee" name="Ametralladora Pesada" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="ff75-134d-08f0-9e33" name="HMG" hidden="false" targetId="8832-7575-8757-f9f1" type="profile">
+        <infoLink id="ff75-134d-08f0-9e33" name="Ametralladora Pesada" hidden="false" targetId="8832-7575-8757-f9f1" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -4126,11 +4126,11 @@
         <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="a0a1-cf8f-b50b-a297" name="Buzzsaw" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="a0a1-cf8f-b50b-a297" name="Sierra Circular" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="ffd6-001d-b541-e094" name="Buzzsaw" hidden="false" targetId="08ec-1fe9-5032-edab" type="profile">
+        <infoLink id="ffd6-001d-b541-e094" name="Sierra Circular" hidden="false" targetId="08ec-1fe9-5032-edab" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -4160,11 +4160,11 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="7.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="16a0-076d-ae94-9523" name="Ram" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="16a0-076d-ae94-9523" name="Ariete" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="d8d9-31e5-8e7d-4590" name="Ram" hidden="false" targetId="5d7b-86b3-76a7-dc1e" type="profile">
+        <infoLink id="d8d9-31e5-8e7d-4590" name="Ariete" hidden="false" targetId="5d7b-86b3-76a7-dc1e" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -4188,11 +4188,11 @@
         <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="5b23-a587-9051-3b9b" name="Rotary Cannon" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="5b23-a587-9051-3b9b" name="Cañón Rotatorio" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="03cf-436a-e557-540e" name="Rotary Cannon" hidden="false" targetId="3bf3-29c4-2ebf-cb9d" type="profile">
+        <infoLink id="03cf-436a-e557-540e" name="Cañón Rotatorio" hidden="false" targetId="3bf3-29c4-2ebf-cb9d" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -4228,11 +4228,11 @@
         <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="9e6b-ed73-952c-9e7a" name="HEW Beamer" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="9e6b-ed73-952c-9e7a" name="Proyector AE" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="3fcc-d030-570f-a9c1" name="HEW Beamer" hidden="false" targetId="8234-9798-9856-74d1" type="profile">
+        <infoLink id="3fcc-d030-570f-a9c1" name="Proyector AE" hidden="false" targetId="8234-9798-9856-74d1" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -4256,11 +4256,11 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="8.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="837b-86c4-4202-b50f" name="Fragmentación Launchers" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="837b-86c4-4202-b50f" name="Lanzadores de Fragmentación" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="5016-07c2-5759-d37a" name="Fragmentación Launchers" hidden="false" targetId="0bf3-d329-4de6-8e97" type="profile">
+        <infoLink id="5016-07c2-5759-d37a" name="Lanzadores de Fragmentación" hidden="false" targetId="0bf3-d329-4de6-8e97" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -4290,11 +4290,11 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="6.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="b4ea-8fb9-7c15-081d" name="Rocket Salvo" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="b4ea-8fb9-7c15-081d" name="Salva de Cohetes" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="5d86-4a21-24e7-7c6d" name="Rocket Salvo" hidden="false" targetId="6e94-2567-6317-5e48" type="profile">
+        <infoLink id="5d86-4a21-24e7-7c6d" name="Salva de Cohetes" hidden="false" targetId="6e94-2567-6317-5e48" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -4330,11 +4330,11 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="10.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="c38b-0b5a-09d2-7672" name="HEW Cannon" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="c38b-0b5a-09d2-7672" name="Cañón AE" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="dabd-5e1c-240b-94b4" name="HEW Cannon" hidden="false" targetId="b2e9-dc67-7d2d-7c89" type="profile">
+        <infoLink id="dabd-5e1c-240b-94b4" name="Cañón AE" hidden="false" targetId="b2e9-dc67-7d2d-7c89" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -4370,11 +4370,11 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="10.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="9cbc-84ef-156e-db6f" name="Pesada Mortar" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="9cbc-84ef-156e-db6f" name="Mortero Pesado" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="2e93-149d-8550-1d38" name="Pesada Mortar" hidden="false" targetId="c2e4-6130-8ed3-206a" type="profile">
+        <infoLink id="2e93-149d-8550-1d38" name="Mortero Pesado" hidden="false" targetId="c2e4-6130-8ed3-206a" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -4410,11 +4410,11 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="12.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="cd7b-cf0d-650f-7a83" name="Pesada Rifle" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="cd7b-cf0d-650f-7a83" name="Rifle Pesado" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="f7cc-b4d7-54fa-4417" name="Pesada Rifle" hidden="false" targetId="7ef8-a93f-e7d5-e5b2" type="profile">
+        <infoLink id="f7cc-b4d7-54fa-4417" name="Rifle Pesado" hidden="false" targetId="7ef8-a93f-e7d5-e5b2" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -4629,7 +4629,7 @@
   </sharedSelectionEntryGroups>
   <sharedRules/>
   <sharedProfiles>
-    <profile id="08cb-b8d8-d9aa-d7ef" name="Pistola" book="Reglamento Deadzone 2ª Edición" page="82" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="08cb-b8d8-d9aa-d7ef" name="Pistola" book="Reglamento Deadzone 2ª Edición" page="82" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -4641,7 +4641,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Pequeño Calibre"/>
       </characteristics>
     </profile>
-    <profile id="1c0c-f4d2-3b1e-c87b" name="Pesada Pistola" book="Reglamento Deadzone 2ª Edición" page="82" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="1c0c-f4d2-3b1e-c87b" name="Pistola Pesada" book="Reglamento Deadzone 2ª Edición" page="82" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -4653,7 +4653,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Pequeño Calibre"/>
       </characteristics>
     </profile>
-    <profile id="343a-fc75-3483-1160" name="Claw" book="Reglamento Deadzone 2ª Edición" page="82" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="343a-fc75-3483-1160" name="Garra" book="Reglamento Deadzone 2ª Edición" page="82" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -4665,7 +4665,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Melé)"/>
       </characteristics>
     </profile>
-    <profile id="92e1-bc9b-f046-24d5" name="Ripper Talon" book="Reglamento Deadzone 2ª Edición" page="82" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="92e1-bc9b-f046-24d5" name="Garra Destripadora" book="Reglamento Deadzone 2ª Edición" page="82" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -4677,7 +4677,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Melé)"/>
       </characteristics>
     </profile>
-    <profile id="d237-dda9-9a93-1fc9" name="Thermal Cannon" book="Reglamento Deadzone 2ª Edición" page="82" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="d237-dda9-9a93-1fc9" name="Cañón Térmico" book="Reglamento Deadzone 2ª Edición" page="82" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -4689,7 +4689,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Andador (Asalto)"/>
       </characteristics>
     </profile>
-    <profile id="37b9-67c7-c9ba-b75a" name="Auxiliary Flamer" book="Reglamento Deadzone 2ª Edición" page="82" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="37b9-67c7-c9ba-b75a" name="Flameador Auxiliar" book="Reglamento Deadzone 2ª Edición" page="82" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -4701,7 +4701,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Andador (Asalto)"/>
       </characteristics>
     </profile>
-    <profile id="f143-dd86-1341-3f5c" name="Chainmaw" book="Reglamento Deadzone 2ª Edición" page="82" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="f143-dd86-1341-3f5c" name="Fauces Mecánicas" book="Reglamento Deadzone 2ª Edición" page="82" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -4713,7 +4713,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Bestia [Animal])"/>
       </characteristics>
     </profile>
-    <profile id="2307-67f7-2dbf-9869" name="Rifle" book="Reglamento Deadzone 2ª Edición" page="82" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="2307-67f7-2dbf-9869" name="Rifle" book="Reglamento Deadzone 2ª Edición" page="82" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -4725,7 +4725,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Pequeño Calibre"/>
       </characteristics>
     </profile>
-    <profile id="b1bd-3bad-5a2f-c879" name="Flamer" book="Reglamento Deadzone 2ª Edición" page="82" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="b1bd-3bad-5a2f-c879" name="Flameador" book="Reglamento Deadzone 2ª Edición" page="82" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -4737,7 +4737,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Asalto)"/>
       </characteristics>
     </profile>
-    <profile id="8832-7575-8757-f9f1" name="HMG" book="Reglamento Deadzone 2ª Edición" page="82" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="8832-7575-8757-f9f1" name="Ametralladora Pesada" book="Reglamento Deadzone 2ª Edición" page="82" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -4749,7 +4749,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Automática)"/>
       </characteristics>
     </profile>
-    <profile id="08ec-1fe9-5032-edab" name="Buzzsaw" book="Reglamento Deadzone 2ª Edición" page="82" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="08ec-1fe9-5032-edab" name="Sierra Circular" book="Reglamento Deadzone 2ª Edición" page="82" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -4761,7 +4761,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Andador (Melé), Pesada (Melé)"/>
       </characteristics>
     </profile>
-    <profile id="5d7b-86b3-76a7-dc1e" name="Ram" book="Reglamento Deadzone 2ª Edición" page="82" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="5d7b-86b3-76a7-dc1e" name="Ariete" book="Reglamento Deadzone 2ª Edición" page="82" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -4773,7 +4773,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Pesada (Melé)"/>
       </characteristics>
     </profile>
-    <profile id="3bf3-29c4-2ebf-cb9d" name="Rotary Cannon" book="Reglamento Deadzone 2ª Edición" page="82" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="3bf3-29c4-2ebf-cb9d" name="Cañón Rotatorio" book="Reglamento Deadzone 2ª Edición" page="82" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -4785,7 +4785,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Pesada (Automática)"/>
       </characteristics>
     </profile>
-    <profile id="8234-9798-9856-74d1" name="HEW Beamer" book="Reglamento Deadzone 2ª Edición" page="82" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="8234-9798-9856-74d1" name="Proyector AE" book="Reglamento Deadzone 2ª Edición" page="82" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -4797,7 +4797,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Pesada (Lanza)"/>
       </characteristics>
     </profile>
-    <profile id="0bf3-d329-4de6-8e97" name="Fragmentación Launchers" book="Reglamento Deadzone 2ª Edición" page="82" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="0bf3-d329-4de6-8e97" name="Lanzadores de Fragmentación" book="Reglamento Deadzone 2ª Edición" page="82" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -4809,7 +4809,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Pesada (Explosiva)"/>
       </characteristics>
     </profile>
-    <profile id="6e94-2567-6317-5e48" name="Rocket Salvo" book="Reglamento Deadzone 2ª Edición" page="82" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="6e94-2567-6317-5e48" name="Salva de Cohetes" book="Reglamento Deadzone 2ª Edición" page="82" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -4821,7 +4821,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Pesada (Explosiva)"/>
       </characteristics>
     </profile>
-    <profile id="b2e9-dc67-7d2d-7c89" name="HEW Cannon" book="Reglamento Deadzone 2ª Edición" page="82" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="b2e9-dc67-7d2d-7c89" name="Cañón AE" book="Reglamento Deadzone 2ª Edición" page="82" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -4833,7 +4833,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Vehículo (Lanza), Mole [Hulk]"/>
       </characteristics>
     </profile>
-    <profile id="c2e4-6130-8ed3-206a" name="Pesada Mortar" book="Reglamento Deadzone 2ª Edición" page="82" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="c2e4-6130-8ed3-206a" name="Mortero Pesado" book="Reglamento Deadzone 2ª Edición" page="82" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -4845,7 +4845,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Vehículo (Artillería)"/>
       </characteristics>
     </profile>
-    <profile id="7ef8-a93f-e7d5-e5b2" name="Pesada Rifle" book="Reglamento Deadzone 2ª Edición" page="82" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="7ef8-a93f-e7d5-e5b2" name="Rifle Pesado" book="Reglamento Deadzone 2ª Edición" page="82" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -4857,7 +4857,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Francotirador)"/>
       </characteristics>
     </profile>
-    <profile id="df8f-7ac9-53f4-e71b" name="Hrunka" book="Deadzone: Outbreak" page="50" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="df8f-7ac9-53f4-e71b" name="Hrunka" book="Deadzone: Outbreak" page="50" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>

@@ -1630,7 +1630,7 @@
       <selectionEntries>
         <selectionEntry id="5041-50fa-d2db-7eb1" name="Teeth and Garras" hidden="false" collective="false" type="upgrade">
           <profiles>
-            <profile id="5be1-46c3-5792-7f1e" name="Teeth and Garras" book="Deadzone: Outbreak" page="76" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+            <profile id="5be1-46c3-5792-7f1e" name="Teeth and Garras" book="Deadzone: Outbreak" page="76" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1959,7 +1959,7 @@
       <selectionEntries>
         <selectionEntry id="e66c-b455-c5ec-2e46" name="Visions of Glory" hidden="false" collective="false" type="upgrade">
           <profiles>
-            <profile id="9885-44d8-e574-2ce5" name="Visions of Glory" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+            <profile id="9885-44d8-e574-2ce5" name="Visions of Glory" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -2003,7 +2003,7 @@
         </selectionEntry>
         <selectionEntry id="a216-0f18-2345-9b6b" name="Visions of Death" hidden="false" collective="false" type="upgrade">
           <profiles>
-            <profile id="a7ed-868b-6f1a-a941" name="Visions of Death" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+            <profile id="a7ed-868b-6f1a-a941" name="Visions of Death" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -2047,7 +2047,7 @@
         </selectionEntry>
         <selectionEntry id="a782-2095-919c-43dd" name="Hysteria" hidden="false" collective="false" type="upgrade">
           <profiles>
-            <profile id="3f5c-d224-e3dd-8c5d" name="Hysteria" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+            <profile id="3f5c-d224-e3dd-8c5d" name="Hysteria" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -3453,7 +3453,7 @@
       <selectionEntries>
         <selectionEntry id="24ca-e940-18c8-6139" name="Toxic Granada (+)" hidden="false" collective="false" type="upgrade">
           <profiles>
-            <profile id="17bb-f5b8-7b1c-9e68" name="Toxic Granada" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+            <profile id="17bb-f5b8-7b1c-9e68" name="Toxic Granada" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -3640,7 +3640,7 @@ It disperses in the same way as a Granada de Humo.</description>
     </rule>
   </sharedRules>
   <sharedProfiles>
-    <profile id="dd0d-a7f5-36b2-0c72" name="Ray Pistola" book="Deadzone: Outbreak" page="78" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="dd0d-a7f5-36b2-0c72" name="Ray Pistola" book="Deadzone: Outbreak" page="78" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -3652,7 +3652,7 @@ It disperses in the same way as a Granada de Humo.</description>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Pequeño Calibre"/>
       </characteristics>
     </profile>
-    <profile id="4541-d85d-a13e-e796" name="Ray Gun" book="Deadzone: Outbreak" page="78" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="4541-d85d-a13e-e796" name="Ray Gun" book="Deadzone: Outbreak" page="78" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -3664,7 +3664,7 @@ It disperses in the same way as a Granada de Humo.</description>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Pequeño Calibre"/>
       </characteristics>
     </profile>
-    <profile id="230b-93b3-bcb4-8532" name="Chem Staff" book="Deadzone: Outbreak" page="78" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="230b-93b3-bcb4-8532" name="Chem Staff" book="Deadzone: Outbreak" page="78" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -3676,7 +3676,7 @@ It disperses in the same way as a Granada de Humo.</description>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Líder"/>
       </characteristics>
     </profile>
-    <profile id="df87-ddb6-9412-edf3" name="Spitter Rifle" book="Deadzone: Outbreak" page="78" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="df87-ddb6-9412-edf3" name="Spitter Rifle" book="Deadzone: Outbreak" page="78" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -3688,7 +3688,7 @@ It disperses in the same way as a Granada de Humo.</description>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Líder, Ligera (Francotirador)"/>
       </characteristics>
     </profile>
-    <profile id="d2c5-afcf-3226-c6f4" name="Chem Thrower" book="Deadzone: Outbreak" page="78" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="d2c5-afcf-3226-c6f4" name="Chem Thrower" book="Deadzone: Outbreak" page="78" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -3700,7 +3700,7 @@ It disperses in the same way as a Granada de Humo.</description>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Asalto)"/>
       </characteristics>
     </profile>
-    <profile id="ffb3-b09a-9a22-1b74" name="Chem Spitter" book="Deadzone: Outbreak" page="78" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="ffb3-b09a-9a22-1b74" name="Chem Spitter" book="Deadzone: Outbreak" page="78" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -3712,7 +3712,7 @@ It disperses in the same way as a Granada de Humo.</description>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Automática)"/>
       </characteristics>
     </profile>
-    <profile id="1bb1-c9bb-f940-58e2" name="Chemical Lanzagranadas" book="Deadzone: Outbreak" page="78" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="1bb1-c9bb-f940-58e2" name="Chemical Lanzagranadas" book="Deadzone: Outbreak" page="78" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -3724,7 +3724,7 @@ It disperses in the same way as a Granada de Humo.</description>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Explosiva)"/>
       </characteristics>
     </profile>
-    <profile id="241c-dcda-2db2-ac23" name="Det Pack (Mag Lock)" book="Deadzone: Outbreak" page="78" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="241c-dcda-2db2-ac23" name="Det Pack (Mag Lock)" book="Deadzone: Outbreak" page="78" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -3736,7 +3736,7 @@ It disperses in the same way as a Granada de Humo.</description>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Explosiva)"/>
       </characteristics>
     </profile>
-    <profile id="04fb-0b97-e340-980e" name="Det Pack (Prox Fuse)" book="Deadzone: Outbreak" page="78" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="04fb-0b97-e340-980e" name="Det Pack (Prox Fuse)" book="Deadzone: Outbreak" page="78" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -3748,7 +3748,7 @@ It disperses in the same way as a Granada de Humo.</description>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Explosiva)"/>
       </characteristics>
     </profile>
-    <profile id="68de-3063-a152-719d" name="Big Drill" book="Deadzone: Outbreak" page="78" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="68de-3063-a152-719d" name="Big Drill" book="Deadzone: Outbreak" page="78" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -3760,7 +3760,7 @@ It disperses in the same way as a Granada de Humo.</description>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Melé), Pesada (Melé)"/>
       </characteristics>
     </profile>
-    <profile id="7e3c-511f-15e3-2273" name="Two-Handed Drill" book="Deadzone: Outbreak" page="78" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="7e3c-511f-15e3-2273" name="Two-Handed Drill" book="Deadzone: Outbreak" page="78" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -3772,7 +3772,7 @@ It disperses in the same way as a Granada de Humo.</description>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Pesada (Melé)"/>
       </characteristics>
     </profile>
-    <profile id="90f6-6ef6-1e09-ded3" name="Pair or Drills" book="Deadzone: Outbreak" page="78" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="90f6-6ef6-1e09-ded3" name="Pair or Drills" book="Deadzone: Outbreak" page="78" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -3784,7 +3784,7 @@ It disperses in the same way as a Granada de Humo.</description>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Pesada (Melé)"/>
       </characteristics>
     </profile>
-    <profile id="bb1a-330c-ccd9-5c86" name="Pesada Chem Thrower" book="Deadzone: Outbreak" page="78" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="bb1a-330c-ccd9-5c86" name="Pesada Chem Thrower" book="Deadzone: Outbreak" page="78" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -3796,7 +3796,7 @@ It disperses in the same way as a Granada de Humo.</description>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Pesada (Asalto)"/>
       </characteristics>
     </profile>
-    <profile id="8d1e-8b91-559c-0d4b" name="Super Pesada Chem Thrower" book="Deadzone: Outbreak" page="78" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="8d1e-8b91-559c-0d4b" name="Super Pesada Chem Thrower" book="Deadzone: Outbreak" page="78" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -3808,7 +3808,7 @@ It disperses in the same way as a Granada de Humo.</description>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Vehículo (Asalto)"/>
       </characteristics>
     </profile>
-    <profile id="7f39-72ff-f3bf-2d50" name="Scythes" book="Deadzone: Outbreak" page="78" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="7f39-72ff-f3bf-2d50" name="Scythes" book="Deadzone: Outbreak" page="78" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -3820,7 +3820,7 @@ It disperses in the same way as a Granada de Humo.</description>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Bestia [Animal] (Melé), Vehículo (Melé)"/>
       </characteristics>
     </profile>
-    <profile id="d267-51d9-f306-64f4" name="Super Pesada Chem Spitter" book="Deadzone: Outbreak" page="78" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="d267-51d9-f306-64f4" name="Super Pesada Chem Spitter" book="Deadzone: Outbreak" page="78" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -3832,7 +3832,7 @@ It disperses in the same way as a Granada de Humo.</description>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Vehículo (Automática)"/>
       </characteristics>
     </profile>
-    <profile id="8330-d464-ea56-d935" name="Pesada Chem Spitter" book="Deadzone: Outbreak" page="78" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="8330-d464-ea56-d935" name="Pesada Chem Spitter" book="Deadzone: Outbreak" page="78" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -3844,7 +3844,7 @@ It disperses in the same way as a Granada de Humo.</description>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Bestia [Animal] (Ranged)"/>
       </characteristics>
     </profile>
-    <profile id="49da-affc-3c88-dfe3" name="Twin Chem Spitters" book="Deadzone: Outbreak" page="78" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="49da-affc-3c88-dfe3" name="Twin Chem Spitters" book="Deadzone: Outbreak" page="78" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -3856,7 +3856,7 @@ It disperses in the same way as a Granada de Humo.</description>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Vehículo (Automática)"/>
       </characteristics>
     </profile>
-    <profile id="c65e-d8df-81e6-f7e4" name="Granada de Humo Launcher" book="Deadzone: Outbreak" page="78" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="c65e-d8df-81e6-f7e4" name="Granada de Humo Launcher" book="Deadzone: Outbreak" page="78" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -3868,7 +3868,7 @@ It disperses in the same way as a Granada de Humo.</description>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Líder, Ligera (Explosiva)"/>
       </characteristics>
     </profile>
-    <profile id="c1b2-9fc9-abd9-fb82" name="Toxic Lanzagranadas" book="Deadzone: Outbreak" page="78" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="c1b2-9fc9-abd9-fb82" name="Toxic Lanzagranadas" book="Deadzone: Outbreak" page="78" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>

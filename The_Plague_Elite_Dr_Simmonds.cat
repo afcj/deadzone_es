@@ -379,7 +379,7 @@ Grav-Pods: Gain Jump Pack and Glide until the end of the Round</description>
       <selectionEntries>
         <selectionEntry id="e95a-57a0-e5d4-0390" name="Garras" book="Reglamento Deadzone 2ª Edición" hidden="false" collective="false" type="upgrade">
           <profiles>
-            <profile id="e6af-6ee8-c3d1-c038" name="Garras" book="Deadzone: Nexus Psi" page="20" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+            <profile id="e6af-6ee8-c3d1-c038" name="Garras" book="Deadzone: Nexus Psi" page="20" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -657,7 +657,7 @@ Grav-Pods: Gain Jump Pack and Glide until the end of the Round</description>
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="36cf-7229-2d86-69f0" name="HMG" hidden="false" targetId="ef6f-79d6-ae46-2c0c" type="selectionEntry">
+            <entryLink id="36cf-7229-2d86-69f0" name="Ametralladora Pesada" hidden="false" targetId="ef6f-79d6-ae46-2c0c" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1444,11 +1444,11 @@ Grav-Pods: Gain Jump Pack and Glide until the end of the Round</description>
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="8.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="ef6f-79d6-ae46-2c0c" name="HMG" book="Reglamento Deadzone 2ª Edición" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="ef6f-79d6-ae46-2c0c" name="Ametralladora Pesada" book="Reglamento Deadzone 2ª Edición" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="2c15-ee1b-0046-8e42" name="HMG" hidden="false" targetId="a908-c0ce-d177-1fad" type="profile">
+        <infoLink id="2c15-ee1b-0046-8e42" name="Ametralladora Pesada" hidden="false" targetId="a908-c0ce-d177-1fad" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1790,7 +1790,7 @@ Grav-Pods: Gain Jump Pack and Glide until the end of the Round</description>
   </sharedSelectionEntryGroups>
   <sharedRules/>
   <sharedProfiles>
-    <profile id="ce7c-fabb-c0b7-f733" name="Lanzallamas de Asalto" book="Reglamento Deadzone 2ª Edición" page="52" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="ce7c-fabb-c0b7-f733" name="Lanzallamas de Asalto" book="Reglamento Deadzone 2ª Edición" page="52" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -1802,7 +1802,7 @@ Grav-Pods: Gain Jump Pack and Glide until the end of the Round</description>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Andador (Asalto)"/>
       </characteristics>
     </profile>
-    <profile id="e751-3e0a-a8a1-3a4e" name="Motosierra" book="Reglamento Deadzone 2ª Edición" page="52" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="e751-3e0a-a8a1-3a4e" name="Motosierra" book="Reglamento Deadzone 2ª Edición" page="52" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -1814,7 +1814,7 @@ Grav-Pods: Gain Jump Pack and Glide until the end of the Round</description>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Andador (Melé)"/>
       </characteristics>
     </profile>
-    <profile id="3f15-e252-7273-fa4c" name="Experimental Weapon" book="Reglamento Deadzone 2ª Edición" page="52" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="3f15-e252-7273-fa4c" name="Experimental Weapon" book="Reglamento Deadzone 2ª Edición" page="52" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -1826,7 +1826,7 @@ Grav-Pods: Gain Jump Pack and Glide until the end of the Round</description>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Pesada (Automática)"/>
       </characteristics>
     </profile>
-    <profile id="d0dd-9598-28d8-7f6d" name="Flame Thrower" book="Reglamento Deadzone 2ª Edición" page="52" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="d0dd-9598-28d8-7f6d" name="Flame Thrower" book="Reglamento Deadzone 2ª Edición" page="52" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -1838,7 +1838,7 @@ Grav-Pods: Gain Jump Pack and Glide until the end of the Round</description>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Asalto)"/>
       </characteristics>
     </profile>
-    <profile id="75b3-cdeb-018d-4e79" name="Lanzagranadas" book="Reglamento Deadzone 2ª Edición" page="52" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="75b3-cdeb-018d-4e79" name="Lanzagranadas" book="Reglamento Deadzone 2ª Edición" page="52" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -1850,7 +1850,7 @@ Grav-Pods: Gain Jump Pack and Glide until the end of the Round</description>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Explosiva)"/>
       </characteristics>
     </profile>
-    <profile id="a908-c0ce-d177-1fad" name="HMG" book="Reglamento Deadzone 2ª Edición" page="52" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="a908-c0ce-d177-1fad" name="Ametralladora Pesada" book="Reglamento Deadzone 2ª Edición" page="52" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -1862,7 +1862,7 @@ Grav-Pods: Gain Jump Pack and Glide until the end of the Round</description>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Automática)"/>
       </characteristics>
     </profile>
-    <profile id="f494-17a7-0905-d30b" name="Mortar" book="Reglamento Deadzone 2ª Edición" page="52" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="f494-17a7-0905-d30b" name="Mortar" book="Reglamento Deadzone 2ª Edición" page="52" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -1874,7 +1874,7 @@ Grav-Pods: Gain Jump Pack and Glide until the end of the Round</description>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Pesada (Crew Served Weapon)"/>
       </characteristics>
     </profile>
-    <profile id="a0d7-8b97-bfd0-a2ff" name="Pistola" book="Reglamento Deadzone 2ª Edición" page="52" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="a0d7-8b97-bfd0-a2ff" name="Pistola" book="Reglamento Deadzone 2ª Edición" page="52" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -1886,7 +1886,7 @@ Grav-Pods: Gain Jump Pack and Glide until the end of the Round</description>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Pequeño Calibre"/>
       </characteristics>
     </profile>
-    <profile id="2f33-fa5a-1ee9-6f63" name="Cañón Polaris (Genling 88)" book="Reglamento Deadzone 2ª Edición" page="52" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="2f33-fa5a-1ee9-6f63" name="Cañón Polaris (Genling 88)" book="Reglamento Deadzone 2ª Edición" page="52" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -1898,7 +1898,7 @@ Grav-Pods: Gain Jump Pack and Glide until the end of the Round</description>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Andador (Lanza)"/>
       </characteristics>
     </profile>
-    <profile id="023d-b5a4-3c59-3b1f" name="Rifle" book="Reglamento Deadzone 2ª Edición" page="52" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="023d-b5a4-3c59-3b1f" name="Rifle" book="Reglamento Deadzone 2ª Edición" page="52" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -1910,7 +1910,7 @@ Grav-Pods: Gain Jump Pack and Glide until the end of the Round</description>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Pequeño Calibre"/>
       </characteristics>
     </profile>
-    <profile id="5fb6-317b-f634-5a71" name="Láser de Ráfaga Pesado" book="Deadzone: Nexus Psi" page="10" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="5fb6-317b-f634-5a71" name="Láser de Ráfaga Pesado" book="Deadzone: Nexus Psi" page="10" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>

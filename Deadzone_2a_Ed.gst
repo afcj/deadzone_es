@@ -328,7 +328,7 @@
       <selectionEntries>
         <selectionEntry id="ebf7-3e72-b78f-4741" name="Rifle Pesado" hidden="false" collective="false" type="upgrade">
           <profiles>
-            <profile id="e1f6-7d3e-ff02-9832" name="Rifle Pesado" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+            <profile id="e1f6-7d3e-ff02-9832" name="Rifle Pesado" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -489,7 +489,7 @@
     </selectionEntry>
     <selectionEntry id="07d6-cd01-55d9-79c0" name="Granada de Fragmentación (+)" book="Reglamento Deadzone 2ª Edición" page="38" hidden="false" collective="false" type="upgrade">
       <profiles>
-        <profile id="5911-bd97-6590-f346" name="Granada de Fragmentación" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+        <profile id="5911-bd97-6590-f346" name="Granada de Fragmentación" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -664,7 +664,7 @@
     </selectionEntry>
     <selectionEntry id="97f8-bc82-bd65-3d3f" name="Granada de Humo (+)" book="Reglamento Deadzone 2ª Edición" page="38" hidden="false" collective="false" type="upgrade">
       <profiles>
-        <profile id="4b20-d475-855e-af9a" name="Granada de Humo" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+        <profile id="4b20-d475-855e-af9a" name="Granada de Humo" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -711,7 +711,7 @@
     </selectionEntry>
     <selectionEntry id="2ee6-1157-6672-3508" name="Granada Aturdidora (+)" book="Reglamento Deadzone 2ª Edición" page="37" hidden="false" collective="false" type="upgrade">
       <profiles>
-        <profile id="c259-d9ea-346c-f084" name="Granada Aturdidora" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+        <profile id="c259-d9ea-346c-f084" name="Granada Aturdidora" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -758,7 +758,7 @@
     </selectionEntry>
     <selectionEntry id="4e2e-2508-ee3b-6cc6" name="Mina Termal (+)" book="Reglamento Deadzone 2ª Edición" page="38" hidden="false" collective="false" type="upgrade">
       <profiles>
-        <profile id="4291-1cdc-2983-d390" name="Thermal Mines" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+        <profile id="4291-1cdc-2983-d390" name="Thermal Mines" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -877,7 +877,7 @@
       <selectionEntries>
         <selectionEntry id="7ac3-e0af-e265-92f6" name="Nuke" hidden="false" collective="false" type="upgrade">
           <profiles>
-            <profile id="62de-5b10-ffbb-f778" name="Nuke" book="Reglamento Deadzone 2ª Edición" page="91" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+            <profile id="62de-5b10-ffbb-f778" name="Nuke" book="Reglamento Deadzone 2ª Edición" page="91" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -979,7 +979,7 @@
       <selectionEntries>
         <selectionEntry id="da50-cede-5f70-8b23" name="Garra Raskan" hidden="false" collective="false" type="upgrade">
           <profiles>
-            <profile id="700b-662f-036c-fa0f" name="Garra Raskan" book="Reglamento Deadzone 2ª Edición" page="93" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+            <profile id="700b-662f-036c-fa0f" name="Garra Raskan" book="Reglamento Deadzone 2ª Edición" page="93" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1010,7 +1010,7 @@
         </selectionEntry>
         <selectionEntry id="bb38-53cc-bffd-ef40" name="Pistola" hidden="false" collective="false" type="upgrade">
           <profiles>
-            <profile id="9838-5d8d-977e-310d" name="Pistola" book="Reglamento Deadzone 2ª Edición" page="93" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+            <profile id="9838-5d8d-977e-310d" name="Pistola" book="Reglamento Deadzone 2ª Edición" page="93" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1111,7 +1111,7 @@
       <selectionEntries>
         <selectionEntry id="d323-1792-5bdb-4463" name="Pistola" hidden="false" collective="false" type="upgrade">
           <profiles>
-            <profile id="1ea2-37d5-cad7-4f77" name="Pistola" book="Reglamento Deadzone 2ª Edición" page="94" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+            <profile id="1ea2-37d5-cad7-4f77" name="Pistola" book="Reglamento Deadzone 2ª Edición" page="94" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1142,7 +1142,7 @@
         </selectionEntry>
         <selectionEntry id="1e5c-f01b-0809-07a8" name="Cuchillas Atroces" hidden="false" collective="false" type="upgrade">
           <profiles>
-            <profile id="468b-4ec9-9b55-8f0e" name="Cuchillas Atroces" book="Reglamento Deadzone 2ª Edición" page="94" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+            <profile id="468b-4ec9-9b55-8f0e" name="Cuchillas Atroces" book="Reglamento Deadzone 2ª Edición" page="94" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1243,7 +1243,7 @@
       <selectionEntries>
         <selectionEntry id="e014-38e9-f4c0-35fe" name="Pistola" hidden="false" collective="false" type="upgrade">
           <profiles>
-            <profile id="2613-e985-1c7a-4e61" name="Pistola" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+            <profile id="2613-e985-1c7a-4e61" name="Pistola" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1274,7 +1274,7 @@
         </selectionEntry>
         <selectionEntry id="05b8-9640-b106-53fd" name="Granadas de Fragmentación" book="Reglamento Deadzone 2ª Edición" page="37" hidden="false" collective="false" type="upgrade">
           <profiles>
-            <profile id="f1c1-6e09-061c-183e" name="Granadas de Fragmentación" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+            <profile id="f1c1-6e09-061c-183e" name="Granadas de Fragmentación" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1324,7 +1324,7 @@
         </selectionEntry>
         <selectionEntry id="d7cc-0531-e065-3dd2" name="Granadas de Humo" book="Reglamento Deadzone 2ª Edición" page="37" hidden="false" collective="false" type="upgrade">
           <profiles>
-            <profile id="16e2-debf-419b-89f3" name="Granadas de Humo" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+            <profile id="16e2-debf-419b-89f3" name="Granadas de Humo" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1368,7 +1368,7 @@
         </selectionEntry>
         <selectionEntry id="2686-d7da-55fa-8079" name="Granadas Aturdidoras" book="Reglamento Deadzone 2ª Edición" page="37" hidden="false" collective="false" type="upgrade">
           <profiles>
-            <profile id="8ae2-488d-acc1-a8ca" name="Granadas de Humo" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+            <profile id="8ae2-488d-acc1-a8ca" name="Granadas de Humo" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1489,7 +1489,7 @@
       <selectionEntries>
         <selectionEntry id="b561-63d1-bd71-179b" name="Decapitador" book="Deadzone: Outbreak" page="84" hidden="false" collective="false" type="upgrade">
           <profiles>
-            <profile id="b223-985a-52a7-b883" name="Decapitador" book="Deadzone: Outbreak" page="84" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+            <profile id="b223-985a-52a7-b883" name="Decapitador" book="Deadzone: Outbreak" page="84" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1520,7 +1520,7 @@
         </selectionEntry>
         <selectionEntry id="9b47-09fa-9ed4-90bc" name="Blásteres Gemelos" book="Deadzone: Outbreak" page="84" hidden="false" collective="false" type="upgrade">
           <profiles>
-            <profile id="fe8b-0f03-c888-6cfd" name="Blásteres Gemelos" book="Deadzone: Outbreak" page="84" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+            <profile id="fe8b-0f03-c888-6cfd" name="Blásteres Gemelos" book="Deadzone: Outbreak" page="84" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1622,7 +1622,7 @@
       <selectionEntries>
         <selectionEntry id="e0c2-1ab3-87fd-13c9" name="Tormenta Mental" hidden="false" collective="false" type="upgrade">
           <profiles>
-            <profile id="740b-379a-50ca-8387" name="Tormenta Mental" book="Reglamento Deadzone 2ª Edición" page="93" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+            <profile id="740b-379a-50ca-8387" name="Tormenta Mental" book="Reglamento Deadzone 2ª Edición" page="93" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1666,7 +1666,7 @@
         </selectionEntry>
         <selectionEntry id="213c-9ab3-b319-33ca" name="Confusión" hidden="false" collective="false" type="upgrade">
           <profiles>
-            <profile id="55e5-be55-15a6-00b9" name="Confusión" book="Reglamento Deadzone 2ª Edición" page="93" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+            <profile id="55e5-be55-15a6-00b9" name="Confusión" book="Reglamento Deadzone 2ª Edición" page="93" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1710,7 +1710,7 @@
         </selectionEntry>
         <selectionEntry id="431d-e481-9b48-7d51" name="Pasión" hidden="false" collective="false" type="upgrade">
           <profiles>
-            <profile id="e9e1-6e7a-7d99-6b76" name="Pasión" book="Reglamento Deadzone 2ª Edición" page="93" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+            <profile id="e9e1-6e7a-7d99-6b76" name="Pasión" book="Reglamento Deadzone 2ª Edición" page="93" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1824,7 +1824,7 @@
       <selectionEntries>
         <selectionEntry id="dccd-dd3c-48bd-8390" name="Crossbow" hidden="false" collective="false" type="upgrade">
           <profiles>
-            <profile id="88ad-dfe8-db07-43f6" name="Crossbow" book="Reglamento Deadzone 2ª Edición" page="91" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+            <profile id="88ad-dfe8-db07-43f6" name="Crossbow" book="Reglamento Deadzone 2ª Edición" page="91" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1919,7 +1919,7 @@
       <selectionEntries>
         <selectionEntry id="251f-c70a-62dd-6330" name="Pistola Granítica" hidden="false" collective="false" type="upgrade">
           <profiles>
-            <profile id="0b22-ec74-1a3d-d72f" name="Pistola Granítica" book="Reglamento Deadzone 2ª Edición" page="92" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+            <profile id="0b22-ec74-1a3d-d72f" name="Pistola Granítica" book="Reglamento Deadzone 2ª Edición" page="92" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -2027,7 +2027,7 @@
       <selectionEntries>
         <selectionEntry id="8544-7a13-abdb-94ac" name="Par de Pistolas" hidden="false" collective="false" type="upgrade">
           <profiles>
-            <profile id="a51f-511f-6b97-1fd0" name="Par de Pistolas" book="Reglamento Deadzone 2ª Edición" page="94" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+            <profile id="a51f-511f-6b97-1fd0" name="Par de Pistolas" book="Reglamento Deadzone 2ª Edición" page="94" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -2077,7 +2077,7 @@
         </selectionEntry>
         <selectionEntry id="c36c-588c-8889-fd5e" name="Rifle de Francotirador" hidden="false" collective="false" type="upgrade">
           <profiles>
-            <profile id="0851-53f0-90fa-d486" name="Rifle de Francotirador" book="Reglamento Deadzone 2ª Edición" page="94" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+            <profile id="0851-53f0-90fa-d486" name="Rifle de Francotirador" book="Reglamento Deadzone 2ª Edición" page="94" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -2160,7 +2160,7 @@
       <selectionEntries>
         <selectionEntry id="99f9-b749-3f5a-2a5d" name="Rifle de Francotirador" hidden="false" collective="false" type="upgrade">
           <profiles>
-            <profile id="d017-f800-5cf7-5c1d" name="Rifle de Francotirador" book="Reglamento Deadzone 2ª Edición" page="92" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+            <profile id="d017-f800-5cf7-5c1d" name="Rifle de Francotirador" book="Reglamento Deadzone 2ª Edición" page="92" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -2290,7 +2290,7 @@
       <selectionEntries>
         <selectionEntry id="a0f3-bbb5-1df4-b1c2" name="Mini-Gun" hidden="false" collective="false" type="upgrade">
           <profiles>
-            <profile id="5ffb-edf0-db78-9227" name="Mini-Gun" book="Reglamento Deadzone 2ª Edición" page="94" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+            <profile id="5ffb-edf0-db78-9227" name="Mini-Gun" book="Reglamento Deadzone 2ª Edición" page="94" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -2346,7 +2346,7 @@
         </selectionEntry>
         <selectionEntry id="c06e-aa33-5cf4-8edc" name="Bayoneta Calada" hidden="false" collective="false" type="upgrade">
           <profiles>
-            <profile id="7355-81bc-611c-999a" name="Bayoneta Calada" book="Reglamento Deadzone 2ª Edición" page="94" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+            <profile id="7355-81bc-611c-999a" name="Bayoneta Calada" book="Reglamento Deadzone 2ª Edición" page="94" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -2430,7 +2430,7 @@
       <selectionEntries>
         <selectionEntry id="826d-5e4f-50fa-406e" name="Lanzaagujas" book="Deadzone: Outbreak" page="85" hidden="false" collective="false" type="upgrade">
           <profiles>
-            <profile id="622c-fab0-d64a-94a5" name="Lanzaagujas" book="Deadzone: Outbreak" page="85" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+            <profile id="622c-fab0-d64a-94a5" name="Lanzaagujas" book="Deadzone: Outbreak" page="85" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -2480,7 +2480,7 @@
         </selectionEntry>
         <selectionEntry id="d29b-2539-bf90-bb50" name="Fragmentos Tóxicos" book="Deadzone: Outbreak" page="85" hidden="false" collective="false" type="upgrade">
           <profiles>
-            <profile id="8959-e5f1-d609-2c12" name="Fragmentos Tóxicos" book="Deadzone: Outbreak" page="85" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+            <profile id="8959-e5f1-d609-2c12" name="Fragmentos Tóxicos" book="Deadzone: Outbreak" page="85" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -2611,7 +2611,7 @@
       <selectionEntries>
         <selectionEntry id="c8e2-261b-343c-f216" name="Garras" hidden="false" collective="false" type="upgrade">
           <profiles>
-            <profile id="e6ee-dbbc-a52a-b62e" name="Garras" book="Reglamento Deadzone 2ª Edición" page="91" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+            <profile id="e6ee-dbbc-a52a-b62e" name="Garras" book="Reglamento Deadzone 2ª Edición" page="91" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -2648,7 +2648,7 @@
         </selectionEntry>
         <selectionEntry id="e59f-0645-75d7-853a" name="Pistola" hidden="false" collective="false" type="upgrade">
           <profiles>
-            <profile id="d52c-39bd-fd36-ddfa" name="Pistola" book="Reglamento Deadzone 2ª Edición" page="91" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+            <profile id="d52c-39bd-fd36-ddfa" name="Pistola" book="Reglamento Deadzone 2ª Edición" page="91" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -2749,7 +2749,7 @@
       <selectionEntries>
         <selectionEntry id="413d-a94b-4721-1bc4" name="Lanzador ARC" hidden="false" collective="false" type="upgrade">
           <profiles>
-            <profile id="9bcf-4429-d856-b989" name="Lanzador ARC" book="Reglamento Deadzone 2ª Edición" page="94" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+            <profile id="9bcf-4429-d856-b989" name="Lanzador ARC" book="Reglamento Deadzone 2ª Edición" page="94" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -2786,7 +2786,7 @@
         </selectionEntry>
         <selectionEntry id="db54-e4b9-7046-e896" name="Maza" hidden="false" collective="false" type="upgrade">
           <profiles>
-            <profile id="6acf-5e04-fbf5-ce06" name="Maza" book="Reglamento Deadzone 2ª Edición" page="94" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+            <profile id="6acf-5e04-fbf5-ce06" name="Maza" book="Reglamento Deadzone 2ª Edición" page="94" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -2875,7 +2875,7 @@
       <selectionEntries>
         <selectionEntry id="fad3-7eec-ae36-52d7" name="Cañón Jerjes" hidden="false" collective="false" type="upgrade">
           <profiles>
-            <profile id="75c8-6ca5-1d29-68fa" name="Cañón Jerjes" book="Reglamento Deadzone 2ª Edición" page="92" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+            <profile id="75c8-6ca5-1d29-68fa" name="Cañón Jerjes" book="Reglamento Deadzone 2ª Edición" page="92" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -3013,7 +3013,7 @@
       <selectionEntries>
         <selectionEntry id="99b7-cc17-0eb3-53e3" name="Recortada" hidden="false" collective="false" type="upgrade">
           <profiles>
-            <profile id="d738-3ceb-1c05-f712" name="Recortada" book="Reglamento Deadzone 2ª Edición" page="93" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+            <profile id="d738-3ceb-1c05-f712" name="Recortada" book="Reglamento Deadzone 2ª Edición" page="93" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -3057,7 +3057,7 @@
         </selectionEntry>
         <selectionEntry id="9903-4bcf-6c99-1cc3" name="Pistola" hidden="false" collective="false" type="upgrade">
           <profiles>
-            <profile id="7532-9ff9-9ffb-0731" name="Pistola" book="Reglamento Deadzone 2ª Edición" page="93" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+            <profile id="7532-9ff9-9ffb-0731" name="Pistola" book="Reglamento Deadzone 2ª Edición" page="93" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -3146,7 +3146,7 @@
       <selectionEntries>
         <selectionEntry id="f86a-8d79-95a8-ef5d" name="Guantalete de Fusión" hidden="false" collective="false" type="upgrade">
           <profiles>
-            <profile id="3d1c-c77c-db91-7a4f" name="Guantalete de Fusión" book="Reglamento Deadzone 2ª Edición" page="92" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+            <profile id="3d1c-c77c-db91-7a4f" name="Guantalete de Fusión" book="Reglamento Deadzone 2ª Edición" page="92" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -3202,7 +3202,7 @@
         </selectionEntry>
         <selectionEntry id="5888-4dcc-9843-0444" name="Pistola Pretoriana" hidden="false" collective="false" type="upgrade">
           <profiles>
-            <profile id="db04-d873-3afc-7e28" name="Pistola Pretoriana" book="Reglamento Deadzone 2ª Edición" page="92" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+            <profile id="db04-d873-3afc-7e28" name="Pistola Pretoriana" book="Reglamento Deadzone 2ª Edición" page="92" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -3246,7 +3246,7 @@
         </selectionEntry>
         <selectionEntry id="e211-5d1e-e968-9c6d" name="Espada de los Siete" hidden="false" collective="false" type="upgrade">
           <profiles>
-            <profile id="f636-0af7-4611-0ff8" name="Espada de los Siete" book="Reglamento Deadzone 2ª Edición" page="92" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+            <profile id="f636-0af7-4611-0ff8" name="Espada de los Siete" book="Reglamento Deadzone 2ª Edición" page="92" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -3341,7 +3341,7 @@
       <selectionEntries>
         <selectionEntry id="f1d1-1627-afe7-a761" name="Marcar Rifle" hidden="false" collective="false" type="upgrade">
           <profiles>
-            <profile id="0007-33dd-ab8b-3795" name="Marcar Rifle" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+            <profile id="0007-33dd-ab8b-3795" name="Marcar Rifle" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -3436,7 +3436,7 @@
           <selectionEntries>
             <selectionEntry id="1bd7-a7ed-74de-b4de" name="Electro-Shock" book="Deadzone Nexus Psi" hidden="false" collective="false" type="unit">
               <profiles>
-                <profile id="9b25-d9dd-208c-0e1f" name="Electro-Shock" book="Deadzone: Nexus Psi" page="17" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+                <profile id="9b25-d9dd-208c-0e1f" name="Electro-Shock" book="Deadzone: Nexus Psi" page="17" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
                   <profiles/>
                   <rules/>
                   <infoLinks/>
@@ -3474,7 +3474,7 @@
             </selectionEntry>
             <selectionEntry id="c62b-14a6-5dfb-3c7e" name="Telémetro" book="Deadzone Nexus Psi" hidden="false" collective="false" type="unit">
               <profiles>
-                <profile id="274d-9e0a-9d04-43cc" name="Telémetro" book="Deadzone: Nexus Psi" page="17" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+                <profile id="274d-9e0a-9d04-43cc" name="Telémetro" book="Deadzone: Nexus Psi" page="17" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
                   <profiles/>
                   <rules/>
                   <infoLinks/>
@@ -3618,7 +3618,7 @@
       <selectionEntries>
         <selectionEntry id="1ebb-6f98-1e32-d5b6" name="Magma Lance" hidden="false" collective="false" type="upgrade">
           <profiles>
-            <profile id="194d-c8ce-1ee5-5878" name="Magma Lance" book="Deadzone: Infestación" page="28" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+            <profile id="194d-c8ce-1ee5-5878" name="Magma Lance" book="Deadzone: Infestación" page="28" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -3649,7 +3649,7 @@
         </selectionEntry>
         <selectionEntry id="4a06-af1b-88cc-101a" name="Dual Needle Pistols" hidden="false" collective="false" type="upgrade">
           <profiles>
-            <profile id="9e49-d052-32ed-385f" name="Dual Needle Pistols" book="Deadzone: Infestación" page="28" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+            <profile id="9e49-d052-32ed-385f" name="Dual Needle Pistols" book="Deadzone: Infestación" page="28" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -3774,7 +3774,7 @@
       <selectionEntries>
         <selectionEntry id="386b-9445-b0e3-259b" name="Lanzagranadas" book="Deadzone: Infestación" page="20" hidden="false" collective="false" type="upgrade">
           <profiles>
-            <profile id="794a-1a3e-fe75-6206" name="Lanzagranadas" book="Deadzone: Infestación" page="20" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+            <profile id="794a-1a3e-fe75-6206" name="Lanzagranadas" book="Deadzone: Infestación" page="20" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -3824,7 +3824,7 @@
         </selectionEntry>
         <selectionEntry id="2c89-218f-81ad-f0c6" name="Rifle Láser" book="Deadzone: Infestación" page="20" hidden="false" collective="false" type="upgrade">
           <profiles>
-            <profile id="4559-353e-57b3-619a" name="Rifle Láser" book="Deadzone: Infestación" page="20" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+            <profile id="4559-353e-57b3-619a" name="Rifle Láser" book="Deadzone: Infestación" page="20" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -3868,7 +3868,7 @@
         </selectionEntry>
         <selectionEntry id="e242-70bf-8906-550c" name="Guantalete de Energía" book="Deadzone Erratas v2.1" page="3" hidden="false" collective="false" type="upgrade">
           <profiles>
-            <profile id="75ac-c94d-56d2-6a70" name="Guantalete de Energía" book="Deadzone Erratas v2.1" page="3" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+            <profile id="75ac-c94d-56d2-6a70" name="Guantalete de Energía" book="Deadzone Erratas v2.1" page="3" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -3983,7 +3983,7 @@
         </selectionEntry>
         <selectionEntry id="1d13-d9ab-b21f-8449" name="Mining Laser" hidden="false" collective="false" type="upgrade">
           <profiles>
-            <profile id="e6d9-e459-e782-976e" name="Mining Laser" book="Deadzone: Infestación" page="24" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+            <profile id="e6d9-e459-e782-976e" name="Mining Laser" book="Deadzone: Infestación" page="24" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -4088,9 +4088,9 @@
         </categoryLink>
       </categoryLinks>
       <selectionEntries>
-        <selectionEntry id="3d6c-9ec4-e249-17fa" name="Twin Pesada Pistols" book="Deadzone Infestation Expansion" hidden="false" collective="false" type="upgrade">
+        <selectionEntry id="3d6c-9ec4-e249-17fa" name="Pistolas Gemelas Pesadas" book="Deadzone Infestation Expansion" hidden="false" collective="false" type="upgrade">
           <profiles>
-            <profile id="709f-9f17-61e4-2565" name="Twin Pesada Pistols" book="Deadzone: Infestación" page="32" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+            <profile id="709f-9f17-61e4-2565" name="Pistolas Gemelas Pesadas" book="Deadzone: Infestación" page="32" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -4233,7 +4233,7 @@
       <selectionEntries>
         <selectionEntry id="80bf-3b7a-3340-2da8" name="Rifle" hidden="false" collective="false" type="upgrade">
           <profiles>
-            <profile id="60f7-5fd9-702b-f3c6" name="Rifle" book="Deadzone: Nexus Psi" page="20" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+            <profile id="60f7-5fd9-702b-f3c6" name="Rifle" book="Deadzone: Nexus Psi" page="20" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -4351,7 +4351,7 @@ Vermin Swarm&apos;s are not part of the Army List, gain no experience, and are n
       <selectionEntries>
         <selectionEntry id="4308-9be1-88a8-94a7" name="Shock Baton" hidden="false" collective="false" type="upgrade">
           <profiles>
-            <profile id="5967-56aa-abbb-d6f8" name="Shock Baton" book="Deadzone: Infestación" page="16" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+            <profile id="5967-56aa-abbb-d6f8" name="Shock Baton" book="Deadzone: Infestación" page="16" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -4433,7 +4433,7 @@ Vermin Swarm&apos;s are not part of the Army List, gain no experience, and are n
           <selectionEntries>
             <selectionEntry id="71d5-c9ee-4833-4f4f" name="Teeth and Garras" hidden="false" collective="false" type="upgrade">
               <profiles>
-                <profile id="bf20-1f74-db87-2fc5" name="Teeth and Garras" book="Deadzone: Infestación" page="16" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+                <profile id="bf20-1f74-db87-2fc5" name="Teeth and Garras" book="Deadzone: Infestación" page="16" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
                   <profiles/>
                   <rules/>
                   <infoLinks/>
@@ -4525,7 +4525,7 @@ Vermin Swarm&apos;s are not part of the Army List, gain no experience, and are n
       <selectionEntries>
         <selectionEntry id="b1eb-3157-ed0a-ed2c" name="Guante Potenciado" book="Reglamento Deadzone 2ª Edición" hidden="false" collective="false" type="upgrade">
           <profiles>
-            <profile id="e8c8-f2c2-3570-957b" name="Guante Potenciado" book="Deadzone: Infestación" page="36" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+            <profile id="e8c8-f2c2-3570-957b" name="Guante Potenciado" book="Deadzone: Infestación" page="36" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -4569,7 +4569,7 @@ Vermin Swarm&apos;s are not part of the Army List, gain no experience, and are n
         </selectionEntry>
         <selectionEntry id="761d-3ee5-4193-7e4e" name="Guante Potenciado (Pulso de Energía)" book="Reglamento Deadzone 2ª Edición" hidden="false" collective="false" type="upgrade">
           <profiles>
-            <profile id="0a4b-147a-cf50-2832" name="Guante Potenciado (Pulso de Energía)" book="Deadzone: Infestación" page="36" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+            <profile id="0a4b-147a-cf50-2832" name="Guante Potenciado (Pulso de Energía)" book="Deadzone: Infestación" page="36" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -4613,7 +4613,7 @@ Vermin Swarm&apos;s are not part of the Army List, gain no experience, and are n
         </selectionEntry>
         <selectionEntry id="2acc-7576-3dc4-2728" name="Pistola Noh" book="Reglamento Deadzone 2ª Edición" hidden="false" collective="false" type="upgrade">
           <profiles>
-            <profile id="b35f-4380-25f4-b0aa" name="Pistola Noh" book="Deadzone: Infestación" page="36" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+            <profile id="b35f-4380-25f4-b0aa" name="Pistola Noh" book="Deadzone: Infestación" page="36" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -4680,7 +4680,7 @@ Vermin Swarm&apos;s are not part of the Army List, gain no experience, and are n
     </selectionEntry>
     <selectionEntry id="af0c-5df6-5f3a-3754" name="Mina Trampa" hidden="false" collective="false" type="upgrade">
       <profiles>
-        <profile id="85a0-4f0c-3e6b-16f9" name="Mina Trampa" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+        <profile id="85a0-4f0c-3e6b-16f9" name="Mina Trampa" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -4783,7 +4783,7 @@ Vermin Swarm&apos;s are not part of the Army List, gain no experience, and are n
       <selectionEntries>
         <selectionEntry id="e85f-cd98-d2e3-8eb6" name="Genling 340 Colonizador" hidden="false" collective="false" type="upgrade">
           <profiles>
-            <profile id="efb8-207b-65ef-94db" name="Genling 340 Colonizador" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+            <profile id="efb8-207b-65ef-94db" name="Genling 340 Colonizador" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -4987,7 +4987,7 @@ Vermin Swarm&apos;s are not part of the Army List, gain no experience, and are n
       <selectionEntries>
         <selectionEntry id="4595-9b50-4a29-c4b9" name="Espada Cantora" book="Deadzone: Outbreak" page="80" hidden="false" collective="false" type="upgrade">
           <profiles>
-            <profile id="acee-cdfb-57c7-a7ff" name="Espada Cantora" book="Deadzone: Outbreak" page="80" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+            <profile id="acee-cdfb-57c7-a7ff" name="Espada Cantora" book="Deadzone: Outbreak" page="80" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -5024,7 +5024,7 @@ Vermin Swarm&apos;s are not part of the Army List, gain no experience, and are n
         </selectionEntry>
         <selectionEntry id="66d8-fe29-bf75-0286" name="Pistola Noh" book="Reglamento Deadzone 2ª Edición" hidden="false" collective="false" type="upgrade">
           <profiles>
-            <profile id="7a5b-a1a9-90f7-1b91" name="Pistola Noh" book="Reglamento Deadzone 2ª Edición" page="76" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+            <profile id="7a5b-a1a9-90f7-1b91" name="Pistola Noh" book="Reglamento Deadzone 2ª Edición" page="76" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -5171,7 +5171,7 @@ Vermin Swarm&apos;s are not part of the Army List, gain no experience, and are n
       <selectionEntries>
         <selectionEntry id="77cf-01c0-e19c-230b" name="Rifle LSX de Francotirador" hidden="false" collective="false" type="upgrade">
           <profiles>
-            <profile id="df7b-fc73-74a4-c95a" name="Rifle LSX de Francotirador" book="Deadzone: Outbreak" page="81" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+            <profile id="df7b-fc73-74a4-c95a" name="Rifle LSX de Francotirador" book="Deadzone: Outbreak" page="81" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -5221,7 +5221,7 @@ Vermin Swarm&apos;s are not part of the Army List, gain no experience, and are n
         </selectionEntry>
         <selectionEntry id="608b-6ff9-79fa-60a0" name="Pistola" book="" hidden="false" collective="false" type="upgrade">
           <profiles>
-            <profile id="31f2-7113-3b15-bd1f" name="Pistola" book="Reglamento Deadzone 2ª Edición" page="59" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+            <profile id="31f2-7113-3b15-bd1f" name="Pistola" book="Reglamento Deadzone 2ª Edición" page="59" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -5258,7 +5258,7 @@ Vermin Swarm&apos;s are not part of the Army List, gain no experience, and are n
         </selectionEntry>
         <selectionEntry id="6571-6bc9-3948-10ff" name="Guantalete de Energía" book="" hidden="false" collective="false" type="upgrade">
           <profiles>
-            <profile id="dcbe-6c98-1cf9-bbdb" name="Guantalete de Energía" book="Reglamento Deadzone 2ª Edición" page="59" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+            <profile id="dcbe-6c98-1cf9-bbdb" name="Guantalete de Energía" book="Reglamento Deadzone 2ª Edición" page="59" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -5391,7 +5391,7 @@ Vermin Swarm&apos;s are not part of the Army List, gain no experience, and are n
       <selectionEntries>
         <selectionEntry id="1930-c41e-4117-b2c0" name="Aliento de Dragón" book="Deadzone: Outbreak" page="82" hidden="false" collective="false" type="upgrade">
           <profiles>
-            <profile id="0da6-ff45-332d-01cc" name="Aliento de Dragón" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+            <profile id="0da6-ff45-332d-01cc" name="Aliento de Dragón" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -5489,7 +5489,7 @@ Vermin Swarm&apos;s are not part of the Army List, gain no experience, and are n
           <selectionEntries>
             <selectionEntry id="6a16-7c8a-ba82-4381" name="Teeth" hidden="false" collective="false" type="upgrade">
               <profiles>
-                <profile id="5683-6e8b-6206-d896" name="Teeth" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+                <profile id="5683-6e8b-6206-d896" name="Teeth" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
                   <profiles/>
                   <rules/>
                   <infoLinks/>
@@ -5528,7 +5528,7 @@ Vermin Swarm&apos;s are not part of the Army List, gain no experience, and are n
         </selectionEntry>
         <selectionEntry id="d97e-a661-a089-5d37" name="Forge Hammer" hidden="false" collective="false" type="upgrade">
           <profiles>
-            <profile id="4de6-1257-2ffe-d508" name="Forge Hammer" book="Reglamento Deadzone 2ª Edición" page="71" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+            <profile id="4de6-1257-2ffe-d508" name="Forge Hammer" book="Reglamento Deadzone 2ª Edición" page="71" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -6249,7 +6249,7 @@ Incrementa la Velocidad en +1/+1 durante este turno.</description>
     </rule>
   </sharedRules>
   <sharedProfiles>
-    <profile id="fab4-6302-5fc5-278d" name="Cuchillo" book="Reglamento Deadzone 2ª Edición" page="47" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Weapon">
+    <profile id="fab4-6302-5fc5-278d" name="Cuchillo" book="Reglamento Deadzone 2ª Edición" page="47" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
