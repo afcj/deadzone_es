@@ -659,7 +659,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="da72-3ee3-9bb5-a06a" name="Mortar" hidden="false" targetId="c4b0-85f9-38c9-0048" type="selectionEntry">
+            <entryLink id="da72-3ee3-9bb5-a06a" name="Mortero" hidden="false" targetId="c4b0-85f9-38c9-0048" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1495,7 +1495,7 @@
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="c64a-ddca-2fcb-6f21" name="Suppression" hidden="false" targetId="bcf7-8697-e7d8-43ac" type="rule">
+        <infoLink id="c64a-ddca-2fcb-6f21" name="Supresión" hidden="false" targetId="bcf7-8697-e7d8-43ac" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1581,11 +1581,11 @@
         <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="1864-c36f-c8cc-17bb" name="Flame Thrower" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="1864-c36f-c8cc-17bb" name="Lanzallamas" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="b522-62d4-5756-599e" name="Flame Thrower" hidden="false" targetId="7c0b-28e7-f77e-05fe" type="profile">
+        <infoLink id="b522-62d4-5756-599e" name="Lanzallamas" hidden="false" targetId="7c0b-28e7-f77e-05fe" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1665,12 +1665,12 @@
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="ef4b-4596-c158-bcb0" name="Indirect (n)" hidden="false" targetId="8fe0-f858-5940-b816" type="rule">
+        <infoLink id="ef4b-4596-c158-bcb0" name="Indirecto (n)" hidden="false" targetId="8fe0-f858-5940-b816" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers>
-            <modifier type="set" field="name" value="Indirect (3)">
+            <modifier type="set" field="name" value="Indirecto (3)">
               <repeats/>
               <conditions/>
               <conditionGroups/>
@@ -1699,7 +1699,7 @@
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="ee59-fcb8-0680-0012" name="Suppression" hidden="false" targetId="bcf7-8697-e7d8-43ac" type="rule">
+        <infoLink id="ee59-fcb8-0680-0012" name="Supresión" hidden="false" targetId="bcf7-8697-e7d8-43ac" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1825,22 +1825,22 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="10.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="c4b0-85f9-38c9-0048" name="Mortar" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="c4b0-85f9-38c9-0048" name="Mortero" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="b6f9-f539-4ab4-eb0e" name="Mortar" hidden="false" targetId="a00e-85d6-15cb-d4d2" type="profile">
+        <infoLink id="b6f9-f539-4ab4-eb0e" name="Mortero" hidden="false" targetId="a00e-85d6-15cb-d4d2" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="b36d-3c61-ed63-bde6" name="Indirect (n)" hidden="false" targetId="8fe0-f858-5940-b816" type="rule">
+        <infoLink id="b36d-3c61-ed63-bde6" name="Indirecto (n)" hidden="false" targetId="8fe0-f858-5940-b816" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers>
-            <modifier type="set" field="name" value="Indirect (4)">
+            <modifier type="set" field="name" value="Indirecto (4)">
               <repeats/>
               <conditions/>
               <conditionGroups/>
@@ -2244,7 +2244,7 @@
       <characteristics>
         <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A6"/>
         <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
-        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Suppression, Cadencia de Fuego (1), Pesada"/>
+        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Supresión, Cadencia de Fuego (1), Pesada"/>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Pesada (Crew Served Weapon)"/>
       </characteristics>
     </profile>
@@ -2272,7 +2272,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Líder"/>
       </characteristics>
     </profile>
-    <profile id="7c0b-28e7-f77e-05fe" name="Flame Thrower" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
+    <profile id="7c0b-28e7-f77e-05fe" name="Lanzallamas" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -2304,7 +2304,7 @@
       <characteristics>
         <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A5"/>
         <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
-        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Indirect (3)"/>
+        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Indirecto (3)"/>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Explosiva)"/>
       </characteristics>
     </profile>
@@ -2316,7 +2316,7 @@
       <characteristics>
         <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A10"/>
         <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
-        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Suppression, Cadencia de Fuego (2)"/>
+        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Supresión, Cadencia de Fuego (2)"/>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Andador (Automática)"/>
       </characteristics>
     </profile>
@@ -2356,7 +2356,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Pesada (Crew Served Weapon)"/>
       </characteristics>
     </profile>
-    <profile id="a00e-85d6-15cb-d4d2" name="Mortar" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
+    <profile id="a00e-85d6-15cb-d4d2" name="Mortero" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -2364,7 +2364,7 @@
       <characteristics>
         <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A8"/>
         <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
-        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Indirect (4), Pesada"/>
+        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Indirecto (4), Pesada"/>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Pesada (Crew Served Weapon)"/>
       </characteristics>
     </profile>

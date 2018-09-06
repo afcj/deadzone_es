@@ -893,7 +893,7 @@
       </profiles>
       <rules/>
       <infoLinks>
-        <infoLink id="bc93-b535-5c1b-66c1" name="Scout" hidden="false" targetId="634d-5763-a726-b91f" type="rule">
+        <infoLink id="bc93-b535-5c1b-66c1" name="Explorador" hidden="false" targetId="634d-5763-a726-b91f" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1408,7 +1408,7 @@
       </profiles>
       <rules/>
       <infoLinks>
-        <infoLink id="cb2b-a7cc-8777-9bdf" name="Scout" hidden="false" targetId="634d-5763-a726-b91f" type="rule">
+        <infoLink id="cb2b-a7cc-8777-9bdf" name="Explorador" hidden="false" targetId="634d-5763-a726-b91f" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -3807,19 +3807,19 @@
               <characteristics>
                 <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A5"/>
                 <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
-                <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Indirect (3)"/>
+                <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Indirecto (3)"/>
                 <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value=""/>
               </characteristics>
             </profile>
           </profiles>
           <rules/>
           <infoLinks>
-            <infoLink id="1ba8-6b5e-353e-2e17" name="Indirect (n)" hidden="false" targetId="8fe0-f858-5940-b816" type="rule">
+            <infoLink id="1ba8-6b5e-353e-2e17" name="Indirecto (n)" hidden="false" targetId="8fe0-f858-5940-b816" type="rule">
               <profiles/>
               <rules/>
               <infoLinks/>
               <modifiers>
-                <modifier type="set" field="name" value="Indirect (3)">
+                <modifier type="set" field="name" value="Indirecto (3)">
                   <repeats/>
                   <conditions/>
                   <conditionGroups/>
@@ -3926,7 +3926,7 @@
             </modifier>
           </modifiers>
         </infoLink>
-        <infoLink id="41a6-e952-816c-fd8c" name="Scout" hidden="false" targetId="634d-5763-a726-b91f" type="rule">
+        <infoLink id="41a6-e952-816c-fd8c" name="Explorador" hidden="false" targetId="634d-5763-a726-b91f" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -4432,9 +4432,9 @@
                 <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="12.0"/>
               </costs>
             </selectionEntry>
-            <selectionEntry id="ab3d-4e4b-b5a2-8518" name="Flame Thrower" hidden="false" collective="false" type="upgrade">
+            <selectionEntry id="ab3d-4e4b-b5a2-8518" name="Lanzallamas" hidden="false" collective="false" type="upgrade">
               <profiles>
-                <profile id="38af-57f2-3bd0-597e" name="Flame Thrower" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
+                <profile id="38af-57f2-3bd0-597e" name="Lanzallamas" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
                   <profiles/>
                   <rules/>
                   <infoLinks/>
@@ -4530,19 +4530,19 @@
                   <characteristics>
                     <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A5"/>
                     <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
-                    <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Indirect (3)"/>
+                    <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Indirecto (3)"/>
                     <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Explosiva)"/>
                   </characteristics>
                 </profile>
               </profiles>
               <rules/>
               <infoLinks>
-                <infoLink id="a8de-e265-dd8d-4d9d" name="Indirect (n)" hidden="false" targetId="8fe0-f858-5940-b816" type="rule">
+                <infoLink id="a8de-e265-dd8d-4d9d" name="Indirecto (n)" hidden="false" targetId="8fe0-f858-5940-b816" type="rule">
                   <profiles/>
                   <rules/>
                   <infoLinks/>
                   <modifiers>
-                    <modifier type="set" field="name" value="Indirect (3)">
+                    <modifier type="set" field="name" value="Indirecto (3)">
                       <repeats/>
                       <conditions/>
                       <conditionGroups/>
@@ -4827,7 +4827,7 @@
               <infoLinks/>
               <modifiers/>
             </infoLink>
-            <infoLink id="9f81-bab0-e51c-4a0e" name="Scout" hidden="false" targetId="634d-5763-a726-b91f" type="rule">
+            <infoLink id="9f81-bab0-e51c-4a0e" name="Explorador" hidden="false" targetId="634d-5763-a726-b91f" type="rule">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -5090,7 +5090,7 @@
             </modifier>
           </modifiers>
         </infoLink>
-        <infoLink id="48d6-ca73-0960-5471" name="Suppression" hidden="false" targetId="bcf7-8697-e7d8-43ac" type="rule">
+        <infoLink id="48d6-ca73-0960-5471" name="Supresión" hidden="false" targetId="bcf7-8697-e7d8-43ac" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -5568,7 +5568,7 @@
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="c9d7-a998-6523-5199" name="Suppression" hidden="false" targetId="bcf7-8697-e7d8-43ac" type="rule">
+        <infoLink id="c9d7-a998-6523-5199" name="Supresión" hidden="false" targetId="bcf7-8697-e7d8-43ac" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -5815,7 +5815,7 @@
             </categoryLink>
           </categoryLinks>
         </entryLink>
-        <entryLink id="6416-7e64-98ea-f609" name="Mono-Wheel Scout Bike" hidden="false" targetId="74f6-f5db-0b60-0d5c" type="selectionEntry">
+        <entryLink id="6416-7e64-98ea-f609" name="Mono-Wheel Explorador Bike" hidden="false" targetId="74f6-f5db-0b60-0d5c" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -5886,7 +5886,7 @@
       <characteristics>
         <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A8"/>
         <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
-        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Cadencia de Fuego (1), Suppression"/>
+        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Cadencia de Fuego (1), Supresión"/>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Automática), Pesada (Automática)"/>
       </characteristics>
     </profile>
@@ -6066,7 +6066,7 @@
       <characteristics>
         <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A10"/>
         <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
-        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Suppression, Cadencia de Fuego (2)"/>
+        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Supresión, Cadencia de Fuego (2)"/>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Andador (Automática)"/>
       </characteristics>
     </profile>

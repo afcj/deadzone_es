@@ -3241,7 +3241,7 @@
       </profiles>
       <rules/>
       <infoLinks>
-        <infoLink id="bf85-bea8-7557-588f" name="Scout" hidden="false" targetId="634d-5763-a726-b91f" type="rule">
+        <infoLink id="bf85-bea8-7557-588f" name="Explorador" hidden="false" targetId="634d-5763-a726-b91f" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -3427,7 +3427,7 @@
           <rules/>
           <infoLinks/>
           <modifiers/>
-          <description>Spend and Army Special result at the start of your model&apos;s activation. Increase the active model&apos;s speed by +1/+1 until the end of its activation. This does not count as an action.</description>
+          <description>Spend y Army Special result at the start of your model&apos;s activation. Increase the active model&apos;s speed by +1/+1 until the end of its activation. This does not count as an action.</description>
         </rule>
       </rules>
       <infoLinks>
@@ -3462,9 +3462,9 @@
         </categoryLink>
       </categoryLinks>
       <selectionEntries>
-        <selectionEntry id="36df-2199-9026-32bd" name="Pistolas Gemelas Pesadas" book="" page="" hidden="false" collective="false" type="upgrade">
+        <selectionEntry id="36df-2199-9026-32bd" name="Par de Pistolas Pesadas" book="" page="" hidden="false" collective="false" type="upgrade">
           <profiles>
-            <profile id="fc5d-da6a-6c9d-53f8" name="Pistolas Gemelas Pesadas" book="Deadzone: Infestación" page="32" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
+            <profile id="fc5d-da6a-6c9d-53f8" name="Par de Pistolas Pesadas" book="Deadzone: Infestación" page="32" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -4108,7 +4108,7 @@
             </modifier>
           </modifiers>
         </infoLink>
-        <infoLink id="6d9c-6c61-a1c3-bd92" name="Suppression" hidden="false" targetId="bcf7-8697-e7d8-43ac" type="rule">
+        <infoLink id="6d9c-6c61-a1c3-bd92" name="Supresión" hidden="false" targetId="bcf7-8697-e7d8-43ac" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -4300,12 +4300,12 @@
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="5a4d-345d-f702-5c79" name="Indirect (n)" hidden="false" targetId="8fe0-f858-5940-b816" type="rule">
+        <infoLink id="5a4d-345d-f702-5c79" name="Indirecto (n)" hidden="false" targetId="8fe0-f858-5940-b816" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers>
-            <modifier type="set" field="name" value="Indirect (3)">
+            <modifier type="set" field="name" value="Indirecto (3)">
               <repeats/>
               <conditions/>
               <conditionGroups/>
@@ -4386,12 +4386,12 @@
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="b5cd-c73b-5220-534f" name="Indirect (n)" hidden="false" targetId="8fe0-f858-5940-b816" type="rule">
+        <infoLink id="b5cd-c73b-5220-534f" name="Indirecto (n)" hidden="false" targetId="8fe0-f858-5940-b816" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers>
-            <modifier type="set" field="name" value="Indirect (4)">
+            <modifier type="set" field="name" value="Indirecto (4)">
               <repeats/>
               <conditions/>
               <conditionGroups/>
@@ -4745,7 +4745,7 @@
       <characteristics>
         <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A6"/>
         <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
-        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Cadencia de Fuego (1), Suppression"/>
+        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Cadencia de Fuego (1), Supresión"/>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Automática)"/>
       </characteristics>
     </profile>
@@ -4817,7 +4817,7 @@
       <characteristics>
         <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A8"/>
         <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
-        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Indirect (3), Un solo Uso"/>
+        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Indirecto (3), Un solo Uso"/>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Pesada (Explosiva)"/>
       </characteristics>
     </profile>
@@ -4841,7 +4841,7 @@
       <characteristics>
         <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A10"/>
         <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
-        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Indirect (4), Pesada"/>
+        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Indirecto (4), Pesada"/>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Vehículo (Artillería)"/>
       </characteristics>
     </profile>

@@ -1329,7 +1329,7 @@
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="df5d-b4b2-22f4-3d26" name="Scout" hidden="false" targetId="634d-5763-a726-b91f" type="rule">
+        <infoLink id="df5d-b4b2-22f4-3d26" name="Explorador" hidden="false" targetId="634d-5763-a726-b91f" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -2108,7 +2108,7 @@
             </modifier>
           </modifiers>
         </infoLink>
-        <infoLink id="e5a6-da77-36b5-7f30" name="Suppression" hidden="false" targetId="bcf7-8697-e7d8-43ac" type="rule">
+        <infoLink id="e5a6-da77-36b5-7f30" name="Supresión" hidden="false" targetId="bcf7-8697-e7d8-43ac" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -2136,12 +2136,12 @@
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="0742-dd03-eee9-1daf" name="Indirect (n)" hidden="false" targetId="8fe0-f858-5940-b816" type="rule">
+        <infoLink id="0742-dd03-eee9-1daf" name="Indirecto (n)" hidden="false" targetId="8fe0-f858-5940-b816" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers>
-            <modifier type="set" field="name" value="Indirect (3)">
+            <modifier type="set" field="name" value="Indirecto (3)">
               <repeats/>
               <conditions/>
               <conditionGroups/>
@@ -2170,18 +2170,18 @@
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="43e3-2973-f65c-3a39" name="Mortar" hidden="false" targetId="ab8d-0d13-ea34-b676" type="profile">
+        <infoLink id="43e3-2973-f65c-3a39" name="Mortero" hidden="false" targetId="ab8d-0d13-ea34-b676" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="93ec-1fcf-fd46-f21d" name="Indirect (n)" hidden="false" targetId="8fe0-f858-5940-b816" type="rule">
+        <infoLink id="93ec-1fcf-fd46-f21d" name="Indirecto (n)" hidden="false" targetId="8fe0-f858-5940-b816" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers>
-            <modifier type="set" field="name" value="Indirect (4)">
+            <modifier type="set" field="name" value="Indirecto (4)">
               <repeats/>
               <conditions/>
               <conditionGroups/>
@@ -2596,7 +2596,7 @@
       <characteristics>
         <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A5"/>
         <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
-        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Indirecta (3), Pesada"/>
+        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Indirecto (3), Pesada"/>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Explosiva)"/>
       </characteristics>
     </profile>
@@ -2608,7 +2608,7 @@
       <characteristics>
         <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A8"/>
         <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
-        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Indirecta (4), Pesada"/>
+        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Indirecto (4), Pesada"/>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Pesada (Equipo de Armas)"/>
       </characteristics>
     </profile>

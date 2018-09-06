@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<catalogue id="fead-a35d-0df3-40f0" name="Veer-Myn (Beta) Elite: The Piper" book="Deadzone: Infestación" page="16" revision="1" battleScribeVersion="2.01" authorName="James Tandy / Ben Edwards" authorContact="BAE2 / afcj (Github)" gameSystemId="3476-f239-cf73-2f89" gameSystemRevision="1" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
+<catalogue id="fead-a35d-0df3-40f0" name="Veer-Myn (Beta) Elite: El Flautista" book="Deadzone: Infestación" page="16" revision="1" battleScribeVersion="2.01" authorName="James Tandy / Ben Edwards" authorContact="BAE2 / afcj (Github)" gameSystemId="3476-f239-cf73-2f89" gameSystemRevision="1" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
   <profiles/>
   <rules/>
   <infoLinks/>
@@ -52,7 +52,7 @@
           </constraints>
           <categoryLinks/>
         </entryLink>
-        <entryLink id="f617-8b90-5b22-c3c0" name="Ray Pistola *" hidden="false" targetId="6353-1e51-bec3-d6c0" type="selectionEntry">
+        <entryLink id="f617-8b90-5b22-c3c0" name="Pistola de Rayos *" hidden="false" targetId="6353-1e51-bec3-d6c0" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -70,7 +70,7 @@
           <constraints/>
           <categoryLinks/>
         </entryLink>
-        <entryLink id="be0b-51c3-5379-3f18" name="Ray Gun" hidden="false" targetId="4288-de32-8c20-b487" type="selectionEntry">
+        <entryLink id="be0b-51c3-5379-3f18" name="Fusil de Rayos" hidden="false" targetId="4288-de32-8c20-b487" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -145,7 +145,7 @@
       <selectionEntries/>
       <selectionEntryGroups/>
       <entryLinks>
-        <entryLink id="ca55-f247-b3fc-54a9" name="Scythes" hidden="false" targetId="b9d3-c6e5-9cc3-375e" type="selectionEntry">
+        <entryLink id="ca55-f247-b3fc-54a9" name="Guadañas" hidden="false" targetId="b9d3-c6e5-9cc3-375e" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -225,7 +225,7 @@
       <selectionEntries/>
       <selectionEntryGroups/>
       <entryLinks>
-        <entryLink id="1fce-bd1b-14ab-74bf" name="Pesada Chem Spitter" hidden="false" targetId="78eb-0665-41e7-24e7" type="selectionEntry">
+        <entryLink id="1fce-bd1b-14ab-74bf" name="Escupidor Químico Pesado" hidden="false" targetId="78eb-0665-41e7-24e7" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -330,7 +330,7 @@
           <selectionEntries/>
           <selectionEntryGroups/>
           <entryLinks>
-            <entryLink id="08ac-d3e8-7d15-b18b" name="Pesada Chem Thrower**" hidden="false" targetId="1b4f-9759-fd18-4faa" type="selectionEntry">
+            <entryLink id="08ac-d3e8-7d15-b18b" name="Pesada Rociador Químico**" hidden="false" targetId="1b4f-9759-fd18-4faa" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -370,7 +370,7 @@
               </constraints>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="38e1-0174-5811-2bcc" name="Chem Thrower" hidden="false" targetId="d158-fe2e-b3eb-904b" type="selectionEntry">
+            <entryLink id="38e1-0174-5811-2bcc" name="Rociador Químico" hidden="false" targetId="d158-fe2e-b3eb-904b" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -380,7 +380,7 @@
               </constraints>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="9a2c-f3a5-a3ac-3b58" name="Ray Gun" hidden="false" targetId="4288-de32-8c20-b487" type="selectionEntry">
+            <entryLink id="9a2c-f3a5-a3ac-3b58" name="Fusil de Rayos" hidden="false" targetId="4288-de32-8c20-b487" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -394,7 +394,7 @@
         </selectionEntryGroup>
       </selectionEntryGroups>
       <entryLinks>
-        <entryLink id="9cf3-269b-e8ff-251f" name="Ray Pistola *" hidden="false" targetId="6353-1e51-bec3-d6c0" type="selectionEntry">
+        <entryLink id="9cf3-269b-e8ff-251f" name="Pistola de Rayos *" hidden="false" targetId="6353-1e51-bec3-d6c0" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -494,7 +494,7 @@
           <selectionEntries/>
           <selectionEntryGroups/>
           <entryLinks>
-            <entryLink id="cacf-6a0d-56f0-fa79" name="Ray Gun" hidden="false" targetId="4288-de32-8c20-b487" type="selectionEntry">
+            <entryLink id="cacf-6a0d-56f0-fa79" name="Fusil de Rayos" hidden="false" targetId="4288-de32-8c20-b487" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -502,12 +502,12 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="9e51-9238-e2a2-bc23" name="Ray Pistola *" hidden="false" targetId="6353-1e51-bec3-d6c0" type="selectionEntry">
+            <entryLink id="9e51-9238-e2a2-bc23" name="Pistola de Rayos *" hidden="false" targetId="6353-1e51-bec3-d6c0" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
               <modifiers>
-                <modifier type="set" field="name" value="Ray Pistola">
+                <modifier type="set" field="name" value="Pistola de Rayos">
                   <repeats/>
                   <conditions/>
                   <conditionGroups/>
@@ -534,9 +534,9 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="8.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="8945-440e-94cc-b479" name="The Piper" book="Deadzone: Infestación" hidden="false" collective="false" type="model">
+    <selectionEntry id="8945-440e-94cc-b479" name="El Flautista" book="Deadzone: Infestación" hidden="false" collective="false" type="model">
       <profiles>
-        <profile id="1e39-7030-f6be-2912" name="The Piper" book="Deadzone: Infestación" page="16" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Líder">
+        <profile id="1e39-7030-f6be-2912" name="El Flautista" book="Deadzone: Infestación" page="16" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Líder">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -558,15 +558,15 @@
           <rules/>
           <infoLinks/>
           <modifiers/>
-          <description>When deploying your models, in addition to your strike force, deploy up to two Vermin Swarm bases in your deployment zone. If there are fewer than two Vermin Swarms in play, The Piper may use a Special Action to &quot;call&quot; a new swarm. Place a single Vermin Swarm in The Piper&apos;s cube. The target cube must have enough available room to fit the Vermin Swarm. If no cube exists, The Piper may not call a Vermin Swarm.
-Vermin Swarm&apos;s are not part of the Army List, gain no experience, and are not added to a player&apos;s roster.</description>
+          <description>When deploying your models, in addition to your strike force, deploy up to two Vermin Swarm bases in your deployment zone. If there are fewer than two Vermin Swarms in play, El Flautista may use a Special Action to &quot;call&quot; a new swarm. Place a single Vermin Swarm in El Flautista&apos;s cube. The target cube must have enough available room to fit the Vermin Swarm. If no cube exists, El Flautista may not call a Vermin Swarm.
+Vermin Swarm&apos;s are not part of the Army List, gain no experience, y are not added to a player&apos;s roster.</description>
         </rule>
         <rule id="cb34-8019-1604-52db" name="Tide of Vermin" book="Deadzone: Infestación" hidden="false">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers/>
-          <description>Choose an unactivated, friendly Troop model and immediately make a full activation with it. Mark the model as activated, afterwards, as usual.</description>
+          <description>Choose an unactivated, friendly Troop model y immediately make a full activation with it. Mark the model as activated, afterwards, as usual.</description>
         </rule>
       </rules>
       <infoLinks>
@@ -671,9 +671,9 @@ Vermin Swarm&apos;s are not part of the Army List, gain no experience, and are n
           </constraints>
           <categoryLinks/>
           <selectionEntries>
-            <selectionEntry id="8377-aed5-f2df-6b4a" name="Teeth and Garras" hidden="false" collective="false" type="upgrade">
+            <selectionEntry id="8377-aed5-f2df-6b4a" name="Dientes y Garras" hidden="false" collective="false" type="upgrade">
               <profiles>
-                <profile id="6654-8af7-d062-e1b7" name="Teeth and Garras" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
+                <profile id="6654-8af7-d062-e1b7" name="Dientes y Garras" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
                   <profiles/>
                   <rules/>
                   <infoLinks/>
@@ -1311,11 +1311,11 @@ Vermin Swarm&apos;s are not part of the Army List, gain no experience, and are n
         <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="d068-ce60-ef52-9e36" name="Chem Spitter" hidden="false" collective="false" type="unit">
+    <selectionEntry id="d068-ce60-ef52-9e36" name="Escupidor Químico" hidden="false" collective="false" type="unit">
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="69c0-2388-b302-381b" name="Chem Spitter" hidden="false" targetId="70f7-e2f4-4411-7de4" type="profile">
+        <infoLink id="69c0-2388-b302-381b" name="Escupidor Químico" hidden="false" targetId="70f7-e2f4-4411-7de4" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1339,11 +1339,11 @@ Vermin Swarm&apos;s are not part of the Army List, gain no experience, and are n
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="9.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="aeb1-e3a0-c750-e574" name="Chem Staff" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="aeb1-e3a0-c750-e574" name="Bastón Químico" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="a7fd-8012-6920-7896" name="Chem Staff" hidden="false" targetId="7010-eb5b-30fb-3e90" type="profile">
+        <infoLink id="a7fd-8012-6920-7896" name="Bastón Químico" hidden="false" targetId="7010-eb5b-30fb-3e90" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1367,11 +1367,11 @@ Vermin Swarm&apos;s are not part of the Army List, gain no experience, and are n
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="d158-fe2e-b3eb-904b" name="Chem Thrower" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="d158-fe2e-b3eb-904b" name="Rociador Químico" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="9040-92c9-8b5f-4d17" name="Chem Thrower" hidden="false" targetId="d5ec-5b37-57ef-807a" type="profile">
+        <infoLink id="9040-92c9-8b5f-4d17" name="Rociador Químico" hidden="false" targetId="d5ec-5b37-57ef-807a" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1401,22 +1401,22 @@ Vermin Swarm&apos;s are not part of the Army List, gain no experience, and are n
         <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="4898-2a0e-dae6-ecc4" name="Chemical Lanzagranadas" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="4898-2a0e-dae6-ecc4" name="Lanzagranadas Químico" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="1ae0-77f0-1eea-dc4b" name="Chemical Lanzagranadas" hidden="false" targetId="98eb-8680-4243-41e9" type="profile">
+        <infoLink id="1ae0-77f0-1eea-dc4b" name="Lanzagranadas Químico" hidden="false" targetId="98eb-8680-4243-41e9" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="884e-fdb2-0da6-7e75" name="Indirect (n)" hidden="false" targetId="8fe0-f858-5940-b816" type="rule">
+        <infoLink id="884e-fdb2-0da6-7e75" name="Indirecto (n)" hidden="false" targetId="8fe0-f858-5940-b816" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers>
-            <modifier type="set" field="name" value="Indirect (4)">
+            <modifier type="set" field="name" value="Indirecto (4)">
               <repeats/>
               <conditions/>
               <conditionGroups/>
@@ -1435,11 +1435,11 @@ Vermin Swarm&apos;s are not part of the Army List, gain no experience, and are n
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="12.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="a2d1-08ef-b975-77fe" name="Det Pack (Mag Lock)" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="a2d1-08ef-b975-77fe" name="Equipo de Detonación (Fijador Magnético)" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="51cd-c9e4-c322-c016" name="Det Pack (Mag Lock)" hidden="false" targetId="06e1-bccc-8f82-4be6" type="profile">
+        <infoLink id="51cd-c9e4-c322-c016" name="Equipo de Detonación (Fijador Magnético)" hidden="false" targetId="06e1-bccc-8f82-4be6" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1457,11 +1457,11 @@ Vermin Swarm&apos;s are not part of the Army List, gain no experience, and are n
         <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="a295-cee4-c96a-40fb" name="Det Pack (Prox Fuse)" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="a295-cee4-c96a-40fb" name="Equipo de Detonación (Detonador de Proximidad)" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="9172-048f-359d-4657" name="Det Pack (Prox Fuse)" hidden="false" targetId="ff00-8026-2b8e-565b" type="profile">
+        <infoLink id="9172-048f-359d-4657" name="Equipo de Detonación (Detonador de Proximidad)" hidden="false" targetId="ff00-8026-2b8e-565b" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1479,11 +1479,11 @@ Vermin Swarm&apos;s are not part of the Army List, gain no experience, and are n
         <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="78eb-0665-41e7-24e7" name="Pesada Chem Spitter" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="78eb-0665-41e7-24e7" name="Escupidor Químico Pesado" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="001f-164f-187b-1e2c" name="Pesada Chem Spitter" hidden="false" targetId="d610-767d-67ad-718a" type="profile">
+        <infoLink id="001f-164f-187b-1e2c" name="Escupidor Químico Pesado" hidden="false" targetId="d610-767d-67ad-718a" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1501,11 +1501,11 @@ Vermin Swarm&apos;s are not part of the Army List, gain no experience, and are n
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="8.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="1b4f-9759-fd18-4faa" name="Pesada Chem Thrower**" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="1b4f-9759-fd18-4faa" name="Pesada Rociador Químico**" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="3187-ee96-3dfd-0f2d" name="Pesada Chem Thrower" hidden="false" targetId="6f51-25f7-5f7c-38a3" type="profile">
+        <infoLink id="3187-ee96-3dfd-0f2d" name="Pesada Rociador Químico" hidden="false" targetId="6f51-25f7-5f7c-38a3" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1575,7 +1575,7 @@ Vermin Swarm&apos;s are not part of the Army List, gain no experience, and are n
         <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="4288-de32-8c20-b487" name="Ray Gun" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="4288-de32-8c20-b487" name="Fusil de Rayos" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
@@ -1597,7 +1597,7 @@ Vermin Swarm&apos;s are not part of the Army List, gain no experience, and are n
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="a188-9efe-27af-19e8" name="Ray Gun" hidden="false" targetId="5061-54cd-37f0-d82b" type="profile">
+        <infoLink id="a188-9efe-27af-19e8" name="Fusil de Rayos" hidden="false" targetId="5061-54cd-37f0-d82b" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1615,11 +1615,11 @@ Vermin Swarm&apos;s are not part of the Army List, gain no experience, and are n
         <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="6353-1e51-bec3-d6c0" name="Ray Pistola *" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="6353-1e51-bec3-d6c0" name="Pistola de Rayos *" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="1fc1-0669-7d93-9fd9" name="Ray Pistola" hidden="false" targetId="b4a9-b545-a8d1-83bc" type="profile">
+        <infoLink id="1fc1-0669-7d93-9fd9" name="Pistola de Rayos" hidden="false" targetId="b4a9-b545-a8d1-83bc" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1637,11 +1637,11 @@ Vermin Swarm&apos;s are not part of the Army List, gain no experience, and are n
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="b9d3-c6e5-9cc3-375e" name="Scythes" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="b9d3-c6e5-9cc3-375e" name="Guadañas" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="63ce-8114-7050-e417" name="Scythes" hidden="false" targetId="d243-f886-2261-eb5e" type="profile">
+        <infoLink id="63ce-8114-7050-e417" name="Guadañas" hidden="false" targetId="d243-f886-2261-eb5e" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1681,7 +1681,7 @@ Vermin Swarm&apos;s are not part of the Army List, gain no experience, and are n
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="77c2-f737-2139-516b" name="Indirect (Smoke)" hidden="false" targetId="49be-8001-228f-f35d" type="rule">
+        <infoLink id="77c2-f737-2139-516b" name="Indirecto (Humo)" hidden="false" targetId="49be-8001-228f-f35d" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1699,11 +1699,11 @@ Vermin Swarm&apos;s are not part of the Army List, gain no experience, and are n
         <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="d350-70ab-bbb0-6a61" name="Spitter Rifle" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="d350-70ab-bbb0-6a61" name="Rifle Escupidor" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="9ad0-1699-6db6-3a41" name="Spitter Rifle" hidden="false" targetId="b3ec-acf6-b583-dce4" type="profile">
+        <infoLink id="9ad0-1699-6db6-3a41" name="Rifle Escupidor" hidden="false" targetId="b3ec-acf6-b583-dce4" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1733,11 +1733,11 @@ Vermin Swarm&apos;s are not part of the Army List, gain no experience, and are n
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="12.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="f2f9-7db3-00e4-dc91" name="Super Pesada Chem Spitter" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="f2f9-7db3-00e4-dc91" name="Super Escupidor Químico Pesado" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="c88e-86dc-35db-f2b0" name="Super Pesada Chem Spitter" hidden="false" targetId="f30b-e4d7-03f3-6d82" type="profile">
+        <infoLink id="c88e-86dc-35db-f2b0" name="Super Escupidor Químico Pesado" hidden="false" targetId="f30b-e4d7-03f3-6d82" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1755,7 +1755,7 @@ Vermin Swarm&apos;s are not part of the Army List, gain no experience, and are n
             </modifier>
           </modifiers>
         </infoLink>
-        <infoLink id="de24-cf68-8ac7-b39c" name="Suppression" hidden="false" targetId="bcf7-8697-e7d8-43ac" type="rule">
+        <infoLink id="de24-cf68-8ac7-b39c" name="Supresión" hidden="false" targetId="bcf7-8697-e7d8-43ac" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1779,11 +1779,11 @@ Vermin Swarm&apos;s are not part of the Army List, gain no experience, and are n
         <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="1.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="5460-1424-329a-ade5" name="Super Pesada Chem Thrower" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="5460-1424-329a-ade5" name="Super Pesada Rociador Químico" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="f12f-add5-01ba-7395" name="Super Pesada Chem Thrower" hidden="false" targetId="1393-230e-e421-018f" type="profile">
+        <infoLink id="f12f-add5-01ba-7395" name="Super Pesada Rociador Químico" hidden="false" targetId="1393-230e-e421-018f" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1819,17 +1819,17 @@ Vermin Swarm&apos;s are not part of the Army List, gain no experience, and are n
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="12.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="42e4-0311-e8ab-9abf" name="Toxic Lanzagranadas" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="42e4-0311-e8ab-9abf" name="Tóxica Lanzagranadas" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="cec2-2df2-9bc9-95e1" name="Toxic Lanzagranadas" hidden="false" targetId="f163-754b-8a24-01e2" type="profile">
+        <infoLink id="cec2-2df2-9bc9-95e1" name="Tóxica Lanzagranadas" hidden="false" targetId="f163-754b-8a24-01e2" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="692c-5128-9dfa-e8aa" name="Indirect (Toxic)" hidden="false" targetId="da55-1738-62e3-d5c7" type="rule">
+        <infoLink id="692c-5128-9dfa-e8aa" name="Indirecto (Tóxica)" hidden="false" targetId="da55-1738-62e3-d5c7" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1847,7 +1847,7 @@ Vermin Swarm&apos;s are not part of the Army List, gain no experience, and are n
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="12.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="ee5c-10db-201a-ca97" name="Twin Chem Spitter" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="ee5c-10db-201a-ca97" name="Twin Rociador Químico" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
@@ -1863,7 +1863,7 @@ Vermin Swarm&apos;s are not part of the Army List, gain no experience, and are n
             </modifier>
           </modifiers>
         </infoLink>
-        <infoLink id="a90f-7dcb-d887-6c8b" name="Twin Chem Spitter" hidden="false" targetId="ef2e-8b7c-624d-6f19" type="profile">
+        <infoLink id="a90f-7dcb-d887-6c8b" name="Twin Rociador Químico" hidden="false" targetId="ef2e-8b7c-624d-6f19" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -2037,19 +2037,19 @@ Vermin Swarm&apos;s are not part of the Army List, gain no experience, and are n
     </selectionEntryGroup>
   </sharedSelectionEntryGroups>
   <sharedRules>
-    <rule id="49be-8001-228f-f35d" name="Indirect (Smoke)" hidden="false">
+    <rule id="49be-8001-228f-f35d" name="Indirecto (Humo)" hidden="false">
       <profiles/>
       <rules/>
       <infoLinks/>
       <modifiers/>
-      <description>This weapon follows the normal rules for Indirect weapons (page 30 of the Deadzone 2.0 Rulebook) except that instead of a variable dice 4+ test (X) attack the effect is identical to a Granada de Humo going off in the model’s cube.  The smoke-filled cube blocks all LOS, including to and from models inside it. Note, however, that it does not block LOS to the cube itself. Any Disparo attacks that trace a LOS through a cube that is adjacent to a smoke-filled cube suffer a -1 dice modifier (regardless of how many such cubes they cross). At the end of each Round roll one dice per smoke-filled cube. On a 1-4 the smoke in that cube remains in place. On a 5-8 the smoke dissipates and is removed.</description>
+      <description>This weapon follows the normal rules for Indirecto weapons (page 30 of the Deadzone 2.0 Rulebook) except that instead of a variable dice 4+ test (X) attack the effect is identical to a Granada de Humo going off in the model’s cube.  The smoke-filled cube blocks all LOS, including to y from models inside it. Note, however, that it does not block LOS to the cube itself. Any Disparo attacks that trace a LOS through a cube that is adjacent to a smoke-filled cube suffer a -1 dice modifier (regardless of how many such cubes they cross). At the end of each Round roll one dice per smoke-filled cube. On a 1-4 the smoke in that cube remains in place. On a 5-8 the smoke dissipates y is removed.</description>
     </rule>
-    <rule id="da55-1738-62e3-d5c7" name="Indirect (Toxic)" hidden="false">
+    <rule id="da55-1738-62e3-d5c7" name="Indirecto (Tóxica)" hidden="false">
       <profiles/>
       <rules/>
       <infoLinks/>
       <modifiers/>
-      <description>This weapon follows the normal rules for Indirect weapons (page 30 of the Deadzone 2.0 Rulebook) except that instead of a variable dice 4+ test (X) attack the effect is identical to a Granada de Humo going off in the model’s cube with the added bonus of the smoke being Toxic. As long as a model remains in the smoke-filled cube it is treated as having the Vulnerable ability. Models that are immune to Toxic are immune to the Toxic effects of a Toxic Smokescreen. Models that are already Vulnerable suffer no additional effects. Adjacent cubes are not affected by this Toxic effect.
+      <description>This weapon follows the normal rules for Indirecto weapons (page 30 of the Deadzone 2.0 Rulebook) except that instead of a variable dice 4+ test (X) attack the effect is identical to a Granada de Humo going off in the model’s cube with the added bonus of the smoke being Tóxica. As long as a model remains in the smoke-filled cube it is treated as having the Vulnerable ability. Models that are immune to Tóxica are immune to the Tóxica effects of a Tóxica Smokescreen. Models that are already Vulnerable suffer no additional effects. Adjacent cubes are not affected by this Tóxica effect.
 It disperses in the same way as a Granada de Humo.</description>
     </rule>
   </sharedRules>
@@ -2066,7 +2066,7 @@ It disperses in the same way as a Granada de Humo.</description>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Melé), Pesada (Melé)"/>
       </characteristics>
     </profile>
-    <profile id="70f7-e2f4-4411-7de4" name="Chem Spitter" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
+    <profile id="70f7-e2f4-4411-7de4" name="Escupidor Químico" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -2078,7 +2078,7 @@ It disperses in the same way as a Granada de Humo.</description>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Automática)"/>
       </characteristics>
     </profile>
-    <profile id="7010-eb5b-30fb-3e90" name="Chem Staff" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
+    <profile id="7010-eb5b-30fb-3e90" name="Bastón Químico" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -2090,7 +2090,7 @@ It disperses in the same way as a Granada de Humo.</description>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Líder"/>
       </characteristics>
     </profile>
-    <profile id="d5ec-5b37-57ef-807a" name="Chem Thrower" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
+    <profile id="d5ec-5b37-57ef-807a" name="Rociador Químico" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -2102,7 +2102,7 @@ It disperses in the same way as a Granada de Humo.</description>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Asalto)"/>
       </characteristics>
     </profile>
-    <profile id="98eb-8680-4243-41e9" name="Chemical Lanzagranadas" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
+    <profile id="98eb-8680-4243-41e9" name="Lanzagranadas Químico" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -2110,11 +2110,11 @@ It disperses in the same way as a Granada de Humo.</description>
       <characteristics>
         <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A5"/>
         <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
-        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Indirect (4)"/>
+        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Indirecto (4)"/>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Explosiva)"/>
       </characteristics>
     </profile>
-    <profile id="06e1-bccc-8f82-4be6" name="Det Pack (Mag Lock)" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
+    <profile id="06e1-bccc-8f82-4be6" name="Equipo de Detonación (Fijador Magnético)" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -2126,7 +2126,7 @@ It disperses in the same way as a Granada de Humo.</description>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Explosiva)"/>
       </characteristics>
     </profile>
-    <profile id="ff00-8026-2b8e-565b" name="Det Pack (Prox Fuse)" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
+    <profile id="ff00-8026-2b8e-565b" name="Equipo de Detonación (Detonador de Proximidad)" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -2134,11 +2134,11 @@ It disperses in the same way as a Granada de Humo.</description>
       <characteristics>
         <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A2"/>
         <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
-        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Blast"/>
+        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Onda Expansiva"/>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Explosiva)"/>
       </characteristics>
     </profile>
-    <profile id="d610-767d-67ad-718a" name="Pesada Chem Spitter" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
+    <profile id="d610-767d-67ad-718a" name="Escupidor Químico Pesado" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -2150,7 +2150,7 @@ It disperses in the same way as a Granada de Humo.</description>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Bestia [Animal] (Ranged)"/>
       </characteristics>
     </profile>
-    <profile id="6f51-25f7-5f7c-38a3" name="Pesada Chem Thrower" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
+    <profile id="6f51-25f7-5f7c-38a3" name="Pesada Rociador Químico" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -2174,7 +2174,7 @@ It disperses in the same way as a Granada de Humo.</description>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Pesada (Melé)"/>
       </characteristics>
     </profile>
-    <profile id="5061-54cd-37f0-d82b" name="Ray Gun" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
+    <profile id="5061-54cd-37f0-d82b" name="Fusil de Rayos" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -2186,7 +2186,7 @@ It disperses in the same way as a Granada de Humo.</description>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Pequeño Calibre"/>
       </characteristics>
     </profile>
-    <profile id="b4a9-b545-a8d1-83bc" name="Ray Pistola" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
+    <profile id="b4a9-b545-a8d1-83bc" name="Pistola de Rayos" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -2198,7 +2198,7 @@ It disperses in the same way as a Granada de Humo.</description>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Pequeño Calibre"/>
       </characteristics>
     </profile>
-    <profile id="d243-f886-2261-eb5e" name="Scythes" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
+    <profile id="d243-f886-2261-eb5e" name="Guadañas" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -2218,11 +2218,11 @@ It disperses in the same way as a Granada de Humo.</description>
       <characteristics>
         <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A5"/>
         <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
-        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Indirect (Smoke)"/>
+        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Indirecto (Humo)"/>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Líder, Ligera (Explosiva)"/>
       </characteristics>
     </profile>
-    <profile id="b3ec-acf6-b583-dce4" name="Spitter Rifle" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
+    <profile id="b3ec-acf6-b583-dce4" name="Rifle Escupidor" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -2234,7 +2234,7 @@ It disperses in the same way as a Granada de Humo.</description>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Líder, Ligera (Francotirador)"/>
       </characteristics>
     </profile>
-    <profile id="f30b-e4d7-03f3-6d82" name="Super Pesada Chem Spitter" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
+    <profile id="f30b-e4d7-03f3-6d82" name="Super Escupidor Químico Pesado" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -2242,11 +2242,11 @@ It disperses in the same way as a Granada de Humo.</description>
       <characteristics>
         <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A8"/>
         <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="PA2"/>
-        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Cadencia de Fuego (1), Suppression, Pesada"/>
+        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Cadencia de Fuego (1), Supresión, Pesada"/>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Vehículo (Automática)"/>
       </characteristics>
     </profile>
-    <profile id="1393-230e-e421-018f" name="Super Pesada Chem Thrower" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
+    <profile id="1393-230e-e421-018f" name="Super Pesada Rociador Químico" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -2258,7 +2258,7 @@ It disperses in the same way as a Granada de Humo.</description>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Vehículo (Asalto)"/>
       </characteristics>
     </profile>
-    <profile id="f163-754b-8a24-01e2" name="Toxic Lanzagranadas" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
+    <profile id="f163-754b-8a24-01e2" name="Tóxica Lanzagranadas" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -2266,11 +2266,11 @@ It disperses in the same way as a Granada de Humo.</description>
       <characteristics>
         <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A5"/>
         <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
-        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Indirect (Toxic)"/>
+        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Indirecto (Tóxica)"/>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Líder, Ligera (Explosiva)"/>
       </characteristics>
     </profile>
-    <profile id="ef2e-8b7c-624d-6f19" name="Twin Chem Spitter" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
+    <profile id="ef2e-8b7c-624d-6f19" name="Twin Rociador Químico" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>

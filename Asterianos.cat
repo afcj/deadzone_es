@@ -299,7 +299,7 @@
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="b829-c451-05b5-a99b" name="Toxic Smokescreen" hidden="false" targetId="95ec-04ae-0dd4-4f28" type="rule">
+        <infoLink id="b829-c451-05b5-a99b" name="Tóxica Smokescreen" hidden="false" targetId="95ec-04ae-0dd4-4f28" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -949,7 +949,7 @@
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="fc11-9dcf-dafd-a2aa" name="Toxic Smokescreen" hidden="false" targetId="95ec-04ae-0dd4-4f28" type="rule">
+        <infoLink id="fc11-9dcf-dafd-a2aa" name="Tóxica Smokescreen" hidden="false" targetId="95ec-04ae-0dd4-4f28" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -3005,7 +3005,7 @@
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="6fb3-376c-2b6f-c7ea" name="Toxic Smokescreen" hidden="false" targetId="95ec-04ae-0dd4-4f28" type="rule">
+        <infoLink id="6fb3-376c-2b6f-c7ea" name="Tóxica Smokescreen" hidden="false" targetId="95ec-04ae-0dd4-4f28" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -3757,7 +3757,7 @@
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="eeb2-4396-6697-500d" name="Toxic Smokescreen" hidden="false" targetId="95ec-04ae-0dd4-4f28" type="rule">
+        <infoLink id="eeb2-4396-6697-500d" name="Tóxica Smokescreen" hidden="false" targetId="95ec-04ae-0dd4-4f28" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -4406,12 +4406,12 @@ No puedes usar esta habilidad dos veces sobre una misma miniatura en una misma a
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="f3ec-826e-99d0-f6b4" name="Indirect (n)" hidden="false" targetId="8fe0-f858-5940-b816" type="rule">
+        <infoLink id="f3ec-826e-99d0-f6b4" name="Indirecto (n)" hidden="false" targetId="8fe0-f858-5940-b816" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers>
-            <modifier type="set" field="name" value="Indirect (3)">
+            <modifier type="set" field="name" value="Indirecto (3)">
               <repeats/>
               <conditions/>
               <conditionGroups/>
@@ -4502,7 +4502,7 @@ No puedes usar esta habilidad dos veces sobre una misma miniatura en una misma a
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="375a-28a1-9f82-5aba" name="Blast" hidden="false" targetId="bae6-aa38-21d6-7869" type="rule">
+        <infoLink id="375a-28a1-9f82-5aba" name="Onda Expansiva" hidden="false" targetId="bae6-aa38-21d6-7869" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -4692,12 +4692,12 @@ No puedes usar esta habilidad dos veces sobre una misma miniatura en una misma a
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="88a1-c861-9bdf-773c" name="Indirect (n)" hidden="false" targetId="8fe0-f858-5940-b816" type="rule">
+        <infoLink id="88a1-c861-9bdf-773c" name="Indirecto (n)" hidden="false" targetId="8fe0-f858-5940-b816" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers>
-            <modifier type="set" field="name" value="Indirect (4)">
+            <modifier type="set" field="name" value="Indirecto (4)">
               <repeats/>
               <conditions/>
               <conditionGroups/>
@@ -5167,7 +5167,7 @@ No puedes usar esta habilidad dos veces sobre una misma miniatura en una misma a
       <rules/>
       <infoLinks/>
       <modifiers/>
-      <description>A model with this ability grants a free extar activation Command Dice per round. You may not reroll this Command Dice and if the model granting Communications Relay is killed you lose the extar activtion from all subsequent rounds.</description>
+      <description>A model with this ability grants a free extar activation Command Dice per round. You may not reroll this Command Dice y if the model granting Communications Relay is killed you lose the extar activtion from all subsequent rounds.</description>
     </rule>
   </sharedRules>
   <sharedProfiles>
@@ -5251,7 +5251,7 @@ No puedes usar esta habilidad dos veces sobre una misma miniatura en una misma a
       <characteristics>
         <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A5"/>
         <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
-        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Indirect (3)"/>
+        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Indirecto (3)"/>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Explosiva)"/>
       </characteristics>
     </profile>
@@ -5287,7 +5287,7 @@ No puedes usar esta habilidad dos veces sobre una misma miniatura en una misma a
       <characteristics>
         <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A5"/>
         <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
-        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Blast"/>
+        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Onda Expansiva"/>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Explosiva)"/>
       </characteristics>
     </profile>
@@ -5371,7 +5371,7 @@ No puedes usar esta habilidad dos veces sobre una misma miniatura en una misma a
       <characteristics>
         <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A8"/>
         <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
-        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Indirect (4)"/>
+        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Indirecto (4)"/>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Plataforma (Artillería)"/>
       </characteristics>
     </profile>

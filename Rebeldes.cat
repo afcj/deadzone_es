@@ -75,7 +75,7 @@
           <selectionEntries/>
           <selectionEntryGroups/>
           <entryLinks>
-            <entryLink id="ca89-9c54-2957-d922" name="Long Rifle" hidden="false" targetId="f4d0-d51d-c3b4-7add" type="selectionEntry">
+            <entryLink id="ca89-9c54-2957-d922" name="Rifle Largo" hidden="false" targetId="f4d0-d51d-c3b4-7add" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -105,7 +105,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="3239-a1cd-cdb0-1048" name="Blaster" hidden="false" targetId="6c51-de7b-e235-2e35" type="selectionEntry">
+            <entryLink id="3239-a1cd-cdb0-1048" name="Bláster" hidden="false" targetId="6c51-de7b-e235-2e35" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -113,7 +113,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="29ad-aa61-0490-5d58" name="Wrist Blaster" hidden="false" targetId="9289-72d9-53c7-66ce" type="selectionEntry">
+            <entryLink id="29ad-aa61-0490-5d58" name="Bláster de Muñeca" hidden="false" targetId="9289-72d9-53c7-66ce" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -144,7 +144,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="7208-0437-639e-62dc" name="Combat Blades" hidden="false" targetId="db58-2ac0-329a-6f31" type="selectionEntry">
+            <entryLink id="7208-0437-639e-62dc" name="Espadas de Combate" hidden="false" targetId="db58-2ac0-329a-6f31" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -152,7 +152,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="2277-e7aa-0959-5ac9" name="Ceremonial Blades" hidden="false" targetId="54e2-09e5-1a6d-cc7f" type="selectionEntry">
+            <entryLink id="2277-e7aa-0959-5ac9" name="Cuchillas Ceremoniales" hidden="false" targetId="54e2-09e5-1a6d-cc7f" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -212,7 +212,7 @@
           <rules/>
           <infoLinks/>
           <modifiers/>
-          <description>Spend an Army Special result on a Command Dice at the end of a model activation. The active model slinks into hiding. For the rest of the Round, this model cannot be targeted by Disparo actions, and cannot have Line of Sight drawn to it. The model is still affected by abilities that target every model in the cube (such as Fragmentación, indirect, ¡Quema! or Blast) and can still be the target of Lucha actions.</description>
+          <description>Spend an Army Special result on a Command Dice at the end of a model activation. The active model slinks into hiding. For the rest of the Round, this model cannot be targeted by Disparo actions, y cannot have Line of Sight drawn to it. The model is still affected by abilities that target every model in the cube (such as Fragmentación, indirect, ¡Quema! or Onda Expansiva) y can still be the target of Lucha actions.</description>
         </rule>
       </rules>
       <infoLinks>
@@ -234,7 +234,7 @@
             </modifier>
           </modifiers>
         </infoLink>
-        <infoLink id="5527-cdc2-feff-833f" name="Scout" hidden="false" targetId="634d-5763-a726-b91f" type="rule">
+        <infoLink id="5527-cdc2-feff-833f" name="Explorador" hidden="false" targetId="634d-5763-a726-b91f" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -267,7 +267,7 @@
           <selectionEntries/>
           <selectionEntryGroups/>
           <entryLinks>
-            <entryLink id="5a9d-2721-f65a-2195" name="Long Rifle" hidden="false" targetId="f4d0-d51d-c3b4-7add" type="selectionEntry">
+            <entryLink id="5a9d-2721-f65a-2195" name="Rifle Largo" hidden="false" targetId="f4d0-d51d-c3b4-7add" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -297,7 +297,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="ac64-cc33-c3ad-7f2f" name="Blaster" hidden="false" targetId="6c51-de7b-e235-2e35" type="selectionEntry">
+            <entryLink id="ac64-cc33-c3ad-7f2f" name="Bláster" hidden="false" targetId="6c51-de7b-e235-2e35" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -305,7 +305,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="360b-2c5e-938a-462d" name="Wrist Blaster" hidden="false" targetId="9289-72d9-53c7-66ce" type="selectionEntry">
+            <entryLink id="360b-2c5e-938a-462d" name="Bláster de Muñeca" hidden="false" targetId="9289-72d9-53c7-66ce" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -336,7 +336,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="dfeb-b4e0-4156-9824" name="Combat Blades" hidden="false" targetId="db58-2ac0-329a-6f31" type="selectionEntry">
+            <entryLink id="dfeb-b4e0-4156-9824" name="Espadas de Combate" hidden="false" targetId="db58-2ac0-329a-6f31" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -344,7 +344,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="0592-2e16-2b88-b6fb" name="Ceremonial Blades" hidden="false" targetId="54e2-09e5-1a6d-cc7f" type="selectionEntry">
+            <entryLink id="0592-2e16-2b88-b6fb" name="Cuchillas Ceremoniales" hidden="false" targetId="54e2-09e5-1a6d-cc7f" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -433,7 +433,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="a5a6-634d-6a17-b471" name="Combat Blades" hidden="false" targetId="db58-2ac0-329a-6f31" type="selectionEntry">
+            <entryLink id="a5a6-634d-6a17-b471" name="Espadas de Combate" hidden="false" targetId="db58-2ac0-329a-6f31" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -441,7 +441,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="5635-e0a0-d696-9f06" name="Ceremonial Blades" hidden="false" targetId="54e2-09e5-1a6d-cc7f" type="selectionEntry">
+            <entryLink id="5635-e0a0-d696-9f06" name="Cuchillas Ceremoniales" hidden="false" targetId="54e2-09e5-1a6d-cc7f" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -464,7 +464,7 @@
           <selectionEntries/>
           <selectionEntryGroups/>
           <entryLinks>
-            <entryLink id="cb50-c7d4-74bc-20c1" name="Long Rifle" hidden="false" targetId="f4d0-d51d-c3b4-7add" type="selectionEntry">
+            <entryLink id="cb50-c7d4-74bc-20c1" name="Rifle Largo" hidden="false" targetId="f4d0-d51d-c3b4-7add" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -539,7 +539,7 @@
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="667f-5fc8-ba54-981b" name="Scout" hidden="false" targetId="634d-5763-a726-b91f" type="rule">
+        <infoLink id="667f-5fc8-ba54-981b" name="Explorador" hidden="false" targetId="634d-5763-a726-b91f" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -580,7 +580,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="02d1-354e-cc28-903a" name="Combat Blades" hidden="false" targetId="db58-2ac0-329a-6f31" type="selectionEntry">
+            <entryLink id="02d1-354e-cc28-903a" name="Espadas de Combate" hidden="false" targetId="db58-2ac0-329a-6f31" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -588,7 +588,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="2af7-ec04-9f13-0140" name="Ceremonial Blades" hidden="false" targetId="54e2-09e5-1a6d-cc7f" type="selectionEntry">
+            <entryLink id="2af7-ec04-9f13-0140" name="Cuchillas Ceremoniales" hidden="false" targetId="54e2-09e5-1a6d-cc7f" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -611,7 +611,7 @@
           <selectionEntries/>
           <selectionEntryGroups/>
           <entryLinks>
-            <entryLink id="0430-60d4-eff8-a4a8" name="Long Rifle" hidden="false" targetId="f4d0-d51d-c3b4-7add" type="selectionEntry">
+            <entryLink id="0430-60d4-eff8-a4a8" name="Rifle Largo" hidden="false" targetId="f4d0-d51d-c3b4-7add" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -714,7 +714,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="bb83-f998-5885-74d0" name="Combat Blades" hidden="false" targetId="db58-2ac0-329a-6f31" type="selectionEntry">
+            <entryLink id="bb83-f998-5885-74d0" name="Espadas de Combate" hidden="false" targetId="db58-2ac0-329a-6f31" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -722,7 +722,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="cd24-f52c-4ffc-1437" name="Ceremonial Blades" hidden="false" targetId="54e2-09e5-1a6d-cc7f" type="selectionEntry">
+            <entryLink id="cd24-f52c-4ffc-1437" name="Cuchillas Ceremoniales" hidden="false" targetId="54e2-09e5-1a6d-cc7f" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -745,7 +745,7 @@
           <selectionEntries/>
           <selectionEntryGroups/>
           <entryLinks>
-            <entryLink id="eda7-fe98-0255-03ba" name="Long Rifle" hidden="false" targetId="f4d0-d51d-c3b4-7add" type="selectionEntry">
+            <entryLink id="eda7-fe98-0255-03ba" name="Rifle Largo" hidden="false" targetId="f4d0-d51d-c3b4-7add" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -761,7 +761,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="17b4-3b4b-6197-476e" name="Blaster" hidden="false" targetId="6c51-de7b-e235-2e35" type="selectionEntry">
+            <entryLink id="17b4-3b4b-6197-476e" name="Bláster" hidden="false" targetId="6c51-de7b-e235-2e35" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -780,7 +780,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="80fd-2c1d-4c1f-194f" name="Wrist Blaster" hidden="false" targetId="9289-72d9-53c7-66ce" type="selectionEntry">
+            <entryLink id="80fd-2c1d-4c1f-194f" name="Bláster de Muñeca" hidden="false" targetId="9289-72d9-53c7-66ce" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -816,9 +816,9 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="10.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="9cd9-47f5-d97f-7804" name="Rebel Especialista" book="Reglamento Deadzone 2ª Edición" page="86" hidden="false" collective="false" type="unit">
+    <selectionEntry id="9cd9-47f5-d97f-7804" name="Especialista Rebelde" book="Reglamento Deadzone 2ª Edición" page="86" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="f3a5-0943-86ca-e194" name="Rebel Especialista" book="Reglamento Deadzone 2ª Edición" page="86" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
+        <profile id="f3a5-0943-86ca-e194" name="Especialista Rebelde" book="Reglamento Deadzone 2ª Edición" page="86" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -861,7 +861,7 @@
           <selectionEntries/>
           <selectionEntryGroups/>
           <entryLinks>
-            <entryLink id="0a95-dc5b-e2ca-ccbd" name="Long Rifle" hidden="false" targetId="f4d0-d51d-c3b4-7add" type="selectionEntry">
+            <entryLink id="0a95-dc5b-e2ca-ccbd" name="Rifle Largo" hidden="false" targetId="f4d0-d51d-c3b4-7add" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -883,7 +883,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="b57f-3a29-0551-ffe5" name="Blaster" hidden="false" targetId="6c51-de7b-e235-2e35" type="selectionEntry">
+            <entryLink id="b57f-3a29-0551-ffe5" name="Bláster" hidden="false" targetId="6c51-de7b-e235-2e35" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -891,7 +891,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="e52b-fab9-f59a-a128" name="Hand Flameador" hidden="false" targetId="aeac-4622-eb9c-a034" type="selectionEntry">
+            <entryLink id="e52b-fab9-f59a-a128" name="Flameador de Mano" hidden="false" targetId="aeac-4622-eb9c-a034" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -899,7 +899,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="9099-1fb4-0e60-bac2" name="Wrist Blaster" hidden="false" targetId="9289-72d9-53c7-66ce" type="selectionEntry">
+            <entryLink id="9099-1fb4-0e60-bac2" name="Bláster de Muñeca" hidden="false" targetId="9289-72d9-53c7-66ce" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -915,7 +915,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="536b-92cb-8388-8ab0" name="Flame Thrower" hidden="false" targetId="693b-db39-48f2-4661" type="selectionEntry">
+            <entryLink id="536b-92cb-8388-8ab0" name="Lanzallamas" hidden="false" targetId="693b-db39-48f2-4661" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -931,7 +931,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="a4c4-a1fb-f85d-089a" name="Harpoon Gun" hidden="false" targetId="590a-f91d-9e5a-ad5c" type="selectionEntry">
+            <entryLink id="a4c4-a1fb-f85d-089a" name="Lanzarpones" hidden="false" targetId="590a-f91d-9e5a-ad5c" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1003,7 +1003,7 @@
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="2bce-b100-7c79-f49b" name="Scout" hidden="false" targetId="634d-5763-a726-b91f" type="rule">
+        <infoLink id="2bce-b100-7c79-f49b" name="Explorador" hidden="false" targetId="634d-5763-a726-b91f" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1036,7 +1036,7 @@
           <selectionEntries/>
           <selectionEntryGroups/>
           <entryLinks>
-            <entryLink id="42b8-9373-af35-9c91" name="Long Rifle" hidden="false" targetId="f4d0-d51d-c3b4-7add" type="selectionEntry">
+            <entryLink id="42b8-9373-af35-9c91" name="Rifle Largo" hidden="false" targetId="f4d0-d51d-c3b4-7add" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1052,7 +1052,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="19aa-9019-b946-6c17" name="Wrist Blaster" hidden="false" targetId="9289-72d9-53c7-66ce" type="selectionEntry">
+            <entryLink id="19aa-9019-b946-6c17" name="Bláster de Muñeca" hidden="false" targetId="9289-72d9-53c7-66ce" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1071,7 +1071,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="c6a0-8478-fbcd-2b61" name="Harpoon Gun" hidden="false" targetId="590a-f91d-9e5a-ad5c" type="selectionEntry">
+            <entryLink id="c6a0-8478-fbcd-2b61" name="Lanzarpones" hidden="false" targetId="590a-f91d-9e5a-ad5c" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1079,7 +1079,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="85d9-804e-25f6-3eeb" name="Ligera Flameador" hidden="false" targetId="0dc4-f1c2-9e55-4ec6" type="selectionEntry">
+            <entryLink id="85d9-804e-25f6-3eeb" name="Flameador Ligero" hidden="false" targetId="0dc4-f1c2-9e55-4ec6" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1087,7 +1087,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="cb25-37f5-c09b-1ba6" name="Flame Thrower" hidden="false" targetId="693b-db39-48f2-4661" type="selectionEntry">
+            <entryLink id="cb25-37f5-c09b-1ba6" name="Lanzallamas" hidden="false" targetId="693b-db39-48f2-4661" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1118,7 +1118,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="0b7c-de74-26a6-d246" name="Combat Blades" hidden="false" targetId="db58-2ac0-329a-6f31" type="selectionEntry">
+            <entryLink id="0b7c-de74-26a6-d246" name="Espadas de Combate" hidden="false" targetId="db58-2ac0-329a-6f31" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1126,7 +1126,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="b951-3c80-5e21-c4f1" name="Ceremonial Blades" hidden="false" targetId="54e2-09e5-1a6d-cc7f" type="selectionEntry">
+            <entryLink id="b951-3c80-5e21-c4f1" name="Cuchillas Ceremoniales" hidden="false" targetId="54e2-09e5-1a6d-cc7f" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1214,7 +1214,7 @@
           <selectionEntries/>
           <selectionEntryGroups/>
           <entryLinks>
-            <entryLink id="01ec-bbc8-e29b-e258" name="Long Rifle" hidden="false" targetId="f4d0-d51d-c3b4-7add" type="selectionEntry">
+            <entryLink id="01ec-bbc8-e29b-e258" name="Rifle Largo" hidden="false" targetId="f4d0-d51d-c3b4-7add" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1273,9 +1273,9 @@
         <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="a124-effa-3f84-3a77" name="Survey Dron" book="Reglamento Deadzone 2ª Edición" page="87" hidden="false" collective="false" type="unit">
+    <selectionEntry id="a124-effa-3f84-3a77" name="Dron de Reconocimiento" book="Reglamento Deadzone 2ª Edición" page="87" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="7786-392d-e2e0-96cc" name="Survey Dron" book="Reglamento Deadzone 2ª Edición" page="87" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
+        <profile id="7786-392d-e2e0-96cc" name="Dron de Reconocimiento" book="Reglamento Deadzone 2ª Edición" page="87" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1330,9 +1330,9 @@
         <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="594a-34f7-5e45-5b6e" name="Judwan Médico" book="Reglamento Deadzone 2ª Edición + Erratas v2.1" page="87" hidden="false" collective="false" type="unit">
+    <selectionEntry id="594a-34f7-5e45-5b6e" name="Médico Judwan" book="Reglamento Deadzone 2ª Edición + Erratas v2.1" page="87" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="62eb-3cad-0e7d-2d02" name="Judwan Médico" book="Reglamento Deadzone 2ª Edición" page="87" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
+        <profile id="62eb-3cad-0e7d-2d02" name="Médico Judwan" book="Reglamento Deadzone 2ª Edición" page="87" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1407,9 +1407,9 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="10.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="becd-3061-98c6-a758" name="Rebel Grogan" book="Reglamento Deadzone 2ª Edición + Erratas v2.1" page="87" hidden="false" collective="false" type="unit">
+    <selectionEntry id="becd-3061-98c6-a758" name="Grogan Rebelde" book="Reglamento Deadzone 2ª Edición + Erratas v2.1" page="87" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="271c-7462-7e5b-564c" name="Rebel Grogan" book="Reglamento Deadzone 2ª Edición" page="87" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
+        <profile id="271c-7462-7e5b-564c" name="Grogan Rebelde" book="Reglamento Deadzone 2ª Edición" page="87" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1465,7 +1465,7 @@
           <selectionEntries/>
           <selectionEntryGroups/>
           <entryLinks>
-            <entryLink id="8274-973e-edb6-4386" name="Long Rifle" hidden="false" targetId="f4d0-d51d-c3b4-7add" type="selectionEntry">
+            <entryLink id="8274-973e-edb6-4386" name="Rifle Largo" hidden="false" targetId="f4d0-d51d-c3b4-7add" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1487,7 +1487,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="c8d5-3bbc-bd8a-b7a3" name="Onslaught Cannon" hidden="false" targetId="0cb8-22c9-7b96-e654" type="selectionEntry">
+            <entryLink id="c8d5-3bbc-bd8a-b7a3" name="Cañón Embestida" hidden="false" targetId="0cb8-22c9-7b96-e654" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1542,9 +1542,9 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="13.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="f7f0-ebfe-a431-c2bb" name="Rebel Teraton" book="Reglamento Deadzone 2ª Edición + Erratas v2.1" page="88" hidden="false" collective="false" type="unit">
+    <selectionEntry id="f7f0-ebfe-a431-c2bb" name="Teratón Rebelde" book="Reglamento Deadzone 2ª Edición + Erratas v2.1" page="88" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="a9f8-496b-7734-c531" name="Rebel Teraton" book="Reglamento Deadzone 2ª Edición" page="88" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
+        <profile id="a9f8-496b-7734-c531" name="Teratón Rebelde" book="Reglamento Deadzone 2ª Edición" page="88" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1600,7 +1600,7 @@
           <selectionEntries/>
           <selectionEntryGroups/>
           <entryLinks>
-            <entryLink id="488b-d0b1-e32b-2871" name="Long Rifle" hidden="false" targetId="f4d0-d51d-c3b4-7add" type="selectionEntry">
+            <entryLink id="488b-d0b1-e32b-2871" name="Rifle Largo" hidden="false" targetId="f4d0-d51d-c3b4-7add" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1616,7 +1616,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="9a21-cecf-d1b5-2bc3" name="Hand Flameador" hidden="false" targetId="aeac-4622-eb9c-a034" type="selectionEntry">
+            <entryLink id="9a21-cecf-d1b5-2bc3" name="Flameador de Mano" hidden="false" targetId="aeac-4622-eb9c-a034" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1624,7 +1624,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="b683-7e4b-141b-c65c" name="Ligera Lanzagranadas" hidden="false" targetId="9609-4f43-8533-15be" type="selectionEntry">
+            <entryLink id="b683-7e4b-141b-c65c" name="Lanzagranadas Ligero" hidden="false" targetId="9609-4f43-8533-15be" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1643,7 +1643,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="22f5-756b-9f3f-30a0" name="Flame Thrower" hidden="false" targetId="693b-db39-48f2-4661" type="selectionEntry">
+            <entryLink id="22f5-756b-9f3f-30a0" name="Lanzallamas" hidden="false" targetId="693b-db39-48f2-4661" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1651,7 +1651,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="d488-1f8e-6f1c-18a1" name="Harpoon Gun" hidden="false" targetId="590a-f91d-9e5a-ad5c" type="selectionEntry">
+            <entryLink id="d488-1f8e-6f1c-18a1" name="Lanzarpones" hidden="false" targetId="590a-f91d-9e5a-ad5c" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1674,7 +1674,7 @@
           <selectionEntries/>
           <selectionEntryGroups/>
           <entryLinks>
-            <entryLink id="dc25-fd41-51b4-5497" name="Combat Blades" hidden="false" targetId="db58-2ac0-329a-6f31" type="selectionEntry">
+            <entryLink id="dc25-fd41-51b4-5497" name="Espadas de Combate" hidden="false" targetId="db58-2ac0-329a-6f31" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1682,7 +1682,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="f423-a134-bd94-019a" name="Ceremonial Blades" hidden="false" targetId="54e2-09e5-1a6d-cc7f" type="selectionEntry">
+            <entryLink id="f423-a134-bd94-019a" name="Cuchillas Ceremoniales" hidden="false" targetId="54e2-09e5-1a6d-cc7f" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1716,7 +1716,7 @@
           <selectionEntries/>
           <selectionEntryGroups/>
           <entryLinks>
-            <entryLink id="fbff-eec4-cdc7-24f0" name="Long Rifle" hidden="false" targetId="f4d0-d51d-c3b4-7add" type="selectionEntry">
+            <entryLink id="fbff-eec4-cdc7-24f0" name="Rifle Largo" hidden="false" targetId="f4d0-d51d-c3b4-7add" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1732,7 +1732,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="1727-dca3-815e-0ef9" name="Hand Flameador" hidden="false" targetId="aeac-4622-eb9c-a034" type="selectionEntry">
+            <entryLink id="1727-dca3-815e-0ef9" name="Flameador de Mano" hidden="false" targetId="aeac-4622-eb9c-a034" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1751,7 +1751,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="7063-a6af-776b-c2b7" name="Flame Thrower" hidden="false" targetId="693b-db39-48f2-4661" type="selectionEntry">
+            <entryLink id="7063-a6af-776b-c2b7" name="Lanzallamas" hidden="false" targetId="693b-db39-48f2-4661" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1759,7 +1759,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="61d6-a0b8-c429-bfba" name="Harpoon Gun" hidden="false" targetId="590a-f91d-9e5a-ad5c" type="selectionEntry">
+            <entryLink id="61d6-a0b8-c429-bfba" name="Lanzarpones" hidden="false" targetId="590a-f91d-9e5a-ad5c" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1785,9 +1785,9 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="30.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="717d-b080-5e67-2818" name="Sphyr Lancer" book="Reglamento Deadzone 2ª Edición" page="88" hidden="false" collective="false" type="unit">
+    <selectionEntry id="717d-b080-5e67-2818" name="Lancero Sphyr" book="Reglamento Deadzone 2ª Edición" page="88" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="2f23-0767-be7e-5ea5" name="Sphyr Lancer" book="Reglamento Deadzone 2ª Edición" page="88" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
+        <profile id="2f23-0767-be7e-5ea5" name="Lancero Sphyr" book="Reglamento Deadzone 2ª Edición" page="88" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1828,9 +1828,9 @@
           </constraints>
           <categoryLinks/>
           <selectionEntries>
-            <selectionEntry id="73e9-fc77-8e03-14bb" name="Mata Magma Lance" hidden="false" collective="false" type="upgrade">
+            <selectionEntry id="73e9-fc77-8e03-14bb" name="Lanza Mata Magma" hidden="false" collective="false" type="upgrade">
               <profiles>
-                <profile id="9e24-b8d1-1012-4171" name="Mata Magma Lance" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
+                <profile id="9e24-b8d1-1012-4171" name="Lanza Mata Magma" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
                   <profiles/>
                   <rules/>
                   <infoLinks/>
@@ -1859,7 +1859,7 @@
           </selectionEntries>
           <selectionEntryGroups/>
           <entryLinks>
-            <entryLink id="5a94-f2c3-6422-61c9" name="Long Rifle" hidden="false" targetId="f4d0-d51d-c3b4-7add" type="selectionEntry">
+            <entryLink id="5a94-f2c3-6422-61c9" name="Rifle Largo" hidden="false" targetId="f4d0-d51d-c3b4-7add" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1875,7 +1875,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="b304-35cd-5fc3-d1c9" name="Blaster" hidden="false" targetId="6c51-de7b-e235-2e35" type="selectionEntry">
+            <entryLink id="b304-35cd-5fc3-d1c9" name="Bláster" hidden="false" targetId="6c51-de7b-e235-2e35" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1883,7 +1883,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="eee7-ce46-0cfa-9ec4" name="Hand Flameador" hidden="false" targetId="aeac-4622-eb9c-a034" type="selectionEntry">
+            <entryLink id="eee7-ce46-0cfa-9ec4" name="Flameador de Mano" hidden="false" targetId="aeac-4622-eb9c-a034" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1891,7 +1891,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="088a-9396-72de-163b" name="Wrist Blaster" hidden="false" targetId="9289-72d9-53c7-66ce" type="selectionEntry">
+            <entryLink id="088a-9396-72de-163b" name="Bláster de Muñeca" hidden="false" targetId="9289-72d9-53c7-66ce" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1899,7 +1899,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="88c0-6e34-cec8-d195" name="Flame Thrower" hidden="false" targetId="693b-db39-48f2-4661" type="selectionEntry">
+            <entryLink id="88c0-6e34-cec8-d195" name="Lanzallamas" hidden="false" targetId="693b-db39-48f2-4661" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1907,7 +1907,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="31ab-e141-c6b7-69db" name="Harpoon Gun" hidden="false" targetId="590a-f91d-9e5a-ad5c" type="selectionEntry">
+            <entryLink id="31ab-e141-c6b7-69db" name="Lanzarpones" hidden="false" targetId="590a-f91d-9e5a-ad5c" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1954,9 +1954,9 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="18.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="8ed3-6484-f3d1-4bde" name="Rin Nomad" book="Reglamento Deadzone 2ª Edición" page="88" hidden="false" collective="false" type="unit">
+    <selectionEntry id="8ed3-6484-f3d1-4bde" name="Nómada Rin" book="Reglamento Deadzone 2ª Edición" page="88" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="da04-0c93-9e6b-4564" name="Rin Nomad" book="Reglamento Deadzone 2ª Edición" page="88" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
+        <profile id="da04-0c93-9e6b-4564" name="Nómada Rin" book="Reglamento Deadzone 2ª Edición" page="88" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1997,9 +1997,9 @@
           </constraints>
           <categoryLinks/>
           <selectionEntries>
-            <selectionEntry id="bedf-5c32-ccb0-dfd6" name="Twin Knives" hidden="false" collective="false" type="upgrade">
+            <selectionEntry id="bedf-5c32-ccb0-dfd6" name="Par de Cuchillos" hidden="false" collective="false" type="upgrade">
               <profiles>
-                <profile id="82da-9d06-4957-979f" name="Twin Knives" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
+                <profile id="82da-9d06-4957-979f" name="Par de Cuchillos" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
                   <profiles/>
                   <rules/>
                   <infoLinks/>
@@ -2041,7 +2041,7 @@
           </selectionEntries>
           <selectionEntryGroups/>
           <entryLinks>
-            <entryLink id="1a75-86fe-b9bb-0b20" name="Combat Blades" hidden="false" targetId="db58-2ac0-329a-6f31" type="selectionEntry">
+            <entryLink id="1a75-86fe-b9bb-0b20" name="Espadas de Combate" hidden="false" targetId="db58-2ac0-329a-6f31" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -2049,7 +2049,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="5e51-2b5c-1edd-94b1" name="Ceremonial Blades" hidden="false" targetId="54e2-09e5-1a6d-cc7f" type="selectionEntry">
+            <entryLink id="5e51-2b5c-1edd-94b1" name="Cuchillas Ceremoniales" hidden="false" targetId="54e2-09e5-1a6d-cc7f" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -2070,9 +2070,9 @@
           </constraints>
           <categoryLinks/>
           <selectionEntries>
-            <selectionEntry id="9801-3a7d-51ad-0f8c" name="Twin Pistols" hidden="false" collective="false" type="upgrade">
+            <selectionEntry id="9801-3a7d-51ad-0f8c" name="Par de Pistolas" hidden="false" collective="false" type="upgrade">
               <profiles>
-                <profile id="deb3-98b3-a1b6-1a6d" name="Twin Pistols" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
+                <profile id="deb3-98b3-a1b6-1a6d" name="Par de Pistolas" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
                   <profiles/>
                   <rules/>
                   <infoLinks/>
@@ -2114,7 +2114,7 @@
           </selectionEntries>
           <selectionEntryGroups/>
           <entryLinks>
-            <entryLink id="d99e-1ac3-d8ea-2495" name="Long Rifle" hidden="false" targetId="f4d0-d51d-c3b4-7add" type="selectionEntry">
+            <entryLink id="d99e-1ac3-d8ea-2495" name="Rifle Largo" hidden="false" targetId="f4d0-d51d-c3b4-7add" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -2138,7 +2138,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="0d24-7160-b623-5c21" name="Blaster" hidden="false" targetId="6c51-de7b-e235-2e35" type="selectionEntry">
+            <entryLink id="0d24-7160-b623-5c21" name="Bláster" hidden="false" targetId="6c51-de7b-e235-2e35" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -2146,7 +2146,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="d570-026b-9b99-50d0" name="Wrist Blaster" hidden="false" targetId="9289-72d9-53c7-66ce" type="selectionEntry">
+            <entryLink id="d570-026b-9b99-50d0" name="Bláster de Muñeca" hidden="false" targetId="9289-72d9-53c7-66ce" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -2182,9 +2182,9 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="17.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="1b60-838e-d18f-7a3f" name="Rebel Sniper" book="Reglamento Deadzone 2ª Edición" page="88" hidden="false" collective="false" type="unit">
+    <selectionEntry id="1b60-838e-d18f-7a3f" name="Francotirador Rebelde" book="Reglamento Deadzone 2ª Edición" page="88" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="ccbc-932f-c4c1-8e79" name="Rebel Sniper" book="Reglamento Deadzone 2ª Edición" page="88" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
+        <profile id="ccbc-932f-c4c1-8e79" name="Francotirador Rebelde" book="Reglamento Deadzone 2ª Edición" page="88" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -2227,7 +2227,7 @@
           <selectionEntries/>
           <selectionEntryGroups/>
           <entryLinks>
-            <entryLink id="dc59-dced-b24c-60ca" name="Long Rifle" hidden="false" targetId="f4d0-d51d-c3b4-7add" type="selectionEntry">
+            <entryLink id="dc59-dced-b24c-60ca" name="Rifle Largo" hidden="false" targetId="f4d0-d51d-c3b4-7add" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -2301,9 +2301,9 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="16.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="d3b8-4c34-b2a1-a841" name="Rebel Andador" book="Reglamento Deadzone 2ª Edición + Erratas v2.1" page="88" hidden="false" collective="false" type="unit">
+    <selectionEntry id="d3b8-4c34-b2a1-a841" name="Andador Rebelde" book="Reglamento Deadzone 2ª Edición + Erratas v2.1" page="88" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="137d-f1c4-67b3-66ba" name="Rebel Andador" book="Reglamento Deadzone 2ª Edición" page="88" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
+        <profile id="137d-f1c4-67b3-66ba" name="Andador Rebelde" book="Reglamento Deadzone 2ª Edición" page="88" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -2428,9 +2428,9 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="30.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="1d74-58f4-f61b-be04" name="Rebs Equipo de Armas" book=" Deadzone Erratas v2.1" hidden="false" collective="false" type="unit">
+    <selectionEntry id="1d74-58f4-f61b-be04" name="Equipo de Armas Rebelde" book=" Deadzone Erratas v2.1" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="42f9-e735-2b68-0661" name="Rebs Equipo de Armas" book="Deadzone Erratas v2.1" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
+        <profile id="42f9-e735-2b68-0661" name="Equipo de Armas Rebelde" book="Deadzone Erratas v2.1" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -2502,7 +2502,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="a04a-e0dd-1a27-47c6" name="Mortar" hidden="false" targetId="4b71-bc41-a3b7-f6b6" type="selectionEntry">
+            <entryLink id="a04a-e0dd-1a27-47c6" name="Mortero" hidden="false" targetId="4b71-bc41-a3b7-f6b6" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -2539,9 +2539,9 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="11.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="27a2-7a6d-ddc3-46fc" name="Sorak Rebelde Espadanato" book="Reglamento Deadzone 2ª Edición + Erratas v2.1" hidden="false" collective="false" type="unit">
+    <selectionEntry id="27a2-7a6d-ddc3-46fc" name="Sorak Espadanato Rebelde" book="Reglamento Deadzone 2ª Edición + Erratas v2.1" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="6082-b343-f1ca-204b" name="Sorak Rebelde Espadanato" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
+        <profile id="6082-b343-f1ca-204b" name="Sorak Espadanato Rebelde" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -2604,11 +2604,11 @@
           </constraints>
           <categoryLinks/>
           <selectionEntries>
-            <selectionEntry id="cc61-17c4-36b5-e1db" name="Combat Blades" book="Reglamento Deadzone 2ª Edición" hidden="false" collective="false" type="upgrade">
+            <selectionEntry id="cc61-17c4-36b5-e1db" name="Espadas de Combate" book="Reglamento Deadzone 2ª Edición" hidden="false" collective="false" type="upgrade">
               <profiles/>
               <rules/>
               <infoLinks>
-                <infoLink id="0bb5-a6dc-3530-fdfc" name="Combat Blades" hidden="false" targetId="cc12-82dd-49e0-96f8" type="profile">
+                <infoLink id="0bb5-a6dc-3530-fdfc" name="Espadas de Combate" hidden="false" targetId="cc12-82dd-49e0-96f8" type="profile">
                   <profiles/>
                   <rules/>
                   <infoLinks/>
@@ -2629,7 +2629,7 @@
           </selectionEntries>
           <selectionEntryGroups/>
           <entryLinks>
-            <entryLink id="0349-2f8d-3dd1-7e97" name="Ceremonial Blades" hidden="false" targetId="54e2-09e5-1a6d-cc7f" type="selectionEntry">
+            <entryLink id="0349-2f8d-3dd1-7e97" name="Cuchillas Ceremoniales" hidden="false" targetId="54e2-09e5-1a6d-cc7f" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -3430,9 +3430,9 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="fa37-2810-af27-94f2" name="Rebel Cell Líder" book="Deadzone: Outbreak" page="68" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="fa37-2810-af27-94f2" name="Líder de Célula Rebelde" book="Deadzone: Outbreak" page="68" hidden="false" collective="false" type="upgrade">
       <profiles>
-        <profile id="b543-efb8-92b9-c62d" name="Rebel Cell Líder" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Líder">
+        <profile id="b543-efb8-92b9-c62d" name="Líder de Célula Rebelde" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Líder">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -3541,7 +3541,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="fb3f-a736-2450-d407" name="Combat Blades" hidden="false" targetId="db58-2ac0-329a-6f31" type="selectionEntry">
+            <entryLink id="fb3f-a736-2450-d407" name="Espadas de Combate" hidden="false" targetId="db58-2ac0-329a-6f31" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -3549,7 +3549,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="cbfe-6e28-9db9-2a69" name="Ceremonial Blades" hidden="false" targetId="54e2-09e5-1a6d-cc7f" type="selectionEntry">
+            <entryLink id="cbfe-6e28-9db9-2a69" name="Cuchillas Ceremoniales" hidden="false" targetId="54e2-09e5-1a6d-cc7f" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -3572,7 +3572,7 @@
           <selectionEntries/>
           <selectionEntryGroups/>
           <entryLinks>
-            <entryLink id="6a68-a8c3-cc0c-76ea" name="Long Rifle" hidden="false" targetId="f4d0-d51d-c3b4-7add" type="selectionEntry">
+            <entryLink id="6a68-a8c3-cc0c-76ea" name="Rifle Largo" hidden="false" targetId="f4d0-d51d-c3b4-7add" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -3602,7 +3602,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="894b-853f-cd27-8de3" name="Blaster" hidden="false" targetId="6c51-de7b-e235-2e35" type="selectionEntry">
+            <entryLink id="894b-853f-cd27-8de3" name="Bláster" hidden="false" targetId="6c51-de7b-e235-2e35" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -3610,7 +3610,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="c107-b423-a5b1-6a80" name="Wrist Blaster" hidden="false" targetId="9289-72d9-53c7-66ce" type="selectionEntry">
+            <entryLink id="c107-b423-a5b1-6a80" name="Bláster de Muñeca" hidden="false" targetId="9289-72d9-53c7-66ce" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -3618,7 +3618,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="bfe5-0bd0-2c1c-8f4b" name="Harpoon Gun" hidden="false" targetId="590a-f91d-9e5a-ad5c" type="selectionEntry">
+            <entryLink id="bfe5-0bd0-2c1c-8f4b" name="Lanzarpones" hidden="false" targetId="590a-f91d-9e5a-ad5c" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -3626,7 +3626,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="9c6b-6c4c-82db-6c5f" name="Flame Thrower" hidden="false" targetId="693b-db39-48f2-4661" type="selectionEntry">
+            <entryLink id="9c6b-6c4c-82db-6c5f" name="Lanzallamas" hidden="false" targetId="693b-db39-48f2-4661" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -3634,7 +3634,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="af3b-1280-9f2a-cbc8" name="Ligera Flameador" hidden="false" targetId="0dc4-f1c2-9e55-4ec6" type="selectionEntry">
+            <entryLink id="af3b-1280-9f2a-cbc8" name="Flameador Ligero" hidden="false" targetId="0dc4-f1c2-9e55-4ec6" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -3650,7 +3650,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="09b5-5e83-dabf-de6b" name="Ligera Lanzagranadas" hidden="false" targetId="9609-4f43-8533-15be" type="selectionEntry">
+            <entryLink id="09b5-5e83-dabf-de6b" name="Lanzagranadas Ligero" hidden="false" targetId="9609-4f43-8533-15be" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -3671,7 +3671,7 @@
           </constraints>
           <categoryLinks/>
           <selectionEntries>
-            <selectionEntry id="f8a3-fb55-c075-564d" name="Human" hidden="false" collective="false" type="upgrade">
+            <selectionEntry id="f8a3-fb55-c075-564d" name="Humano" hidden="false" collective="false" type="upgrade">
               <profiles/>
               <rules/>
               <infoLinks>
@@ -3716,9 +3716,9 @@
               <constraints/>
               <categoryLinks/>
               <selectionEntries>
-                <selectionEntry id="5332-3dfd-f856-6229" name="Mata Magma Lance" book="Deadzone: Outbreak" page="68" hidden="false" collective="false" type="upgrade">
+                <selectionEntry id="5332-3dfd-f856-6229" name="Lanza Mata Magma" book="Deadzone: Outbreak" page="68" hidden="false" collective="false" type="upgrade">
                   <profiles>
-                    <profile id="3659-6e1b-a816-0377" name="Mata Magma Lance" book="Deadzone: Outbreak" page="68" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
+                    <profile id="3659-6e1b-a816-0377" name="Lanza Mata Magma" book="Deadzone: Outbreak" page="68" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
                       <profiles/>
                       <rules/>
                       <infoLinks/>
@@ -3759,7 +3759,7 @@
               <profiles/>
               <rules/>
               <infoLinks>
-                <infoLink id="6e32-510c-bec8-db4e" name="Scout" hidden="false" targetId="634d-5763-a726-b91f" type="rule">
+                <infoLink id="6e32-510c-bec8-db4e" name="Explorador" hidden="false" targetId="634d-5763-a726-b91f" type="rule">
                   <profiles/>
                   <rules/>
                   <infoLinks/>
@@ -3866,11 +3866,11 @@
         <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="f4d0-d51d-c3b4-7add" name="Long Rifle" book="Reglamento Deadzone 2ª Edición" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="f4d0-d51d-c3b4-7add" name="Rifle Largo" book="Reglamento Deadzone 2ª Edición" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="c99c-7300-3eee-7b89" name="Long Rifle" hidden="false" targetId="bbe2-b77a-f775-febf" type="profile">
+        <infoLink id="c99c-7300-3eee-7b89" name="Rifle Largo" hidden="false" targetId="bbe2-b77a-f775-febf" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -4006,7 +4006,7 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="10.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="0cb8-22c9-7b96-e654" name="Onslaught Cannon" book="Reglamento Deadzone 2ª Edición" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="0cb8-22c9-7b96-e654" name="Cañón Embestida" book="Reglamento Deadzone 2ª Edición" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
@@ -4022,13 +4022,13 @@
             </modifier>
           </modifiers>
         </infoLink>
-        <infoLink id="c891-68cc-fbdb-db69" name="Suppression" hidden="false" targetId="bcf7-8697-e7d8-43ac" type="rule">
+        <infoLink id="c891-68cc-fbdb-db69" name="Supresión" hidden="false" targetId="bcf7-8697-e7d8-43ac" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="3fec-352b-fcea-9188" name="Onslaught Cannon" hidden="false" targetId="9893-d668-f455-a335" type="profile">
+        <infoLink id="3fec-352b-fcea-9188" name="Cañón Embestida" hidden="false" targetId="9893-d668-f455-a335" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -4096,11 +4096,11 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="8.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="54e2-09e5-1a6d-cc7f" name="Ceremonial Blades" book="Reglamento Deadzone 2ª Edición" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="54e2-09e5-1a6d-cc7f" name="Cuchillas Ceremoniales" book="Reglamento Deadzone 2ª Edición" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="3a0c-8b78-dfe0-84b5" name="Ceremonial Blades" hidden="false" targetId="2314-247f-d507-5333" type="profile">
+        <infoLink id="3a0c-8b78-dfe0-84b5" name="Cuchillas Ceremoniales" hidden="false" targetId="2314-247f-d507-5333" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -4118,7 +4118,7 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="5.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="9609-4f43-8533-15be" name="Ligera Lanzagranadas" book="Reglamento Deadzone 2ª Edición" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="9609-4f43-8533-15be" name="Lanzagranadas Ligero" book="Reglamento Deadzone 2ª Edición" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
@@ -4158,7 +4158,7 @@
         <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="aeac-4622-eb9c-a034" name="Hand Flameador" book="Reglamento Deadzone 2ª Edición" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="aeac-4622-eb9c-a034" name="Flameador de Mano" book="Reglamento Deadzone 2ª Edición" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
@@ -4174,7 +4174,7 @@
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="84d4-f43c-d1c1-b6ba" name="Hand Flameador" hidden="false" targetId="c4eb-fd08-bee3-2a8d" type="profile">
+        <infoLink id="84d4-f43c-d1c1-b6ba" name="Flameador de Mano" hidden="false" targetId="c4eb-fd08-bee3-2a8d" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -4192,17 +4192,17 @@
         <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="9289-72d9-53c7-66ce" name="Wrist Blaster" book="Reglamento Deadzone 2ª Edición" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="9289-72d9-53c7-66ce" name="Bláster de Muñeca" book="Reglamento Deadzone 2ª Edición" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="4d5a-e329-d68b-0f87" name="Blast" hidden="false" targetId="bae6-aa38-21d6-7869" type="rule">
+        <infoLink id="4d5a-e329-d68b-0f87" name="Onda Expansiva" hidden="false" targetId="bae6-aa38-21d6-7869" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="a73e-47b1-b7af-c3a2" name="Wrist Blaster" hidden="false" targetId="9333-5383-7495-d98b" type="profile">
+        <infoLink id="a73e-47b1-b7af-c3a2" name="Bláster de Muñeca" hidden="false" targetId="9333-5383-7495-d98b" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -4220,17 +4220,17 @@
         <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="6c51-de7b-e235-2e35" name="Blaster" book="Reglamento Deadzone 2ª Edición" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="6c51-de7b-e235-2e35" name="Bláster" book="Reglamento Deadzone 2ª Edición" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="1c93-bd4b-2bdf-e337" name="Blast" hidden="false" targetId="bae6-aa38-21d6-7869" type="rule">
+        <infoLink id="1c93-bd4b-2bdf-e337" name="Onda Expansiva" hidden="false" targetId="bae6-aa38-21d6-7869" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="62b1-a591-b05e-35e8" name="Blaster" hidden="false" targetId="27aa-21f0-576e-287a" type="profile">
+        <infoLink id="62b1-a591-b05e-35e8" name="Bláster" hidden="false" targetId="27aa-21f0-576e-287a" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -4248,11 +4248,11 @@
         <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="db58-2ac0-329a-6f31" name="Combat Blades" book="Reglamento Deadzone 2ª Edición" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="db58-2ac0-329a-6f31" name="Espadas de Combate" book="Reglamento Deadzone 2ª Edición" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="7428-e701-083f-a98f" name="Combat Blades" hidden="false" targetId="cc12-82dd-49e0-96f8" type="profile">
+        <infoLink id="7428-e701-083f-a98f" name="Espadas de Combate" hidden="false" targetId="cc12-82dd-49e0-96f8" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -4282,11 +4282,11 @@
         <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="693b-db39-48f2-4661" name="Flame Thrower" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="693b-db39-48f2-4661" name="Lanzallamas" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="b1b8-bae0-9cb8-fbe5" name="Flame Thrower" hidden="false" targetId="9f86-7d7e-3ffc-d4a2" type="profile">
+        <infoLink id="b1b8-bae0-9cb8-fbe5" name="Lanzallamas" hidden="false" targetId="9f86-7d7e-3ffc-d4a2" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -4326,12 +4326,12 @@
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="d08b-4bf7-25ef-b0b8" name="Indirect (n)" hidden="false" targetId="8fe0-f858-5940-b816" type="rule">
+        <infoLink id="d08b-4bf7-25ef-b0b8" name="Indirecto (n)" hidden="false" targetId="8fe0-f858-5940-b816" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers>
-            <modifier type="set" field="name" value="Indirect (3)">
+            <modifier type="set" field="name" value="Indirecto (3)">
               <repeats/>
               <conditions/>
               <conditionGroups/>
@@ -4360,7 +4360,7 @@
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="e8d6-26e0-1de8-978b" name="Suppression" hidden="false" targetId="bcf7-8697-e7d8-43ac" type="rule">
+        <infoLink id="e8d6-26e0-1de8-978b" name="Supresión" hidden="false" targetId="bcf7-8697-e7d8-43ac" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -4390,11 +4390,11 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="8.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="590a-f91d-9e5a-ad5c" name="Harpoon Gun" book="Deadzone: Outbreak" page="73" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="590a-f91d-9e5a-ad5c" name="Lanzarpones" book="Deadzone: Outbreak" page="73" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="fded-e139-a230-021a" name="Harpoon Gun" hidden="false" targetId="6096-e298-ff33-be0b" type="profile">
+        <infoLink id="fded-e139-a230-021a" name="Lanzarpones" hidden="false" targetId="6096-e298-ff33-be0b" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -4412,11 +4412,11 @@
         <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="0dc4-f1c2-9e55-4ec6" name="Ligera Flameador" book="Deadzone: Outbreak" page="73" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="0dc4-f1c2-9e55-4ec6" name="Flameador Ligero" book="Deadzone: Outbreak" page="73" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="9fe0-e27c-e426-88fc" name="Ligera Flameador" hidden="false" targetId="c649-8050-edff-a6eb" type="profile">
+        <infoLink id="9fe0-e27c-e426-88fc" name="Flameador Ligero" hidden="false" targetId="c649-8050-edff-a6eb" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -4452,22 +4452,22 @@
         <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="4b71-bc41-a3b7-f6b6" name="Mortar" book="Deadzone: Outbreak" page="73" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="4b71-bc41-a3b7-f6b6" name="Mortero" book="Deadzone: Outbreak" page="73" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="d7e8-235c-cc35-820d" name="Mortar" hidden="false" targetId="fe57-32a5-cb19-f146" type="profile">
+        <infoLink id="d7e8-235c-cc35-820d" name="Mortero" hidden="false" targetId="fe57-32a5-cb19-f146" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="ec3d-e897-f7e0-ae16" name="Indirect (n)" hidden="false" targetId="8fe0-f858-5940-b816" type="rule">
+        <infoLink id="ec3d-e897-f7e0-ae16" name="Indirecto (n)" hidden="false" targetId="8fe0-f858-5940-b816" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers>
-            <modifier type="set" field="name" value="Indirect (4)">
+            <modifier type="set" field="name" value="Indirecto (4)">
               <repeats/>
               <conditions/>
               <conditionGroups/>
@@ -4758,7 +4758,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Pequeño Calibre"/>
       </characteristics>
     </profile>
-    <profile id="bbe2-b77a-f775-febf" name="Long Rifle" book="Reglamento Deadzone 2ª Edición" page="89" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
+    <profile id="bbe2-b77a-f775-febf" name="Rifle Largo" book="Reglamento Deadzone 2ª Edición" page="89" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -4818,7 +4818,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Andador (Lanza)"/>
       </characteristics>
     </profile>
-    <profile id="9893-d668-f455-a335" name="Onslaught Cannon" book="Reglamento Deadzone 2ª Edición" page="89" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
+    <profile id="9893-d668-f455-a335" name="Cañón Embestida" book="Reglamento Deadzone 2ª Edición" page="89" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -4826,7 +4826,7 @@
       <characteristics>
         <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A5"/>
         <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
-        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Cadencia de Fuego (1), Suppression"/>
+        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Cadencia de Fuego (1), Supresión"/>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Pesada (Automática)"/>
       </characteristics>
     </profile>
@@ -4854,7 +4854,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Pesada (Crew Served Weapon)"/>
       </characteristics>
     </profile>
-    <profile id="2314-247f-d507-5333" name="Ceremonial Blades" book="Reglamento Deadzone 2ª Edición" page="89" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
+    <profile id="2314-247f-d507-5333" name="Cuchillas Ceremoniales" book="Reglamento Deadzone 2ª Edición" page="89" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -4866,7 +4866,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Melé)"/>
       </characteristics>
     </profile>
-    <profile id="8567-fd93-ae8b-c1f0" name="Ligera Lanzagranadas" book="Reglamento Deadzone 2ª Edición" page="89" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
+    <profile id="8567-fd93-ae8b-c1f0" name="Lanzagranadas Ligero" book="Reglamento Deadzone 2ª Edición" page="89" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -4878,7 +4878,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Explosiva)"/>
       </characteristics>
     </profile>
-    <profile id="c4eb-fd08-bee3-2a8d" name="Hand Flameador" book="Reglamento Deadzone 2ª Edición" page="89" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
+    <profile id="c4eb-fd08-bee3-2a8d" name="Flameador de Mano" book="Reglamento Deadzone 2ª Edición" page="89" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -4890,7 +4890,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Asalto)"/>
       </characteristics>
     </profile>
-    <profile id="9333-5383-7495-d98b" name="Wrist Blaster" book="Reglamento Deadzone 2ª Edición" page="89" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
+    <profile id="9333-5383-7495-d98b" name="Bláster de Muñeca" book="Reglamento Deadzone 2ª Edición" page="89" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -4898,11 +4898,11 @@
       <characteristics>
         <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A3"/>
         <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
-        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Blast"/>
+        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Onda Expansiva"/>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Automática)"/>
       </characteristics>
     </profile>
-    <profile id="27aa-21f0-576e-287a" name="Blaster" book="Reglamento Deadzone 2ª Edición" page="89" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
+    <profile id="27aa-21f0-576e-287a" name="Bláster" book="Reglamento Deadzone 2ª Edición" page="89" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -4910,11 +4910,11 @@
       <characteristics>
         <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A4"/>
         <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
-        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Blast"/>
+        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Onda Expansiva"/>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Automática)"/>
       </characteristics>
     </profile>
-    <profile id="cc12-82dd-49e0-96f8" name="Combat Blades" book="Reglamento Deadzone 2ª Edición" page="89" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
+    <profile id="cc12-82dd-49e0-96f8" name="Espadas de Combate" book="Reglamento Deadzone 2ª Edición" page="89" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -4926,7 +4926,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Melé)"/>
       </characteristics>
     </profile>
-    <profile id="9f86-7d7e-3ffc-d4a2" name="Flame Thrower" book="Deadzone Erratas v2.1" page="89" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
+    <profile id="9f86-7d7e-3ffc-d4a2" name="Lanzallamas" book="Deadzone Erratas v2.1" page="89" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -4946,7 +4946,7 @@
       <characteristics>
         <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A5"/>
         <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
-        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Indirect (3)"/>
+        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Indirecto (3)"/>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Explosiva)"/>
       </characteristics>
     </profile>
@@ -4958,11 +4958,11 @@
       <characteristics>
         <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A10"/>
         <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
-        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Suppression, Cadencia de Fuego (2)"/>
+        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Supresión, Cadencia de Fuego (2)"/>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Andador (Automática)"/>
       </characteristics>
     </profile>
-    <profile id="6096-e298-ff33-be0b" name="Harpoon Gun" book="Deadzone: Outbreak" page="73" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
+    <profile id="6096-e298-ff33-be0b" name="Lanzarpones" book="Deadzone: Outbreak" page="73" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -4974,7 +4974,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Asalto)"/>
       </characteristics>
     </profile>
-    <profile id="c649-8050-edff-a6eb" name="Ligera Flameador" book="Deadzone: Outbreak" page="73" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
+    <profile id="c649-8050-edff-a6eb" name="Flameador Ligero" book="Deadzone: Outbreak" page="73" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -4986,7 +4986,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Asalto)"/>
       </characteristics>
     </profile>
-    <profile id="fe57-32a5-cb19-f146" name="Mortar" book="Deadzone: Outbreak" page="73" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
+    <profile id="fe57-32a5-cb19-f146" name="Mortero" book="Deadzone: Outbreak" page="73" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -4994,7 +4994,7 @@
       <characteristics>
         <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A8"/>
         <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
-        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Indirect (4), Pesada"/>
+        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Indirecto (4), Pesada"/>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Pesada (Crew Served Weapon)"/>
       </characteristics>
     </profile>

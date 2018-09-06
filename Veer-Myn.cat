@@ -27,12 +27,12 @@
         </profile>
       </profiles>
       <rules>
-        <rule id="33f7-b294-9a12-0dfa" name="Feral Inspiration" hidden="false">
+        <rule id="33f7-b294-9a12-0dfa" name="Inspiración Salvaje" hidden="false">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers/>
-          <description>When the Broodmother is close to any of her progeny, she will inspire them to even greater heights of savagery! You may spend an Army Special result on your Command Dice to give all Veer-Myn models within 2 cubes of the Broodmother Furia (1) until the end of the Round. If a model already has Furia (n) they will gain an additional point of Furia. You may not use multiple Army Special results on the same model, although if the Madre de la Prole moves you may use a subsequent Army Special result to give Furia (1) to any new models within range. </description>
+          <description>Puedes gastar un resultado de Especial de tus Dados de Mando para proporcionar hasta el final de la Ronda Furia (1) a todas las miniaturas de Veer-Myn de tu Equipo de Asalto en una distancia de 2 cubos a la Madre de Progenie. No puedes usar varios resultados de Especial sobre las mismas miniaturas, sin embargo si la Madre se mueve puedes usar otro resultado de Especial para dar Furia (1) a toda nueva miniatura que entre en su alcance.</description>
         </rule>
       </rules>
       <infoLinks>
@@ -81,7 +81,7 @@
           <selectionEntries/>
           <selectionEntryGroups/>
           <entryLinks>
-            <entryLink id="80a9-a087-f7a5-1480" name="Chem Staff" hidden="false" targetId="74d8-4939-681a-de1c" type="selectionEntry">
+            <entryLink id="80a9-a087-f7a5-1480" name="Bastón Químico" hidden="false" targetId="74d8-4939-681a-de1c" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -100,7 +100,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="1353-7cec-522d-2a0e" name="Spitter Rifle" hidden="false" targetId="8573-ad7f-4083-375a" type="selectionEntry">
+            <entryLink id="1353-7cec-522d-2a0e" name="Rifle Escupidor" hidden="false" targetId="8573-ad7f-4083-375a" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -108,7 +108,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="0f81-7872-6c57-6f64" name="Toxic Lanzagranadas" hidden="false" targetId="80b4-ddd0-ad93-a063" type="selectionEntry">
+            <entryLink id="0f81-7872-6c57-6f64" name="Tóxica Lanzagranadas" hidden="false" targetId="80b4-ddd0-ad93-a063" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -124,7 +124,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="c093-d305-b67b-405d" name="Ray Gun" hidden="false" targetId="4bde-1f0c-eca1-026c" type="selectionEntry">
+            <entryLink id="c093-d305-b67b-405d" name="Fusil de Rayos" hidden="false" targetId="4bde-1f0c-eca1-026c" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -132,7 +132,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="c05a-f16e-65e8-2ceb" name="Chem Thrower" hidden="false" targetId="e5c1-a3c9-6635-dd56" type="selectionEntry">
+            <entryLink id="c05a-f16e-65e8-2ceb" name="Rociador Químico" hidden="false" targetId="e5c1-a3c9-6635-dd56" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -140,7 +140,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="7dd5-5dc6-b5d1-a4d3" name="Chem Spitter" hidden="false" targetId="2901-05d3-6d85-b1a2" type="selectionEntry">
+            <entryLink id="7dd5-5dc6-b5d1-a4d3" name="Escupidor Químico" hidden="false" targetId="2901-05d3-6d85-b1a2" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -148,7 +148,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="74e7-f38a-c9d2-7fd7" name="Chemical Lanzagranadas" hidden="false" targetId="1584-1836-2c2a-3e07" type="selectionEntry">
+            <entryLink id="74e7-f38a-c9d2-7fd7" name="Lanzagranadas Químico" hidden="false" targetId="1584-1836-2c2a-3e07" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -156,7 +156,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="8081-60ab-310b-8a1e" name="Det Pack (Prox Fuse)" hidden="false" targetId="bb60-43bd-7e61-199e" type="selectionEntry">
+            <entryLink id="8081-60ab-310b-8a1e" name="Equipo de Detonación (Detonador de Proximidad)" hidden="false" targetId="bb60-43bd-7e61-199e" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -195,7 +195,7 @@
           </selectionEntries>
           <selectionEntryGroups/>
           <entryLinks>
-            <entryLink id="b18e-46f5-61b7-d871" name="Det Pack (Mag Lock)" hidden="false" targetId="2435-678e-88c7-56ff" type="selectionEntry">
+            <entryLink id="b18e-46f5-61b7-d871" name="Equipo de Detonación (Fijador Magnético)" hidden="false" targetId="2435-678e-88c7-56ff" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -215,7 +215,7 @@
         </selectionEntryGroup>
       </selectionEntryGroups>
       <entryLinks>
-        <entryLink id="1527-89d5-2af4-3a93" name="Ray Pistola *" hidden="false" targetId="789c-e6f2-7a34-7e42" type="selectionEntry">
+        <entryLink id="1527-89d5-2af4-3a93" name="Pistola de Rayos *" hidden="false" targetId="789c-e6f2-7a34-7e42" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -258,12 +258,12 @@
         </profile>
       </profiles>
       <rules>
-        <rule id="7d3a-d2c4-b97a-fc0e" name="Surge" hidden="false">
+        <rule id="7d3a-d2c4-b97a-fc0e" name="Oleada" hidden="false">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers/>
-          <description>A Veer-Myn model that was already marked as activated at the start of this Turn may make a Move action of up to 1 cube. This may trigger Fights as normal.</description>
+          <description>Gasta un resultado de Especial de tus Dados de Mando al principio del turno para Mover 1 cubo una miniatura que ya estuviera marcada como activada. Este movimiento puede desencadenar una Lucha normalmente.</description>
         </rule>
       </rules>
       <infoLinks>
@@ -306,7 +306,7 @@
           <selectionEntries/>
           <selectionEntryGroups/>
           <entryLinks>
-            <entryLink id="bda4-8fb5-1d67-9049" name="Det Pack (Mag Lock)" hidden="false" targetId="2435-678e-88c7-56ff" type="selectionEntry">
+            <entryLink id="bda4-8fb5-1d67-9049" name="Equipo de Detonación (Fijador Magnético)" hidden="false" targetId="2435-678e-88c7-56ff" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -345,7 +345,7 @@
           <selectionEntries/>
           <selectionEntryGroups/>
           <entryLinks>
-            <entryLink id="8635-f6d7-d5cd-2f55" name="Chem Staff" hidden="false" targetId="74d8-4939-681a-de1c" type="selectionEntry">
+            <entryLink id="8635-f6d7-d5cd-2f55" name="Bastón Químico" hidden="false" targetId="74d8-4939-681a-de1c" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -353,7 +353,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="ec71-4acd-122e-9e0c" name="Spitter Rifle" hidden="false" targetId="8573-ad7f-4083-375a" type="selectionEntry">
+            <entryLink id="ec71-4acd-122e-9e0c" name="Rifle Escupidor" hidden="false" targetId="8573-ad7f-4083-375a" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -361,7 +361,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="eb2f-634e-cb2a-5238" name="Toxic Lanzagranadas" hidden="false" targetId="80b4-ddd0-ad93-a063" type="selectionEntry">
+            <entryLink id="eb2f-634e-cb2a-5238" name="Tóxica Lanzagranadas" hidden="false" targetId="80b4-ddd0-ad93-a063" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -377,7 +377,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="1ea7-1987-61ee-ece5" name="Ray Gun" hidden="false" targetId="4bde-1f0c-eca1-026c" type="selectionEntry">
+            <entryLink id="1ea7-1987-61ee-ece5" name="Fusil de Rayos" hidden="false" targetId="4bde-1f0c-eca1-026c" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -391,7 +391,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="1c16-9fda-6d6d-210b" name="Chem Thrower" hidden="false" targetId="e5c1-a3c9-6635-dd56" type="selectionEntry">
+            <entryLink id="1c16-9fda-6d6d-210b" name="Rociador Químico" hidden="false" targetId="e5c1-a3c9-6635-dd56" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -399,7 +399,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="4dbf-9b1b-f3a5-d2fd" name="Chem Spitter" hidden="false" targetId="2901-05d3-6d85-b1a2" type="selectionEntry">
+            <entryLink id="4dbf-9b1b-f3a5-d2fd" name="Escupidor Químico" hidden="false" targetId="2901-05d3-6d85-b1a2" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -407,7 +407,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="ddbd-389d-c1ac-927c" name="Chemical Lanzagranadas" hidden="false" targetId="1584-1836-2c2a-3e07" type="selectionEntry">
+            <entryLink id="ddbd-389d-c1ac-927c" name="Lanzagranadas Químico" hidden="false" targetId="1584-1836-2c2a-3e07" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -415,7 +415,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="6a1a-05aa-2346-2914" name="Det Pack (Prox Fuse)" hidden="false" targetId="bb60-43bd-7e61-199e" type="selectionEntry">
+            <entryLink id="6a1a-05aa-2346-2914" name="Equipo de Detonación (Detonador de Proximidad)" hidden="false" targetId="bb60-43bd-7e61-199e" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -427,7 +427,7 @@
         </selectionEntryGroup>
       </selectionEntryGroups>
       <entryLinks>
-        <entryLink id="cd17-f4e9-5364-671c" name="Ray Pistola *" hidden="false" targetId="789c-e6f2-7a34-7e42" type="selectionEntry">
+        <entryLink id="cd17-f4e9-5364-671c" name="Pistola de Rayos *" hidden="false" targetId="789c-e6f2-7a34-7e42" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -495,7 +495,7 @@
           </constraints>
           <categoryLinks/>
         </entryLink>
-        <entryLink id="4790-2d4a-ed83-f84a" name="Ray Pistola *" hidden="false" targetId="789c-e6f2-7a34-7e42" type="selectionEntry">
+        <entryLink id="4790-2d4a-ed83-f84a" name="Pistola de Rayos *" hidden="false" targetId="789c-e6f2-7a34-7e42" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -513,7 +513,7 @@
           <constraints/>
           <categoryLinks/>
         </entryLink>
-        <entryLink id="0d18-7fbf-85a1-0b91" name="Ray Gun" hidden="false" targetId="4bde-1f0c-eca1-026c" type="selectionEntry">
+        <entryLink id="0d18-7fbf-85a1-0b91" name="Fusil de Rayos" hidden="false" targetId="4bde-1f0c-eca1-026c" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -536,9 +536,9 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="10.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="1d49-05b9-c9ca-77e2" name="Master Sucio" book="Deadzone: Outbreak" page="74" hidden="false" collective="false" type="unit">
+    <selectionEntry id="1d49-05b9-c9ca-77e2" name="Maestro Siniestro" book="Deadzone: Outbreak" page="74" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="e3c6-3330-aedd-05ae" name="Master Sucio" book="Deadzone: Outbreak" page="74" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Líder">
+        <profile id="e3c6-3330-aedd-05ae" name="Maestro Siniestro" book="Deadzone: Outbreak" page="74" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Líder">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -555,12 +555,12 @@
         </profile>
       </profiles>
       <rules>
-        <rule id="9825-8236-0855-2f71" name="Master Sucio" book="Bomb Expert" hidden="false">
+        <rule id="9825-8236-0855-2f71" name="Experto en Bombas" book="" hidden="false">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers/>
-          <description>Spend an Army Special result to allow the active model to take a Special Action to perform a A2, Blast attack.</description>
+          <description>Gasta un resultado de Especial de tus Dados de Mando para permitir a la miniatura activa realizar como Acción Especial un ataque con alcance A2 y Onda Expansiva.</description>
         </rule>
       </rules>
       <infoLinks>
@@ -576,7 +576,7 @@
             </modifier>
           </modifiers>
         </infoLink>
-        <infoLink id="48b7-a09a-2229-eae4" name="Scout" hidden="false" targetId="634d-5763-a726-b91f" type="rule">
+        <infoLink id="48b7-a09a-2229-eae4" name="Explorador" hidden="false" targetId="634d-5763-a726-b91f" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -609,7 +609,7 @@
           <selectionEntries/>
           <selectionEntryGroups/>
           <entryLinks>
-            <entryLink id="6a69-9172-e847-9814" name="Det Pack (Mag Lock)" hidden="false" targetId="2435-678e-88c7-56ff" type="selectionEntry">
+            <entryLink id="6a69-9172-e847-9814" name="Equipo de Detonación (Fijador Magnético)" hidden="false" targetId="2435-678e-88c7-56ff" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -646,7 +646,7 @@
           <selectionEntries/>
           <selectionEntryGroups/>
           <entryLinks>
-            <entryLink id="0395-174d-4501-1513" name="Chem Staff" hidden="false" targetId="74d8-4939-681a-de1c" type="selectionEntry">
+            <entryLink id="0395-174d-4501-1513" name="Bastón Químico" hidden="false" targetId="74d8-4939-681a-de1c" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -654,7 +654,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="ad47-8100-db8e-d7df" name="Spitter Rifle" hidden="false" targetId="8573-ad7f-4083-375a" type="selectionEntry">
+            <entryLink id="ad47-8100-db8e-d7df" name="Rifle Escupidor" hidden="false" targetId="8573-ad7f-4083-375a" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -662,7 +662,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="f86d-a22f-b21c-8be0" name="Toxic Lanzagranadas" hidden="false" targetId="80b4-ddd0-ad93-a063" type="selectionEntry">
+            <entryLink id="f86d-a22f-b21c-8be0" name="Tóxica Lanzagranadas" hidden="false" targetId="80b4-ddd0-ad93-a063" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -678,7 +678,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="796f-069c-db2c-33c0" name="Ray Gun" hidden="false" targetId="4bde-1f0c-eca1-026c" type="selectionEntry">
+            <entryLink id="796f-069c-db2c-33c0" name="Fusil de Rayos" hidden="false" targetId="4bde-1f0c-eca1-026c" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -686,7 +686,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="272b-921e-d40b-d8e1" name="Chem Thrower" hidden="false" targetId="e5c1-a3c9-6635-dd56" type="selectionEntry">
+            <entryLink id="272b-921e-d40b-d8e1" name="Rociador Químico" hidden="false" targetId="e5c1-a3c9-6635-dd56" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -694,7 +694,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="47d0-57eb-cc7f-08e2" name="Chem Spitter" hidden="false" targetId="2901-05d3-6d85-b1a2" type="selectionEntry">
+            <entryLink id="47d0-57eb-cc7f-08e2" name="Escupidor Químico" hidden="false" targetId="2901-05d3-6d85-b1a2" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -702,7 +702,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="5066-c201-28f8-16f1" name="Chemical Lanzagranadas" hidden="false" targetId="1584-1836-2c2a-3e07" type="selectionEntry">
+            <entryLink id="5066-c201-28f8-16f1" name="Lanzagranadas Químico" hidden="false" targetId="1584-1836-2c2a-3e07" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -710,7 +710,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="43ed-1041-735d-e579" name="Det Pack (Prox Fuse)" hidden="false" targetId="bb60-43bd-7e61-199e" type="selectionEntry">
+            <entryLink id="43ed-1041-735d-e579" name="Equipo de Detonación (Detonador de Proximidad)" hidden="false" targetId="bb60-43bd-7e61-199e" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -739,7 +739,7 @@
           <selectionEntries/>
           <selectionEntryGroups/>
           <entryLinks>
-            <entryLink id="44ae-0fbf-162b-769e" name="Chem Staff" hidden="false" targetId="74d8-4939-681a-de1c" type="selectionEntry">
+            <entryLink id="44ae-0fbf-162b-769e" name="Bastón Químico" hidden="false" targetId="74d8-4939-681a-de1c" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -747,7 +747,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="5bad-8609-dd45-8797" name="Spitter Rifle" hidden="false" targetId="8573-ad7f-4083-375a" type="selectionEntry">
+            <entryLink id="5bad-8609-dd45-8797" name="Rifle Escupidor" hidden="false" targetId="8573-ad7f-4083-375a" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -755,7 +755,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="06fe-891b-9a03-412c" name="Toxic Lanzagranadas" hidden="false" targetId="80b4-ddd0-ad93-a063" type="selectionEntry">
+            <entryLink id="06fe-891b-9a03-412c" name="Tóxica Lanzagranadas" hidden="false" targetId="80b4-ddd0-ad93-a063" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -771,7 +771,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="796d-3478-8419-d71f" name="Ray Gun" hidden="false" targetId="4bde-1f0c-eca1-026c" type="selectionEntry">
+            <entryLink id="796d-3478-8419-d71f" name="Fusil de Rayos" hidden="false" targetId="4bde-1f0c-eca1-026c" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -779,7 +779,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="3be7-b96c-4f6c-16a3" name="Chem Thrower" hidden="false" targetId="e5c1-a3c9-6635-dd56" type="selectionEntry">
+            <entryLink id="3be7-b96c-4f6c-16a3" name="Rociador Químico" hidden="false" targetId="e5c1-a3c9-6635-dd56" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -787,7 +787,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="ed31-308d-272f-b16f" name="Chem Spitter" hidden="false" targetId="2901-05d3-6d85-b1a2" type="selectionEntry">
+            <entryLink id="ed31-308d-272f-b16f" name="Escupidor Químico" hidden="false" targetId="2901-05d3-6d85-b1a2" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -795,7 +795,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="acdf-548e-64c2-bbeb" name="Chemical Lanzagranadas" hidden="false" targetId="1584-1836-2c2a-3e07" type="selectionEntry">
+            <entryLink id="acdf-548e-64c2-bbeb" name="Lanzagranadas Químico" hidden="false" targetId="1584-1836-2c2a-3e07" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -803,7 +803,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="0fb2-e15b-09c8-a4af" name="Det Pack (Prox Fuse)" hidden="false" targetId="bb60-43bd-7e61-199e" type="selectionEntry">
+            <entryLink id="0fb2-e15b-09c8-a4af" name="Equipo de Detonación (Detonador de Proximidad)" hidden="false" targetId="bb60-43bd-7e61-199e" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -811,7 +811,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="65f9-f5fd-623e-e6f5" name="Ray Pistola *" hidden="false" targetId="789c-e6f2-7a34-7e42" type="selectionEntry">
+            <entryLink id="65f9-f5fd-623e-e6f5" name="Pistola de Rayos *" hidden="false" targetId="789c-e6f2-7a34-7e42" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -821,7 +821,7 @@
                   <conditions/>
                   <conditionGroups/>
                 </modifier>
-                <modifier type="set" field="name" value="Ray Pistola">
+                <modifier type="set" field="name" value="Pistola de Rayos">
                   <repeats/>
                   <conditions/>
                   <conditionGroups/>
@@ -889,12 +889,12 @@
           <constraints/>
           <categoryLinks/>
         </entryLink>
-        <entryLink id="ac16-ae11-ebdc-57d0" name="Ray Pistola *" hidden="false" targetId="789c-e6f2-7a34-7e42" type="selectionEntry">
+        <entryLink id="ac16-ae11-ebdc-57d0" name="Pistola de Rayos *" hidden="false" targetId="789c-e6f2-7a34-7e42" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers>
-            <modifier type="set" field="name" value="Ray Pistola">
+            <modifier type="set" field="name" value="Pistola de Rayos">
               <repeats/>
               <conditions/>
               <conditionGroups/>
@@ -928,9 +928,9 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="8.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="15ad-4f5a-94e9-c51a" name="Maligno con Rociador Químico" book="Deadzone: Outbreak" page="76" hidden="false" collective="false" type="unit">
+    <selectionEntry id="15ad-4f5a-94e9-c51a" name="Maligno" book="Deadzone: Outbreak" page="76" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="b5ab-1c84-25c6-f701" name="Maligno con Rociador Químico" book="Deadzone: Outbreak" page="76" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
+        <profile id="b5ab-1c84-25c6-f701" name="Maligno" book="Deadzone: Outbreak" page="76" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -973,7 +973,7 @@
           <selectionEntries/>
           <selectionEntryGroups/>
           <entryLinks>
-            <entryLink id="88d4-0684-a9f3-d56b" name="Det Pack (Mag Lock)" hidden="false" targetId="2435-678e-88c7-56ff" type="selectionEntry">
+            <entryLink id="88d4-0684-a9f3-d56b" name="Equipo de Detonación (Fijador Magnético)" hidden="false" targetId="2435-678e-88c7-56ff" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1012,7 +1012,7 @@
           <selectionEntries/>
           <selectionEntryGroups/>
           <entryLinks>
-            <entryLink id="8a9f-0fef-fae9-9739" name="Spitter Rifle" hidden="false" targetId="8573-ad7f-4083-375a" type="selectionEntry">
+            <entryLink id="8a9f-0fef-fae9-9739" name="Rifle Escupidor" hidden="false" targetId="8573-ad7f-4083-375a" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1020,7 +1020,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="deaa-2e08-90bf-8457" name="Toxic Lanzagranadas" hidden="false" targetId="80b4-ddd0-ad93-a063" type="selectionEntry">
+            <entryLink id="deaa-2e08-90bf-8457" name="Tóxica Lanzagranadas" hidden="false" targetId="80b4-ddd0-ad93-a063" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1036,7 +1036,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="5c21-0bf8-6f56-7e21" name="Ray Gun" hidden="false" targetId="4bde-1f0c-eca1-026c" type="selectionEntry">
+            <entryLink id="5c21-0bf8-6f56-7e21" name="Fusil de Rayos" hidden="false" targetId="4bde-1f0c-eca1-026c" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1050,7 +1050,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="109d-8271-1c23-baf3" name="Chem Thrower" hidden="false" targetId="e5c1-a3c9-6635-dd56" type="selectionEntry">
+            <entryLink id="109d-8271-1c23-baf3" name="Rociador Químico" hidden="false" targetId="e5c1-a3c9-6635-dd56" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1058,7 +1058,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="f0ca-74f9-0ba8-0afd" name="Chem Spitter" hidden="false" targetId="2901-05d3-6d85-b1a2" type="selectionEntry">
+            <entryLink id="f0ca-74f9-0ba8-0afd" name="Escupidor Químico" hidden="false" targetId="2901-05d3-6d85-b1a2" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1066,7 +1066,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="a7f0-73d8-cbce-01df" name="Chemical Lanzagranadas" hidden="false" targetId="1584-1836-2c2a-3e07" type="selectionEntry">
+            <entryLink id="a7f0-73d8-cbce-01df" name="Lanzagranadas Químico" hidden="false" targetId="1584-1836-2c2a-3e07" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1074,7 +1074,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="497b-501c-c4d5-7f49" name="Det Pack (Prox Fuse)" hidden="false" targetId="bb60-43bd-7e61-199e" type="selectionEntry">
+            <entryLink id="497b-501c-c4d5-7f49" name="Equipo de Detonación (Detonador de Proximidad)" hidden="false" targetId="bb60-43bd-7e61-199e" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1086,7 +1086,7 @@
         </selectionEntryGroup>
       </selectionEntryGroups>
       <entryLinks>
-        <entryLink id="e4ff-f1c1-4973-0050" name="Ray Pistola *" hidden="false" targetId="789c-e6f2-7a34-7e42" type="selectionEntry">
+        <entryLink id="e4ff-f1c1-4973-0050" name="Pistola de Rayos *" hidden="false" targetId="789c-e6f2-7a34-7e42" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1162,7 +1162,7 @@
       <selectionEntries/>
       <selectionEntryGroups/>
       <entryLinks>
-        <entryLink id="fe22-a4c4-dd93-d104" name="Scythes" hidden="false" targetId="336e-acff-ef58-e8f9" type="selectionEntry">
+        <entryLink id="fe22-a4c4-dd93-d104" name="Guadañas" hidden="false" targetId="336e-acff-ef58-e8f9" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1242,7 +1242,7 @@
       <selectionEntries/>
       <selectionEntryGroups/>
       <entryLinks>
-        <entryLink id="2655-46ef-85d1-28bb" name="Pesada Chem Spitter" hidden="false" targetId="0be3-67b5-5909-e09c" type="selectionEntry">
+        <entryLink id="2655-46ef-85d1-28bb" name="Escupidor Químico Pesado" hidden="false" targetId="0be3-67b5-5909-e09c" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1281,9 +1281,9 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="26.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="ed8d-f769-04da-90f3" name="Sucio" book="Deadzone: Outbreak" page="76" hidden="false" collective="false" type="unit">
+    <selectionEntry id="ed8d-f769-04da-90f3" name="Siniestro" book="Deadzone: Outbreak" page="76" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="8b03-6539-14ee-bb18" name="Sucio" book="Deadzone: Outbreak" page="76" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
+        <profile id="8b03-6539-14ee-bb18" name="Siniestro" book="Deadzone: Outbreak" page="76" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1300,7 +1300,7 @@
       </profiles>
       <rules/>
       <infoLinks>
-        <infoLink id="011f-7f99-8d85-9829" name="Scout" hidden="false" targetId="634d-5763-a726-b91f" type="rule">
+        <infoLink id="011f-7f99-8d85-9829" name="Explorador" hidden="false" targetId="634d-5763-a726-b91f" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1339,7 +1339,7 @@
           <selectionEntries/>
           <selectionEntryGroups/>
           <entryLinks>
-            <entryLink id="7cf2-ef64-df11-2257" name="Det Pack (Mag Lock)" hidden="false" targetId="2435-678e-88c7-56ff" type="selectionEntry">
+            <entryLink id="7cf2-ef64-df11-2257" name="Equipo de Detonación (Fijador Magnético)" hidden="false" targetId="2435-678e-88c7-56ff" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1376,7 +1376,7 @@
           <selectionEntries/>
           <selectionEntryGroups/>
           <entryLinks>
-            <entryLink id="0cc1-4c98-a228-fbcc" name="Chem Staff" hidden="false" targetId="74d8-4939-681a-de1c" type="selectionEntry">
+            <entryLink id="0cc1-4c98-a228-fbcc" name="Bastón Químico" hidden="false" targetId="74d8-4939-681a-de1c" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1384,7 +1384,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="5cd7-274c-3793-e9f0" name="Spitter Rifle" hidden="false" targetId="8573-ad7f-4083-375a" type="selectionEntry">
+            <entryLink id="5cd7-274c-3793-e9f0" name="Rifle Escupidor" hidden="false" targetId="8573-ad7f-4083-375a" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1392,7 +1392,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="4503-66d4-0c87-e2a3" name="Toxic Lanzagranadas" hidden="false" targetId="80b4-ddd0-ad93-a063" type="selectionEntry">
+            <entryLink id="4503-66d4-0c87-e2a3" name="Tóxica Lanzagranadas" hidden="false" targetId="80b4-ddd0-ad93-a063" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1408,7 +1408,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="2057-441b-cc87-dc50" name="Ray Gun" hidden="false" targetId="4bde-1f0c-eca1-026c" type="selectionEntry">
+            <entryLink id="2057-441b-cc87-dc50" name="Fusil de Rayos" hidden="false" targetId="4bde-1f0c-eca1-026c" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1416,7 +1416,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="2087-ed9f-a2dc-765e" name="Chem Thrower" hidden="false" targetId="e5c1-a3c9-6635-dd56" type="selectionEntry">
+            <entryLink id="2087-ed9f-a2dc-765e" name="Rociador Químico" hidden="false" targetId="e5c1-a3c9-6635-dd56" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1424,7 +1424,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="96f7-c7cb-ce72-6591" name="Chem Spitter" hidden="false" targetId="2901-05d3-6d85-b1a2" type="selectionEntry">
+            <entryLink id="96f7-c7cb-ce72-6591" name="Escupidor Químico" hidden="false" targetId="2901-05d3-6d85-b1a2" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1432,7 +1432,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="2e4d-1c07-da7f-0d75" name="Chemical Lanzagranadas" hidden="false" targetId="1584-1836-2c2a-3e07" type="selectionEntry">
+            <entryLink id="2e4d-1c07-da7f-0d75" name="Lanzagranadas Químico" hidden="false" targetId="1584-1836-2c2a-3e07" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1440,7 +1440,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="246c-0135-7a0e-bfeb" name="Det Pack (Prox Fuse)" hidden="false" targetId="bb60-43bd-7e61-199e" type="selectionEntry">
+            <entryLink id="246c-0135-7a0e-bfeb" name="Equipo de Detonación (Detonador de Proximidad)" hidden="false" targetId="bb60-43bd-7e61-199e" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1469,7 +1469,7 @@
           <selectionEntries/>
           <selectionEntryGroups/>
           <entryLinks>
-            <entryLink id="0ab7-7cdc-9572-51fc" name="Chem Staff" hidden="false" targetId="74d8-4939-681a-de1c" type="selectionEntry">
+            <entryLink id="0ab7-7cdc-9572-51fc" name="Bastón Químico" hidden="false" targetId="74d8-4939-681a-de1c" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1477,7 +1477,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="fe40-fb9d-f47c-299c" name="Spitter Rifle" hidden="false" targetId="8573-ad7f-4083-375a" type="selectionEntry">
+            <entryLink id="fe40-fb9d-f47c-299c" name="Rifle Escupidor" hidden="false" targetId="8573-ad7f-4083-375a" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1485,7 +1485,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="fb21-3d4a-16aa-81d5" name="Toxic Lanzagranadas" hidden="false" targetId="80b4-ddd0-ad93-a063" type="selectionEntry">
+            <entryLink id="fb21-3d4a-16aa-81d5" name="Tóxica Lanzagranadas" hidden="false" targetId="80b4-ddd0-ad93-a063" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1501,7 +1501,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="3cff-cb45-bc10-7f68" name="Ray Gun" hidden="false" targetId="4bde-1f0c-eca1-026c" type="selectionEntry">
+            <entryLink id="3cff-cb45-bc10-7f68" name="Fusil de Rayos" hidden="false" targetId="4bde-1f0c-eca1-026c" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1509,7 +1509,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="b155-9fe2-0c3c-7201" name="Chem Thrower" hidden="false" targetId="e5c1-a3c9-6635-dd56" type="selectionEntry">
+            <entryLink id="b155-9fe2-0c3c-7201" name="Rociador Químico" hidden="false" targetId="e5c1-a3c9-6635-dd56" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1517,7 +1517,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="c17c-b6a6-89fe-4fae" name="Chem Spitter" hidden="false" targetId="2901-05d3-6d85-b1a2" type="selectionEntry">
+            <entryLink id="c17c-b6a6-89fe-4fae" name="Escupidor Químico" hidden="false" targetId="2901-05d3-6d85-b1a2" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1525,7 +1525,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="9dda-e210-7dfd-ac5b" name="Chemical Lanzagranadas" hidden="false" targetId="1584-1836-2c2a-3e07" type="selectionEntry">
+            <entryLink id="9dda-e210-7dfd-ac5b" name="Lanzagranadas Químico" hidden="false" targetId="1584-1836-2c2a-3e07" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1533,7 +1533,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="ba52-d819-a66d-968e" name="Det Pack (Prox Fuse)" hidden="false" targetId="bb60-43bd-7e61-199e" type="selectionEntry">
+            <entryLink id="ba52-d819-a66d-968e" name="Equipo de Detonación (Detonador de Proximidad)" hidden="false" targetId="bb60-43bd-7e61-199e" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1541,7 +1541,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="b1a4-3c1a-4608-8e9f" name="Ray Pistola *" hidden="false" targetId="789c-e6f2-7a34-7e42" type="selectionEntry">
+            <entryLink id="b1a4-3c1a-4608-8e9f" name="Pistola de Rayos *" hidden="false" targetId="789c-e6f2-7a34-7e42" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1551,7 +1551,7 @@
                   <conditions/>
                   <conditionGroups/>
                 </modifier>
-                <modifier type="set" field="name" value="Ray Pistola">
+                <modifier type="set" field="name" value="Pistola de Rayos">
                   <repeats/>
                   <conditions/>
                   <conditionGroups/>
@@ -1578,9 +1578,9 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="14.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="b541-6958-4259-54e7" name="Rat Swarm" book="Deadzone: Outbreak" page="76" hidden="false" collective="false" type="unit">
+    <selectionEntry id="b541-6958-4259-54e7" name="Enjambre de Ratas" book="Deadzone: Outbreak" page="76" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="c81d-530f-a443-0a25" name="Rat Swarm" book="Deadzone: Outbreak + Erratas" page="76" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
+        <profile id="c81d-530f-a443-0a25" name="Enjambre de Ratas" book="Deadzone: Outbreak + Erratas" page="76" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1628,9 +1628,9 @@
         </categoryLink>
       </categoryLinks>
       <selectionEntries>
-        <selectionEntry id="5041-50fa-d2db-7eb1" name="Teeth and Garras" hidden="false" collective="false" type="upgrade">
+        <selectionEntry id="5041-50fa-d2db-7eb1" name="Dientes y Garras" hidden="false" collective="false" type="upgrade">
           <profiles>
-            <profile id="5be1-46c3-5792-7f1e" name="Teeth and Garras" book="Deadzone: Outbreak" page="76" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
+            <profile id="5be1-46c3-5792-7f1e" name="Dientes y Garras" book="Deadzone: Outbreak" page="76" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1743,7 +1743,7 @@
               </constraints>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="2ebf-5c6a-7b69-d040" name="Chem Thrower" hidden="false" targetId="e5c1-a3c9-6635-dd56" type="selectionEntry">
+            <entryLink id="2ebf-5c6a-7b69-d040" name="Rociador Químico" hidden="false" targetId="e5c1-a3c9-6635-dd56" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1753,7 +1753,7 @@
               </constraints>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="dd07-d21f-23c6-8469" name="Ray Gun" hidden="false" targetId="4bde-1f0c-eca1-026c" type="selectionEntry">
+            <entryLink id="dd07-d21f-23c6-8469" name="Fusil de Rayos" hidden="false" targetId="4bde-1f0c-eca1-026c" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1763,7 +1763,7 @@
               </constraints>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="e533-1a47-6c1b-9d45" name="Pesada Chem Thrower**" hidden="false" targetId="6ee5-6a82-c433-c2cb" type="selectionEntry">
+            <entryLink id="e533-1a47-6c1b-9d45" name="Pesada Rociador Químico**" hidden="false" targetId="6ee5-6a82-c433-c2cb" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1797,7 +1797,7 @@
         </selectionEntryGroup>
       </selectionEntryGroups>
       <entryLinks>
-        <entryLink id="0ad7-9941-a7bc-5f5b" name="Ray Pistola *" hidden="false" targetId="789c-e6f2-7a34-7e42" type="selectionEntry">
+        <entryLink id="0ad7-9941-a7bc-5f5b" name="Pistola de Rayos *" hidden="false" targetId="789c-e6f2-7a34-7e42" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1821,9 +1821,9 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="17.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="1213-0ff7-d50d-fc9d" name="Arma Retumbadoras Plataforma" book="Deadzone: Outbreak" page="77" hidden="false" collective="false" type="unit">
+    <selectionEntry id="1213-0ff7-d50d-fc9d" name="Plataforma de Arma Retumbadora" book="Deadzone: Outbreak" page="77" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="cc85-3a62-0516-658e" name="Arma Retumbadoras Plataforma" book="Deadzone: Outbreak" page="77" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
+        <profile id="cc85-3a62-0516-658e" name="Plataforma de Arma Retumbadora" book="Deadzone: Outbreak" page="77" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1872,7 +1872,7 @@
           <selectionEntries/>
           <selectionEntryGroups/>
           <entryLinks>
-            <entryLink id="c865-be40-cad1-f906" name="Super Pesada Chem Thrower" hidden="false" targetId="a6b1-c061-7450-ab40" type="selectionEntry">
+            <entryLink id="c865-be40-cad1-f906" name="Super Pesada Rociador Químico" hidden="false" targetId="a6b1-c061-7450-ab40" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1880,7 +1880,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="c4bd-742b-59b1-cae1" name="Scythes" hidden="false" targetId="336e-acff-ef58-e8f9" type="selectionEntry">
+            <entryLink id="c4bd-742b-59b1-cae1" name="Guadañas" hidden="false" targetId="336e-acff-ef58-e8f9" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1888,7 +1888,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="5a73-d456-bbec-effd" name="Super Pesada Chem Spitter" hidden="false" targetId="cde5-7fcb-960a-d4c7" type="selectionEntry">
+            <entryLink id="5a73-d456-bbec-effd" name="Super Escupidor Químico Pesado" hidden="false" targetId="cde5-7fcb-960a-d4c7" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1896,7 +1896,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="7fbb-9414-f4c3-4a58" name="Twin Chem Spitter" hidden="false" targetId="b560-9280-fad1-1a9c" type="selectionEntry">
+            <entryLink id="7fbb-9414-f4c3-4a58" name="Twin Rociador Químico" hidden="false" targetId="b560-9280-fad1-1a9c" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1957,9 +1957,9 @@
         </categoryLink>
       </categoryLinks>
       <selectionEntries>
-        <selectionEntry id="e66c-b455-c5ec-2e46" name="Visions of Glory" hidden="false" collective="false" type="upgrade">
+        <selectionEntry id="e66c-b455-c5ec-2e46" name="Visiones de Gloria" hidden="false" collective="false" type="upgrade">
           <profiles>
-            <profile id="9885-44d8-e574-2ce5" name="Visions of Glory" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
+            <profile id="9885-44d8-e574-2ce5" name="Visiones de Gloria" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -2001,9 +2001,9 @@
             <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="0.0"/>
           </costs>
         </selectionEntry>
-        <selectionEntry id="a216-0f18-2345-9b6b" name="Visions of Death" hidden="false" collective="false" type="upgrade">
+        <selectionEntry id="a216-0f18-2345-9b6b" name="Visiones de Muerte" hidden="false" collective="false" type="upgrade">
           <profiles>
-            <profile id="a7ed-868b-6f1a-a941" name="Visions of Death" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
+            <profile id="a7ed-868b-6f1a-a941" name="Visiones de Muerte" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -2045,9 +2045,9 @@
             <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="0.0"/>
           </costs>
         </selectionEntry>
-        <selectionEntry id="a782-2095-919c-43dd" name="Hysteria" hidden="false" collective="false" type="upgrade">
+        <selectionEntry id="a782-2095-919c-43dd" name="Histeria" hidden="false" collective="false" type="upgrade">
           <profiles>
-            <profile id="3f5c-d224-e3dd-8c5d" name="Hysteria" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
+            <profile id="3f5c-d224-e3dd-8c5d" name="Histeria" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -2055,7 +2055,7 @@
               <characteristics>
                 <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A4"/>
                 <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
-                <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Suppression, Psychic"/>
+                <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Supresión, Psychic"/>
                 <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c"/>
               </characteristics>
             </profile>
@@ -2068,7 +2068,7 @@
               <infoLinks/>
               <modifiers/>
             </infoLink>
-            <infoLink id="ae9d-57a6-40f9-7db8" name="Suppression" hidden="false" targetId="bcf7-8697-e7d8-43ac" type="rule">
+            <infoLink id="ae9d-57a6-40f9-7db8" name="Supresión" hidden="false" targetId="bcf7-8697-e7d8-43ac" type="rule">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -2097,9 +2097,9 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="25.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="07fa-9972-8fe6-91a7" name="Tunnel Runner" book="Deadzone: Outbreak" page="77" hidden="false" collective="false" type="unit">
+    <selectionEntry id="07fa-9972-8fe6-91a7" name="Corredor de Túnel" book="Deadzone: Outbreak" page="77" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="9b04-943b-a1ae-cd36" name="Tunnel Runner" book="Deadzone: Outbreak" page="77" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
+        <profile id="9b04-943b-a1ae-cd36" name="Corredor de Túnel" book="Deadzone: Outbreak" page="77" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -2149,7 +2149,7 @@
           <selectionEntries/>
           <selectionEntryGroups/>
           <entryLinks>
-            <entryLink id="f415-f356-bcf1-66c9" name="Twin Chem Spitter" hidden="false" targetId="b560-9280-fad1-1a9c" type="selectionEntry">
+            <entryLink id="f415-f356-bcf1-66c9" name="Twin Rociador Químico" hidden="false" targetId="b560-9280-fad1-1a9c" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -2168,7 +2168,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="f885-b775-49c9-ea98" name="Super Pesada Chem Spitter" hidden="false" targetId="cde5-7fcb-960a-d4c7" type="selectionEntry">
+            <entryLink id="f885-b775-49c9-ea98" name="Super Escupidor Químico Pesado" hidden="false" targetId="cde5-7fcb-960a-d4c7" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -2180,7 +2180,7 @@
         </selectionEntryGroup>
       </selectionEntryGroups>
       <entryLinks>
-        <entryLink id="be82-c2f3-d20d-88e5" name="Scythes" hidden="false" targetId="336e-acff-ef58-e8f9" type="selectionEntry">
+        <entryLink id="be82-c2f3-d20d-88e5" name="Guadañas" hidden="false" targetId="336e-acff-ef58-e8f9" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -2724,7 +2724,7 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="2d80-2c1b-5af4-3e29" name="The Piper" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="2d80-2c1b-5af4-3e29" name="El Flautista" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -2742,7 +2742,7 @@
       <selectionEntries/>
       <selectionEntryGroups/>
       <entryLinks>
-        <entryLink id="55d0-260d-9bc8-b524" name="The Piper" hidden="false" targetId="e34a-6d79-52a3-65d9" type="selectionEntry">
+        <entryLink id="55d0-260d-9bc8-b524" name="El Flautista" hidden="false" targetId="e34a-6d79-52a3-65d9" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -2813,11 +2813,11 @@
   </selectionEntries>
   <entryLinks/>
   <sharedSelectionEntries>
-    <selectionEntry id="74d8-4939-681a-de1c" name="Chem Staff" book="Deadzone: Outbreak" page="78" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="74d8-4939-681a-de1c" name="Bastón Químico" book="Deadzone: Outbreak" page="78" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="8ff5-0411-7a5f-490a" name="Chem Staff" hidden="false" targetId="230b-93b3-bcb4-8532" type="profile">
+        <infoLink id="8ff5-0411-7a5f-490a" name="Bastón Químico" hidden="false" targetId="230b-93b3-bcb4-8532" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -2841,11 +2841,11 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="5.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="8573-ad7f-4083-375a" name="Spitter Rifle" book="Deadzone: Outbreak" page="78" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="8573-ad7f-4083-375a" name="Rifle Escupidor" book="Deadzone: Outbreak" page="78" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="4a1c-5c58-a514-7ee5" name="Spitter Rifle" hidden="false" targetId="df87-ddb6-9412-edf3" type="profile">
+        <infoLink id="4a1c-5c58-a514-7ee5" name="Rifle Escupidor" hidden="false" targetId="df87-ddb6-9412-edf3" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -2875,11 +2875,11 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="12.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="e5c1-a3c9-6635-dd56" name="Chem Thrower" book="Deadzone: Outbreak" page="78" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="e5c1-a3c9-6635-dd56" name="Rociador Químico" book="Deadzone: Outbreak" page="78" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="b34d-6176-ea5a-c9ff" name="Chem Thrower" hidden="false" targetId="d2c5-afcf-3226-c6f4" type="profile">
+        <infoLink id="b34d-6176-ea5a-c9ff" name="Rociador Químico" hidden="false" targetId="d2c5-afcf-3226-c6f4" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -2909,11 +2909,11 @@
         <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="2901-05d3-6d85-b1a2" name="Chem Spitter" book="Deadzone: Outbreak" page="78" hidden="false" collective="false" type="unit">
+    <selectionEntry id="2901-05d3-6d85-b1a2" name="Escupidor Químico" book="Deadzone: Outbreak" page="78" hidden="false" collective="false" type="unit">
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="8ac7-dfc2-85dc-a72d" name="Chem Spitter" hidden="false" targetId="ffb3-b09a-9a22-1b74" type="profile">
+        <infoLink id="8ac7-dfc2-85dc-a72d" name="Escupidor Químico" hidden="false" targetId="ffb3-b09a-9a22-1b74" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -2937,22 +2937,22 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="9.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="1584-1836-2c2a-3e07" name="Chemical Lanzagranadas" book="Deadzone: Outbreak" page="78" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="1584-1836-2c2a-3e07" name="Lanzagranadas Químico" book="Deadzone: Outbreak" page="78" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="0e71-950d-577a-1764" name="Chemical Lanzagranadas" hidden="false" targetId="1bb1-c9bb-f940-58e2" type="profile">
+        <infoLink id="0e71-950d-577a-1764" name="Lanzagranadas Químico" hidden="false" targetId="1bb1-c9bb-f940-58e2" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="cdb4-5065-352a-c6a2" name="Indirect (n)" hidden="false" targetId="8fe0-f858-5940-b816" type="rule">
+        <infoLink id="cdb4-5065-352a-c6a2" name="Indirecto (n)" hidden="false" targetId="8fe0-f858-5940-b816" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers>
-            <modifier type="set" field="name" value="Indirect (4)">
+            <modifier type="set" field="name" value="Indirecto (4)">
               <repeats/>
               <conditions/>
               <conditionGroups/>
@@ -2971,11 +2971,11 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="12.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="2435-678e-88c7-56ff" name="Det Pack (Mag Lock)" book="Deadzone: Outbreak" page="78" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="2435-678e-88c7-56ff" name="Equipo de Detonación (Fijador Magnético)" book="Deadzone: Outbreak" page="78" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="c486-2eae-969b-5ba0" name="Det Pack (Mag Lock)" hidden="false" targetId="241c-dcda-2db2-ac23" type="profile">
+        <infoLink id="c486-2eae-969b-5ba0" name="Equipo de Detonación (Fijador Magnético)" hidden="false" targetId="241c-dcda-2db2-ac23" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -2993,17 +2993,17 @@
         <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="bb60-43bd-7e61-199e" name="Det Pack (Prox Fuse)" book="Deadzone: Outbreak" page="78" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="bb60-43bd-7e61-199e" name="Equipo de Detonación (Detonador de Proximidad)" book="Deadzone: Outbreak" page="78" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="7eb8-b1df-0d4b-c9a0" name="Det Pack (Prox Fuse)" hidden="false" targetId="04fb-0b97-e340-980e" type="profile">
+        <infoLink id="7eb8-b1df-0d4b-c9a0" name="Equipo de Detonación (Detonador de Proximidad)" hidden="false" targetId="04fb-0b97-e340-980e" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="fca8-ff80-765b-1cd0" name="Blast" hidden="false" targetId="bae6-aa38-21d6-7869" type="rule">
+        <infoLink id="fca8-ff80-765b-1cd0" name="Onda Expansiva" hidden="false" targetId="bae6-aa38-21d6-7869" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -3021,7 +3021,7 @@
         <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="8796-6ff8-3f9d-e5ac" name="Big Drill" book="Deadzone: Outbreak" page="78" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="8796-6ff8-3f9d-e5ac" name="Gran Taladro" book="Deadzone: Outbreak" page="78" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
@@ -3043,7 +3043,7 @@
         <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="b024-272d-6f87-b655" name="Two-Handed Drill **" book="Deadzone: Outbreak" page="78" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="b024-272d-6f87-b655" name="Taladro a 2 Manos **" book="Deadzone: Outbreak" page="78" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
@@ -3065,7 +3065,7 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="8.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="6998-9ac0-10ab-f46b" name="Pair of Drills **" book="Deadzone: Outbreak" page="78" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="6998-9ac0-10ab-f46b" name="Par de Taladros **" book="Deadzone: Outbreak" page="78" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
@@ -3099,11 +3099,11 @@
         <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="6ee5-6a82-c433-c2cb" name="Pesada Chem Thrower**" book="Deadzone: Outbreak" page="78" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="6ee5-6a82-c433-c2cb" name="Rociador Químico Pesado **" book="Deadzone: Outbreak" page="78" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="1c20-dd06-4bb4-8e03" name="Pesada Chem Thrower **" hidden="false" targetId="bb1a-330c-ccd9-5c86" type="profile">
+        <infoLink id="1c20-dd06-4bb4-8e03" name="Pesada Rociador Químico" hidden="false" targetId="bb1a-330c-ccd9-5c86" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -3139,11 +3139,11 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="9.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="a6b1-c061-7450-ab40" name="Super Pesada Chem Thrower" book="Deadzone: Outbreak" page="78" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="a6b1-c061-7450-ab40" name="Rociador Químico Super Pesado " book="Deadzone: Outbreak" page="78" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="b952-e85a-08d5-8298" name="Super Pesada Chem Thrower" hidden="false" targetId="8d1e-8b91-559c-0d4b" type="profile">
+        <infoLink id="b952-e85a-08d5-8298" name="Super Pesada Rociador Químico" hidden="false" targetId="8d1e-8b91-559c-0d4b" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -3179,11 +3179,11 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="12.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="336e-acff-ef58-e8f9" name="Scythes" book="Deadzone: Outbreak" page="78" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="336e-acff-ef58-e8f9" name="Guadañas" book="Deadzone: Outbreak" page="78" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="ab3e-7e88-3335-406b" name="Scythes" hidden="false" targetId="7f39-72ff-f3bf-2d50" type="profile">
+        <infoLink id="ab3e-7e88-3335-406b" name="Guadañas" hidden="false" targetId="7f39-72ff-f3bf-2d50" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -3213,11 +3213,11 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="7.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="cde5-7fcb-960a-d4c7" name="Super Pesada Chem Spitter" book="Deadzone: Outbreak" page="78" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="cde5-7fcb-960a-d4c7" name="Escupidor Químico Súper Pesado" book="Deadzone: Outbreak" page="78" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="895b-264d-0b96-cfea" name="Super Pesada Chem Spitter" hidden="false" targetId="d267-51d9-f306-64f4" type="profile">
+        <infoLink id="895b-264d-0b96-cfea" name="Super Escupidor Químico Pesado" hidden="false" targetId="d267-51d9-f306-64f4" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -3235,7 +3235,7 @@
             </modifier>
           </modifiers>
         </infoLink>
-        <infoLink id="28b5-58dd-c06a-e5ef" name="Suppression" hidden="false" targetId="bcf7-8697-e7d8-43ac" type="rule">
+        <infoLink id="28b5-58dd-c06a-e5ef" name="Supresión" hidden="false" targetId="bcf7-8697-e7d8-43ac" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -3259,11 +3259,11 @@
         <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="1.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="0be3-67b5-5909-e09c" name="Pesada Chem Spitter" book="Deadzone: Outbreak" page="78" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="0be3-67b5-5909-e09c" name="Escupidor Químico Pesado" book="Deadzone: Outbreak" page="78" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="e629-369a-168a-f7e8" name="Pesada Chem Spitter" hidden="false" targetId="8330-d464-ea56-d935" type="profile">
+        <infoLink id="e629-369a-168a-f7e8" name="Escupidor Químico Pesado" hidden="false" targetId="8330-d464-ea56-d935" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -3281,7 +3281,7 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="8.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="b560-9280-fad1-1a9c" name="Twin Chem Spitters" book="Deadzone: Outbreak" page="78" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="b560-9280-fad1-1a9c" name="Escupidores Químicos Gemelos" book="Deadzone: Outbreak" page="78" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
@@ -3297,7 +3297,7 @@
             </modifier>
           </modifiers>
         </infoLink>
-        <infoLink id="26e1-e8ae-e685-cac4" name="Twin Chem Spitter" hidden="false" targetId="49da-affc-3c88-dfe3" type="profile">
+        <infoLink id="26e1-e8ae-e685-cac4" name="Twin Rociador Químico" hidden="false" targetId="49da-affc-3c88-dfe3" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -3321,7 +3321,7 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="10.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="849c-65f2-82e2-fdf9" name="Granada de Humo Launcher" book="Deadzone: Outbreak" page="78" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="849c-65f2-82e2-fdf9" name="Lanzagranadas de Humo" book="Deadzone: Outbreak" page="78" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
@@ -3331,7 +3331,7 @@
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="ae13-00c2-0693-9161" name="Indirect (Smoke)" hidden="false" targetId="fccc-6574-fe86-e5e2" type="rule">
+        <infoLink id="ae13-00c2-0693-9161" name="Indirecto (Humo)" hidden="false" targetId="fccc-6574-fe86-e5e2" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -3349,17 +3349,17 @@
         <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="80b4-ddd0-ad93-a063" name="Toxic Lanzagranadas" book="Deadzone: Outbreak" page="78" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="80b4-ddd0-ad93-a063" name="Lanzagranadas Tóxico" book="Deadzone: Outbreak" page="78" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="bdaa-b3d2-4324-56a0" name="Toxic Lanzagranadas" hidden="false" targetId="c1b2-9fc9-abd9-fb82" type="profile">
+        <infoLink id="bdaa-b3d2-4324-56a0" name="Tóxica Lanzagranadas" hidden="false" targetId="c1b2-9fc9-abd9-fb82" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="5ff1-3a49-9ccc-6805" name="Indirect (Toxic)" hidden="false" targetId="4217-fcd6-4cc5-2ed2" type="rule">
+        <infoLink id="5ff1-3a49-9ccc-6805" name="Indirecto (Tóxica)" hidden="false" targetId="4217-fcd6-4cc5-2ed2" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -3377,11 +3377,11 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="12.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="789c-e6f2-7a34-7e42" name="Ray Pistola *" book="Deadzone: Outbreak" page="78" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="789c-e6f2-7a34-7e42" name="Pistola de Rayos *" book="Deadzone: Outbreak" page="78" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="2bc9-5742-734b-0b0d" name="Ray Pistola" hidden="false" targetId="dd0d-a7f5-36b2-0c72" type="profile">
+        <infoLink id="2bc9-5742-734b-0b0d" name="Pistola de Rayos" hidden="false" targetId="dd0d-a7f5-36b2-0c72" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -3399,7 +3399,7 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="1.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="4bde-1f0c-eca1-026c" name="Ray Gun" book="Deadzone: Outbreak" page="78" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="4bde-1f0c-eca1-026c" name="Fusil de Rayos" book="Deadzone: Outbreak" page="78" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
@@ -3421,7 +3421,7 @@
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="4748-9df4-92ed-90f8" name="Ray Gun" hidden="false" targetId="4541-d85d-a13e-e796" type="profile">
+        <infoLink id="4748-9df4-92ed-90f8" name="Fusil de Rayos" hidden="false" targetId="4541-d85d-a13e-e796" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -3451,9 +3451,9 @@
       </constraints>
       <categoryLinks/>
       <selectionEntries>
-        <selectionEntry id="24ca-e940-18c8-6139" name="Toxic Granada (+)" hidden="false" collective="false" type="upgrade">
+        <selectionEntry id="24ca-e940-18c8-6139" name="Tóxica Granada (+)" hidden="false" collective="false" type="upgrade">
           <profiles>
-            <profile id="17bb-f5b8-7b1c-9e68" name="Toxic Granada" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
+            <profile id="17bb-f5b8-7b1c-9e68" name="Tóxica Granada" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -3461,7 +3461,7 @@
               <characteristics>
                 <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A3"/>
                 <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
-                <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Granada, Toxic Smokescreen, Un solo Uso"/>
+                <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Granada, Tóxica Smokescreen, Un solo Uso"/>
                 <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c"/>
               </characteristics>
             </profile>
@@ -3480,7 +3480,7 @@
               <infoLinks/>
               <modifiers/>
             </infoLink>
-            <infoLink id="9246-1aa9-d124-2d32" name="Toxic Smokescreen" hidden="false" targetId="95ec-04ae-0dd4-4f28" type="rule">
+            <infoLink id="9246-1aa9-d124-2d32" name="Tóxica Smokescreen" hidden="false" targetId="95ec-04ae-0dd4-4f28" type="rule">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -3623,24 +3623,24 @@
     </selectionEntryGroup>
   </sharedSelectionEntryGroups>
   <sharedRules>
-    <rule id="4217-fcd6-4cc5-2ed2" name="Indirect (Toxic)" hidden="false">
+    <rule id="4217-fcd6-4cc5-2ed2" name="Indirecto (Tóxica)" hidden="false">
       <profiles/>
       <rules/>
       <infoLinks/>
       <modifiers/>
-      <description>This weapon follows the normal rules for Indirect weapons (page 30 of the Deadzone 2.0 Rulebook) except that instead of a variable dice 4+ test (X) attack the effect is identical to a Granada de Humo going off in the modelâ€™s cube with the added bonus of the smoke being Toxic. As long as a model remains in the smoke-filled cube it is treated as having the Vulnerable ability. Models that are immune to Toxic are immune to the Toxic effects of a Toxic Smokescreen. Models that are already Vulnerable suffer no additional effects. Adjacent cubes are not affected by this Toxic effect.
+      <description>This weapon follows the normal rules for Indirecto weapons (page 30 of the Deadzone 2.0 Rulebook) except that instead of a variable dice 4+ test (X) attack the effect is identical to a Granada de Humo going off in the modelâ€™s cube with the added bonus of the smoke being Tóxica. As long as a model remains in the smoke-filled cube it is treated as having the Vulnerable ability. Models that are immune to Tóxica are immune to the Tóxica effects of a Tóxica Smokescreen. Models that are already Vulnerable suffer no additional effects. Adjacent cubes are not affected by this Tóxica effect.
 It disperses in the same way as a Granada de Humo.</description>
     </rule>
-    <rule id="fccc-6574-fe86-e5e2" name="Indirect (Smoke)" hidden="false">
+    <rule id="fccc-6574-fe86-e5e2" name="Indirecto (Humo)" hidden="false">
       <profiles/>
       <rules/>
       <infoLinks/>
       <modifiers/>
-      <description>This weapon follows the normal rules for Indirect weapons (page 30 of the Deadzone 2.0 Rulebook) except that instead of a variable dice 4+ test (X) attack the effect is identical to a Granada de Humo going off in the modelâ€™s cube.  The smoke-filled cube blocks all LOS, including to and from models inside it. Note, however, that it does not block LOS to the cube itself. Any Disparo attacks that trace a LOS through a cube that is adjacent to a smoke-filled cube suffer a -1 dice modifier (regardless of how many such cubes they cross). At the end of each Round roll one dice per smoke-filled cube. On a 1-4 the smoke in that cube remains in place. On a 5-8 the smoke dissipates and is removed.</description>
+      <description>This weapon follows the normal rules for Indirecto weapons (page 30 of the Deadzone 2.0 Rulebook) except that instead of a variable dice 4+ test (X) attack the effect is identical to a Granada de Humo going off in the modelâ€™s cube.  The smoke-filled cube blocks all LOS, including to y from models inside it. Note, however, that it does not block LOS to the cube itself. Any Disparo attacks that trace a LOS through a cube that is adjacent to a smoke-filled cube suffer a -1 dice modifier (regardless of how many such cubes they cross). At the end of each Round roll one dice per smoke-filled cube. On a 1-4 the smoke in that cube remains in place. On a 5-8 the smoke dissipates y is removed.</description>
     </rule>
   </sharedRules>
   <sharedProfiles>
-    <profile id="dd0d-a7f5-36b2-0c72" name="Ray Pistola" book="Deadzone: Outbreak" page="78" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
+    <profile id="dd0d-a7f5-36b2-0c72" name="Pistola de Rayos" book="Deadzone: Outbreak" page="78" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -3652,7 +3652,7 @@ It disperses in the same way as a Granada de Humo.</description>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Pequeño Calibre"/>
       </characteristics>
     </profile>
-    <profile id="4541-d85d-a13e-e796" name="Ray Gun" book="Deadzone: Outbreak" page="78" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
+    <profile id="4541-d85d-a13e-e796" name="Fusil de Rayos" book="Deadzone: Outbreak" page="78" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -3664,7 +3664,7 @@ It disperses in the same way as a Granada de Humo.</description>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Pequeño Calibre"/>
       </characteristics>
     </profile>
-    <profile id="230b-93b3-bcb4-8532" name="Chem Staff" book="Deadzone: Outbreak" page="78" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
+    <profile id="230b-93b3-bcb4-8532" name="Bastón Químico" book="Deadzone: Outbreak" page="78" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -3676,7 +3676,7 @@ It disperses in the same way as a Granada de Humo.</description>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Líder"/>
       </characteristics>
     </profile>
-    <profile id="df87-ddb6-9412-edf3" name="Spitter Rifle" book="Deadzone: Outbreak" page="78" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
+    <profile id="df87-ddb6-9412-edf3" name="Rifle Escupidor" book="Deadzone: Outbreak" page="78" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -3688,7 +3688,7 @@ It disperses in the same way as a Granada de Humo.</description>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Líder, Ligera (Francotirador)"/>
       </characteristics>
     </profile>
-    <profile id="d2c5-afcf-3226-c6f4" name="Chem Thrower" book="Deadzone: Outbreak" page="78" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
+    <profile id="d2c5-afcf-3226-c6f4" name="Rociador Químico" book="Deadzone: Outbreak" page="78" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -3700,7 +3700,7 @@ It disperses in the same way as a Granada de Humo.</description>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Asalto)"/>
       </characteristics>
     </profile>
-    <profile id="ffb3-b09a-9a22-1b74" name="Chem Spitter" book="Deadzone: Outbreak" page="78" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
+    <profile id="ffb3-b09a-9a22-1b74" name="Escupidor Químico" book="Deadzone: Outbreak" page="78" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -3712,7 +3712,7 @@ It disperses in the same way as a Granada de Humo.</description>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Automática)"/>
       </characteristics>
     </profile>
-    <profile id="1bb1-c9bb-f940-58e2" name="Chemical Lanzagranadas" book="Deadzone: Outbreak" page="78" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
+    <profile id="1bb1-c9bb-f940-58e2" name="Lanzagranadas Químico" book="Deadzone: Outbreak" page="78" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -3720,11 +3720,11 @@ It disperses in the same way as a Granada de Humo.</description>
       <characteristics>
         <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A5"/>
         <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
-        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Indirect (4)"/>
+        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Indirecto (4)"/>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Explosiva)"/>
       </characteristics>
     </profile>
-    <profile id="241c-dcda-2db2-ac23" name="Det Pack (Mag Lock)" book="Deadzone: Outbreak" page="78" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
+    <profile id="241c-dcda-2db2-ac23" name="Equipo de Detonación (Fijador Magnético)" book="Deadzone: Outbreak" page="78" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -3736,7 +3736,7 @@ It disperses in the same way as a Granada de Humo.</description>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Explosiva)"/>
       </characteristics>
     </profile>
-    <profile id="04fb-0b97-e340-980e" name="Det Pack (Prox Fuse)" book="Deadzone: Outbreak" page="78" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
+    <profile id="04fb-0b97-e340-980e" name="Equipo de Detonación (Detonador de Proximidad)" book="Deadzone: Outbreak" page="78" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -3744,11 +3744,11 @@ It disperses in the same way as a Granada de Humo.</description>
       <characteristics>
         <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A2"/>
         <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
-        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Blast"/>
+        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Onda Expansiva"/>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Explosiva)"/>
       </characteristics>
     </profile>
-    <profile id="68de-3063-a152-719d" name="Big Drill" book="Deadzone: Outbreak" page="78" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
+    <profile id="68de-3063-a152-719d" name="Gran Taladro" book="Deadzone: Outbreak" page="78" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -3760,7 +3760,7 @@ It disperses in the same way as a Granada de Humo.</description>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Melé), Pesada (Melé)"/>
       </characteristics>
     </profile>
-    <profile id="7e3c-511f-15e3-2273" name="Two-Handed Drill" book="Deadzone: Outbreak" page="78" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
+    <profile id="7e3c-511f-15e3-2273" name="Taladro a 2 Manos" book="Deadzone: Outbreak" page="78" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -3772,7 +3772,7 @@ It disperses in the same way as a Granada de Humo.</description>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Pesada (Melé)"/>
       </characteristics>
     </profile>
-    <profile id="90f6-6ef6-1e09-ded3" name="Pair or Drills" book="Deadzone: Outbreak" page="78" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
+    <profile id="90f6-6ef6-1e09-ded3" name="Par de Taladros" book="Deadzone: Outbreak" page="78" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -3784,7 +3784,7 @@ It disperses in the same way as a Granada de Humo.</description>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Pesada (Melé)"/>
       </characteristics>
     </profile>
-    <profile id="bb1a-330c-ccd9-5c86" name="Pesada Chem Thrower" book="Deadzone: Outbreak" page="78" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
+    <profile id="bb1a-330c-ccd9-5c86" name="Rociador Químico Pesado" book="Deadzone: Outbreak" page="78" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -3796,7 +3796,7 @@ It disperses in the same way as a Granada de Humo.</description>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Pesada (Asalto)"/>
       </characteristics>
     </profile>
-    <profile id="8d1e-8b91-559c-0d4b" name="Super Pesada Chem Thrower" book="Deadzone: Outbreak" page="78" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
+    <profile id="8d1e-8b91-559c-0d4b" name="Rociador Químico Super Pesado" book="Deadzone: Outbreak" page="78" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -3808,7 +3808,7 @@ It disperses in the same way as a Granada de Humo.</description>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Vehículo (Asalto)"/>
       </characteristics>
     </profile>
-    <profile id="7f39-72ff-f3bf-2d50" name="Scythes" book="Deadzone: Outbreak" page="78" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
+    <profile id="7f39-72ff-f3bf-2d50" name="Guadañas" book="Deadzone: Outbreak" page="78" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -3820,7 +3820,7 @@ It disperses in the same way as a Granada de Humo.</description>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Bestia [Animal] (Melé), Vehículo (Melé)"/>
       </characteristics>
     </profile>
-    <profile id="d267-51d9-f306-64f4" name="Super Pesada Chem Spitter" book="Deadzone: Outbreak" page="78" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
+    <profile id="d267-51d9-f306-64f4" name="Escupidor Químico Súper Pesado" book="Deadzone: Outbreak" page="78" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -3828,11 +3828,11 @@ It disperses in the same way as a Granada de Humo.</description>
       <characteristics>
         <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A8"/>
         <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="PA2"/>
-        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Cadencia de Fuego (1), Suppression, Pesada"/>
+        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Cadencia de Fuego (1), Supresión, Pesada"/>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Vehículo (Automática)"/>
       </characteristics>
     </profile>
-    <profile id="8330-d464-ea56-d935" name="Pesada Chem Spitter" book="Deadzone: Outbreak" page="78" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
+    <profile id="8330-d464-ea56-d935" name="Escupidor Químico Pesado" book="Deadzone: Outbreak" page="78" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -3844,7 +3844,7 @@ It disperses in the same way as a Granada de Humo.</description>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Bestia [Animal] (Ranged)"/>
       </characteristics>
     </profile>
-    <profile id="49da-affc-3c88-dfe3" name="Twin Chem Spitters" book="Deadzone: Outbreak" page="78" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
+    <profile id="49da-affc-3c88-dfe3" name="Escupidores Químicos Gemelos" book="Deadzone: Outbreak" page="78" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -3856,7 +3856,7 @@ It disperses in the same way as a Granada de Humo.</description>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Vehículo (Automática)"/>
       </characteristics>
     </profile>
-    <profile id="c65e-d8df-81e6-f7e4" name="Granada de Humo Launcher" book="Deadzone: Outbreak" page="78" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
+    <profile id="c65e-d8df-81e6-f7e4" name="Lanzagranadas de Humo" book="Deadzone: Outbreak" page="78" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -3864,11 +3864,11 @@ It disperses in the same way as a Granada de Humo.</description>
       <characteristics>
         <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A5"/>
         <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
-        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Indirect (Smoke)"/>
+        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Indirecto (Humo)"/>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Líder, Ligera (Explosiva)"/>
       </characteristics>
     </profile>
-    <profile id="c1b2-9fc9-abd9-fb82" name="Toxic Lanzagranadas" book="Deadzone: Outbreak" page="78" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
+    <profile id="c1b2-9fc9-abd9-fb82" name="Lanzagranadas Tóxico" book="Deadzone: Outbreak" page="78" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -3876,7 +3876,7 @@ It disperses in the same way as a Granada de Humo.</description>
       <characteristics>
         <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A5"/>
         <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
-        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Indirect (Toxic)"/>
+        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Indirecto (Tóxica)"/>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Líder, Ligera (Explosiva)"/>
       </characteristics>
     </profile>

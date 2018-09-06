@@ -8,9 +8,9 @@
   <categoryEntries/>
   <forceEntries/>
   <selectionEntries>
-    <selectionEntry id="3035-9267-2a08-1bfc" name="The Fear" book="Deadzone: Outbreak" page="56" hidden="false" collective="false" type="unit">
+    <selectionEntry id="3035-9267-2a08-1bfc" name="El Miedo" book="Deadzone: Outbreak" page="56" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="9584-92c0-51fe-c077" name="The Fear" book="Deadzone: Outbreak" page="56" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Líder">
+        <profile id="9584-92c0-51fe-c077" name="El Miedo" book="Deadzone: Outbreak" page="56" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Líder">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -32,7 +32,7 @@
           <rules/>
           <infoLinks/>
           <modifiers/>
-          <description>Spend an Army Special result to give the active model the Stealthy and Resilient (1) abilities until the end of the Round.  If a model already has Resilient add +1 to its value.</description>
+          <description>Spend an Army Special result to give the active model the Stealthy y Resilient (1) abilities until the end of the Round.  If a model already has Resilient add +1 to its value.</description>
         </rule>
       </rules>
       <infoLinks>
@@ -192,9 +192,9 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="30.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="2c0f-59f0-68da-dd33" name="Psychotroid" book="Deadzone: Outbreak" page="56" hidden="false" collective="false" type="unit">
+    <selectionEntry id="2c0f-59f0-68da-dd33" name="Psicotroide" book="Deadzone: Outbreak" page="56" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="e46b-dfc7-7ff5-82cb" name="Psychotroid" book="Deadzone: Outbreak" page="56" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Líder">
+        <profile id="e46b-dfc7-7ff5-82cb" name="Psicotroide" book="Deadzone: Outbreak" page="56" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Líder">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -216,7 +216,7 @@
           <rules/>
           <infoLinks/>
           <modifiers/>
-          <description>Spend an Army Special Result on a Command Dice at the start or end of the model&apos;s activation.  You may choose one non-pinned enemy model within 2 cubes and LoS and move it 1 cube directly away from the active model.  If the model enters a cube with an enemy model it will initiate a Lucha action but may only roll to Supervivencia.  If the model was in an occupied cube it must Breakaway to leave the cube.  The model is then marked as Activated, if it was not already.  You may use a maximum of one Special Result per activation.  Models with the Constructo or Vehículo abilities are unaffected by this rule.</description>
+          <description>Spend an Army Special Result on a Command Dice at the start or end of the model&apos;s activation.  You may choose one non-pinned enemy model within 2 cubes y LoS y move it 1 cube directly away from the active model.  If the model enters a cube with an enemy model it will initiate a Lucha action but may only roll to Supervivencia.  If the model was in an occupied cube it must Breakaway to leave the cube.  The model is then marked as Activated, if it was not already.  You may use a maximum of one Special Result per activation.  Models with the Constructo or Vehículo abilities are unaffected by this rule.</description>
         </rule>
       </rules>
       <infoLinks>
@@ -410,9 +410,9 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="36.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="4685-0f46-c5e2-a523" name="The Blight" book="Deadzone: Outbreak" page="57" hidden="false" collective="false" type="unit">
+    <selectionEntry id="4685-0f46-c5e2-a523" name="El Infortunio" book="Deadzone: Outbreak" page="57" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="29ed-333c-d67c-2a45" name="The Blight" book="Deadzone: Outbreak" page="57" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Líder">
+        <profile id="29ed-333c-d67c-2a45" name="El Infortunio" book="Deadzone: Outbreak" page="57" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Líder">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -553,7 +553,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="f433-a3cc-fd83-6e74" name="Corrosive Blast" hidden="false" targetId="2d38-f543-f39f-0c5a" type="selectionEntry">
+            <entryLink id="f433-a3cc-fd83-6e74" name="Corrosive Onda Expansiva" hidden="false" targetId="2d38-f543-f39f-0c5a" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -598,9 +598,9 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="30.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="fcb2-95b9-2fe1-8a10" name="Inker" book="Deadzone: Outbreak" page="57" hidden="false" collective="false" type="unit">
+    <selectionEntry id="fcb2-95b9-2fe1-8a10" name="Tintador" book="Deadzone: Outbreak" page="57" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="69f6-b4fc-109d-cfd7" name="Inker" book="Deadzone: Outbreak" page="57" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
+        <profile id="69f6-b4fc-109d-cfd7" name="Tintador" book="Deadzone: Outbreak" page="57" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -658,9 +658,9 @@
         </categoryLink>
       </categoryLinks>
       <selectionEntries>
-        <selectionEntry id="48fb-c654-1a56-a5db" name="Teeth" book="Deadzone: Outbreak" page="57" hidden="false" collective="false" type="upgrade">
+        <selectionEntry id="48fb-c654-1a56-a5db" name="Dientes" book="Deadzone: Outbreak" page="57" hidden="false" collective="false" type="upgrade">
           <profiles>
-            <profile id="2743-9e32-763a-1d96" name="Teeth" book="Deadzone: Outbreak" page="57" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
+            <profile id="2743-9e32-763a-1d96" name="Dientes" book="Deadzone: Outbreak" page="57" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -706,9 +706,9 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="8.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="dc6b-9530-7a96-541a" name="Scuttler" book="Deadzone: Outbreak" page="57" hidden="false" collective="false" type="unit">
+    <selectionEntry id="dc6b-9530-7a96-541a" name="Escurridizo" book="Deadzone: Outbreak" page="57" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="2171-408f-b2a0-383f" name="Scuttler" book="Deadzone: Outbreak" page="57" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
+        <profile id="2171-408f-b2a0-383f" name="Escurridizo" book="Deadzone: Outbreak" page="57" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -830,9 +830,9 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="8.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="7812-3aba-aacd-ec88" name="Caratid" book="Deadzone: Outbreak" page="57" hidden="false" collective="false" type="unit">
+    <selectionEntry id="7812-3aba-aacd-ec88" name="Carátida" book="Deadzone: Outbreak" page="57" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="626b-ea6e-8f3a-0460" name="Caratid" book="Deadzone: Outbreak" page="57" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
+        <profile id="626b-ea6e-8f3a-0460" name="Carátida" book="Deadzone: Outbreak" page="57" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -985,9 +985,9 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="9.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="d3d2-f9e1-1983-7388" name="Assassin" book="Deadzone: Outbreak" page="58" hidden="false" collective="false" type="unit">
+    <selectionEntry id="d3d2-f9e1-1983-7388" name="Asesino" book="Deadzone: Outbreak" page="58" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="c2b7-f84b-cb03-1e79" name="Assassin" book="Deadzone: Outbreak" page="58" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
+        <profile id="c2b7-f84b-cb03-1e79" name="Asesino" book="Deadzone: Outbreak" page="58" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1088,9 +1088,9 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="17.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="588c-ab15-5c68-2053" name="Needle Drones" book="Deadzone: Outbreak" page="58" hidden="false" collective="false" type="unit">
+    <selectionEntry id="588c-ab15-5c68-2053" name="Dron de Agujases" book="Deadzone: Outbreak" page="58" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="7ec1-2171-5b42-9e9e" name="Needle Drones" book="Deadzone: Outbreak" page="58" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
+        <profile id="7ec1-2171-5b42-9e9e" name="Dron de Agujases" book="Deadzone: Outbreak" page="58" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1196,9 +1196,9 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="10.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="2f69-f810-ef4a-54a6" name="Gunslinger" book="Deadzone: Outbreak" page="58" hidden="false" collective="false" type="unit">
+    <selectionEntry id="2f69-f810-ef4a-54a6" name="Pistolero" book="Deadzone: Outbreak" page="58" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="cc89-8faf-9134-40c3" name="Gunslinger" book="Deadzone: Outbreak" page="58" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
+        <profile id="cc89-8faf-9134-40c3" name="Pistolero" book="Deadzone: Outbreak" page="58" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1343,9 +1343,9 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="15.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="5e0a-a8f1-23bc-b5b4" name="Ogre" book="Deadzone: Outbreak" page="58" hidden="false" collective="false" type="unit">
+    <selectionEntry id="5e0a-a8f1-23bc-b5b4" name="Ogro" book="Deadzone: Outbreak" page="58" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="f2b7-a142-53e5-89da" name="Ogre" book="Deadzone: Outbreak" page="58" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
+        <profile id="f2b7-a142-53e5-89da" name="Ogro" book="Deadzone: Outbreak" page="58" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1469,9 +1469,9 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="35.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="3258-7490-771a-2a32" name="The Terror" book="Deadzone: Outbreak" page="59" hidden="false" collective="false" type="unit">
+    <selectionEntry id="3258-7490-771a-2a32" name="El Terror" book="Deadzone: Outbreak" page="59" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="5308-930c-1f0e-15c9" name="The Terror" book="Deadzone: Outbreak" page="59" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
+        <profile id="5308-930c-1f0e-15c9" name="El Terror" book="Deadzone: Outbreak" page="59" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1577,9 +1577,9 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="24.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="559a-dddd-fd9a-86f0" name="Rifleman" book="Deadzone: Outbreak" page="59" hidden="false" collective="false" type="unit">
+    <selectionEntry id="559a-dddd-fd9a-86f0" name="Fusilero" book="Deadzone: Outbreak" page="59" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="2052-fe9a-3b40-2b22" name="Rifleman" book="Deadzone: Outbreak" page="59" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
+        <profile id="2052-fe9a-3b40-2b22" name="Fusilero" book="Deadzone: Outbreak" page="59" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1730,9 +1730,9 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="15.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="c453-c6cd-540a-c036" name="Bathomite" book="Deadzone: Outbreak" page="59" hidden="false" collective="false" type="unit">
+    <selectionEntry id="c453-c6cd-540a-c036" name="Batomita" book="Deadzone: Outbreak" page="59" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="7400-7517-e4f9-335e" name="Bathomite" book="Deadzone: Outbreak" page="59" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
+        <profile id="7400-7517-e4f9-335e" name="Batomita" book="Deadzone: Outbreak" page="59" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1925,9 +1925,9 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="27.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="67b1-920f-7c13-34de" name="Goliath" book="Deadzone: Outbreak" page="59" hidden="false" collective="false" type="unit">
+    <selectionEntry id="67b1-920f-7c13-34de" name="Goliat" book="Deadzone: Outbreak" page="59" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="f8e7-4a3d-867d-626b" name="Goliath" book="Deadzone: Outbreak" page="59" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
+        <profile id="f8e7-4a3d-867d-626b" name="Goliat" book="Deadzone: Outbreak" page="59" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -3009,16 +3009,16 @@
         </profile>
       </profiles>
       <rules>
-        <rule id="4f8b-c8bb-49b3-4dce" name="Toxic Slime" book="Deadzone: Outbreak" page="85" hidden="false">
+        <rule id="4f8b-c8bb-49b3-4dce" name="Tóxica Slime" book="Deadzone: Outbreak" page="85" hidden="false">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers/>
-          <description>Spend an Army Special Result on a Command Dice to give the active model a Toxic attack: AL, Toxic.  This attack replaces any current AL weapon for this attack only.</description>
+          <description>Spend an Army Special Result on a Command Dice to give the active model a Tóxica attack: AL, Tóxica.  This attack replaces any current AL weapon for this attack only.</description>
         </rule>
       </rules>
       <infoLinks>
-        <infoLink id="de3f-3f27-cef1-9564" name="Scout" hidden="false" targetId="634d-5763-a726-b91f" type="rule">
+        <infoLink id="de3f-3f27-cef1-9564" name="Explorador" hidden="false" targetId="634d-5763-a726-b91f" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -3037,9 +3037,9 @@
         </categoryLink>
       </categoryLinks>
       <selectionEntries>
-        <selectionEntry id="a931-ebe7-0566-b98a" name="Lanzaagujas" book="Deadzone: Outbreak" page="85" hidden="false" collective="false" type="upgrade">
+        <selectionEntry id="a931-ebe7-0566-b98a" name="Lanzagujas" book="Deadzone: Outbreak" page="85" hidden="false" collective="false" type="upgrade">
           <profiles>
-            <profile id="9a0b-1517-cd93-5d47" name="Lanzaagujas" book="Deadzone: Outbreak" page="85" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
+            <profile id="9a0b-1517-cd93-5d47" name="Lanzagujas" book="Deadzone: Outbreak" page="85" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -3091,14 +3091,14 @@
               <characteristics>
                 <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="AL"/>
                 <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="PA1"/>
-                <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Toxic"/>
+                <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Tóxica"/>
                 <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c"/>
               </characteristics>
             </profile>
           </profiles>
           <rules/>
           <infoLinks>
-            <infoLink id="05da-c5c9-433e-427d" name="Toxic" hidden="false" targetId="206d-4b8e-08b9-7a59" type="rule">
+            <infoLink id="05da-c5c9-433e-427d" name="Tóxica" hidden="false" targetId="206d-4b8e-08b9-7a59" type="rule">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -3224,11 +3224,11 @@
         <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="2d38-f543-f39f-0c5a" name="Corrosive Blast" book="Deadzone: Outbreak" page="60" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="2d38-f543-f39f-0c5a" name="Corrosive Onda Expansiva" book="Deadzone: Outbreak" page="60" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="d880-f888-edef-ee40" name="Corrosive Blast" hidden="false" targetId="202a-2023-9d02-ef34" type="profile">
+        <infoLink id="d880-f888-edef-ee40" name="Corrosive Onda Expansiva" hidden="false" targetId="202a-2023-9d02-ef34" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -3404,7 +3404,7 @@
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="760e-e9cc-e58d-3c08" name="Blast" hidden="false" targetId="bae6-aa38-21d6-7869" type="rule">
+        <infoLink id="760e-e9cc-e58d-3c08" name="Onda Expansiva" hidden="false" targetId="bae6-aa38-21d6-7869" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -3438,7 +3438,7 @@
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="f51f-935b-28cc-2795" name="Suppression" hidden="false" targetId="bcf7-8697-e7d8-43ac" type="rule">
+        <infoLink id="f51f-935b-28cc-2795" name="Supresión" hidden="false" targetId="bcf7-8697-e7d8-43ac" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -3574,12 +3574,12 @@
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="1e41-54bf-5e82-9ccc" name="Indirect (n)" hidden="false" targetId="8fe0-f858-5940-b816" type="rule">
+        <infoLink id="1e41-54bf-5e82-9ccc" name="Indirecto (n)" hidden="false" targetId="8fe0-f858-5940-b816" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers>
-            <modifier type="set" field="name" value="Indirect (3)">
+            <modifier type="set" field="name" value="Indirecto (3)">
               <repeats/>
               <conditions/>
               <conditionGroups/>
@@ -3626,7 +3626,7 @@
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="3d58-da77-f422-7796" name="Suppression" hidden="false" targetId="bcf7-8697-e7d8-43ac" type="rule">
+        <infoLink id="3d58-da77-f422-7796" name="Supresión" hidden="false" targetId="bcf7-8697-e7d8-43ac" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -3895,7 +3895,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Pequeño Calibre"/>
       </characteristics>
     </profile>
-    <profile id="202a-2023-9d02-ef34" name="Corrosive Blast" book="Deadzone: Outbreak" page="60" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
+    <profile id="202a-2023-9d02-ef34" name="Corrosive Onda Expansiva" book="Deadzone: Outbreak" page="60" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -3963,7 +3963,7 @@
       <characteristics>
         <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A2"/>
         <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
-        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Psychic, Blast"/>
+        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Psychic, Onda Expansiva"/>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Psychic)"/>
       </characteristics>
     </profile>
@@ -3975,7 +3975,7 @@
       <characteristics>
         <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A4"/>
         <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
-        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Psychic, Suppression"/>
+        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Psychic, Supresión"/>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Psychic)"/>
       </characteristics>
     </profile>
@@ -4023,7 +4023,7 @@
       <characteristics>
         <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A5"/>
         <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="PA1"/>
-        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Indirect (3), Pesada, Triclinic Shard"/>
+        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Indirecto (3), Pesada, Triclinic Shard"/>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Pesada (Explosiva)"/>
       </characteristics>
     </profile>
@@ -4035,7 +4035,7 @@
       <characteristics>
         <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A4"/>
         <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="PA2"/>
-        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Psychic, Suppression"/>
+        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Psychic, Supresión"/>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Pesada (Lanza)"/>
       </characteristics>
     </profile>

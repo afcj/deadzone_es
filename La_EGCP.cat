@@ -1517,7 +1517,7 @@ Esta acción de Disparo gratuita no se puede usar para realizar Fuego de Supresi
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="af23-3e23-4c7c-7b87" name="Mortar" hidden="false" targetId="8bc5-1c5c-0b1c-ba18" type="selectionEntry">
+            <entryLink id="af23-3e23-4c7c-7b87" name="Mortero" hidden="false" targetId="8bc5-1c5c-0b1c-ba18" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -2482,12 +2482,12 @@ Esta acción de Disparo gratuita no se puede usar para realizar Fuego de Supresi
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="9443-fbb0-89a0-2627" name="Indirect (n)" hidden="false" targetId="8fe0-f858-5940-b816" type="rule">
+        <infoLink id="9443-fbb0-89a0-2627" name="Indirecto (n)" hidden="false" targetId="8fe0-f858-5940-b816" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers>
-            <modifier type="set" field="name" value="Indirect (3)">
+            <modifier type="set" field="name" value="Indirecto (3)">
               <repeats/>
               <conditions/>
               <conditionGroups/>
@@ -2668,7 +2668,7 @@ Esta acción de Disparo gratuita no se puede usar para realizar Fuego de Supresi
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="f09d-5fab-9ff5-7724" name="Suppression" hidden="false" targetId="bcf7-8697-e7d8-43ac" type="rule">
+        <infoLink id="f09d-5fab-9ff5-7724" name="Supresión" hidden="false" targetId="bcf7-8697-e7d8-43ac" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -2776,18 +2776,18 @@ Esta acción de Disparo gratuita no se puede usar para realizar Fuego de Supresi
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="215b-2767-c2e6-7b9a" name="Mortar" hidden="false" targetId="940a-73e7-0063-3aa5" type="profile">
+        <infoLink id="215b-2767-c2e6-7b9a" name="Mortero" hidden="false" targetId="940a-73e7-0063-3aa5" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="0af2-a131-4333-423e" name="Indirect (n)" hidden="false" targetId="8fe0-f858-5940-b816" type="rule">
+        <infoLink id="0af2-a131-4333-423e" name="Indirecto (n)" hidden="false" targetId="8fe0-f858-5940-b816" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers>
-            <modifier type="set" field="name" value="Indirect (4)">
+            <modifier type="set" field="name" value="Indirecto (4)">
               <repeats/>
               <conditions/>
               <conditionGroups/>
@@ -2912,7 +2912,7 @@ Esta acción de Disparo gratuita no se puede usar para realizar Fuego de Supresi
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="7bcc-d51b-43bd-bdde" name="Suppression" hidden="false" targetId="bcf7-8697-e7d8-43ac" type="rule">
+        <infoLink id="7bcc-d51b-43bd-bdde" name="Supresión" hidden="false" targetId="bcf7-8697-e7d8-43ac" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -3327,7 +3327,7 @@ Esta acción de Disparo gratuita no se puede usar para realizar Fuego de Supresi
       <characteristics>
         <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A5"/>
         <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
-        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Indirect (3)"/>
+        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Indirecto (3)"/>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Explosiva)"/>
       </characteristics>
     </profile>
@@ -3399,7 +3399,7 @@ Esta acción de Disparo gratuita no se puede usar para realizar Fuego de Supresi
       <characteristics>
         <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A6"/>
         <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
-        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Suppression, Cadencia de Fuego (1), Pesada"/>
+        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Supresión, Cadencia de Fuego (1), Pesada"/>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Pesada (Crew Served Weapon)"/>
       </characteristics>
     </profile>
@@ -3435,7 +3435,7 @@ Esta acción de Disparo gratuita no se puede usar para realizar Fuego de Supresi
       <characteristics>
         <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A8"/>
         <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
-        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Indirect (4), Pesada"/>
+        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Indirecto (4), Pesada"/>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Pesada (Crew Served Weapon)"/>
       </characteristics>
     </profile>
@@ -3483,7 +3483,7 @@ Esta acción de Disparo gratuita no se puede usar para realizar Fuego de Supresi
       <characteristics>
         <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A10"/>
         <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
-        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Suppression, Cadencia de Fuego (2)"/>
+        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Supresión, Cadencia de Fuego (2)"/>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Andador (Automática)"/>
       </characteristics>
     </profile>

@@ -32,7 +32,7 @@
           <rules/>
           <infoLinks/>
           <modifiers/>
-          <description>Use an Army Special result to replace a model from your strike team that has just been killed with a Plague Victim model.  This model is placed pinned and activated in the same cube as the killed model and can activate as normal from the next round.  In all ways this new model acts as a member of your strike team.  PPV are scored for killing both the original model and if the new Plague Victim model is killed.  The fast-acting serum takes precedence over any other similar rule such as Plague Infection.</description>
+          <description>Use an Army Special result to replace a model from your strike team that has just been killed with a Víctima de la Plaga model.  This model is placed pinned y activated in the same cube as the killed model y can activate as normal from the next round.  In all ways this new model acts as a member of your strike team.  PPV are scored for killing both the original model y if the new Víctima de la Plaga model is killed.  The fast-acting serum takes precedence over any other similar rule such as Plague Infection.</description>
         </rule>
       </rules>
       <infoLinks>
@@ -438,7 +438,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="9f56-1a11-4bcc-ebfb" name="Flame Thrower" hidden="false" targetId="1c29-223f-196a-a549" type="selectionEntry">
+            <entryLink id="9f56-1a11-4bcc-ebfb" name="Lanzallamas" hidden="false" targetId="1c29-223f-196a-a549" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -675,9 +675,9 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="6.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="ad62-5e16-3f02-b416" name="Mazon Security Guard" book="Deadzone: Outbreak" page="53" hidden="true" collective="false" type="unit">
+    <selectionEntry id="ad62-5e16-3f02-b416" name="Guardia de Seguridad de Mazon" book="Deadzone: Outbreak" page="53" hidden="true" collective="false" type="unit">
       <profiles>
-        <profile id="d89c-f319-203a-317e" name="Mazon Security Guard" book="Deadzone: Outbreak" page="53" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
+        <profile id="d89c-f319-203a-317e" name="Guardia de Seguridad de Mazon" book="Deadzone: Outbreak" page="53" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -911,9 +911,9 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="11.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="4911-092f-1ae0-34d9" name="Aberration Specimen" book="Deadzone: Outbreak" page="53" hidden="true" collective="false" type="unit">
+    <selectionEntry id="4911-092f-1ae0-34d9" name="Espécimen de Aberración" book="Deadzone: Outbreak" page="53" hidden="true" collective="false" type="unit">
       <profiles>
-        <profile id="4e68-4fbd-b686-c809" name="Aberration Specimen" book="Deadzone: Outbreak" page="53" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
+        <profile id="4e68-4fbd-b686-c809" name="Espécimen de Aberración" book="Deadzone: Outbreak" page="53" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1029,9 +1029,9 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="40.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="de45-a4eb-6d99-9aaf" name="Urbana Black Wing Ranger" book="Deadzone: Outbreak" page="53" hidden="true" collective="false" type="unit">
+    <selectionEntry id="de45-a4eb-6d99-9aaf" name="Ranger de Urbana Ala Negra" book="Deadzone: Outbreak" page="53" hidden="true" collective="false" type="unit">
       <profiles>
-        <profile id="4729-defe-f3a2-2036" name="Urbana Black Wing Ranger" book="Deadzone: Outbreak" page="53" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
+        <profile id="4729-defe-f3a2-2036" name="Ranger de Urbana Ala Negra" book="Deadzone: Outbreak" page="53" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1048,7 +1048,7 @@
       </profiles>
       <rules/>
       <infoLinks>
-        <infoLink id="9a30-735a-9f9d-1280" name="Scout" hidden="false" targetId="634d-5763-a726-b91f" type="rule">
+        <infoLink id="9a30-735a-9f9d-1280" name="Explorador" hidden="false" targetId="634d-5763-a726-b91f" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1131,7 +1131,7 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="16.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="4828-1d14-a09c-d947" name="Urbana Black Wing Especialista" book="Deadzone: Outbreak" page="53" hidden="true" collective="false" type="unit">
+    <selectionEntry id="4828-1d14-a09c-d947" name="Especialista de Urbana Ala Negra" book="Deadzone: Outbreak" page="53" hidden="true" collective="false" type="unit">
       <profiles>
         <profile id="e9d1-2744-81d6-9d17" name="Urbana Black Wing Marine" book="Deadzone: Outbreak" page="53" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
           <profiles/>
@@ -1207,7 +1207,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="e5e2-e715-5e51-f685" name="Flame Thrower" hidden="false" targetId="1c29-223f-196a-a549" type="selectionEntry">
+            <entryLink id="e5e2-e715-5e51-f685" name="Lanzallamas" hidden="false" targetId="1c29-223f-196a-a549" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1287,9 +1287,9 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="11.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="9530-64da-db8c-9ba6" name="Urbana Black Wing Ingeniero" book="Deadzone: Outbreak" page="54" hidden="true" collective="false" type="unit">
+    <selectionEntry id="9530-64da-db8c-9ba6" name="Ingeniero de Urbana Ala Negra" book="Deadzone: Outbreak" page="54" hidden="true" collective="false" type="unit">
       <profiles>
-        <profile id="25f2-18e3-08fa-95ce" name="Urbana Black Wing Ingeniero" book="Deadzone: Outbreak" page="54" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
+        <profile id="25f2-18e3-08fa-95ce" name="Ingeniero de Urbana Ala Negra" book="Deadzone: Outbreak" page="54" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1418,9 +1418,9 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="12.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="c5d6-7a5a-b27a-8d96" name="Urbana Black Wing Médico" book="Deadzone: Outbreak" page="54" hidden="true" collective="false" type="unit">
+    <selectionEntry id="c5d6-7a5a-b27a-8d96" name="Médico de Urbana Ala Negra" book="Deadzone: Outbreak" page="54" hidden="true" collective="false" type="unit">
       <profiles>
-        <profile id="1ba9-dc71-a238-fb2f" name="Urbana Black Wing Médico" book="Deadzone: Outbreak" page="54" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
+        <profile id="1ba9-dc71-a238-fb2f" name="Médico de Urbana Ala Negra" book="Deadzone: Outbreak" page="54" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1549,9 +1549,9 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="12.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="f352-ac19-25e5-4c10" name="Plague Victim" book="Deadzone: Outbreak" page="54" hidden="true" collective="false" type="unit">
+    <selectionEntry id="f352-ac19-25e5-4c10" name="Víctima de la Plaga" book="Deadzone: Outbreak" page="54" hidden="true" collective="false" type="unit">
       <profiles>
-        <profile id="7c39-eba0-af29-92e5" name="Plague Victim" book="Deadzone: Outbreak" page="54" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
+        <profile id="7c39-eba0-af29-92e5" name="Víctima de la Plaga" book="Deadzone: Outbreak" page="54" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1639,9 +1639,9 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="11.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="858e-bc1b-d865-d8f1" name="Organic Data Storage Unit" book="Deadzone: Outbreak" page="54" hidden="true" collective="false" type="unit">
+    <selectionEntry id="858e-bc1b-d865-d8f1" name="Unidad Orgánica de Almacenamiento de Datos" book="Deadzone: Outbreak" page="54" hidden="true" collective="false" type="unit">
       <profiles>
-        <profile id="127c-3434-963d-5957" name="Organic Data Storage Unit" book="Deadzone: Outbreak" page="54" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
+        <profile id="127c-3434-963d-5957" name="Unidad Orgánica de Almacenamiento de Datos" book="Deadzone: Outbreak" page="54" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1716,9 +1716,9 @@
         </categoryLink>
       </categoryLinks>
       <selectionEntries>
-        <selectionEntry id="07b0-e3d0-0704-5eae" name="Mind Blast" book="Deadzone: Outbreak" page="54" hidden="false" collective="false" type="upgrade">
+        <selectionEntry id="07b0-e3d0-0704-5eae" name="Mind Onda Expansiva" book="Deadzone: Outbreak" page="54" hidden="false" collective="false" type="upgrade">
           <profiles>
-            <profile id="d1c2-2784-e6f1-e4c8" name="Mind Blast" book="Deadzone: Outbreak" page="54" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
+            <profile id="d1c2-2784-e6f1-e4c8" name="Mind Onda Expansiva" book="Deadzone: Outbreak" page="54" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1726,14 +1726,14 @@
               <characteristics>
                 <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A4"/>
                 <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
-                <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Psychic, Blast"/>
+                <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Psychic, Onda Expansiva"/>
                 <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value=""/>
               </characteristics>
             </profile>
           </profiles>
           <rules/>
           <infoLinks>
-            <infoLink id="bcdb-22d3-926a-25ab" name="Blast" hidden="false" targetId="bae6-aa38-21d6-7869" type="rule">
+            <infoLink id="bcdb-22d3-926a-25ab" name="Onda Expansiva" hidden="false" targetId="bae6-aa38-21d6-7869" type="rule">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1903,9 +1903,9 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="24.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="79af-d29a-fb78-08d2" name="Black Wing Andador" book="Deadzone: Outbreak" page="55" hidden="true" collective="false" type="unit">
+    <selectionEntry id="79af-d29a-fb78-08d2" name="Andador Ala Negra" book="Deadzone: Outbreak" page="55" hidden="true" collective="false" type="unit">
       <profiles>
-        <profile id="5fa5-d30c-c8c4-6448" name="Black Wing Andador" book="Deadzone: Outbreak" page="55" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
+        <profile id="5fa5-d30c-c8c4-6448" name="Andador Ala Negra" book="Deadzone: Outbreak" page="55" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -2938,11 +2938,11 @@
         <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="1c29-223f-196a-a549" name="Flame Thrower" book="Deadzone: Outbreak" page="55" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="1c29-223f-196a-a549" name="Lanzallamas" book="Deadzone: Outbreak" page="55" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="276d-acba-454e-a8a7" name="Flame Thrower" hidden="false" targetId="c59d-75f2-5a8d-f468" type="profile">
+        <infoLink id="276d-acba-454e-a8a7" name="Lanzallamas" hidden="false" targetId="c59d-75f2-5a8d-f468" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -3004,12 +3004,12 @@
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="d7c9-2e4e-b700-1c7b" name="Indirect (n)" hidden="false" targetId="8fe0-f858-5940-b816" type="rule">
+        <infoLink id="d7c9-2e4e-b700-1c7b" name="Indirecto (n)" hidden="false" targetId="8fe0-f858-5940-b816" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers>
-            <modifier type="set" field="name" value="Indirect (3)">
+            <modifier type="set" field="name" value="Indirecto (3)">
               <repeats/>
               <conditions/>
               <conditionGroups/>
@@ -3224,7 +3224,7 @@
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="f338-087b-07e8-ae04" name="Suppression" hidden="false" targetId="bcf7-8697-e7d8-43ac" type="rule">
+        <infoLink id="f338-087b-07e8-ae04" name="Supresión" hidden="false" targetId="bcf7-8697-e7d8-43ac" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -3601,7 +3601,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Pequeño Calibre"/>
       </characteristics>
     </profile>
-    <profile id="c59d-75f2-5a8d-f468" name="Flame Thrower" book="Deadzone: Outbreak" page="55" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
+    <profile id="c59d-75f2-5a8d-f468" name="Lanzallamas" book="Deadzone: Outbreak" page="55" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -3633,7 +3633,7 @@
       <characteristics>
         <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A5"/>
         <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
-        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Indirect (3)"/>
+        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Indirecto (3)"/>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Explosiva)"/>
       </characteristics>
     </profile>
@@ -3717,7 +3717,7 @@
       <characteristics>
         <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A10"/>
         <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
-        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Suppression, Cadencia de Fuego (2)"/>
+        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Supresión, Cadencia de Fuego (2)"/>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Andador (Automática)"/>
       </characteristics>
     </profile>

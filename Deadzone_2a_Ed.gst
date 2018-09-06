@@ -638,7 +638,7 @@
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="f819-2c77-2e5a-2415" name="Mono-Wheel Scout Bike" hidden="false" targetId="9341-0ff9-d000-33b0" type="rule">
+        <infoLink id="f819-2c77-2e5a-2415" name="Mono-Wheel Explorador Bike" hidden="false" targetId="9341-0ff9-d000-33b0" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -946,7 +946,7 @@
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="c0ea-8ebf-13fd-2d8a" name="Scout" hidden="false" targetId="634d-5763-a726-b91f" type="rule">
+        <infoLink id="c0ea-8ebf-13fd-2d8a" name="Explorador" hidden="false" targetId="634d-5763-a726-b91f" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1630,14 +1630,14 @@
               <characteristics>
                 <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A4"/>
                 <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
-                <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Blast, Psychic"/>
+                <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Onda Expansiva, Psychic"/>
                 <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c"/>
               </characteristics>
             </profile>
           </profiles>
           <rules/>
           <infoLinks>
-            <infoLink id="e15d-8872-67b3-b786" name="Blast" hidden="false" targetId="bae6-aa38-21d6-7869" type="rule">
+            <infoLink id="e15d-8872-67b3-b786" name="Onda Expansiva" hidden="false" targetId="bae6-aa38-21d6-7869" type="rule">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1791,7 +1791,7 @@
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="2b3f-1d74-6e8a-b53f" name="Scout" hidden="false" targetId="634d-5763-a726-b91f" type="rule">
+        <infoLink id="2b3f-1d74-6e8a-b53f" name="Explorador" hidden="false" targetId="634d-5763-a726-b91f" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1822,9 +1822,9 @@
         </categoryLink>
       </categoryLinks>
       <selectionEntries>
-        <selectionEntry id="dccd-dd3c-48bd-8390" name="Crossbow" hidden="false" collective="false" type="upgrade">
+        <selectionEntry id="dccd-dd3c-48bd-8390" name="Ballesta" hidden="false" collective="false" type="upgrade">
           <profiles>
-            <profile id="88ad-dfe8-db07-43f6" name="Crossbow" book="Reglamento Deadzone 2ª Edición" page="91" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
+            <profile id="88ad-dfe8-db07-43f6" name="Ballesta" book="Reglamento Deadzone 2ª Edición" page="91" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -2298,7 +2298,7 @@
               <characteristics>
                 <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A5"/>
                 <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
-                <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Suppression, Cadencia de Fuego (1)"/>
+                <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Supresión, Cadencia de Fuego (1)"/>
                 <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c"/>
               </characteristics>
             </profile>
@@ -2317,7 +2317,7 @@
                 </modifier>
               </modifiers>
             </infoLink>
-            <infoLink id="c337-3e24-5aa1-4320" name="Suppression" hidden="false" targetId="bcf7-8697-e7d8-43ac" type="rule">
+            <infoLink id="c337-3e24-5aa1-4320" name="Supresión" hidden="false" targetId="bcf7-8697-e7d8-43ac" type="rule">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -2409,7 +2409,7 @@
       </profiles>
       <rules/>
       <infoLinks>
-        <infoLink id="ca35-160b-0501-2b47" name="Scout" hidden="false" targetId="634d-5763-a726-b91f" type="rule">
+        <infoLink id="ca35-160b-0501-2b47" name="Explorador" hidden="false" targetId="634d-5763-a726-b91f" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -2428,9 +2428,9 @@
         </categoryLink>
       </categoryLinks>
       <selectionEntries>
-        <selectionEntry id="826d-5e4f-50fa-406e" name="Lanzaagujas" book="Deadzone: Outbreak" page="85" hidden="false" collective="false" type="upgrade">
+        <selectionEntry id="826d-5e4f-50fa-406e" name="Lanzagujas" book="Deadzone: Outbreak" page="85" hidden="false" collective="false" type="upgrade">
           <profiles>
-            <profile id="622c-fab0-d64a-94a5" name="Lanzaagujas" book="Deadzone: Outbreak" page="85" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
+            <profile id="622c-fab0-d64a-94a5" name="Lanzagujas" book="Deadzone: Outbreak" page="85" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -2488,14 +2488,14 @@
               <characteristics>
                 <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="AL"/>
                 <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="PA1"/>
-                <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Toxic"/>
+                <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Tóxica"/>
                 <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c"/>
               </characteristics>
             </profile>
           </profiles>
           <rules/>
           <infoLinks>
-            <infoLink id="5d22-534d-b774-2b25" name="Toxic" hidden="false" targetId="206d-4b8e-08b9-7a59" type="rule">
+            <infoLink id="5d22-534d-b774-2b25" name="Tóxica" hidden="false" targetId="206d-4b8e-08b9-7a59" type="rule">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -3402,7 +3402,7 @@
           </profiles>
           <rules/>
           <infoLinks>
-            <infoLink id="bd5f-d308-5dcc-39a2" name="Scout" hidden="false" targetId="634d-5763-a726-b91f" type="rule">
+            <infoLink id="bd5f-d308-5dcc-39a2" name="Explorador" hidden="false" targetId="634d-5763-a726-b91f" type="rule">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -3664,7 +3664,7 @@
           </profiles>
           <rules/>
           <infoLinks>
-            <infoLink id="64e0-6b63-fc1a-140e" name="Toxic" hidden="false" targetId="206d-4b8e-08b9-7a59" type="rule">
+            <infoLink id="64e0-6b63-fc1a-140e" name="Tóxica" hidden="false" targetId="206d-4b8e-08b9-7a59" type="rule">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -3782,19 +3782,19 @@
               <characteristics>
                 <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A5"/>
                 <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
-                <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Indirect (3)"/>
+                <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Indirecto (3)"/>
                 <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value=""/>
               </characteristics>
             </profile>
           </profiles>
           <rules/>
           <infoLinks>
-            <infoLink id="ccac-4280-5b96-14ad" name="Indirect (n)" hidden="false" targetId="8fe0-f858-5940-b816" type="rule">
+            <infoLink id="ccac-4280-5b96-14ad" name="Indirecto (n)" hidden="false" targetId="8fe0-f858-5940-b816" type="rule">
               <profiles/>
               <rules/>
               <infoLinks/>
               <modifiers>
-                <modifier type="set" field="name" value="Indirect (3)">
+                <modifier type="set" field="name" value="Indirecto (3)">
                   <repeats/>
                   <conditions/>
                   <conditionGroups/>
@@ -3918,7 +3918,7 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="31.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="9871-2ec9-b9fc-03a9" name="Bjarn Caestrella [Starnafall]" book="Deadzone: Infestación" page="24" hidden="false" collective="false" type="unit">
+    <selectionEntry id="9871-2ec9-b9fc-03a9" name="Bjarn Caestrella [Caestrella]" book="Deadzone: Infestación" page="24" hidden="false" collective="false" type="unit">
       <profiles>
         <profile id="32da-93be-a117-268e" name="Bjarn Caestrella" book="Deadzone: Infestación" page="24" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
           <profiles/>
@@ -3981,9 +3981,9 @@
             <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="1.0"/>
           </costs>
         </selectionEntry>
-        <selectionEntry id="1d13-d9ab-b21f-8449" name="Mining Laser" hidden="false" collective="false" type="upgrade">
+        <selectionEntry id="1d13-d9ab-b21f-8449" name="Láser de Minería" hidden="false" collective="false" type="upgrade">
           <profiles>
-            <profile id="e6d9-e459-e782-976e" name="Mining Laser" book="Deadzone: Infestación" page="24" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
+            <profile id="e6d9-e459-e782-976e" name="Láser de Minería" book="Deadzone: Infestación" page="24" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -4088,9 +4088,9 @@
         </categoryLink>
       </categoryLinks>
       <selectionEntries>
-        <selectionEntry id="3d6c-9ec4-e249-17fa" name="Pistolas Gemelas Pesadas" book="Deadzone Infestation Expansion" hidden="false" collective="false" type="upgrade">
+        <selectionEntry id="3d6c-9ec4-e249-17fa" name="Par de Pistolas Pesadas" book="Deadzone Infestation Expansion" hidden="false" collective="false" type="upgrade">
           <profiles>
-            <profile id="709f-9f17-61e4-2565" name="Pistolas Gemelas Pesadas" book="Deadzone: Infestación" page="32" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
+            <profile id="709f-9f17-61e4-2565" name="Par de Pistolas Pesadas" book="Deadzone: Infestación" page="32" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -4297,7 +4297,7 @@
     </selectionEntry>
     <selectionEntry id="e34a-6d79-52a3-65d9" name="El Flautista" book="Deadzone: Infestación" page="16" hidden="false" collective="false" type="model">
       <profiles>
-        <profile id="d675-e2cf-6cfd-00de" name="The Piper" book="Deadzone: Infestación" page="16" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Líder">
+        <profile id="d675-e2cf-6cfd-00de" name="El Flautista" book="Deadzone: Infestación" page="16" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Líder">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -4319,8 +4319,8 @@
           <rules/>
           <infoLinks/>
           <modifiers/>
-          <description>When deploying your models, in addition to your strike force, deploy up to two Vermin Swarm bases in your deployment zone. If there are fewer than two Vermin Swarms in play, The Piper may use a Special Action to &quot;call&quot; a new swarm. Place a single Vermin Swarm in The Piper&apos;s cube. The target cube must have enough available room to fit the Vermin Swarm. If no cube exists, The Piper may not call a Vermin Swarm.
-Vermin Swarm&apos;s are not part of the Army List, gain no experience, and are not added to a player&apos;s roster.</description>
+          <description>When deploying your models, in addition to your strike force, deploy up to two Vermin Swarm bases in your deployment zone. If there are fewer than two Vermin Swarms in play, El Flautista may use a Special Action to &quot;call&quot; a new swarm. Place a single Vermin Swarm in El Flautista&apos;s cube. The target cube must have enough available room to fit the Vermin Swarm. If no cube exists, El Flautista may not call a Vermin Swarm.
+Vermin Swarm&apos;s are not part of the Army List, gain no experience, y are not added to a player&apos;s roster.</description>
         </rule>
       </rules>
       <infoLinks>
@@ -4431,9 +4431,9 @@ Vermin Swarm&apos;s are not part of the Army List, gain no experience, and are n
           </constraints>
           <categoryLinks/>
           <selectionEntries>
-            <selectionEntry id="71d5-c9ee-4833-4f4f" name="Teeth and Garras" hidden="false" collective="false" type="upgrade">
+            <selectionEntry id="71d5-c9ee-4833-4f4f" name="Dientes y Garras" hidden="false" collective="false" type="upgrade">
               <profiles>
-                <profile id="bf20-1f74-db87-2fc5" name="Teeth and Garras" book="Deadzone: Infestación" page="16" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
+                <profile id="bf20-1f74-db87-2fc5" name="Dientes y Garras" book="Deadzone: Infestación" page="16" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
                   <profiles/>
                   <rules/>
                   <infoLinks/>
@@ -5147,7 +5147,7 @@ Vermin Swarm&apos;s are not part of the Army List, gain no experience, and are n
             </modifier>
           </modifiers>
         </infoLink>
-        <infoLink id="1175-31b2-0b82-c41d" name="Scout" hidden="false" targetId="634d-5763-a726-b91f" type="rule">
+        <infoLink id="1175-31b2-0b82-c41d" name="Explorador" hidden="false" targetId="634d-5763-a726-b91f" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -5462,7 +5462,7 @@ Vermin Swarm&apos;s are not part of the Army List, gain no experience, and are n
               <rules/>
               <infoLinks/>
               <modifiers/>
-              <description>You may only include Padd in a strike team that contains Forge Lord Ingulf Krestürsson.  Padd may only be included once per strike team.</description>
+              <description>You may only include Padd in a strike team that contains Señor Forjador Ingulf Krestürsson.  Padd may only be included once per strike team.</description>
             </rule>
           </rules>
           <infoLinks>
@@ -5487,9 +5487,9 @@ Vermin Swarm&apos;s are not part of the Army List, gain no experience, and are n
             </categoryLink>
           </categoryLinks>
           <selectionEntries>
-            <selectionEntry id="6a16-7c8a-ba82-4381" name="Teeth" hidden="false" collective="false" type="upgrade">
+            <selectionEntry id="6a16-7c8a-ba82-4381" name="Dientes" hidden="false" collective="false" type="upgrade">
               <profiles>
-                <profile id="5683-6e8b-6206-d896" name="Teeth" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
+                <profile id="5683-6e8b-6206-d896" name="Dientes" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
                   <profiles/>
                   <rules/>
                   <infoLinks/>
@@ -5526,9 +5526,9 @@ Vermin Swarm&apos;s are not part of the Army List, gain no experience, and are n
             <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="7.0"/>
           </costs>
         </selectionEntry>
-        <selectionEntry id="d97e-a661-a089-5d37" name="Forge Hammer" hidden="false" collective="false" type="upgrade">
+        <selectionEntry id="d97e-a661-a089-5d37" name="Martillo Forjador" hidden="false" collective="false" type="upgrade">
           <profiles>
-            <profile id="4de6-1257-2ffe-d508" name="Forge Hammer" book="Reglamento Deadzone 2ª Edición" page="71" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
+            <profile id="4de6-1257-2ffe-d508" name="Martillo Forjador" book="Reglamento Deadzone 2ª Edición" page="71" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -6145,7 +6145,7 @@ Si ambos jugadores tienen despliegue aéreo alterna los despliegues comenzando p
       <rules/>
       <infoLinks/>
       <modifiers/>
-      <description>A model with a commlink is able to act as a spotter for their comrades. The model may use a special action to call in the co-ordinates of a target. Place a token in a cube within the model’s line of sight. Models throwing Granadas or using Indirect weapons treat this cube as being within their line of sight.
+      <description>A model with a commlink is able to act as a spotter for their comrades. The model may use a special action to call in the co-ordinates of a target. Place a token in a cube within the model’s line of sight. Models throwing Granadas or using Indirecto weapons treat this cube as being within their line of sight.
 
 Note that this does not allow models to target cubes outside of their weapon’s range, or to otherwise target cubes that are not valid targets.</description>
     </rule>

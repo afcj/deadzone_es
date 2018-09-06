@@ -8,9 +8,9 @@
   <categoryEntries/>
   <forceEntries/>
   <selectionEntries>
-    <selectionEntry id="2827-7eea-c47f-5ef2" name="Steel Warrior Huscarl" book="Reglamento Deadzone 2ª Edición + Erratas v2.1" page="67" hidden="false" collective="false" type="unit">
+    <selectionEntry id="2827-7eea-c47f-5ef2" name="Huscarle Guerrero Acerado" book="Reglamento Deadzone 2ª Edición + Erratas v2.1" page="67" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="6f14-4ecb-a340-4036" name="Steel Warrior Huscarl" book="Reglamento Deadzone 2ª Edición" page="67" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Líder">
+        <profile id="6f14-4ecb-a340-4036" name="Huscarle Guerrero Acerado" book="Reglamento Deadzone 2ª Edición" page="67" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Líder">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -32,7 +32,7 @@
           <rules/>
           <infoLinks/>
           <modifiers/>
-          <description>You can spend an Army Special result on your Command Dice to try and remove a point of Damage on the active model. Roll a 3 dice Supervivencia test (2) with no modifiers, not even from Command dice. Success removes one Damage token. Failure has no effect. This does not count as an action.</description>
+          <description>You can spend an Army Special result on your Command Dice to try y remove a point of Damage on the active model. Roll a 3 dice Supervivencia test (2) with no modifiers, not even from Command dice. Success removes one Damage token. Failure has no effect. This does not count as an action.</description>
         </rule>
       </rules>
       <infoLinks>
@@ -112,7 +112,7 @@
           <selectionEntries/>
           <selectionEntryGroups/>
           <entryLinks>
-            <entryLink id="c717-d6af-263e-083f" name="Forge Hammer" hidden="false" targetId="ba0a-c033-a2c2-655b" type="selectionEntry">
+            <entryLink id="c717-d6af-263e-083f" name="Martillo Forjador" hidden="false" targetId="ba0a-c033-a2c2-655b" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -126,7 +126,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="10e3-6e4a-f6ee-3d66" name="2-Handed Heat Hammer" hidden="false" targetId="c817-5e7d-1f8e-3c20" type="selectionEntry">
+            <entryLink id="10e3-6e4a-f6ee-3d66" name="Martillo Térmico a 2 Manos" hidden="false" targetId="c817-5e7d-1f8e-3c20" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -146,7 +146,7 @@
           <constraints/>
           <categoryLinks/>
         </entryLink>
-        <entryLink id="54d8-e369-18df-c334" name="Burst Pistola *" hidden="false" targetId="ee51-dc0a-5c62-d92b" type="selectionEntry">
+        <entryLink id="54d8-e369-18df-c334" name="Pistola de Ráfaga *" hidden="false" targetId="ee51-dc0a-5c62-d92b" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -259,12 +259,12 @@
           <selectionEntries/>
           <selectionEntryGroups/>
           <entryLinks>
-            <entryLink id="459a-df58-6ac9-e317" name="Burst Pistola *" hidden="false" targetId="ee51-dc0a-5c62-d92b" type="selectionEntry">
+            <entryLink id="459a-df58-6ac9-e317" name="Pistola de Ráfaga *" hidden="false" targetId="ee51-dc0a-5c62-d92b" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
               <modifiers>
-                <modifier type="set" field="name" value="Burst Pistola">
+                <modifier type="set" field="name" value="Pistola de Ráfaga">
                   <repeats/>
                   <conditions/>
                   <conditionGroups/>
@@ -301,7 +301,7 @@
           <selectionEntries/>
           <selectionEntryGroups/>
           <entryLinks>
-            <entryLink id="69ac-faa7-ffd6-580b" name="Forge Hammer" hidden="false" targetId="ba0a-c033-a2c2-655b" type="selectionEntry">
+            <entryLink id="69ac-faa7-ffd6-580b" name="Martillo Forjador" hidden="false" targetId="ba0a-c033-a2c2-655b" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -315,7 +315,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="ebad-2669-28b1-43b1" name="2-Handed Heat Hammer" hidden="false" targetId="c817-5e7d-1f8e-3c20" type="selectionEntry">
+            <entryLink id="ebad-2669-28b1-43b1" name="Martillo Térmico a 2 Manos" hidden="false" targetId="c817-5e7d-1f8e-3c20" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -341,9 +341,9 @@
         <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="2.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="e6ef-e77b-0c73-2c4a" name="Forge Guard Huscarl" book="Reglamento Deadzone 2ª Edición + Erratas v2.1" page="67" hidden="false" collective="false" type="unit">
+    <selectionEntry id="e6ef-e77b-0c73-2c4a" name="Huscarle Guardia de Forja" book="Reglamento Deadzone 2ª Edición + Erratas v2.1" page="67" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="57a5-1821-9b87-90c5" name="Forge Guard Huscarl" book="Reglamento Deadzone 2ª Edición" page="67" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Líder">
+        <profile id="57a5-1821-9b87-90c5" name="Huscarle Guardia de Forja" book="Reglamento Deadzone 2ª Edición" page="67" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Líder">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -434,7 +434,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="61ad-3d6b-4603-1a3d" name="Hailstorm Autocannon" hidden="false" targetId="9cc6-5257-b96c-e876" type="selectionEntry">
+            <entryLink id="61ad-3d6b-4603-1a3d" name="Autocañón Granítico" hidden="false" targetId="9cc6-5257-b96c-e876" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -457,7 +457,7 @@
           <selectionEntries/>
           <selectionEntryGroups/>
           <entryLinks>
-            <entryLink id="0003-8282-c745-1300" name="Forge Hammer" hidden="false" targetId="ba0a-c033-a2c2-655b" type="selectionEntry">
+            <entryLink id="0003-8282-c745-1300" name="Martillo Forjador" hidden="false" targetId="ba0a-c033-a2c2-655b" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -471,7 +471,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="7037-e459-1d0c-db4c" name="2-Handed Heat Hammer" hidden="false" targetId="c817-5e7d-1f8e-3c20" type="selectionEntry">
+            <entryLink id="7037-e459-1d0c-db4c" name="Martillo Térmico a 2 Manos" hidden="false" targetId="c817-5e7d-1f8e-3c20" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -497,9 +497,9 @@
         <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="4.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="b0fa-ad5b-93c1-e81c" name="Steel Warrior" book="Reglamento Deadzone 2ª Edición + Erratas v2.1" page="68" hidden="true" collective="false" type="unit">
+    <selectionEntry id="b0fa-ad5b-93c1-e81c" name="Guerrero Acerado" book="Reglamento Deadzone 2ª Edición + Erratas v2.1" page="68" hidden="true" collective="false" type="unit">
       <profiles>
-        <profile id="f433-1ed4-107f-fb0c" name="Steel Warrior" book="Reglamento Deadzone 2ª Edición" page="68" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
+        <profile id="f433-1ed4-107f-fb0c" name="Guerrero Acerado" book="Reglamento Deadzone 2ª Edición" page="68" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -599,7 +599,7 @@
           </constraints>
           <categoryLinks/>
         </entryLink>
-        <entryLink id="89b2-6b70-696f-ef75" name="Burst Pistola *" hidden="false" targetId="ee51-dc0a-5c62-d92b" type="selectionEntry">
+        <entryLink id="89b2-6b70-696f-ef75" name="Pistola de Ráfaga *" hidden="false" targetId="ee51-dc0a-5c62-d92b" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -726,7 +726,7 @@
           <selectionEntries/>
           <selectionEntryGroups/>
           <entryLinks>
-            <entryLink id="064a-aea2-bbac-e306" name="Burst Pistola *" hidden="false" targetId="ee51-dc0a-5c62-d92b" type="selectionEntry">
+            <entryLink id="064a-aea2-bbac-e306" name="Pistola de Ráfaga *" hidden="false" targetId="ee51-dc0a-5c62-d92b" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -736,7 +736,7 @@
                   <conditions/>
                   <conditionGroups/>
                 </modifier>
-                <modifier type="set" field="name" value="Burst Pistola">
+                <modifier type="set" field="name" value="Pistola de Ráfaga">
                   <repeats/>
                   <conditions/>
                   <conditionGroups/>
@@ -768,7 +768,7 @@
           <selectionEntries/>
           <selectionEntryGroups/>
           <entryLinks>
-            <entryLink id="1f41-cbd8-79cd-1b72" name="Forge Hammer" hidden="false" targetId="ba0a-c033-a2c2-655b" type="selectionEntry">
+            <entryLink id="1f41-cbd8-79cd-1b72" name="Martillo Forjador" hidden="false" targetId="ba0a-c033-a2c2-655b" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -782,7 +782,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="8d91-4e93-e50a-695d" name="2-Handed Heat Hammer" hidden="false" targetId="c817-5e7d-1f8e-3c20" type="selectionEntry">
+            <entryLink id="8d91-4e93-e50a-695d" name="Martillo Térmico a 2 Manos" hidden="false" targetId="c817-5e7d-1f8e-3c20" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -808,9 +808,9 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="15.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="65e4-115f-c61f-3789" name="Militia" book="Reglamento Deadzone 2ª Edición" page="68" hidden="true" collective="false" type="unit">
+    <selectionEntry id="65e4-115f-c61f-3789" name="Miliciano" book="Reglamento Deadzone 2ª Edición" page="68" hidden="true" collective="false" type="unit">
       <profiles>
-        <profile id="bf2e-f371-52ec-0138" name="Militia" book="Reglamento Deadzone 2ª Edición" page="68" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
+        <profile id="bf2e-f371-52ec-0138" name="Miliciano" book="Reglamento Deadzone 2ª Edición" page="68" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -903,7 +903,7 @@
           </constraints>
           <categoryLinks/>
         </entryLink>
-        <entryLink id="9bdd-f565-f93c-1653" name="Burst Pistola *" hidden="false" targetId="ee51-dc0a-5c62-d92b" type="selectionEntry">
+        <entryLink id="9bdd-f565-f93c-1653" name="Pistola de Ráfaga *" hidden="false" targetId="ee51-dc0a-5c62-d92b" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -936,9 +936,9 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="14.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="589f-1957-2d78-9f1e" name="Steel Warrior Especialista (Stormrage Veteran)" book="Reglamento Deadzone 2ª Edición + Erratas v2.1" page="68" hidden="true" collective="false" type="unit">
+    <selectionEntry id="589f-1957-2d78-9f1e" name="Guerrero Acerado Especialista (Veterano Tempestorabia)" book="Reglamento Deadzone 2ª Edición + Erratas v2.1" page="68" hidden="true" collective="false" type="unit">
       <profiles>
-        <profile id="1054-8be4-7545-396b" name="Steel Warrior Especialista (Stormrage Veteran)" book="Reglamento Deadzone 2ª Edición" page="68" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
+        <profile id="1054-8be4-7545-396b" name="Guerrero Acerado Especialista (Veterano Tempestorabia)" book="Reglamento Deadzone 2ª Edición" page="68" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1061,7 +1061,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="72f9-6489-4732-4e79" name="Twin Hailstorm Pistols" hidden="false" targetId="86d1-71f4-7845-9710" type="selectionEntry">
+            <entryLink id="72f9-6489-4732-4e79" name="Par de Pistolas Graníticas" hidden="false" targetId="86d1-71f4-7845-9710" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1069,7 +1069,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="e811-7c84-fa43-5b88" name="Hailstorm Autocannon" hidden="false" targetId="9cc6-5257-b96c-e876" type="selectionEntry">
+            <entryLink id="e811-7c84-fa43-5b88" name="Autocañón Granítico" hidden="false" targetId="9cc6-5257-b96c-e876" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1077,7 +1077,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="75d5-f737-7f5a-dca8" name="Magma Rifle" hidden="false" targetId="cdad-e195-07d2-a38e" type="selectionEntry">
+            <entryLink id="75d5-f737-7f5a-dca8" name="Rifle de Magma" hidden="false" targetId="cdad-e195-07d2-a38e" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1085,7 +1085,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="cd6a-990b-b06f-deab" name="Dragons Breath" hidden="false" targetId="366b-0f04-c822-8274" type="selectionEntry">
+            <entryLink id="cd6a-990b-b06f-deab" name="Aliento de Dragón" hidden="false" targetId="366b-0f04-c822-8274" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1093,7 +1093,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="54c5-9cfa-5cf1-d241" name="Magma Cannon" hidden="false" targetId="e9bb-ea0f-e898-0c8f" type="selectionEntry">
+            <entryLink id="54c5-9cfa-5cf1-d241" name="Cañón de Magma" hidden="false" targetId="e9bb-ea0f-e898-0c8f" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1124,7 +1124,7 @@
           </constraints>
           <categoryLinks/>
         </entryLink>
-        <entryLink id="969e-01c4-5504-b53d" name="Burst Pistola *" hidden="false" targetId="ee51-dc0a-5c62-d92b" type="selectionEntry">
+        <entryLink id="969e-01c4-5504-b53d" name="Pistola de Ráfaga *" hidden="false" targetId="ee51-dc0a-5c62-d92b" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1140,9 +1140,9 @@
         <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="2.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="9c69-dcb8-4124-a95b" name="Forge Guard" book="Deadzone: Outbreak" page="37" hidden="true" collective="false" type="unit">
+    <selectionEntry id="9c69-dcb8-4124-a95b" name="Guardia de la Forja" book="Deadzone: Outbreak" page="37" hidden="true" collective="false" type="unit">
       <profiles>
-        <profile id="e879-754d-f2e7-4552" name="Forge Guard" book="Reglamento Deadzone 2ª Edición" page="68" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
+        <profile id="e879-754d-f2e7-4552" name="Guardia de la Forja" book="Reglamento Deadzone 2ª Edición" page="68" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1255,7 +1255,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="2dc0-2d41-e5dd-d86b" name="Magma Cannon" hidden="false" targetId="e9bb-ea0f-e898-0c8f" type="selectionEntry">
+            <entryLink id="2dc0-2d41-e5dd-d86b" name="Cañón de Magma" hidden="false" targetId="e9bb-ea0f-e898-0c8f" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1263,7 +1263,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="d172-13b5-17b4-6564" name="Hailstorm Autocannon" hidden="false" targetId="9cc6-5257-b96c-e876" type="selectionEntry">
+            <entryLink id="d172-13b5-17b4-6564" name="Autocañón Granítico" hidden="false" targetId="9cc6-5257-b96c-e876" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1283,7 +1283,7 @@
           <constraints/>
           <categoryLinks/>
         </entryLink>
-        <entryLink id="9636-ea36-f105-a16c" name="Forge Hammer" hidden="false" targetId="ba0a-c033-a2c2-655b" type="selectionEntry">
+        <entryLink id="9636-ea36-f105-a16c" name="Martillo Forjador" hidden="false" targetId="ba0a-c033-a2c2-655b" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1322,9 +1322,9 @@
         <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="3.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="0e90-a587-3264-6011" name="Brokkr Ingeniero" book="Reglamento Deadzone 2ª Edición" page="69" hidden="true" collective="false" type="unit">
+    <selectionEntry id="0e90-a587-3264-6011" name="Ingeniero Brokkr" book="Reglamento Deadzone 2ª Edición" page="69" hidden="true" collective="false" type="unit">
       <profiles>
-        <profile id="758a-244d-6c2b-6c50" name="Brokkr Ingeniero" book="Reglamento Deadzone 2ª Edición" page="69" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
+        <profile id="758a-244d-6c2b-6c50" name="Ingeniero Brokkr" book="Reglamento Deadzone 2ª Edición" page="69" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1410,7 +1410,7 @@
           <selectionEntries/>
           <selectionEntryGroups/>
           <entryLinks>
-            <entryLink id="ad76-ac5a-df87-13da" name="Burst Pistola *" hidden="false" targetId="ee51-dc0a-5c62-d92b" type="selectionEntry">
+            <entryLink id="ad76-ac5a-df87-13da" name="Pistola de Ráfaga *" hidden="false" targetId="ee51-dc0a-5c62-d92b" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1420,7 +1420,7 @@
                   <conditions/>
                   <conditionGroups/>
                 </modifier>
-                <modifier type="set" field="name" value="Burst Pistola">
+                <modifier type="set" field="name" value="Pistola de Ráfaga">
                   <repeats/>
                   <conditions/>
                   <conditionGroups/>
@@ -1466,9 +1466,9 @@
         <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="1.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="c67a-d152-a3f6-69d9" name="Inferno Drill" book="Reglamento Deadzone 2ª Edición + Erratas v2.1" page="70" hidden="true" collective="false" type="unit">
+    <selectionEntry id="c67a-d152-a3f6-69d9" name="Taladro Infierno" book="Reglamento Deadzone 2ª Edición + Erratas v2.1" page="70" hidden="true" collective="false" type="unit">
       <profiles>
-        <profile id="ad29-cae1-3584-0990" name="Inferno Drill" book="Reglamento Deadzone 2ª Edición" page="70" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
+        <profile id="ad29-cae1-3584-0990" name="Taladro Infierno" book="Reglamento Deadzone 2ª Edición" page="70" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1552,9 +1552,9 @@
         </categoryLink>
       </categoryLinks>
       <selectionEntries>
-        <selectionEntry id="1a8f-fe55-3121-3a8f" name="Mining Laser" hidden="false" collective="false" type="upgrade">
+        <selectionEntry id="1a8f-fe55-3121-3a8f" name="Láser de Minería" hidden="false" collective="false" type="upgrade">
           <profiles>
-            <profile id="dcbc-d75f-b97a-f2d9" name="Mining Laser" book="Reglamento Deadzone 2ª Edición" page="70" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
+            <profile id="dcbc-d75f-b97a-f2d9" name="Láser de Minería" book="Reglamento Deadzone 2ª Edición" page="70" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1598,9 +1598,9 @@
         <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="2.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="75cf-2aa3-495b-d539" name="Brokkr Bike" book="Reglamento Deadzone 2ª Edición" page="70" hidden="true" collective="false" type="unit">
+    <selectionEntry id="75cf-2aa3-495b-d539" name="Moto Brokkr" book="Reglamento Deadzone 2ª Edición" page="70" hidden="true" collective="false" type="unit">
       <profiles>
-        <profile id="cc5b-6aec-14d6-1112" name="Brokkr Bike" book="Reglamento Deadzone 2ª Edición" page="70" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
+        <profile id="cc5b-6aec-14d6-1112" name="Moto Brokkr" book="Reglamento Deadzone 2ª Edición" page="70" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1714,9 +1714,9 @@
         <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="2.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="e618-d611-2507-0e27" name="Iron Ancestor" book="Reglamento Deadzone 2ª Edición + Erratas v2.1" page="70" hidden="true" collective="false" type="unit">
+    <selectionEntry id="e618-d611-2507-0e27" name="Ancestro de Hierro" book="Reglamento Deadzone 2ª Edición + Erratas v2.1" page="70" hidden="true" collective="false" type="unit">
       <profiles>
-        <profile id="1a27-deaf-8617-c1d6" name="Iron Ancestor" book="Reglamento Deadzone 2ª Edición" page="70" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
+        <profile id="1a27-deaf-8617-c1d6" name="Ancestro de Hierro" book="Reglamento Deadzone 2ª Edición" page="70" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1826,7 +1826,7 @@
           <selectionEntries/>
           <selectionEntryGroups/>
           <entryLinks>
-            <entryLink id="ab6d-5843-39ae-f874" name="IA Forge Hammer" hidden="false" targetId="9f14-3d97-4d77-11d9" type="selectionEntry">
+            <entryLink id="ab6d-5843-39ae-f874" name="IA Martillo Forjador" hidden="false" targetId="9f14-3d97-4d77-11d9" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1836,7 +1836,7 @@
               </constraints>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="2d21-bca9-6539-2d2c" name="Power Garra and Flameador" hidden="false" targetId="8146-444d-0531-fabc" type="selectionEntry">
+            <entryLink id="2d21-bca9-6539-2d2c" name="Power Garra y Flameador" hidden="false" targetId="8146-444d-0531-fabc" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1846,7 +1846,7 @@
               </constraints>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="00cb-8e3d-d263-db80" name="Twin Hailstorm Autocannons" hidden="false" targetId="9a5f-dd73-05ab-873b" type="selectionEntry">
+            <entryLink id="00cb-8e3d-d263-db80" name="Twin Autocañón Graníticos" hidden="false" targetId="9a5f-dd73-05ab-873b" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1856,7 +1856,7 @@
               </constraints>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="33c5-acde-0fc0-984d" name="Twin Magma Cannon" hidden="false" targetId="9915-7b46-887a-c7a6" type="selectionEntry">
+            <entryLink id="33c5-acde-0fc0-984d" name="Twin Cañón de Magma" hidden="false" targetId="9915-7b46-887a-c7a6" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1875,9 +1875,9 @@
         <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="3.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="0717-b0cd-680b-f84d" name="Thor Pattern Iron Ancestor" book="Reglamento Deadzone 2ª Edición + Erratas v2.1" page="70" hidden="true" collective="false" type="unit">
+    <selectionEntry id="0717-b0cd-680b-f84d" name="Ancestro de Hierro Modelo Thor" book="Reglamento Deadzone 2ª Edición + Erratas v2.1" page="70" hidden="true" collective="false" type="unit">
       <profiles>
-        <profile id="2d2e-dc4a-10b2-7bb4" name="Thor Pattern Iron Ancestor" book="Reglamento Deadzone 2ª Edición" page="70" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
+        <profile id="2d2e-dc4a-10b2-7bb4" name="Ancestro de Hierro Modelo Thor" book="Reglamento Deadzone 2ª Edición" page="70" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1980,9 +1980,9 @@
         </categoryLink>
       </categoryLinks>
       <selectionEntries>
-        <selectionEntry id="b503-c25b-91ea-c169" name="Twin IA Forge Hammers" book="" page="" hidden="false" collective="false" type="upgrade">
+        <selectionEntry id="b503-c25b-91ea-c169" name="Twin IA Martillo Forjadors" book="" page="" hidden="false" collective="false" type="upgrade">
           <profiles>
-            <profile id="5042-b7f7-2680-4b0c" name="Twin IA Forge Hammers" book="Reglamento Deadzone 2ª Edición" page="70" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
+            <profile id="5042-b7f7-2680-4b0c" name="Twin IA Martillo Forjadors" book="Reglamento Deadzone 2ª Edición" page="70" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -2019,9 +2019,9 @@
         <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="5.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="3f3b-6ff4-2c2f-d0c6" name="Brokkr Especialista" book="Reglamento Deadzone 2ª Edición + Deadzone Erratas v2.1" page="69" hidden="true" collective="false" type="unit">
+    <selectionEntry id="3f3b-6ff4-2c2f-d0c6" name="Especialista Brokkr" book="Reglamento Deadzone 2ª Edición + Deadzone Erratas v2.1" page="69" hidden="true" collective="false" type="unit">
       <profiles>
-        <profile id="984a-e5a3-c684-765a" name="Brokkr Especialista" book="Reglamento Deadzone 2ª Edición" page="69" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
+        <profile id="984a-e5a3-c684-765a" name="Especialista Brokkr" book="Reglamento Deadzone 2ª Edición" page="69" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -2113,7 +2113,7 @@
           <selectionEntries/>
           <selectionEntryGroups/>
           <entryLinks>
-            <entryLink id="c8e3-d9df-f1d7-ca1e" name="Burst Pistola *" hidden="false" targetId="ee51-dc0a-5c62-d92b" type="selectionEntry">
+            <entryLink id="c8e3-d9df-f1d7-ca1e" name="Pistola de Ráfaga *" hidden="false" targetId="ee51-dc0a-5c62-d92b" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -2123,7 +2123,7 @@
                   <conditions/>
                   <conditionGroups/>
                 </modifier>
-                <modifier type="set" field="name" value="Burst Pistola">
+                <modifier type="set" field="name" value="Pistola de Ráfaga">
                   <repeats/>
                   <conditions/>
                   <conditionGroups/>
@@ -2148,7 +2148,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="c460-97a3-efac-0f00" name="Dragon&apos;s Breath" hidden="false" targetId="366b-0f04-c822-8274" type="selectionEntry">
+            <entryLink id="c460-97a3-efac-0f00" name="Aliento de Dragón" hidden="false" targetId="366b-0f04-c822-8274" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -2156,7 +2156,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="6406-438c-6ea1-b460" name="Magma Rifle" hidden="false" targetId="cdad-e195-07d2-a38e" type="selectionEntry">
+            <entryLink id="6406-438c-6ea1-b460" name="Rifle de Magma" hidden="false" targetId="cdad-e195-07d2-a38e" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -2179,7 +2179,7 @@
           <selectionEntries/>
           <selectionEntryGroups/>
           <entryLinks>
-            <entryLink id="ca24-67e3-0141-2c8e" name="Forge Hammer" hidden="false" targetId="ba0a-c033-a2c2-655b" type="selectionEntry">
+            <entryLink id="ca24-67e3-0141-2c8e" name="Martillo Forjador" hidden="false" targetId="ba0a-c033-a2c2-655b" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -2193,7 +2193,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="486f-8ab9-b21d-7b67" name="2-Handed Heat Hammer" hidden="false" targetId="c817-5e7d-1f8e-3c20" type="selectionEntry">
+            <entryLink id="486f-8ab9-b21d-7b67" name="Martillo Térmico a 2 Manos" hidden="false" targetId="c817-5e7d-1f8e-3c20" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -3325,7 +3325,7 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="3bd3-d474-fa54-4746" name="Bjarn Starnafall" hidden="true" collective="false" type="upgrade">
+    <selectionEntry id="3bd3-d474-fa54-4746" name="Bjarn Caestrella" hidden="true" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -3387,7 +3387,7 @@
           <constraints/>
           <categoryLinks/>
         </entryLink>
-        <entryLink id="9d91-b598-d794-110e" name="Bjarn Starnafall" hidden="false" targetId="9871-2ec9-b9fc-03a9" type="selectionEntry">
+        <entryLink id="9d91-b598-d794-110e" name="Bjarn Caestrella" hidden="false" targetId="9871-2ec9-b9fc-03a9" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -3401,9 +3401,9 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="bf6e-a2cf-5add-b09f" name="Forge Lord" book="Deadzone: Outbreak" page="34" hidden="false" collective="false" type="unit">
+    <selectionEntry id="bf6e-a2cf-5add-b09f" name="Señor Forjador" book="Deadzone: Outbreak" page="34" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="a5b9-a25e-6e2d-3a88" name="Forge Lord" book="Deadzone: Outbreak" page="34" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Líder">
+        <profile id="a5b9-a25e-6e2d-3a88" name="Señor Forjador" book="Deadzone: Outbreak" page="34" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Líder">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -3500,7 +3500,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="07c3-fe36-011a-46e4" name="Magma Rifle" hidden="false" targetId="cdad-e195-07d2-a38e" type="selectionEntry">
+            <entryLink id="07c3-fe36-011a-46e4" name="Rifle de Magma" hidden="false" targetId="cdad-e195-07d2-a38e" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -3508,7 +3508,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="b52f-f4be-328b-6c5d" name="Dragon&apos;s Breath" hidden="false" targetId="366b-0f04-c822-8274" type="selectionEntry">
+            <entryLink id="b52f-f4be-328b-6c5d" name="Aliento de Dragón" hidden="false" targetId="366b-0f04-c822-8274" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -3531,7 +3531,7 @@
           <selectionEntries/>
           <selectionEntryGroups/>
           <entryLinks>
-            <entryLink id="75f9-ae2d-5d56-60e7" name="Forge Hammer" hidden="false" targetId="ba0a-c033-a2c2-655b" type="selectionEntry">
+            <entryLink id="75f9-ae2d-5d56-60e7" name="Martillo Forjador" hidden="false" targetId="ba0a-c033-a2c2-655b" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -3545,7 +3545,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="dfa9-2c56-d9cd-0ef8" name="2-Handed Heat Hammer" hidden="false" targetId="c817-5e7d-1f8e-3c20" type="selectionEntry">
+            <entryLink id="dfa9-2c56-d9cd-0ef8" name="Martillo Térmico a 2 Manos" hidden="false" targetId="c817-5e7d-1f8e-3c20" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -3565,7 +3565,7 @@
           <constraints/>
           <categoryLinks/>
         </entryLink>
-        <entryLink id="cc30-82d8-fb0c-00d0" name="Burst Pistola *" hidden="false" targetId="ee51-dc0a-5c62-d92b" type="selectionEntry">
+        <entryLink id="cc30-82d8-fb0c-00d0" name="Pistola de Ráfaga *" hidden="false" targetId="ee51-dc0a-5c62-d92b" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -3581,9 +3581,9 @@
         <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="4.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="22dc-8c82-8d80-dd5c" name="Thorgarim Huscarl" book="Deadzone: Outbreak" page="35" hidden="false" collective="false" type="unit">
+    <selectionEntry id="22dc-8c82-8d80-dd5c" name="Huscarle Thorgarim" book="Deadzone: Outbreak" page="35" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="0ae5-7e8a-452e-33bc" name="Thorgarim Huscarl" book="Reglamento Deadzone 2ª Edición" page="67" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Líder">
+        <profile id="0ae5-7e8a-452e-33bc" name="Huscarle Thorgarim" book="Reglamento Deadzone 2ª Edición" page="67" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Líder">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -3605,7 +3605,7 @@
           <rules/>
           <infoLinks/>
           <modifiers/>
-          <description>Spend an Army Special Result to allow a model with a Hammer to perform an A2, Fragmentación (2) attack as a Special Action once during its activation. This ability may not be used by an Iron Ancestor.</description>
+          <description>Spend an Army Special Result to allow a model with a Hammer to perform an A2, Fragmentación (2) attack as a Special Action once during its activation. This ability may not be used by an Ancestro de Hierro.</description>
         </rule>
       </rules>
       <infoLinks>
@@ -3685,7 +3685,7 @@
           <selectionEntries/>
           <selectionEntryGroups/>
           <entryLinks>
-            <entryLink id="803c-f29b-9412-836a" name="Forge Hammer" hidden="false" targetId="ba0a-c033-a2c2-655b" type="selectionEntry">
+            <entryLink id="803c-f29b-9412-836a" name="Martillo Forjador" hidden="false" targetId="ba0a-c033-a2c2-655b" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -3693,7 +3693,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="3227-7fb8-5458-5f0d" name="2-Handed Heat Hammer" hidden="false" targetId="c817-5e7d-1f8e-3c20" type="selectionEntry">
+            <entryLink id="3227-7fb8-5458-5f0d" name="Martillo Térmico a 2 Manos" hidden="false" targetId="c817-5e7d-1f8e-3c20" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -3719,7 +3719,7 @@
           <constraints/>
           <categoryLinks/>
         </entryLink>
-        <entryLink id="7c33-fdba-7bcc-9386" name="Burst Pistola *" hidden="false" targetId="ee51-dc0a-5c62-d92b" type="selectionEntry">
+        <entryLink id="7c33-fdba-7bcc-9386" name="Pistola de Ráfaga *" hidden="false" targetId="ee51-dc0a-5c62-d92b" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -3823,7 +3823,7 @@
           <selectionEntries/>
           <selectionEntryGroups/>
           <entryLinks>
-            <entryLink id="6ef5-cd7e-fa90-c3c9" name="Forge Hammer" hidden="false" targetId="ba0a-c033-a2c2-655b" type="selectionEntry">
+            <entryLink id="6ef5-cd7e-fa90-c3c9" name="Martillo Forjador" hidden="false" targetId="ba0a-c033-a2c2-655b" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -3831,7 +3831,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="c732-25ad-0764-983b" name="2-Handed Heat Hammer" hidden="false" targetId="c817-5e7d-1f8e-3c20" type="selectionEntry">
+            <entryLink id="c732-25ad-0764-983b" name="Martillo Térmico a 2 Manos" hidden="false" targetId="c817-5e7d-1f8e-3c20" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -3863,9 +3863,9 @@
         <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="2.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="e6d7-1039-cd2b-62bb" name="Hammerfist Drop Trooper" book="Deadzone: Infestación" page="24" hidden="true" collective="false" type="unit">
+    <selectionEntry id="e6d7-1039-cd2b-62bb" name="Soldado de Descenso Puñomartillo" book="Deadzone: Infestación" page="24" hidden="true" collective="false" type="unit">
       <profiles>
-        <profile id="9688-2350-05d5-e78b" name="Hammerfist Drop Trooper" book="Deadzone: Outbreak" page="24" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
+        <profile id="9688-2350-05d5-e78b" name="Soldado de Descenso Puñomartillo" book="Deadzone: Outbreak" page="24" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -3946,7 +3946,7 @@
       <selectionEntries/>
       <selectionEntryGroups/>
       <entryLinks>
-        <entryLink id="20ab-2cb6-c185-e2d8" name="Forge Hammer" hidden="false" targetId="ba0a-c033-a2c2-655b" type="selectionEntry">
+        <entryLink id="20ab-2cb6-c185-e2d8" name="Martillo Forjador" hidden="false" targetId="ba0a-c033-a2c2-655b" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -3963,7 +3963,7 @@
           </constraints>
           <categoryLinks/>
         </entryLink>
-        <entryLink id="c615-59dc-b2a8-c1fa" name="Inferno Drill" hidden="false" targetId="4d70-bb9e-daf0-f78d" type="selectionEntry">
+        <entryLink id="c615-59dc-b2a8-c1fa" name="Taladro Infierno" hidden="false" targetId="4d70-bb9e-daf0-f78d" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -3980,7 +3980,7 @@
         <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="2.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="1268-34dd-5fa7-0517" name="Forge Lord Ingulf KrestÃ¼rsson" book="Deadzone: Outbreak" page="82" hidden="true" collective="false" type="unit">
+    <selectionEntry id="1268-34dd-5fa7-0517" name="Señor Forjador Ingulf Krestürsson" book="Deadzone: Outbreak" page="82" hidden="true" collective="false" type="unit">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -4034,7 +4034,7 @@
       <selectionEntries/>
       <selectionEntryGroups/>
       <entryLinks>
-        <entryLink id="2038-962d-5963-58e7" name="Forge Lord Ingulf KrestÃ¼rsson" hidden="false" targetId="7f4f-38ec-616e-e8f3" type="selectionEntry">
+        <entryLink id="2038-962d-5963-58e7" name="Señor Forjador Ingulf Krestürsson" hidden="false" targetId="7f4f-38ec-616e-e8f3" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -4059,9 +4059,9 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="19f5-92fc-e35b-5f76" name="Forge Guard" book="Deadzone: Outbreak" page="37" hidden="true" collective="false" type="unit">
+    <selectionEntry id="19f5-92fc-e35b-5f76" name="Guardia de la Forja" book="Deadzone: Outbreak" page="37" hidden="true" collective="false" type="unit">
       <profiles>
-        <profile id="ef1d-545c-95a0-01f0" name="Forge Guard" book="Reglamento Deadzone 2ª Edición" page="68" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
+        <profile id="ef1d-545c-95a0-01f0" name="Guardia de la Forja" book="Reglamento Deadzone 2ª Edición" page="68" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -4139,7 +4139,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="875b-9bf4-23b6-fe14" name="Magma Cannon" hidden="false" targetId="e9bb-ea0f-e898-0c8f" type="selectionEntry">
+            <entryLink id="875b-9bf4-23b6-fe14" name="Cañón de Magma" hidden="false" targetId="e9bb-ea0f-e898-0c8f" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -4147,7 +4147,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="3230-9c2b-79d1-f692" name="Hailstorm Autocannon" hidden="false" targetId="9cc6-5257-b96c-e876" type="selectionEntry">
+            <entryLink id="3230-9c2b-79d1-f692" name="Autocañón Granítico" hidden="false" targetId="9cc6-5257-b96c-e876" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -4167,7 +4167,7 @@
           <constraints/>
           <categoryLinks/>
         </entryLink>
-        <entryLink id="cb6a-4e92-b165-ac0a" name="Forge Hammer" hidden="false" targetId="ba0a-c033-a2c2-655b" type="selectionEntry">
+        <entryLink id="cb6a-4e92-b165-ac0a" name="Martillo Forjador" hidden="false" targetId="ba0a-c033-a2c2-655b" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -4206,9 +4206,9 @@
         <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="3.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="2c06-b7d1-8dfa-37e9" name="Bjarn Starnafall" book="Deadzone: Infestación" page="24" hidden="false" collective="false" type="unit">
+    <selectionEntry id="2c06-b7d1-8dfa-37e9" name="Bjarn Caestrella" book="Deadzone: Infestación" page="24" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="9f56-c06c-0a12-2593" name="Bjarn Starnafall" book="Deadzone: Infestación" page="24" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Líder">
+        <profile id="9f56-c06c-0a12-2593" name="Bjarn Caestrella" book="Deadzone: Infestación" page="24" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Líder">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -4230,7 +4230,7 @@
           <rules/>
           <infoLinks/>
           <modifiers/>
-          <description>Spend an Army Special result to call in a model equipped with Hammerfist Drop Armadura. Place the Hammerfist model as per the usual rules for Hammerfist Drop Armadura, with the exception that the cube may be occupied by an enemy model. When the model lands, instead of the usual rules for Hammerfist Drop Armadura, resolve a Fragmentación (4) explosion in the cube against any models that were in the cube prior to the Hammerfist models arrival. If any enemy models remain alive in the target cube, the Hammerfist model initiates a Lucha action against one enemy model as if the enemy model was pinned and the Hammerfist model had entered the cube.</description>
+          <description>Spend an Army Special result to call in a model equipped with Hammerfist Drop Armadura. Place the Hammerfist model as per the usual rules for Hammerfist Drop Armadura, with the exception that the cube may be occupied by an enemy model. When the model lands, instead of the usual rules for Hammerfist Drop Armadura, resolve a Fragmentación (4) explosion in the cube against any models that were in the cube prior to the Hammerfist models arrival. If any enemy models remain alive in the target cube, the Hammerfist model initiates a Lucha action against one enemy model as if the enemy model was pinned y the Hammerfist model had entered the cube.</description>
         </rule>
       </rules>
       <infoLinks>
@@ -4272,7 +4272,7 @@
           </constraints>
           <categoryLinks/>
         </entryLink>
-        <entryLink id="3b73-b95f-f4c4-3ed8" name="Mining Laser" hidden="false" targetId="d1bb-7685-0511-63ce" type="selectionEntry">
+        <entryLink id="3b73-b95f-f4c4-3ed8" name="Láser de Minería" hidden="false" targetId="d1bb-7685-0511-63ce" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -4297,9 +4297,9 @@
         <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="4.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="a7fb-9223-70fb-6b87" name="Forge Lord Ingulf Krestrsson" book="Deadzone: Outbreak" page="82" hidden="false" collective="false" type="unit">
+    <selectionEntry id="a7fb-9223-70fb-6b87" name="Señor Forjador Ingulf Krestürsson" book="Deadzone: Outbreak" page="82" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="c903-8c7e-9a98-a1e0" name="Forge Lord Ingulf Krestrsson" book="Deadzone: Outbreak" page="82" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Líder">
+        <profile id="c903-8c7e-9a98-a1e0" name="Señor Forjador Ingulf Krestrsson" book="Deadzone: Outbreak" page="82" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Líder">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -4368,9 +4368,9 @@
         </categoryLink>
       </categoryLinks>
       <selectionEntries>
-        <selectionEntry id="37ff-1efb-0d07-1286" name="Dragon Breath" book="Deadzone: Outbreak" page="82" hidden="false" collective="false" type="upgrade">
+        <selectionEntry id="37ff-1efb-0d07-1286" name="Aliento de Dragón" book="Deadzone: Outbreak" page="82" hidden="false" collective="false" type="upgrade">
           <profiles>
-            <profile id="e920-78f3-0fff-a442" name="Dragon Breath" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
+            <profile id="e920-78f3-0fff-a442" name="Aliento de Dragón" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -4436,12 +4436,12 @@
             </profile>
           </profiles>
           <rules>
-            <rule id="c84f-134b-2eb8-08c1" name="Faithful Companion" book="Deadzone: Outbreak" page="82" hidden="false">
+            <rule id="c84f-134b-2eb8-08c1" name="Compañero Fiel" book="Deadzone: Outbreak" page="82" hidden="false">
               <profiles/>
               <rules/>
               <infoLinks/>
               <modifiers/>
-              <description>You may only include Padd in a strike team that contains Forge Lord Ingulf Krestrsson.  Padd may only be included once per strike team.</description>
+              <description>Solo puedes incluir a Padd una única vez por Equipo de Asalto, que además debe contener al Señor Forjador Ingulf Krestürsson.</description>
             </rule>
           </rules>
           <infoLinks>
@@ -4466,9 +4466,9 @@
             </categoryLink>
           </categoryLinks>
           <selectionEntries>
-            <selectionEntry id="5adf-3dd5-2181-1ab1" name="Teeth" hidden="false" collective="false" type="upgrade">
+            <selectionEntry id="5adf-3dd5-2181-1ab1" name="Dientes" hidden="false" collective="false" type="upgrade">
               <profiles>
-                <profile id="4bc0-7b88-2c75-3513" name="Teeth" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
+                <profile id="4bc0-7b88-2c75-3513" name="Dientes" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
                   <profiles/>
                   <rules/>
                   <infoLinks/>
@@ -4508,7 +4508,7 @@
       </selectionEntries>
       <selectionEntryGroups/>
       <entryLinks>
-        <entryLink id="4225-8207-11dc-5545" name="Forge Hammer" hidden="false" targetId="ba0a-c033-a2c2-655b" type="selectionEntry">
+        <entryLink id="4225-8207-11dc-5545" name="Martillo Forjador" hidden="false" targetId="ba0a-c033-a2c2-655b" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -4542,11 +4542,11 @@
   </selectionEntries>
   <entryLinks/>
   <sharedSelectionEntries>
-    <selectionEntry id="ba0a-c033-a2c2-655b" name="Forge Hammer" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="ba0a-c033-a2c2-655b" name="Martillo Forjador" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="61c2-57eb-fa1c-dee2" name="Forge Hammer" hidden="false" targetId="ac02-8d0f-75d6-0a4a" type="profile">
+        <infoLink id="61c2-57eb-fa1c-dee2" name="Martillo Forjador" hidden="false" targetId="ac02-8d0f-75d6-0a4a" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -4592,11 +4592,11 @@
         <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="ee51-dc0a-5c62-d92b" name="Burst Pistola *" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="ee51-dc0a-5c62-d92b" name="Pistola de Ráfaga *" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="52a7-1904-c540-ed46" name="Burst Pistola" hidden="false" targetId="95e0-c1c0-1a1a-347c" type="profile">
+        <infoLink id="52a7-1904-c540-ed46" name="Pistola de Ráfaga" hidden="false" targetId="95e0-c1c0-1a1a-347c" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -4728,11 +4728,11 @@
         <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="cdad-e195-07d2-a38e" name="Magma Rifle" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="cdad-e195-07d2-a38e" name="Rifle de Magma" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="010a-12e6-ebd6-2128" name="Magma Rifle" hidden="false" targetId="170a-893e-315f-3dfb" type="profile">
+        <infoLink id="010a-12e6-ebd6-2128" name="Rifle de Magma" hidden="false" targetId="170a-893e-315f-3dfb" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -4756,11 +4756,11 @@
         <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="1.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="e9bb-ea0f-e898-0c8f" name="Magma Cannon" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="e9bb-ea0f-e898-0c8f" name="Cañón de Magma" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="e151-889c-40c3-4595" name="Magma Cannon" hidden="false" targetId="6fac-d282-02b4-92e7" type="profile">
+        <infoLink id="e151-889c-40c3-4595" name="Cañón de Magma" hidden="false" targetId="6fac-d282-02b4-92e7" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -4778,11 +4778,11 @@
         <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="1.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="86d1-71f4-7845-9710" name="Twin Hailstorm Pistols" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="86d1-71f4-7845-9710" name="Par de Pistolas Graníticas" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="4d51-1768-a03d-a90f" name="Twin Hailstorm Pistols" hidden="false" targetId="b9dd-77c3-92a8-39f1" type="profile">
+        <infoLink id="4d51-1768-a03d-a90f" name="Par de Pistolas Graníticas" hidden="false" targetId="b9dd-77c3-92a8-39f1" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -4818,11 +4818,11 @@
         <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="9915-7b46-887a-c7a6" name="Twin Magma Cannon" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="9915-7b46-887a-c7a6" name="Twin Cañón de Magma" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="2b31-fdb0-72d7-c236" name="Twin Magma Cannon" hidden="false" targetId="f3a1-1017-7e97-e765" type="profile">
+        <infoLink id="2b31-fdb0-72d7-c236" name="Twin Cañón de Magma" hidden="false" targetId="f3a1-1017-7e97-e765" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -4852,7 +4852,7 @@
         <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="1.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="8146-444d-0531-fabc" name="Power Garra and Flameador" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="8146-444d-0531-fabc" name="Power Garra y Flameador" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
@@ -4862,7 +4862,7 @@
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="4c24-6750-3797-fc52" name="Power Garra and Flameador" hidden="false" targetId="58c7-69c4-be22-aa9f" type="profile">
+        <infoLink id="4c24-6750-3797-fc52" name="Power Garra y Flameador" hidden="false" targetId="58c7-69c4-be22-aa9f" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -4880,11 +4880,11 @@
         <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="1.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="9a5f-dd73-05ab-873b" name="Twin Hailstorm Autocannons" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="9a5f-dd73-05ab-873b" name="Twin Autocañón Graníticos" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="a2ba-274d-4fbe-423d" name="Twin Hailstorm Autocannons" hidden="false" targetId="1530-5173-e5a7-8b44" type="profile">
+        <infoLink id="a2ba-274d-4fbe-423d" name="Twin Autocañón Graníticos" hidden="false" targetId="1530-5173-e5a7-8b44" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -4914,11 +4914,11 @@
         <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="1.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="366b-0f04-c822-8274" name="Dragon&apos;s Breath" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="366b-0f04-c822-8274" name="Aliento de Dragón" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="f67d-aaf2-2665-57b3" name="Dragon&apos;s Breath" hidden="false" targetId="b4bb-653e-9f45-5762" type="profile">
+        <infoLink id="f67d-aaf2-2665-57b3" name="Aliento de Dragón" hidden="false" targetId="b4bb-653e-9f45-5762" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -4942,11 +4942,11 @@
         <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="9cc6-5257-b96c-e876" name="Hailstorm Autocannon" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="9cc6-5257-b96c-e876" name="Autocañón Granítico" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="5f9f-2eb5-1a46-77ba" name="Hailstorm Autocannon" hidden="false" targetId="afab-6ed3-1f02-2059" type="profile">
+        <infoLink id="5f9f-2eb5-1a46-77ba" name="Autocañón Granítico" hidden="false" targetId="afab-6ed3-1f02-2059" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -4964,7 +4964,7 @@
             </modifier>
           </modifiers>
         </infoLink>
-        <infoLink id="b7fd-0403-e0d1-da4b" name="Suppression" hidden="false" targetId="bcf7-8697-e7d8-43ac" type="rule">
+        <infoLink id="b7fd-0403-e0d1-da4b" name="Supresión" hidden="false" targetId="bcf7-8697-e7d8-43ac" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -4982,11 +4982,11 @@
         <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="1.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="9f14-3d97-4d77-11d9" name="IA Forge Hammer" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="9f14-3d97-4d77-11d9" name="IA Martillo Forjador" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="961d-3b16-b1ae-4cb3" name="IA Forge Hammer" hidden="false" targetId="c46c-4939-8bf8-d82d" type="profile">
+        <infoLink id="961d-3b16-b1ae-4cb3" name="IA Martillo Forjador" hidden="false" targetId="c46c-4939-8bf8-d82d" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -5004,7 +5004,7 @@
         <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="1.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="c817-5e7d-1f8e-3c20" name="2-Handed Heat Hammer" book="Deadzone: Outbreak" page="39" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="c817-5e7d-1f8e-3c20" name="Martillo Térmico a 2 Manos" book="Deadzone: Outbreak" page="39" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
@@ -5014,7 +5014,7 @@
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="1e89-412f-7814-a291" name="2-Handed Heat Hammer" hidden="false" targetId="dd0d-3ee9-d32a-c587" type="profile">
+        <infoLink id="1e89-412f-7814-a291" name="Martillo Térmico a 2 Manos" hidden="false" targetId="dd0d-3ee9-d32a-c587" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -5032,11 +5032,11 @@
         <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="1.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="4d70-bb9e-daf0-f78d" name="Inferno Drill" book="Deadzone Infestation" page="24" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="4d70-bb9e-daf0-f78d" name="Taladro Infierno" book="Deadzone Infestation" page="24" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="552c-1c50-7b00-035c" name="Inferno Drill" hidden="false" targetId="ebe8-11ef-b457-b68f" type="profile">
+        <infoLink id="552c-1c50-7b00-035c" name="Taladro Infierno" hidden="false" targetId="ebe8-11ef-b457-b68f" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -5054,11 +5054,11 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="d1bb-7685-0511-63ce" name="Mining Laser" book="" page="" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="d1bb-7685-0511-63ce" name="Láser de Minería" book="" page="" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="1f3b-99cd-d4a2-0ca5" name="Mining Laser" hidden="false" targetId="3fe3-a385-6ad5-ad6a" type="profile">
+        <infoLink id="1f3b-99cd-d4a2-0ca5" name="Láser de Minería" hidden="false" targetId="3fe3-a385-6ad5-ad6a" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -5088,9 +5088,9 @@
       </constraints>
       <categoryLinks/>
       <selectionEntries>
-        <selectionEntry id="57a0-07be-4bec-6657" name="Bomb Bot (+)" book="Deadzone: Outbreak" page="39" hidden="false" collective="false" type="upgrade">
+        <selectionEntry id="57a0-07be-4bec-6657" name="Robobomba (+)" book="Deadzone: Outbreak" page="39" hidden="false" collective="false" type="upgrade">
           <profiles>
-            <profile id="a26a-b5c6-2728-9331" name="Bomb Bot" book="Deadzone: Outbreak" page="39" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
+            <profile id="a26a-b5c6-2728-9331" name="Robobomba" book="Deadzone: Outbreak" page="39" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -5106,12 +5106,12 @@
             </profile>
           </profiles>
           <rules>
-            <rule id="1aa8-7074-c6d7-9f1f" name="Bomb Bot" book="Deadzone: Outbreak" page="39" hidden="false">
+            <rule id="1aa8-7074-c6d7-9f1f" name="Robobomba" book="Deadzone: Outbreak" page="39" hidden="false">
               <profiles/>
               <rules/>
               <infoLinks/>
               <modifiers/>
-              <description>The Bomb Bot is both an item and a model. It is purchased as an item but begins the game deployed as a model and therefore must be activated to move and counts towards your model count for determining if you can reroll Command Dice. To activate a Bomb Bot you must have a model with the Ingeniero ability within 3 cubes.</description>
+              <description>The Robobomba is both an item y a model. It is purchased as an item but begins the game deployed as a model y therefore must be activated to move y counts towards your model count for determining if you can reroll Command Dice. To activate a Robobomba you must have a model with the Ingeniero ability within 3 cubes.</description>
             </rule>
           </rules>
           <infoLinks>
@@ -5327,7 +5327,7 @@
   </sharedSelectionEntryGroups>
   <sharedRules/>
   <sharedProfiles>
-    <profile id="ac02-8d0f-75d6-0a4a" name="Forge Hammer" book="Reglamento Deadzone 2ª Edición" page="71" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
+    <profile id="ac02-8d0f-75d6-0a4a" name="Martillo Forjador" book="Reglamento Deadzone 2ª Edición" page="71" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -5351,7 +5351,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Pequeño Calibre"/>
       </characteristics>
     </profile>
-    <profile id="95e0-c1c0-1a1a-347c" name="Burst Pistola" book="Reglamento Deadzone 2ª Edición" page="71" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
+    <profile id="95e0-c1c0-1a1a-347c" name="Pistola de Ráfaga" book="Reglamento Deadzone 2ª Edición" page="71" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -5399,7 +5399,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Bike (Automática)"/>
       </characteristics>
     </profile>
-    <profile id="170a-893e-315f-3dfb" name="Magma Rifle" book="Reglamento Deadzone 2ª Edición" page="71" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
+    <profile id="170a-893e-315f-3dfb" name="Rifle de Magma" book="Reglamento Deadzone 2ª Edición" page="71" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -5411,7 +5411,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Asalto)"/>
       </characteristics>
     </profile>
-    <profile id="6fac-d282-02b4-92e7" name="Magma Cannon" book="Reglamento Deadzone 2ª Edición" page="71" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
+    <profile id="6fac-d282-02b4-92e7" name="Cañón de Magma" book="Reglamento Deadzone 2ª Edición" page="71" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -5423,7 +5423,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Pesada (Asalto)"/>
       </characteristics>
     </profile>
-    <profile id="b9dd-77c3-92a8-39f1" name="Twin Hailstorm Pistols" book="Reglamento Deadzone 2ª Edición" page="71" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
+    <profile id="b9dd-77c3-92a8-39f1" name="Par de Pistolas Graníticas" book="Reglamento Deadzone 2ª Edición" page="71" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -5435,7 +5435,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Automática)"/>
       </characteristics>
     </profile>
-    <profile id="f3a1-1017-7e97-e765" name="Twin Magma Cannon" book="Reglamento Deadzone 2ª Edición" page="71" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
+    <profile id="f3a1-1017-7e97-e765" name="Twin Cañón de Magma" book="Reglamento Deadzone 2ª Edición" page="71" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -5447,7 +5447,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Andador (Lanza)"/>
       </characteristics>
     </profile>
-    <profile id="58c7-69c4-be22-aa9f" name="Power Garra and Flameador" book="Reglamento Deadzone 2ª Edición" page="71" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
+    <profile id="58c7-69c4-be22-aa9f" name="Power Garra y Flameador" book="Reglamento Deadzone 2ª Edición" page="71" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -5459,7 +5459,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Andador (Asalto)"/>
       </characteristics>
     </profile>
-    <profile id="1530-5173-e5a7-8b44" name="Twin Hailstorm Autocannons" book="Reglamento Deadzone 2ª Edición" page="71" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
+    <profile id="1530-5173-e5a7-8b44" name="Twin Autocañón Graníticos" book="Reglamento Deadzone 2ª Edición" page="71" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -5471,7 +5471,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Andador (Automática)"/>
       </characteristics>
     </profile>
-    <profile id="b4bb-653e-9f45-5762" name="Dragon&apos;s Breath" book="Reglamento Deadzone 2ª Edición" page="71" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
+    <profile id="b4bb-653e-9f45-5762" name="Aliento de Dragón" book="Reglamento Deadzone 2ª Edición" page="71" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -5483,7 +5483,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Asalto)"/>
       </characteristics>
     </profile>
-    <profile id="afab-6ed3-1f02-2059" name="Hailstorm Autocannon" book="Reglamento Deadzone 2ª Edición" page="71" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
+    <profile id="afab-6ed3-1f02-2059" name="Autocañón Granítico" book="Reglamento Deadzone 2ª Edición" page="71" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -5491,11 +5491,11 @@
       <characteristics>
         <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A8"/>
         <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="PA1"/>
-        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Cadencia de Fuego (1), Suppression"/>
+        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Cadencia de Fuego (1), Supresión"/>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Pesada (Automática)"/>
       </characteristics>
     </profile>
-    <profile id="c46c-4939-8bf8-d82d" name="IA Forge Hammer" book="Reglamento Deadzone 2ª Edición" page="71" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
+    <profile id="c46c-4939-8bf8-d82d" name="IA Martillo Forjador" book="Reglamento Deadzone 2ª Edición" page="71" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -5507,7 +5507,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Andador (Melé)"/>
       </characteristics>
     </profile>
-    <profile id="dd0d-3ee9-d32a-c587" name="2-Handed Heat Hammer" book="Deadzone: Outbreak" page="39" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
+    <profile id="dd0d-3ee9-d32a-c587" name="Martillo Térmico a 2 Manos" book="Deadzone: Outbreak" page="39" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -5519,7 +5519,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Melé)"/>
       </characteristics>
     </profile>
-    <profile id="ebe8-11ef-b457-b68f" name="Inferno Drill" book="Deadzone: Infestación" page="24" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
+    <profile id="ebe8-11ef-b457-b68f" name="Taladro Infierno" book="Deadzone: Infestación" page="24" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -5531,7 +5531,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c"/>
       </characteristics>
     </profile>
-    <profile id="3fe3-a385-6ad5-ad6a" name="Mining Laser" book="Deadzone: Infestación" page="24" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
+    <profile id="3fe3-a385-6ad5-ad6a" name="Láser de Minería" book="Deadzone: Infestación" page="24" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>

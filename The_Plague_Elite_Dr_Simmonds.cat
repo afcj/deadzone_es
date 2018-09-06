@@ -32,10 +32,10 @@
           <rules/>
           <infoLinks/>
           <modifiers/>
-          <description>Spend and Army Special result to activate the bio-modifications Dr Simmonds has implanted within her troops. The Non-vehicle active model gains an effect of the player&apos;s choice from the following list:
+          <description>Spend y Army Special result to activate the bio-modifications Dr Simmonds has implanted within her troops. The Non-vehicle active model gains an effect of the player&apos;s choice from the following list:
 Garras: Gain a AL, PA2 weapon until the end of the round
 Adrenal Burst: Gain +1/+0 speed until the end of the round
-Grav-Pods: Gain Jump Pack and Glide until the end of the Round</description>
+Grav-Pods: Gain Jump Pack y Glide until the end of the Round</description>
         </rule>
       </rules>
       <infoLinks>
@@ -641,7 +641,7 @@ Grav-Pods: Gain Jump Pack and Glide until the end of the Round</description>
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="8853-dd4e-c901-2f3d" name="Flame Thrower" hidden="false" targetId="ba5d-a68b-dee9-1777" type="selectionEntry">
+            <entryLink id="8853-dd4e-c901-2f3d" name="Lanzallamas" hidden="false" targetId="ba5d-a68b-dee9-1777" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1376,7 +1376,7 @@ Grav-Pods: Gain Jump Pack and Glide until the end of the Round</description>
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="5.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="ba5d-a68b-dee9-1777" name="Flame Thrower" book="Nexus PSI" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="ba5d-a68b-dee9-1777" name="Lanzallamas" book="Nexus PSI" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
@@ -1392,7 +1392,7 @@ Grav-Pods: Gain Jump Pack and Glide until the end of the Round</description>
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="d3c7-948c-1e0e-e675" name="Flame Thrower" hidden="false" targetId="d0dd-9598-28d8-7f6d" type="profile">
+        <infoLink id="d3c7-948c-1e0e-e675" name="Lanzallamas" hidden="false" targetId="d0dd-9598-28d8-7f6d" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1420,12 +1420,12 @@ Grav-Pods: Gain Jump Pack and Glide until the end of the Round</description>
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="75fe-ef2c-493a-a18a" name="Indirect (n)" hidden="false" targetId="8fe0-f858-5940-b816" type="rule">
+        <infoLink id="75fe-ef2c-493a-a18a" name="Indirecto (n)" hidden="false" targetId="8fe0-f858-5940-b816" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers>
-            <modifier type="set" field="name" value="Indirect (3)">
+            <modifier type="set" field="name" value="Indirecto (3)">
               <repeats/>
               <conditions/>
               <conditionGroups/>
@@ -1466,7 +1466,7 @@ Grav-Pods: Gain Jump Pack and Glide until the end of the Round</description>
             </modifier>
           </modifiers>
         </infoLink>
-        <infoLink id="a2f8-5158-e727-024a" name="Suppression" hidden="false" targetId="bcf7-8697-e7d8-43ac" type="rule">
+        <infoLink id="a2f8-5158-e727-024a" name="Supresión" hidden="false" targetId="bcf7-8697-e7d8-43ac" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1484,22 +1484,22 @@ Grav-Pods: Gain Jump Pack and Glide until the end of the Round</description>
         <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="b3d8-71d9-4fca-b2cb" name="Mortar" book="Reglamento Deadzone 2ª Edición" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="b3d8-71d9-4fca-b2cb" name="Mortero" book="Reglamento Deadzone 2ª Edición" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="3f4a-1939-be9c-96da" name="Mortar" hidden="false" targetId="f494-17a7-0905-d30b" type="profile">
+        <infoLink id="3f4a-1939-be9c-96da" name="Mortero" hidden="false" targetId="f494-17a7-0905-d30b" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="daff-f578-7f53-ac96" name="Indirect (n)" hidden="false" targetId="8fe0-f858-5940-b816" type="rule">
+        <infoLink id="daff-f578-7f53-ac96" name="Indirecto (n)" hidden="false" targetId="8fe0-f858-5940-b816" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers>
-            <modifier type="set" field="name" value="Indirect (4)">
+            <modifier type="set" field="name" value="Indirecto (4)">
               <repeats/>
               <conditions/>
               <conditionGroups/>
@@ -1606,7 +1606,7 @@ Grav-Pods: Gain Jump Pack and Glide until the end of the Round</description>
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="cbee-be96-392f-e1ac" name="Suppression" hidden="false" targetId="bcf7-8697-e7d8-43ac" type="rule">
+        <infoLink id="cbee-be96-392f-e1ac" name="Supresión" hidden="false" targetId="bcf7-8697-e7d8-43ac" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1826,7 +1826,7 @@ Grav-Pods: Gain Jump Pack and Glide until the end of the Round</description>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Pesada (Automática)"/>
       </characteristics>
     </profile>
-    <profile id="d0dd-9598-28d8-7f6d" name="Flame Thrower" book="Reglamento Deadzone 2ª Edición" page="52" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
+    <profile id="d0dd-9598-28d8-7f6d" name="Lanzallamas" book="Reglamento Deadzone 2ª Edición" page="52" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -1846,7 +1846,7 @@ Grav-Pods: Gain Jump Pack and Glide until the end of the Round</description>
       <characteristics>
         <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A5"/>
         <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
-        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Indirect (3)"/>
+        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Indirecto (3)"/>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Explosiva)"/>
       </characteristics>
     </profile>
@@ -1858,11 +1858,11 @@ Grav-Pods: Gain Jump Pack and Glide until the end of the Round</description>
       <characteristics>
         <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A6"/>
         <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
-        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Cadencia de Fuego (1), Suppression"/>
+        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Cadencia de Fuego (1), Supresión"/>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Automática)"/>
       </characteristics>
     </profile>
-    <profile id="f494-17a7-0905-d30b" name="Mortar" book="Reglamento Deadzone 2ª Edición" page="52" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
+    <profile id="f494-17a7-0905-d30b" name="Mortero" book="Reglamento Deadzone 2ª Edición" page="52" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -1870,7 +1870,7 @@ Grav-Pods: Gain Jump Pack and Glide until the end of the Round</description>
       <characteristics>
         <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A8"/>
         <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
-        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Indirect (4), Pesada"/>
+        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Indirecto (4), Pesada"/>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Pesada (Crew Served Weapon)"/>
       </characteristics>
     </profile>
@@ -1918,7 +1918,7 @@ Grav-Pods: Gain Jump Pack and Glide until the end of the Round</description>
       <characteristics>
         <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A10"/>
         <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
-        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Suppression, Cadencia de Fuego (2)"/>
+        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Supresión, Cadencia de Fuego (2)"/>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Andador (Automática)"/>
       </characteristics>
     </profile>
