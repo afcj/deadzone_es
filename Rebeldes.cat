@@ -27,12 +27,12 @@
         </profile>
       </profiles>
       <rules>
-        <rule id="0270-cc13-5527-8dfa" name="Always Short" book="Reglamento Deadzone 2ª Edición" page="85" hidden="false">
+        <rule id="0270-cc13-5527-8dfa" name="Siempre Escasos" book="Reglamento Deadzone 2ª Edición" page="85" hidden="false">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers/>
-          <description>You can spend an Army Special result on your Command Dice to place a new random item, face down, in an unoccupied cube that is adjacent to the active model. This does not count as an action.</description>
+          <description>Gasta un resultado Especial de tus Dados de Mando para colocar un nuevo objeto aleatorio, bocabajo, en un cubo no ocupado adyacente al modelo activo. No cuenta como acción.</description>
         </rule>
       </rules>
       <infoLinks>
@@ -207,12 +207,12 @@
         </profile>
       </profiles>
       <rules>
-        <rule id="c16c-6ca6-0724-d2ab" name="Hide in Shadows" book="Reglamento Deadzone 2ª Edición" page="85" hidden="false">
+        <rule id="c16c-6ca6-0724-d2ab" name="Oculto en las Sombras" book="Reglamento Deadzone 2ª Edición" page="85" hidden="false">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers/>
-          <description>Spend an Army Special result on a Command Dice at the end of a model activation. The active model slinks into hiding. For the rest of the Round, this model cannot be targeted by Disparo actions, y cannot have Line of Sight drawn to it. The model is still affected by abilities that target every model in the cube (such as Fragmentación, indirect, ¡Quema! or Onda Expansiva) y can still be the target of Lucha actions.</description>
+          <description>Gasta un resultado Especial de tus Dados de Mando al final de la activación de una miniatura para que durante el resto de la Ronda no pueda ser objetivo de acciones de Disparo y no se pueda trazar LdV hacia ella. Sigue pudiendo ser objetivo en una Lucha y se verá afectada por habilidades que afecten a su cubo (como Fragmentación, Indirecto, ¡Quema! u Onda Expansiva).</description>
         </rule>
       </rules>
       <infoLinks>
@@ -2693,9 +2693,9 @@
         </categoryLink>
       </categoryLinks>
       <selectionEntries>
-        <selectionEntry id="bf52-bb45-c827-d177" name="Lanzador ARC" hidden="false" collective="false" type="upgrade">
+        <selectionEntry id="bf52-bb45-c827-d177" name="Lanzador Voltaico" hidden="false" collective="false" type="upgrade">
           <profiles>
-            <profile id="dde3-0af1-bed3-edab" name="Lanzador ARC" book="Reglamento Deadzone 2ª Edición" page="94" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
+            <profile id="dde3-0af1-bed3-edab" name="Lanzador Voltaico" book="Reglamento Deadzone 2ª Edición" page="94" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -3086,7 +3086,7 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="5692-2a21-b695-5fbf" name="Eddak P'Mera" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="5692-2a21-b695-5fbf" name="Eddak P&apos;Mera" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -3104,7 +3104,7 @@
       <selectionEntries/>
       <selectionEntryGroups/>
       <entryLinks>
-        <entryLink id="84c9-9e0a-779a-d77d" name="Eddak P'Mera" hidden="false" targetId="546a-e2df-8db8-0091" type="selectionEntry">
+        <entryLink id="84c9-9e0a-779a-d77d" name="Eddak P&apos;Mera" hidden="false" targetId="546a-e2df-8db8-0091" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -3485,12 +3485,12 @@
         </profile>
       </profiles>
       <rules>
-        <rule id="ad55-8ded-9bcc-6cb7" name="Jack of All Trades" book="Deadzone: Outbreak" page="68" hidden="false">
+        <rule id="ad55-8ded-9bcc-6cb7" name="Polifacético" book="Deadzone: Outbreak" page="68" hidden="false">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers/>
-          <description>Spend an Army Special Result to allow the active model to switch their Disparo, Lucha or Supervivencia stat for a test. You may not swap a stat value of -.</description>
+          <description>Gasta un resultado Especial de tus Dados de Mando para permitir a la miniatura activa intercambiar durante una prueba su característica de Disparo, Lucha o Supervivencia. No puedes intercambiar un valor de &apos;-&apos;.</description>
         </rule>
       </rules>
       <infoLinks>
@@ -3660,7 +3660,7 @@
             </entryLink>
           </entryLinks>
         </selectionEntryGroup>
-        <selectionEntryGroup id="5492-7834-b504-d5eb" name="Species" hidden="false" collective="false">
+        <selectionEntryGroup id="5492-7834-b504-d5eb" name="Especies" hidden="false" collective="false">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -3675,7 +3675,7 @@
               <profiles/>
               <rules/>
               <infoLinks>
-                <infoLink id="d929-43f9-85a0-eb6a" name="Logistics" hidden="false" targetId="48fe-47f4-9f2a-ca2e" type="rule">
+                <infoLink id="d929-43f9-85a0-eb6a" name="Logística" hidden="false" targetId="48fe-47f4-9f2a-ca2e" type="rule">
                   <profiles/>
                   <rules/>
                   <infoLinks/>
@@ -3765,7 +3765,7 @@
                   <infoLinks/>
                   <modifiers/>
                 </infoLink>
-                <infoLink id="26bf-0e54-c0a2-277b" name="Glide" hidden="false" targetId="c78a-7e20-2ad4-9c09" type="rule">
+                <infoLink id="26bf-0e54-c0a2-277b" name="Planear" hidden="false" targetId="c78a-7e20-2ad4-9c09" type="rule">
                   <profiles/>
                   <rules/>
                   <infoLinks/>
@@ -4830,7 +4830,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Pesada (Automática)"/>
       </characteristics>
     </profile>
-    <profile id="fcde-7b24-cff6-4e25" name="Desolator" book="Reglamento Deadzone 2ª Edición" page="89" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
+    <profile id="fcde-7b24-cff6-4e25" name="Desolador" book="Reglamento Deadzone 2ª Edición" page="89" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -4998,7 +4998,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Pesada (Crew Served Weapon)"/>
       </characteristics>
     </profile>
-    <profile id="43be-2ae3-7d63-c7de" name="Spiked Gloves" book="Deadzone: Outbreak" page="69" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
+    <profile id="43be-2ae3-7d63-c7de" name="Guantes de Clavos" book="Deadzone: Outbreak" page="69" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>

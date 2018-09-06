@@ -2747,9 +2747,9 @@
         </categoryLink>
       </categoryLinks>
       <selectionEntries>
-        <selectionEntry id="413d-a94b-4721-1bc4" name="Lanzador ARC" hidden="false" collective="false" type="upgrade">
+        <selectionEntry id="413d-a94b-4721-1bc4" name="Lanzador Voltaico" hidden="false" collective="false" type="upgrade">
           <profiles>
-            <profile id="9bcf-4429-d856-b989" name="Lanzador ARC" book="Reglamento Deadzone 2ª Edición" page="94" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
+            <profile id="9bcf-4429-d856-b989" name="Lanzador Voltaico" book="Reglamento Deadzone 2ª Edición" page="94" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
               <profiles/>
               <rules/>
               <infoLinks/>
