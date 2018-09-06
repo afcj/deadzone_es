@@ -672,7 +672,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="68f9-fafa-fc8a-b2cf" name="Flameador Thrower" hidden="false" targetId="801e-00b8-4a32-ce03" type="selectionEntry">
+            <entryLink id="68f9-fafa-fc8a-b2cf" name="Inflamador Thrower" hidden="false" targetId="801e-00b8-4a32-ce03" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -2340,7 +2340,7 @@
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="95b6-92c4-10a4-3ff1" name="Flameador Thrower" hidden="false" targetId="6e0a-2db7-fefc-e993" type="profile">
+        <infoLink id="95b6-92c4-10a4-3ff1" name="Inflamador Thrower" hidden="false" targetId="6e0a-2db7-fefc-e993" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>

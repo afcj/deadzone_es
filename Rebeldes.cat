@@ -891,7 +891,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="e52b-fab9-f59a-a128" name="Flameador de Mano" hidden="false" targetId="aeac-4622-eb9c-a034" type="selectionEntry">
+            <entryLink id="e52b-fab9-f59a-a128" name="Inflamador de Mano" hidden="false" targetId="aeac-4622-eb9c-a034" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1079,7 +1079,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="85d9-804e-25f6-3eeb" name="Flameador Ligero" hidden="false" targetId="0dc4-f1c2-9e55-4ec6" type="selectionEntry">
+            <entryLink id="85d9-804e-25f6-3eeb" name="Inflamador Ligero" hidden="false" targetId="0dc4-f1c2-9e55-4ec6" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1616,7 +1616,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="9a21-cecf-d1b5-2bc3" name="Flameador de Mano" hidden="false" targetId="aeac-4622-eb9c-a034" type="selectionEntry">
+            <entryLink id="9a21-cecf-d1b5-2bc3" name="Inflamador de Mano" hidden="false" targetId="aeac-4622-eb9c-a034" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1732,7 +1732,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="1727-dca3-815e-0ef9" name="Flameador de Mano" hidden="false" targetId="aeac-4622-eb9c-a034" type="selectionEntry">
+            <entryLink id="1727-dca3-815e-0ef9" name="Inflamador de Mano" hidden="false" targetId="aeac-4622-eb9c-a034" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1883,7 +1883,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="eee7-ce46-0cfa-9ec4" name="Flameador de Mano" hidden="false" targetId="aeac-4622-eb9c-a034" type="selectionEntry">
+            <entryLink id="eee7-ce46-0cfa-9ec4" name="Inflamador de Mano" hidden="false" targetId="aeac-4622-eb9c-a034" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -3634,7 +3634,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="af3b-1280-9f2a-cbc8" name="Flameador Ligero" hidden="false" targetId="0dc4-f1c2-9e55-4ec6" type="selectionEntry">
+            <entryLink id="af3b-1280-9f2a-cbc8" name="Inflamador Ligero" hidden="false" targetId="0dc4-f1c2-9e55-4ec6" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -4158,7 +4158,7 @@
         <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="aeac-4622-eb9c-a034" name="Flameador de Mano" book="Reglamento Deadzone 2ª Edición" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="aeac-4622-eb9c-a034" name="Inflamador de Mano" book="Reglamento Deadzone 2ª Edición" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
@@ -4174,7 +4174,7 @@
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="84d4-f43c-d1c1-b6ba" name="Flameador de Mano" hidden="false" targetId="c4eb-fd08-bee3-2a8d" type="profile">
+        <infoLink id="84d4-f43c-d1c1-b6ba" name="Inflamador de Mano" hidden="false" targetId="c4eb-fd08-bee3-2a8d" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -4412,11 +4412,11 @@
         <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="0dc4-f1c2-9e55-4ec6" name="Flameador Ligero" book="Deadzone: Outbreak" page="73" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="0dc4-f1c2-9e55-4ec6" name="Inflamador Ligero" book="Deadzone: Outbreak" page="73" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="9fe0-e27c-e426-88fc" name="Flameador Ligero" hidden="false" targetId="c649-8050-edff-a6eb" type="profile">
+        <infoLink id="9fe0-e27c-e426-88fc" name="Inflamador Ligero" hidden="false" targetId="c649-8050-edff-a6eb" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -4878,7 +4878,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Explosiva)"/>
       </characteristics>
     </profile>
-    <profile id="c4eb-fd08-bee3-2a8d" name="Flameador de Mano" book="Reglamento Deadzone 2ª Edición" page="89" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
+    <profile id="c4eb-fd08-bee3-2a8d" name="Inflamador de Mano" book="Reglamento Deadzone 2ª Edición" page="89" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -4974,7 +4974,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Asalto)"/>
       </characteristics>
     </profile>
-    <profile id="c649-8050-edff-a6eb" name="Flameador Ligero" book="Deadzone: Outbreak" page="73" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
+    <profile id="c649-8050-edff-a6eb" name="Inflamador Ligero" book="Deadzone: Outbreak" page="73" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>

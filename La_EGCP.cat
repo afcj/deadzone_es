@@ -150,7 +150,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="9385-fdd6-4b1f-1566" name="Flameador Thrower" hidden="false" targetId="c024-afd3-6a4c-14ae" type="selectionEntry">
+            <entryLink id="9385-fdd6-4b1f-1566" name="Inflamador Thrower" hidden="false" targetId="c024-afd3-6a4c-14ae" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -367,7 +367,7 @@ Esta acción de Disparo gratuita no se puede usar para realizar Fuego de Supresi
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="6744-97cb-e440-2074" name="Flameador Thrower" hidden="false" targetId="c024-afd3-6a4c-14ae" type="selectionEntry">
+            <entryLink id="6744-97cb-e440-2074" name="Inflamador Thrower" hidden="false" targetId="c024-afd3-6a4c-14ae" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -541,7 +541,7 @@ Esta acción de Disparo gratuita no se puede usar para realizar Fuego de Supresi
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="ba48-06cd-e05a-91f2" name="Flameador Thrower" hidden="false" targetId="c024-afd3-6a4c-14ae" type="selectionEntry">
+            <entryLink id="ba48-06cd-e05a-91f2" name="Inflamador Thrower" hidden="false" targetId="c024-afd3-6a4c-14ae" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -944,7 +944,7 @@ Esta acción de Disparo gratuita no se puede usar para realizar Fuego de Supresi
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="870c-363e-e32b-ca0d" name="Flameador Thrower" hidden="false" targetId="c024-afd3-6a4c-14ae" type="selectionEntry">
+            <entryLink id="870c-363e-e32b-ca0d" name="Inflamador Thrower" hidden="false" targetId="c024-afd3-6a4c-14ae" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1106,7 +1106,7 @@ Esta acción de Disparo gratuita no se puede usar para realizar Fuego de Supresi
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="a5b1-3faf-7fdb-1ec7" name="Flameador Thrower" hidden="false" targetId="c024-afd3-6a4c-14ae" type="selectionEntry">
+            <entryLink id="a5b1-3faf-7fdb-1ec7" name="Inflamador Thrower" hidden="false" targetId="c024-afd3-6a4c-14ae" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>

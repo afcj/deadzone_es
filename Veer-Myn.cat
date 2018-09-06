@@ -3451,9 +3451,9 @@
       </constraints>
       <categoryLinks/>
       <selectionEntries>
-        <selectionEntry id="24ca-e940-18c8-6139" name="Tóxica Granada (+)" hidden="false" collective="false" type="upgrade">
+        <selectionEntry id="24ca-e940-18c8-6139" name="Granada Tóxica (+)" hidden="false" collective="false" type="upgrade">
           <profiles>
-            <profile id="17bb-f5b8-7b1c-9e68" name="Tóxica Granada" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
+            <profile id="17bb-f5b8-7b1c-9e68" name="Granada Tóxica" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -3461,7 +3461,7 @@
               <characteristics>
                 <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A3"/>
                 <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
-                <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Granada, Tóxica Smokescreen, Un solo Uso"/>
+                <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Granada, Pantalla Tóxica, Un solo Uso"/>
                 <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c"/>
               </characteristics>
             </profile>
@@ -3480,7 +3480,7 @@
               <infoLinks/>
               <modifiers/>
             </infoLink>
-            <infoLink id="9246-1aa9-d124-2d32" name="Tóxica Smokescreen" hidden="false" targetId="95ec-04ae-0dd4-4f28" type="rule">
+            <infoLink id="9246-1aa9-d124-2d32" name="Pantalla Tóxica" hidden="false" targetId="95ec-04ae-0dd4-4f28" type="rule">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -3628,7 +3628,7 @@
       <rules/>
       <infoLinks/>
       <modifiers/>
-      <description>This weapon follows the normal rules for Indirecto weapons (page 30 of the Deadzone 2.0 Rulebook) except that instead of a variable dice 4+ test (X) attack the effect is identical to a Granada de Humo going off in the modelâ€™s cube with the added bonus of the smoke being Tóxica. As long as a model remains in the smoke-filled cube it is treated as having the Vulnerable ability. Models that are immune to Tóxica are immune to the Tóxica effects of a Tóxica Smokescreen. Models that are already Vulnerable suffer no additional effects. Adjacent cubes are not affected by this Tóxica effect.
+      <description>This weapon follows the normal rules for Indirecto weapons (page 30 of the Deadzone 2.0 Rulebook) except that instead of a variable dice 4+ test (X) attack the effect is identical to a Granada de Humo going off in the modelâ€™s cube with the added bonus of the smoke being Tóxica. As long as a model remains in the smoke-filled cube it is treated as having the Vulnerable ability. Models that are immune to Tóxica are immune to the Tóxica effects of a Pantalla Tóxica. Models that are already Vulnerable suffer no additional effects. Adjacent cubes are not affected by this Tóxica effect.
 It disperses in the same way as a Granada de Humo.</description>
     </rule>
     <rule id="fccc-6574-fe86-e5e2" name="Indirecto (Humo)" hidden="false">

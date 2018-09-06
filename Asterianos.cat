@@ -299,7 +299,7 @@
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="b829-c451-05b5-a99b" name="Tóxica Smokescreen" hidden="false" targetId="95ec-04ae-0dd4-4f28" type="rule">
+        <infoLink id="b829-c451-05b5-a99b" name="Pantalla Tóxica" hidden="false" targetId="95ec-04ae-0dd4-4f28" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -949,7 +949,7 @@
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="fc11-9dcf-dafd-a2aa" name="Tóxica Smokescreen" hidden="false" targetId="95ec-04ae-0dd4-4f28" type="rule">
+        <infoLink id="fc11-9dcf-dafd-a2aa" name="Pantalla Tóxica" hidden="false" targetId="95ec-04ae-0dd4-4f28" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -3005,7 +3005,7 @@
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="6fb3-376c-2b6f-c7ea" name="Tóxica Smokescreen" hidden="false" targetId="95ec-04ae-0dd4-4f28" type="rule">
+        <infoLink id="6fb3-376c-2b6f-c7ea" name="Pantalla Tóxica" hidden="false" targetId="95ec-04ae-0dd4-4f28" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -3757,7 +3757,7 @@
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="eeb2-4396-6697-500d" name="Tóxica Smokescreen" hidden="false" targetId="95ec-04ae-0dd4-4f28" type="rule">
+        <infoLink id="eeb2-4396-6697-500d" name="Pantalla Tóxica" hidden="false" targetId="95ec-04ae-0dd4-4f28" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>

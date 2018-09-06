@@ -856,7 +856,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="9f59-cba9-2270-450a" name="Flameador" hidden="false" targetId="d235-fede-7086-8302" type="selectionEntry">
+            <entryLink id="9f59-cba9-2270-450a" name="Inflamador" hidden="false" targetId="d235-fede-7086-8302" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -2038,7 +2038,7 @@
           <selectionEntries/>
           <selectionEntryGroups/>
           <entryLinks>
-            <entryLink id="2c3c-12e8-2c9b-4bb9" name="Flameador Auxiliar" hidden="false" targetId="95d5-31f4-c109-fab4" type="selectionEntry">
+            <entryLink id="2c3c-12e8-2c9b-4bb9" name="Inflamador Auxiliar" hidden="false" targetId="95d5-31f4-c109-fab4" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -3628,7 +3628,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="66ae-8761-5983-5fdc" name="Flameador" hidden="false" targetId="d235-fede-7086-8302" type="selectionEntry">
+            <entryLink id="66ae-8761-5983-5fdc" name="Inflamador" hidden="false" targetId="d235-fede-7086-8302" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -3968,11 +3968,11 @@
         <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="95d5-31f4-c109-fab4" name="Flameador Auxiliar" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="95d5-31f4-c109-fab4" name="Inflamador Auxiliar" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="a838-b0da-6f9a-abe6" name="Flameador Auxiliar" hidden="false" targetId="37b9-67c7-c9ba-b75a" type="profile">
+        <infoLink id="a838-b0da-6f9a-abe6" name="Inflamador Auxiliar" hidden="false" targetId="37b9-67c7-c9ba-b75a" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -4052,11 +4052,11 @@
         <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="d235-fede-7086-8302" name="Flameador" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="d235-fede-7086-8302" name="Inflamador" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="0245-a76a-6f71-714f" name="Flameador" hidden="false" targetId="b1bd-3bad-5a2f-c879" type="profile">
+        <infoLink id="0245-a76a-6f71-714f" name="Inflamador" hidden="false" targetId="b1bd-3bad-5a2f-c879" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -4689,7 +4689,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Andador (Asalto)"/>
       </characteristics>
     </profile>
-    <profile id="37b9-67c7-c9ba-b75a" name="Flameador Auxiliar" book="Reglamento Deadzone 2ª Edición" page="82" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
+    <profile id="37b9-67c7-c9ba-b75a" name="Inflamador Auxiliar" book="Reglamento Deadzone 2ª Edición" page="82" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -4725,7 +4725,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Pequeño Calibre"/>
       </characteristics>
     </profile>
-    <profile id="b1bd-3bad-5a2f-c879" name="Flameador" book="Reglamento Deadzone 2ª Edición" page="82" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
+    <profile id="b1bd-3bad-5a2f-c879" name="Inflamador" book="Reglamento Deadzone 2ª Edición" page="82" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>

@@ -558,8 +558,8 @@
           <rules/>
           <infoLinks/>
           <modifiers/>
-          <description>When deploying your models, in addition to your strike force, deploy up to two Vermin Swarm bases in your deployment zone. If there are fewer than two Vermin Swarms in play, El Flautista may use a Special Action to &quot;call&quot; a new swarm. Place a single Vermin Swarm in El Flautista&apos;s cube. The target cube must have enough available room to fit the Vermin Swarm. If no cube exists, El Flautista may not call a Vermin Swarm.
-Vermin Swarm&apos;s are not part of the Army List, gain no experience, y are not added to a player&apos;s roster.</description>
+          <description>When deploying your models, in addition to your strike force, deploy up to two Enjambre de Alimañas bases in your deployment zone. If there are fewer than two Enjambre de Alimañass in play, El Flautista may use a Special Action to &quot;call&quot; a new swarm. Place a single Enjambre de Alimañas in El Flautista&apos;s cube. The target cube must have enough available room to fit the Enjambre de Alimañas. If no cube exists, El Flautista may not call a Enjambre de Alimañas.
+Enjambre de Alimañas&apos;s are not part of the Army List, gain no experience, y are not added to a player&apos;s roster.</description>
         </rule>
         <rule id="cb34-8019-1604-52db" name="Tide of Vermin" book="Deadzone: Infestación" hidden="false">
           <profiles/>
@@ -595,9 +595,9 @@ Vermin Swarm&apos;s are not part of the Army List, gain no experience, y are not
         </categoryLink>
       </categoryLinks>
       <selectionEntries>
-        <selectionEntry id="2867-6818-a4c9-1e2d" name="Shock Baton" hidden="false" collective="false" type="upgrade">
+        <selectionEntry id="2867-6818-a4c9-1e2d" name="Bastón Eléctrico" hidden="false" collective="false" type="upgrade">
           <profiles>
-            <profile id="a47e-5f00-85c5-974d" name="Shock Baton" book="Deadzone: Infestación" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
+            <profile id="a47e-5f00-85c5-974d" name="Bastón Eléctrico" book="Deadzone: Infestación" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -626,9 +626,9 @@ Vermin Swarm&apos;s are not part of the Army List, gain no experience, y are not
             <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="0.0"/>
           </costs>
         </selectionEntry>
-        <selectionEntry id="de36-b4da-5d42-8806" name="Vermin Swarm" book="Deadzone: Infestación" hidden="false" collective="false" type="model">
+        <selectionEntry id="de36-b4da-5d42-8806" name="Enjambre de Alimañas" book="Deadzone: Infestación" hidden="false" collective="false" type="model">
           <profiles>
-            <profile id="8d6c-b426-e6a2-63a5" name="Vermin Swarm" book="Deadzone: Infestación" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
+            <profile id="8d6c-b426-e6a2-63a5" name="Enjambre de Alimañas" book="Deadzone: Infestación" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -2049,7 +2049,7 @@ Vermin Swarm&apos;s are not part of the Army List, gain no experience, y are not
       <rules/>
       <infoLinks/>
       <modifiers/>
-      <description>This weapon follows the normal rules for Indirecto weapons (page 30 of the Deadzone 2.0 Rulebook) except that instead of a variable dice 4+ test (X) attack the effect is identical to a Granada de Humo going off in the model’s cube with the added bonus of the smoke being Tóxica. As long as a model remains in the smoke-filled cube it is treated as having the Vulnerable ability. Models that are immune to Tóxica are immune to the Tóxica effects of a Tóxica Smokescreen. Models that are already Vulnerable suffer no additional effects. Adjacent cubes are not affected by this Tóxica effect.
+      <description>This weapon follows the normal rules for Indirecto weapons (page 30 of the Deadzone 2.0 Rulebook) except that instead of a variable dice 4+ test (X) attack the effect is identical to a Granada de Humo going off in the model’s cube with the added bonus of the smoke being Tóxica. As long as a model remains in the smoke-filled cube it is treated as having the Vulnerable ability. Models that are immune to Tóxica are immune to the Tóxica effects of a Pantalla Tóxica. Models that are already Vulnerable suffer no additional effects. Adjacent cubes are not affected by this Tóxica effect.
 It disperses in the same way as a Granada de Humo.</description>
     </rule>
   </sharedRules>

@@ -8,9 +8,9 @@
   <categoryEntries/>
   <forceEntries/>
   <selectionEntries>
-    <selectionEntry id="2827-7eea-c47f-5ef2" name="Huscarle Guerrero Acerado" book="Reglamento Deadzone 2ª Edición + Erratas v2.1" page="67" hidden="false" collective="false" type="unit">
+    <selectionEntry id="2827-7eea-c47f-5ef2" name="Huscarle Acerado" book="Reglamento Deadzone 2ª Edición + Erratas v2.1" page="67" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="6f14-4ecb-a340-4036" name="Huscarle Guerrero Acerado" book="Reglamento Deadzone 2ª Edición" page="67" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Líder">
+        <profile id="6f14-4ecb-a340-4036" name="Huscarle" book="Reglamento Deadzone 2ª Edición" page="67" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Líder">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -27,12 +27,12 @@
         </profile>
       </profiles>
       <rules>
-        <rule id="547c-dd31-aa89-b17a" name="Too Stubborn To Die" book="Reglamento Deadzone 2ª Edición" page="67" hidden="false">
+        <rule id="547c-dd31-aa89-b17a" name="Demasiado Terco para Morir" book="Reglamento Deadzone 2ª Edición" page="67" hidden="false">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers/>
-          <description>You can spend an Army Special result on your Command Dice to try y remove a point of Damage on the active model. Roll a 3 dice Supervivencia test (2) with no modifiers, not even from Command dice. Success removes one Damage token. Failure has no effect. This does not count as an action.</description>
+          <description>Gasta un resultado Especial de tus Dados de Mando para intentar eliminar 1 punto de Daño de la miniatura activa: realiza una prueba de 2 Dados de Supervivencia (2) sin modificadores, ni siquiera por Dados de Mando. Si superas la prueba eliminas 1 punto de Daño. No cuenta como acción.</description>
         </rule>
       </rules>
       <infoLinks>
@@ -181,12 +181,12 @@
         </profile>
       </profiles>
       <rules>
-        <rule id="80c9-3805-3caa-4d16" name="Strike It Lucky" book="Reglamento Deadzone 2ª Edición" page="67" hidden="false">
+        <rule id="80c9-3805-3caa-4d16" name="Golpe de Suerte" book="Reglamento Deadzone 2ª Edición + Erratas 2.1" page="67" hidden="false">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers/>
-          <description>Spend an Army Special result after a friendly model picks up an item to discard that item. This does not count as an action. Pick a new item at random from the unused Item tokens; the model has found this item instead. This ability cannot be used if a model activates a booby trap. If the player wishes, the item drawn from the unused pile can be replaced with an ammo item. This may not be done however if the new item drawn is a booby trap.</description>
+          <description>Cuando una miniatura amiga coja un objeto puedes gastar un resultado de Especial de tus Dados de Mando para descartarlo y coger en su lugar bien un objeto Munición o bien otro objeto al azar. No cuenta como acción. Esta habilidad no puede usarse si se activa una Trampa Cazabobos.</description>
         </rule>
       </rules>
       <infoLinks>
@@ -341,9 +341,9 @@
         <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="2.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="e6ef-e77b-0c73-2c4a" name="Huscarle Guardia de Forja" book="Reglamento Deadzone 2ª Edición + Erratas v2.1" page="67" hidden="false" collective="false" type="unit">
+    <selectionEntry id="e6ef-e77b-0c73-2c4a" name="Huscarle de la Forja" book="Reglamento Deadzone 2ª Edición + Erratas v2.1" page="67" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="57a5-1821-9b87-90c5" name="Huscarle Guardia de Forja" book="Reglamento Deadzone 2ª Edición" page="67" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Líder">
+        <profile id="57a5-1821-9b87-90c5" name="Huscarle" book="Reglamento Deadzone 2ª Edición" page="67" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Líder">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -360,12 +360,12 @@
         </profile>
       </profiles>
       <rules>
-        <rule id="ea9b-6b25-e192-eeb9" name="Starforged Armadura" book="Reglamento Deadzone 2ª Edición" page="67" hidden="false">
+        <rule id="ea9b-6b25-e192-eeb9" name="Armadura Meteórica" book="Reglamento Deadzone 2ª Edición" page="67" hidden="false">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers/>
-          <description>Spend an Army Special result when you are resolving Potential Damage of an attack against one of your models. You may reduce the PA value of the attack by 1 for every Army Special result you spend in this manner. This does not count as an action.</description>
+          <description>Cuando estes resolviendo el Daño Potencial sufrido por una de tus miniaturas, gasta tantos resultados de Especial de tus Dados de Mando como quieras para reducir en 1 la PA del ataque por cada Especial gastado. No cuenta como acción.</description>
         </rule>
       </rules>
       <infoLinks>
@@ -1836,7 +1836,7 @@
               </constraints>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="2d21-bca9-6539-2d2c" name="Power Garra y Flameador" hidden="false" targetId="8146-444d-0531-fabc" type="selectionEntry">
+            <entryLink id="2d21-bca9-6539-2d2c" name="Power Garra e Inflamador" hidden="false" targetId="8146-444d-0531-fabc" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1980,7 +1980,7 @@
         </categoryLink>
       </categoryLinks>
       <selectionEntries>
-        <selectionEntry id="b503-c25b-91ea-c169" name="Twin IA Martillo Forjadors" book="" page="" hidden="false" collective="false" type="upgrade">
+        <selectionEntry id="b503-c25b-91ea-c169" name="Par de Martillos Forjadores Ancestrales" book="" page="" hidden="false" collective="false" type="upgrade">
           <profiles>
             <profile id="5042-b7f7-2680-4b0c" name="Twin IA Martillo Forjadors" book="Reglamento Deadzone 2ª Edición" page="70" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
               <profiles/>
@@ -3401,9 +3401,9 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="bf6e-a2cf-5add-b09f" name="Señor Forjador" book="Deadzone: Outbreak" page="34" hidden="false" collective="false" type="unit">
+    <selectionEntry id="bf6e-a2cf-5add-b09f" name="Señor de la Forja" book="Deadzone: Outbreak" page="34" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="a5b9-a25e-6e2d-3a88" name="Señor Forjador" book="Deadzone: Outbreak" page="34" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Líder">
+        <profile id="a5b9-a25e-6e2d-3a88" name="Señor de la Forja" book="Deadzone: Outbreak" page="34" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Líder">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -3420,12 +3420,12 @@
         </profile>
       </profiles>
       <rules>
-        <rule id="3e4f-f8c8-9342-67fe" name="Defender of the Star Realm" book="Reglamento Deadzone 2ª Edición" page="67" hidden="false">
+        <rule id="3e4f-f8c8-9342-67fe" name="Defensor del Reino Estelar" book="Reglamento Deadzone 2ª Edición" page="67" hidden="false">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers/>
-          <description>Spend an Army Special Result to allow the active model to reroll any number of dice in a Lucha or Supervivencia test.</description>
+          <description>Gasta un resultado de Especial de tus Dados de Mando para permitir a la miniatura activa repetir cualquier número de dados en una prueba de Lucha o Supervivencia.</description>
         </rule>
       </rules>
       <infoLinks>
@@ -3453,7 +3453,7 @@
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="fd44-c7cd-3cab-4df9" name="Strategist" hidden="false" targetId="d23b-caa0-d526-f1f6" type="rule">
+        <infoLink id="fd44-c7cd-3cab-4df9" name="Estratega" hidden="false" targetId="d23b-caa0-d526-f1f6" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -3583,7 +3583,7 @@
     </selectionEntry>
     <selectionEntry id="22dc-8c82-8d80-dd5c" name="Huscarle Thorgarim" book="Deadzone: Outbreak" page="35" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="0ae5-7e8a-452e-33bc" name="Huscarle Thorgarim" book="Reglamento Deadzone 2ª Edición" page="67" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Líder">
+        <profile id="0ae5-7e8a-452e-33bc" name="Huscarle" book="Reglamento Deadzone 2ª Edición" page="67" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Líder">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -3600,12 +3600,12 @@
         </profile>
       </profiles>
       <rules>
-        <rule id="7636-98d5-020f-acc2" name="Thunder Strike" book="Deadzone: Outbreak" page="35" hidden="false">
+        <rule id="7636-98d5-020f-acc2" name="Golpe de Trueno" book="Deadzone: Outbreak" page="35" hidden="false">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers/>
-          <description>Spend an Army Special Result to allow a model with a Hammer to perform an A2, Fragmentación (2) attack as a Special Action once during its activation. This ability may not be used by an Ancestro de Hierro.</description>
+          <description>Gasta un resultado Especial de tus Dados de Mando para permitir a una miniatura con Martillo efectuar como Acción Especial un ataque de alcance A2 con Fragmentación (2) durante su activación. Esta habilidad no puede ser utilizada por un Ancestro de Hierro.</description>
         </rule>
       </rules>
       <infoLinks>
@@ -3882,7 +3882,7 @@
       </profiles>
       <rules/>
       <infoLinks>
-        <infoLink id="ee48-5937-fede-372f" name="Hammerfist Drop Armadura" hidden="false" targetId="161c-6a76-f4de-073c" type="rule">
+        <infoLink id="ee48-5937-fede-372f" name="Armadura de Descenso Puñomartillo [Hammerfist]" hidden="false" targetId="161c-6a76-f4de-073c" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -4225,12 +4225,12 @@
         </profile>
       </profiles>
       <rules>
-        <rule id="629f-ab69-8057-ed75" name="Fist of an Angry God" book="Deadzone: Infestación" page="24" hidden="false">
+        <rule id="629f-ab69-8057-ed75" name="Puño de un Dios Colérico" book="Deadzone: Infestación" page="24" hidden="false">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers/>
-          <description>Spend an Army Special result to call in a model equipped with Hammerfist Drop Armadura. Place the Hammerfist model as per the usual rules for Hammerfist Drop Armadura, with the exception that the cube may be occupied by an enemy model. When the model lands, instead of the usual rules for Hammerfist Drop Armadura, resolve a Fragmentación (4) explosion in the cube against any models that were in the cube prior to the Hammerfist models arrival. If any enemy models remain alive in the target cube, the Hammerfist model initiates a Lucha action against one enemy model as if the enemy model was pinned y the Hammerfist model had entered the cube.</description>
+          <description>Gasta un resultado Especial de tus Dados de Mando sobre una miniatura equipada con Armadura de Descenso Puñomartillo para que pueda entrar al tablero a un cubo con miniaturas enemigas. Cuando aterrice en lugar de las reglas habituales resuelve una explosión de Fragmentación (4) contra cualquier miniatura que haya en el cubo del aterrizaje. Si quedan enemigos con vida inicia una Lucha contra uno de ellos como si la miniatura enemiga estuviera Suprimida.</description>
         </rule>
       </rules>
       <infoLinks>
@@ -4297,9 +4297,9 @@
         <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="4.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="a7fb-9223-70fb-6b87" name="Señor Forjador Ingulf Krestürsson" book="Deadzone: Outbreak" page="82" hidden="false" collective="false" type="unit">
+    <selectionEntry id="a7fb-9223-70fb-6b87" name="Señor de la Forja Ingulf Krestürsson" book="Deadzone: Outbreak" page="82" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="c903-8c7e-9a98-a1e0" name="Señor Forjador Ingulf Krestrsson" book="Deadzone: Outbreak" page="82" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Líder">
+        <profile id="c903-8c7e-9a98-a1e0" name="Ingulf Krestrüsson" book="Deadzone: Outbreak" page="82" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Líder">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -4316,12 +4316,12 @@
         </profile>
       </profiles>
       <rules>
-        <rule id="0116-517a-2fb2-34cc" name="Wings of the Dragon" book="Deadzone: Outbreak" page="82" hidden="false">
+        <rule id="0116-517a-2fb2-34cc" name="Alas del Dragón" book="Deadzone: Outbreak" page="82" hidden="false">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers/>
-          <description>Spend an Army Special Result on a Command Dice to allow the active model to make a 2 cube Sprint (Short) action.  You may not make an additional move action on this model except by using a Move Command Dice.</description>
+          <description>Gasta un resultado Especial de tus Dados de Mando para permitir a la miniatura activa realizar una acción de Esprintar (Corta) de 2 cubos. No podrás realizar acciones adicionales de movimiento con esta miniatura salvo que gastes un resultado de Mover de tus Dados de Mando.</description>
         </rule>
       </rules>
       <infoLinks>
@@ -4688,7 +4688,7 @@
         <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="1.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="2c87-59f5-a4d9-d6cd" name="Twin Rifles Granítica" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="2c87-59f5-a4d9-d6cd" name="Rifles Graníticos Gemelos" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
@@ -4818,7 +4818,7 @@
         <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="9915-7b46-887a-c7a6" name="Twin Cañón de Magma" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="9915-7b46-887a-c7a6" name="Cañones de Magma Gemelos" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
@@ -4852,7 +4852,7 @@
         <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="1.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="8146-444d-0531-fabc" name="Power Garra y Flameador" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="8146-444d-0531-fabc" name="Garra de Potencia e Inflamador" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
@@ -4862,7 +4862,7 @@
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="4c24-6750-3797-fc52" name="Power Garra y Flameador" hidden="false" targetId="58c7-69c4-be22-aa9f" type="profile">
+        <infoLink id="4c24-6750-3797-fc52" name="Power Garra e Inflamador" hidden="false" targetId="58c7-69c4-be22-aa9f" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -4880,7 +4880,7 @@
         <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="1.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="9a5f-dd73-05ab-873b" name="Twin Autocañón Graníticos" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="9a5f-dd73-05ab-873b" name="Autocañones Graníticos Gemelos" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
@@ -4982,7 +4982,7 @@
         <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="1.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="9f14-3d97-4d77-11d9" name="IA Martillo Forjador" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="9f14-3d97-4d77-11d9" name="Martillo Forjador Ancestral" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
@@ -5111,7 +5111,7 @@
               <rules/>
               <infoLinks/>
               <modifiers/>
-              <description>The Robobomba is both an item y a model. It is purchased as an item but begins the game deployed as a model y therefore must be activated to move y counts towards your model count for determining if you can reroll Command Dice. To activate a Robobomba you must have a model with the Ingeniero ability within 3 cubes.</description>
+              <description>La Robobomba es tanto un objeto como una miniatura. Se compra como objeto pero comienza la partida desplegada como miniatura y debe por tanto ser activada para mover y cuenta para el número de miniaturas a la hora de repetir Dados de Mando. Para activar una Robobomba debes tener una miniatura con la habilidad Ingeniero en 3 cubos de distancia.</description>
             </rule>
           </rules>
           <infoLinks>
@@ -5387,7 +5387,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Explosiva)"/>
       </characteristics>
     </profile>
-    <profile id="d5a1-e52d-2454-23f0" name="Twin Rifles Granítica" book="Reglamento Deadzone 2ª Edición" page="71" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
+    <profile id="d5a1-e52d-2454-23f0" name="Rifles Graníticos Gemelos" book="Reglamento Deadzone 2ª Edición" page="71" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -5435,7 +5435,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Automática)"/>
       </characteristics>
     </profile>
-    <profile id="f3a1-1017-7e97-e765" name="Twin Cañón de Magma" book="Reglamento Deadzone 2ª Edición" page="71" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
+    <profile id="f3a1-1017-7e97-e765" name="Cañones de Magma Gemelos" book="Reglamento Deadzone 2ª Edición" page="71" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -5447,7 +5447,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Andador (Lanza)"/>
       </characteristics>
     </profile>
-    <profile id="58c7-69c4-be22-aa9f" name="Power Garra y Flameador" book="Reglamento Deadzone 2ª Edición" page="71" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
+    <profile id="58c7-69c4-be22-aa9f" name="Garra de Potencia e Inflamador" book="Reglamento Deadzone 2ª Edición" page="71" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -5459,7 +5459,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Andador (Asalto)"/>
       </characteristics>
     </profile>
-    <profile id="1530-5173-e5a7-8b44" name="Twin Autocañón Graníticos" book="Reglamento Deadzone 2ª Edición" page="71" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
+    <profile id="1530-5173-e5a7-8b44" name="Autocañones Graníticos Gemelos" book="Reglamento Deadzone 2ª Edición" page="71" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -5495,7 +5495,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Pesada (Automática)"/>
       </characteristics>
     </profile>
-    <profile id="c46c-4939-8bf8-d82d" name="IA Martillo Forjador" book="Reglamento Deadzone 2ª Edición" page="71" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
+    <profile id="c46c-4939-8bf8-d82d" name="Martillo Forjador Ancestral" book="Reglamento Deadzone 2ª Edición" page="71" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>

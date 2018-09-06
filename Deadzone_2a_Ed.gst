@@ -4314,13 +4314,13 @@
         </profile>
       </profiles>
       <rules>
-        <rule id="4d88-5d37-02ee-e9bd" name="Swarm Lord" book="Deadzone: Infestación" page="16" hidden="false">
+        <rule id="4d88-5d37-02ee-e9bd" name="Señor de Enjambre" book="Deadzone: Infestación" page="16" hidden="false">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers/>
-          <description>When deploying your models, in addition to your strike force, deploy up to two Vermin Swarm bases in your deployment zone. If there are fewer than two Vermin Swarms in play, El Flautista may use a Special Action to &quot;call&quot; a new swarm. Place a single Vermin Swarm in El Flautista&apos;s cube. The target cube must have enough available room to fit the Vermin Swarm. If no cube exists, El Flautista may not call a Vermin Swarm.
-Vermin Swarm&apos;s are not part of the Army List, gain no experience, y are not added to a player&apos;s roster.</description>
+          <description>Al desplegar, además de tu Equipo de Asalto, despliega hasta 2 Enjambres de Alimañas en tu zona de despliegue. Siempre que haya menos de 2 Enjambres de Alimañas en juego, y haya espacio en el cubo del Flautista para albergar un nuevo enjambre, El Flautista puede realizar la Acción Especial de poner en juego un nuevo Enjambre de Alimañas en su cubo. 
+En Campañas, los Enjambre de Alimañas no se consideran parte de la Lista de Ejército, no ganan experiencia y nunca se añaden al Ejército del jugador.</description>
         </rule>
       </rules>
       <infoLinks>
@@ -4349,9 +4349,9 @@ Vermin Swarm&apos;s are not part of the Army List, gain no experience, y are not
         </categoryLink>
       </categoryLinks>
       <selectionEntries>
-        <selectionEntry id="4308-9be1-88a8-94a7" name="Shock Baton" hidden="false" collective="false" type="upgrade">
+        <selectionEntry id="4308-9be1-88a8-94a7" name="Bastón Eléctrico" hidden="false" collective="false" type="upgrade">
           <profiles>
-            <profile id="5967-56aa-abbb-d6f8" name="Shock Baton" book="Deadzone: Infestación" page="16" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
+            <profile id="5967-56aa-abbb-d6f8" name="Bastón Eléctrico" book="Deadzone: Infestación" page="16" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -4386,9 +4386,9 @@ Vermin Swarm&apos;s are not part of the Army List, gain no experience, y are not
             <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="0.0"/>
           </costs>
         </selectionEntry>
-        <selectionEntry id="bd36-d85a-5ec8-24d3" name="Vermin Swarm" book="Deadzone: Infestación" page="16" hidden="false" collective="false" type="model">
+        <selectionEntry id="bd36-d85a-5ec8-24d3" name="Enjambre de Alimañas" book="Deadzone: Infestación" page="16" hidden="false" collective="false" type="model">
           <profiles>
-            <profile id="6ddd-441e-1dd8-7588" name="Vermin Swarm" book="Deadzone: Infestación" page="16" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
+            <profile id="6ddd-441e-1dd8-7588" name="Enjambre de Alimañas" book="Deadzone: Infestación" page="16" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
               <profiles/>
               <rules/>
               <infoLinks/>

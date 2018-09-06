@@ -545,7 +545,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="f9de-52af-a3f5-ef06" name="Shock Baton" hidden="false" targetId="a26e-f6c5-766b-8100" type="selectionEntry">
+            <entryLink id="f9de-52af-a3f5-ef06" name="Bastón Eléctrico" hidden="false" targetId="a26e-f6c5-766b-8100" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -627,11 +627,11 @@
         </categoryLink>
       </categoryLinks>
       <selectionEntries>
-        <selectionEntry id="a02c-7b4f-42ef-51ab" name="Shock Baton" hidden="false" collective="false" type="upgrade">
+        <selectionEntry id="a02c-7b4f-42ef-51ab" name="Bastón Eléctrico" hidden="false" collective="false" type="upgrade">
           <profiles/>
           <rules/>
           <infoLinks>
-            <infoLink id="06e7-347f-966d-0d16" name="Shock Baton" hidden="false" targetId="af4b-e3db-f86a-736c" type="profile">
+            <infoLink id="06e7-347f-966d-0d16" name="Bastón Eléctrico" hidden="false" targetId="af4b-e3db-f86a-736c" type="profile">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -772,7 +772,7 @@
           <selectionEntries/>
           <selectionEntryGroups/>
           <entryLinks>
-            <entryLink id="3d37-153a-bad9-70f3" name="Shock Baton" hidden="false" targetId="a26e-f6c5-766b-8100" type="selectionEntry">
+            <entryLink id="3d37-153a-bad9-70f3" name="Bastón Eléctrico" hidden="false" targetId="a26e-f6c5-766b-8100" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -3096,11 +3096,11 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="8.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="a26e-f6c5-766b-8100" name="Shock Baton" book="Deadzone: Outbreak" page="55" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="a26e-f6c5-766b-8100" name="Bastón Eléctrico" book="Deadzone: Outbreak" page="55" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="0051-2599-47e7-9593" name="Shock Baton" hidden="false" targetId="af4b-e3db-f86a-736c" type="profile">
+        <infoLink id="0051-2599-47e7-9593" name="Bastón Eléctrico" hidden="false" targetId="af4b-e3db-f86a-736c" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -3661,7 +3661,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Marksman)"/>
       </characteristics>
     </profile>
-    <profile id="af4b-e3db-f86a-736c" name="Shock Baton" book="Deadzone: Outbreak" page="55" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
+    <profile id="af4b-e3db-f86a-736c" name="Bastón Eléctrico" book="Deadzone: Outbreak" page="55" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
