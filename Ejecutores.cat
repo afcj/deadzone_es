@@ -97,7 +97,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="7ccb-299e-7860-fdf9" name="Combat Shotgun" hidden="false" targetId="7b11-473f-cb99-f262" type="selectionEntry">
+            <entryLink id="7ccb-299e-7860-fdf9" name="Combat Escopeta" hidden="false" targetId="7b11-473f-cb99-f262" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -260,7 +260,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="8ea2-7928-4d1f-6396" name="Combat Shotgun" hidden="false" targetId="7b11-473f-cb99-f262" type="selectionEntry">
+            <entryLink id="8ea2-7928-4d1f-6396" name="Combat Escopeta" hidden="false" targetId="7b11-473f-cb99-f262" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -456,7 +456,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="8f1d-aff9-4b38-158c" name="Combat Shotgun" hidden="false" targetId="7b11-473f-cb99-f262" type="selectionEntry">
+            <entryLink id="8f1d-aff9-4b38-158c" name="Combat Escopeta" hidden="false" targetId="7b11-473f-cb99-f262" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -501,7 +501,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="dc3f-00eb-c80f-f594" name="Combat Shotgun" hidden="false" targetId="7b11-473f-cb99-f262" type="selectionEntry">
+            <entryLink id="dc3f-00eb-c80f-f594" name="Combat Escopeta" hidden="false" targetId="7b11-473f-cb99-f262" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -837,7 +837,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="c131-628d-f9d8-f1c7" name="Combat Shotgun" hidden="false" targetId="7b11-473f-cb99-f262" type="selectionEntry">
+            <entryLink id="c131-628d-f9d8-f1c7" name="Combat Escopeta" hidden="false" targetId="7b11-473f-cb99-f262" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -998,7 +998,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="312b-f510-9a77-1453" name="Combat Shotgun" hidden="false" targetId="7b11-473f-cb99-f262" type="selectionEntry">
+            <entryLink id="312b-f510-9a77-1453" name="Combat Escopeta" hidden="false" targetId="7b11-473f-cb99-f262" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1140,7 +1140,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="e8c5-98a2-ec90-cc31" name="Combat Shotgun" hidden="false" targetId="7b11-473f-cb99-f262" type="selectionEntry">
+            <entryLink id="e8c5-98a2-ec90-cc31" name="Combat Escopeta" hidden="false" targetId="7b11-473f-cb99-f262" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1317,7 +1317,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="f97b-4590-0757-7a07" name="Thermal Rifle" hidden="false" targetId="911c-e17f-99b4-2d33" type="selectionEntry">
+            <entryLink id="f97b-4590-0757-7a07" name="Rifle Térmico" hidden="false" targetId="911c-e17f-99b4-2d33" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1333,7 +1333,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="9ca8-13c3-6796-2f36" name="Combat Shotgun" hidden="false" targetId="7b11-473f-cb99-f262" type="selectionEntry">
+            <entryLink id="9ca8-13c3-6796-2f36" name="Combat Escopeta" hidden="false" targetId="7b11-473f-cb99-f262" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1513,7 +1513,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="5709-782a-0b08-6063" name="Combat Shotgun" hidden="false" targetId="7b11-473f-cb99-f262" type="selectionEntry">
+            <entryLink id="5709-782a-0b08-6063" name="Combat Escopeta" hidden="false" targetId="7b11-473f-cb99-f262" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1848,7 +1848,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="6a47-bc11-cf04-796a" name="Combat Shotgun" hidden="false" targetId="7b11-473f-cb99-f262" type="selectionEntry">
+            <entryLink id="6a47-bc11-cf04-796a" name="Combat Escopeta" hidden="false" targetId="7b11-473f-cb99-f262" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1998,7 +1998,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="e5e1-e35d-a0f1-a62c" name="Combat Shotgun" hidden="false" targetId="7b11-473f-cb99-f262" type="selectionEntry">
+            <entryLink id="e5e1-e35d-a0f1-a62c" name="Combat Escopeta" hidden="false" targetId="7b11-473f-cb99-f262" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -3719,7 +3719,7 @@
       <selectionEntries/>
       <selectionEntryGroups/>
       <entryLinks>
-        <entryLink id="3a9f-73a1-08e6-c9a8" name="Lt. Commander Roca" hidden="false" targetId="7d6e-cc91-a0e1-d8bd" type="selectionEntry">
+        <entryLink id="3a9f-73a1-08e6-c9a8" name="Roca" hidden="false" targetId="7d6e-cc91-a0e1-d8bd" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -4173,9 +4173,9 @@
                 <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="0.0"/>
               </costs>
             </selectionEntry>
-            <selectionEntry id="e62c-dca1-c7c5-0324" name="Shotgun (Accutek ID-KFA)" hidden="false" collective="false" type="upgrade">
+            <selectionEntry id="e62c-dca1-c7c5-0324" name="Escopeta (Accutek ID-KFA)" hidden="false" collective="false" type="upgrade">
               <profiles>
-                <profile id="43c1-91ac-8d46-1d02" name="Shotgun (Accutek ID-KFA)" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
+                <profile id="43c1-91ac-8d46-1d02" name="Escopeta (Accutek ID-KFA)" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
                   <profiles/>
                   <rules/>
                   <infoLinks/>
@@ -4356,9 +4356,9 @@
                 <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="0.0"/>
               </costs>
             </selectionEntry>
-            <selectionEntry id="1b12-a501-7337-c1d3" name="Shotgun (Accutek ID-KFA)" hidden="false" collective="false" type="upgrade">
+            <selectionEntry id="1b12-a501-7337-c1d3" name="Escopeta (Accutek ID-KFA)" hidden="false" collective="false" type="upgrade">
               <profiles>
-                <profile id="6426-15ac-7cf6-86b1" name="Shotgun (Accutek ID-KFA)" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
+                <profile id="6426-15ac-7cf6-86b1" name="Escopeta (Accutek ID-KFA)" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
                   <profiles/>
                   <rules/>
                   <infoLinks/>
@@ -4678,9 +4678,9 @@
                 <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="8.0"/>
               </costs>
             </selectionEntry>
-            <selectionEntry id="ab99-d293-4b07-b888" name="Thermal Rifle" hidden="false" collective="false" type="upgrade">
+            <selectionEntry id="ab99-d293-4b07-b888" name="Rifle Térmico" hidden="false" collective="false" type="upgrade">
               <profiles>
-                <profile id="c124-ea06-fcc5-4076" name="Thermal Rifle" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
+                <profile id="c124-ea06-fcc5-4076" name="Rifle Térmico" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
                   <profiles/>
                   <rules/>
                   <infoLinks/>
@@ -5108,11 +5108,11 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="4.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="911c-e17f-99b4-2d33" name="Thermal Rifle" book="Reglamento Deadzone 2ª Edición" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="911c-e17f-99b4-2d33" name="Rifle Térmico" book="Reglamento Deadzone 2ª Edición" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="75fa-05ef-ee35-6249" name="Thermal Rifle" hidden="false" targetId="5755-2a4b-7e97-0d99" type="profile">
+        <infoLink id="75fa-05ef-ee35-6249" name="Rifle Térmico" hidden="false" targetId="5755-2a4b-7e97-0d99" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -5328,11 +5328,11 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="8.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="7b11-473f-cb99-f262" name="Combat Shotgun" book="" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="7b11-473f-cb99-f262" name="Combat Escopeta" book="" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="675e-96c2-271b-2ab7" name="Combat Shotgun" hidden="false" targetId="4fb3-dc51-92c6-030d" type="profile">
+        <infoLink id="675e-96c2-271b-2ab7" name="Combat Escopeta" hidden="false" targetId="4fb3-dc51-92c6-030d" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -5656,12 +5656,12 @@
             </categoryLink>
           </categoryLinks>
         </entryLink>
-        <entryLink id="c85d-bfb4-a9a3-95ea" name="Defender Shield (+)" hidden="false" targetId="0c4b-92d5-3ab2-22b8" type="selectionEntry">
+        <entryLink id="c85d-bfb4-a9a3-95ea" name="Escudo Protector (+)" hidden="false" targetId="0c4b-92d5-3ab2-22b8" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers>
-            <modifier type="set" field="name" value="Defender Shield (3) (+)">
+            <modifier type="set" field="name" value="Escudo Protector (3) (+)">
               <repeats/>
               <conditions/>
               <conditionGroups/>

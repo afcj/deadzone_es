@@ -10,7 +10,7 @@
   <selectionEntries>
     <selectionEntry id="3035-9267-2a08-1bfc" name="El Miedo" book="Deadzone: Outbreak" page="56" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="9584-92c0-51fe-c077" name="El Miedo" book="Deadzone: Outbreak" page="56" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Líder">
+        <profile id="9584-92c0-51fe-c077" name="El Miedo" book="Deadzone: Outbreak" page="56" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="LÃ­der">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -18,7 +18,7 @@
           <characteristics>
             <characteristic name="Velocidad" characteristicTypeId="4e85-eaa5-eccb-41d1" value="1-2"/>
             <characteristic name="Armadura" characteristicTypeId="6e20-a2eb-4873-facd" value="1"/>
-            <characteristic name="Tamaño" characteristicTypeId="72ed-1424-6a6b-51d8" value="1"/>
+            <characteristic name="TamaÃ±o" characteristicTypeId="72ed-1424-6a6b-51d8" value="1"/>
             <characteristic name="Disparo" characteristicTypeId="8e81-1fe3-f677-8d5c" value="4+"/>
             <characteristic name="Lucha" characteristicTypeId="5ab1-1acc-a108-daf5" value="5+"/>
             <characteristic name="Supervivencia" characteristicTypeId="2375-5bce-3345-261b" value="4+"/>
@@ -36,12 +36,12 @@
         </rule>
       </rules>
       <infoLinks>
-        <infoLink id="eca9-0e0e-07a1-7f04" name="Táctico (n)" hidden="false" targetId="61bb-0743-e806-2bfc" type="rule">
+        <infoLink id="eca9-0e0e-07a1-7f04" name="TÃ¡ctico (n)" hidden="false" targetId="61bb-0743-e806-2bfc" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers>
-            <modifier type="set" field="name" value="Táctico (1)">
+            <modifier type="set" field="name" value="TÃ¡ctico (1)">
               <repeats/>
               <conditions/>
               <conditionGroups/>
@@ -74,7 +74,7 @@
       </categoryLinks>
       <selectionEntries/>
       <selectionEntryGroups>
-        <selectionEntryGroup id="4d35-05c6-b624-7f2f" name="Arma de Melé" hidden="false" collective="false" defaultSelectionEntryId="9d31-2195-d17e-7fc8">
+        <selectionEntryGroup id="4d35-05c6-b624-7f2f" name="Arma de MelÃ©" hidden="false" collective="false" defaultSelectionEntryId="9d31-2195-d17e-7fc8">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -87,7 +87,7 @@
           <selectionEntries/>
           <selectionEntryGroups/>
           <entryLinks>
-            <entryLink id="9d31-2195-d17e-7fc8" name="Ripping Tentacles" hidden="false" targetId="305c-5de3-8db5-4dba" type="selectionEntry">
+            <entryLink id="9d31-2195-d17e-7fc8" name="TentÃ¡culos Desgarradores" hidden="false" targetId="305c-5de3-8db5-4dba" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -106,7 +106,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="4d01-9ed4-58c2-d6c2" name="Ravenous Maw" hidden="false" targetId="54d8-21b9-d924-7c3d" type="selectionEntry">
+            <entryLink id="4d01-9ed4-58c2-d6c2" name="Fauces Voraces" hidden="false" targetId="54d8-21b9-d924-7c3d" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -114,7 +114,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="9f4e-ac33-3026-fae0" name="Razor Garras" hidden="false" targetId="d86f-16eb-4d15-61a3" type="selectionEntry">
+            <entryLink id="9f4e-ac33-3026-fae0" name="Garras Segadoras" hidden="false" targetId="d86f-16eb-4d15-61a3" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -137,7 +137,7 @@
           <selectionEntries/>
           <selectionEntryGroups/>
           <entryLinks>
-            <entryLink id="897a-360e-18e4-3fd3" name="Shoulder-mounted Phaser" hidden="false" targetId="168b-a482-0b19-f69a" type="selectionEntry">
+            <entryLink id="897a-360e-18e4-3fd3" name="FÃ¡ser al Hombro" hidden="false" targetId="168b-a482-0b19-f69a" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -156,7 +156,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="e0ec-138e-f684-c71b" name="Twin Crystal Pistols" hidden="false" targetId="d8ea-ca8e-82a9-ae6d" type="selectionEntry">
+            <entryLink id="e0ec-138e-f684-c71b" name="Par de Pistolas Cristalinas" hidden="false" targetId="d8ea-ca8e-82a9-ae6d" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -168,7 +168,7 @@
         </selectionEntryGroup>
       </selectionEntryGroups>
       <entryLinks>
-        <entryLink id="6c4e-a693-e08f-9a4d" name="Crystal Pistola" hidden="false" targetId="a725-6ab2-54c5-6627" type="selectionEntry">
+        <entryLink id="6c4e-a693-e08f-9a4d" name="Pistola Cristalina" hidden="false" targetId="a725-6ab2-54c5-6627" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -194,7 +194,7 @@
     </selectionEntry>
     <selectionEntry id="2c0f-59f0-68da-dd33" name="Psicotroide" book="Deadzone: Outbreak" page="56" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="e46b-dfc7-7ff5-82cb" name="Psicotroide" book="Deadzone: Outbreak" page="56" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Líder">
+        <profile id="e46b-dfc7-7ff5-82cb" name="Psicotroide" book="Deadzone: Outbreak" page="56" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="LÃ­der">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -202,7 +202,7 @@
           <characteristics>
             <characteristic name="Velocidad" characteristicTypeId="4e85-eaa5-eccb-41d1" value="1-2"/>
             <characteristic name="Armadura" characteristicTypeId="6e20-a2eb-4873-facd" value="1"/>
-            <characteristic name="Tamaño" characteristicTypeId="72ed-1424-6a6b-51d8" value="2"/>
+            <characteristic name="TamaÃ±o" characteristicTypeId="72ed-1424-6a6b-51d8" value="2"/>
             <characteristic name="Disparo" characteristicTypeId="8e81-1fe3-f677-8d5c" value="5+"/>
             <characteristic name="Lucha" characteristicTypeId="5ab1-1acc-a108-daf5" value="6+"/>
             <characteristic name="Supervivencia" characteristicTypeId="2375-5bce-3345-261b" value="5+"/>
@@ -216,7 +216,7 @@
           <rules/>
           <infoLinks/>
           <modifiers/>
-          <description>Spend an Army Special Result on a Command Dice at the start or end of the model&apos;s activation.  You may choose one non-pinned enemy model within 2 cubes y LoS y move it 1 cube directly away from the active model.  If the model enters a cube with an enemy model it will initiate a Lucha action but may only roll to Supervivencia.  If the model was in an occupied cube it must Breakaway to leave the cube.  The model is then marked as Activated, if it was not already.  You may use a maximum of one Special Result per activation.  Models with the Constructo or Vehículo abilities are unaffected by this rule.</description>
+          <description>Spend an Army Special Result on a Command Dice at the start or end of the model&apos;s activation.  You may choose one non-pinned enemy model within 2 cubes y LoS y move it 1 cube directly away from the active model.  If the model enters a cube with an enemy model it will initiate a Lucha action but may only roll to Supervivencia.  If the model was in an occupied cube it must Breakaway to leave the cube.  The model is then marked as Activated, if it was not already.  You may use a maximum of one Special Result per activation.  Models with the Constructo or VehÃ­culo abilities are unaffected by this rule.</description>
         </rule>
       </rules>
       <infoLinks>
@@ -244,12 +244,12 @@
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="610d-e789-e337-b2d0" name="Táctico (n)" hidden="false" targetId="61bb-0743-e806-2bfc" type="rule">
+        <infoLink id="610d-e789-e337-b2d0" name="TÃ¡ctico (n)" hidden="false" targetId="61bb-0743-e806-2bfc" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers>
-            <modifier type="set" field="name" value="Táctico (2)">
+            <modifier type="set" field="name" value="TÃ¡ctico (2)">
               <repeats/>
               <conditions/>
               <conditionGroups/>
@@ -291,9 +291,9 @@
         </categoryLink>
       </categoryLinks>
       <selectionEntries>
-        <selectionEntry id="2c34-1312-eb97-8756" name="Psychic Surge" book="Deadzone: Outbreak" page="56" hidden="false" collective="false" type="upgrade">
+        <selectionEntry id="2c34-1312-eb97-8756" name="Oleada PsÃ­quica" book="Deadzone: Outbreak" page="56" hidden="false" collective="false" type="upgrade">
           <profiles>
-            <profile id="602c-2ee8-40b2-8b59" name="Psychic Surge" book="Deadzone: Outbreak" page="56" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
+            <profile id="602c-2ee8-40b2-8b59" name="Oleada PsÃ­quica" book="Deadzone: Outbreak" page="56" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -335,9 +335,9 @@
             <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="0.0"/>
           </costs>
         </selectionEntry>
-        <selectionEntry id="502c-9d78-23d5-8786" name="Psychic Stunning" book="Deadzone: Outbreak" page="56" hidden="false" collective="false" type="upgrade">
+        <selectionEntry id="502c-9d78-23d5-8786" name="Aturdidor PsÃ­quico" book="Deadzone: Outbreak" page="56" hidden="false" collective="false" type="upgrade">
           <profiles>
-            <profile id="1d91-85de-fd8e-f752" name="Psychic Stunning" book="Deadzone: Outbreak" page="56" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
+            <profile id="1d91-85de-fd8e-f752" name="Aturdidor PsÃ­quico" book="Deadzone: Outbreak" page="56" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -382,7 +382,7 @@
       </selectionEntries>
       <selectionEntryGroups/>
       <entryLinks>
-        <entryLink id="50fc-961f-812e-6e94" name="Psychic Subjugation" hidden="false" targetId="99db-2d5b-ef9e-199b" type="selectionEntry">
+        <entryLink id="50fc-961f-812e-6e94" name="SubyugaciÃ³n PsÃ­quica" hidden="false" targetId="99db-2d5b-ef9e-199b" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -412,7 +412,7 @@
     </selectionEntry>
     <selectionEntry id="4685-0f46-c5e2-a523" name="El Infortunio" book="Deadzone: Outbreak" page="57" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="29ed-333c-d67c-2a45" name="El Infortunio" book="Deadzone: Outbreak" page="57" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Líder">
+        <profile id="29ed-333c-d67c-2a45" name="El Infortunio" book="Deadzone: Outbreak" page="57" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="LÃ­der">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -420,7 +420,7 @@
           <characteristics>
             <characteristic name="Velocidad" characteristicTypeId="4e85-eaa5-eccb-41d1" value="1-2"/>
             <characteristic name="Armadura" characteristicTypeId="6e20-a2eb-4873-facd" value="1"/>
-            <characteristic name="Tamaño" characteristicTypeId="72ed-1424-6a6b-51d8" value="2"/>
+            <characteristic name="TamaÃ±o" characteristicTypeId="72ed-1424-6a6b-51d8" value="2"/>
             <characteristic name="Disparo" characteristicTypeId="8e81-1fe3-f677-8d5c" value="5+"/>
             <characteristic name="Lucha" characteristicTypeId="5ab1-1acc-a108-daf5" value="4+"/>
             <characteristic name="Supervivencia" characteristicTypeId="2375-5bce-3345-261b" value="4+"/>
@@ -434,16 +434,16 @@
           <rules/>
           <infoLinks/>
           <modifiers/>
-          <description>Spend an Army Special result to allow the active model to perform a free Disparo action with A2, ¡Quema!.  If the model has no Disparo stat it can still make a ranged attack but with a Disparo stat at 7+.</description>
+          <description>Spend an Army Special result to allow the active model to perform a free Disparo action with A2, Â¡Quema!.  If the model has no Disparo stat it can still make a ranged attack but with a Disparo stat at 7+.</description>
         </rule>
       </rules>
       <infoLinks>
-        <infoLink id="b0c5-c063-ced5-f717" name="Táctico (n)" hidden="false" targetId="61bb-0743-e806-2bfc" type="rule">
+        <infoLink id="b0c5-c063-ced5-f717" name="TÃ¡ctico (n)" hidden="false" targetId="61bb-0743-e806-2bfc" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers>
-            <modifier type="set" field="name" value="Táctico (1)">
+            <modifier type="set" field="name" value="TÃ¡ctico (1)">
               <repeats/>
               <conditions/>
               <conditionGroups/>
@@ -482,7 +482,7 @@
       </categoryLinks>
       <selectionEntries/>
       <selectionEntryGroups>
-        <selectionEntryGroup id="1f58-b5d2-4a46-d793" name="Arma de Melé" hidden="false" collective="false" defaultSelectionEntryId="91cd-b6b8-9baa-c2e9">
+        <selectionEntryGroup id="1f58-b5d2-4a46-d793" name="Arma de MelÃ©" hidden="false" collective="false" defaultSelectionEntryId="91cd-b6b8-9baa-c2e9">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -495,7 +495,7 @@
           <selectionEntries/>
           <selectionEntryGroups/>
           <entryLinks>
-            <entryLink id="1687-8538-abee-2449" name="Ripping Tentacles" hidden="false" targetId="305c-5de3-8db5-4dba" type="selectionEntry">
+            <entryLink id="1687-8538-abee-2449" name="TentÃ¡culos Desgarradores" hidden="false" targetId="305c-5de3-8db5-4dba" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -503,7 +503,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="91cd-b6b8-9baa-c2e9" name="Ravenous Maw" hidden="false" targetId="54d8-21b9-d924-7c3d" type="selectionEntry">
+            <entryLink id="91cd-b6b8-9baa-c2e9" name="Fauces Voraces" hidden="false" targetId="54d8-21b9-d924-7c3d" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -522,7 +522,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="03bc-1d8d-0c6c-3d67" name="Razor Garras" hidden="false" targetId="d86f-16eb-4d15-61a3" type="selectionEntry">
+            <entryLink id="03bc-1d8d-0c6c-3d67" name="Garras Segadoras" hidden="false" targetId="d86f-16eb-4d15-61a3" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -545,7 +545,7 @@
           <selectionEntries/>
           <selectionEntryGroups/>
           <entryLinks>
-            <entryLink id="d566-c4e7-94bb-825f" name="Shoulder-mounted Phaser" hidden="false" targetId="168b-a482-0b19-f69a" type="selectionEntry">
+            <entryLink id="d566-c4e7-94bb-825f" name="FÃ¡ser al Hombro" hidden="false" targetId="168b-a482-0b19-f69a" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -553,7 +553,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="f433-a3cc-fd83-6e74" name="Corrosive Onda Expansiva" hidden="false" targetId="2d38-f543-f39f-0c5a" type="selectionEntry">
+            <entryLink id="f433-a3cc-fd83-6e74" name="ExplosiÃ³n Corrosiva" hidden="false" targetId="2d38-f543-f39f-0c5a" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -572,7 +572,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="0073-c4bd-4728-429a" name="Corrosive Bile Ducts" hidden="false" targetId="838b-2484-be6d-8218" type="selectionEntry">
+            <entryLink id="0073-c4bd-4728-429a" name="Conductos Biliares Corrosivos" hidden="false" targetId="838b-2484-be6d-8218" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -608,7 +608,7 @@
           <characteristics>
             <characteristic name="Velocidad" characteristicTypeId="df17-4b5c-638f-0807" value="1-2"/>
             <characteristic name="Armadura" characteristicTypeId="0274-bb56-5442-a0f1" value="0"/>
-            <characteristic name="Tamaño" characteristicTypeId="2623-46e7-250f-eacf" value="1"/>
+            <characteristic name="TamaÃ±o" characteristicTypeId="2623-46e7-250f-eacf" value="1"/>
             <characteristic name="Disparo" characteristicTypeId="68ea-7e51-32e7-70c8" value="-"/>
             <characteristic name="Lucha" characteristicTypeId="cf38-e165-7d39-0773" value="6+"/>
             <characteristic name="Supervivencia" characteristicTypeId="ecb0-eafd-b6fa-91a0" value="6+"/>
@@ -716,7 +716,7 @@
           <characteristics>
             <characteristic name="Velocidad" characteristicTypeId="df17-4b5c-638f-0807" value="1-2"/>
             <characteristic name="Armadura" characteristicTypeId="0274-bb56-5442-a0f1" value="0"/>
-            <characteristic name="Tamaño" characteristicTypeId="2623-46e7-250f-eacf" value="1"/>
+            <characteristic name="TamaÃ±o" characteristicTypeId="2623-46e7-250f-eacf" value="1"/>
             <characteristic name="Disparo" characteristicTypeId="68ea-7e51-32e7-70c8" value="-"/>
             <characteristic name="Lucha" characteristicTypeId="cf38-e165-7d39-0773" value="5+"/>
             <characteristic name="Supervivencia" characteristicTypeId="ecb0-eafd-b6fa-91a0" value="6+"/>
@@ -830,9 +830,9 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="8.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="7812-3aba-aacd-ec88" name="Carátida" book="Deadzone: Outbreak" page="57" hidden="false" collective="false" type="unit">
+    <selectionEntry id="7812-3aba-aacd-ec88" name="CarÃ¡tida" book="Deadzone: Outbreak" page="57" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="626b-ea6e-8f3a-0460" name="Carátida" book="Deadzone: Outbreak" page="57" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
+        <profile id="626b-ea6e-8f3a-0460" name="CarÃ¡tida" book="Deadzone: Outbreak" page="57" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -840,7 +840,7 @@
           <characteristics>
             <characteristic name="Velocidad" characteristicTypeId="df17-4b5c-638f-0807" value="2-3"/>
             <characteristic name="Armadura" characteristicTypeId="0274-bb56-5442-a0f1" value="0"/>
-            <characteristic name="Tamaño" characteristicTypeId="2623-46e7-250f-eacf" value="1"/>
+            <characteristic name="TamaÃ±o" characteristicTypeId="2623-46e7-250f-eacf" value="1"/>
             <characteristic name="Disparo" characteristicTypeId="68ea-7e51-32e7-70c8" value="-"/>
             <characteristic name="Lucha" characteristicTypeId="cf38-e165-7d39-0773" value="5+"/>
             <characteristic name="Supervivencia" characteristicTypeId="ecb0-eafd-b6fa-91a0" value="5+"/>
@@ -910,7 +910,7 @@
       </categoryLinks>
       <selectionEntries/>
       <selectionEntryGroups>
-        <selectionEntryGroup id="bc26-33f8-0778-fad4" name="Arma de Melé" hidden="false" collective="false" defaultSelectionEntryId="d677-7175-5780-ea12">
+        <selectionEntryGroup id="bc26-33f8-0778-fad4" name="Arma de MelÃ©" hidden="false" collective="false" defaultSelectionEntryId="d677-7175-5780-ea12">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -952,7 +952,7 @@
           </selectionEntries>
           <selectionEntryGroups/>
           <entryLinks>
-            <entryLink id="7f2f-fb1a-ce9c-cccd" name="Ripping Tentacles" hidden="false" targetId="305c-5de3-8db5-4dba" type="selectionEntry">
+            <entryLink id="7f2f-fb1a-ce9c-cccd" name="TentÃ¡culos Desgarradores" hidden="false" targetId="305c-5de3-8db5-4dba" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -960,7 +960,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="3532-8c0b-42df-73dc" name="Ravenous Maw" hidden="false" targetId="54d8-21b9-d924-7c3d" type="selectionEntry">
+            <entryLink id="3532-8c0b-42df-73dc" name="Fauces Voraces" hidden="false" targetId="54d8-21b9-d924-7c3d" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -968,7 +968,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="5273-5c61-89de-9687" name="Razor Garras" hidden="false" targetId="d86f-16eb-4d15-61a3" type="selectionEntry">
+            <entryLink id="5273-5c61-89de-9687" name="Garras Segadoras" hidden="false" targetId="d86f-16eb-4d15-61a3" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -995,7 +995,7 @@
           <characteristics>
             <characteristic name="Velocidad" characteristicTypeId="df17-4b5c-638f-0807" value="2-3"/>
             <characteristic name="Armadura" characteristicTypeId="0274-bb56-5442-a0f1" value="1"/>
-            <characteristic name="Tamaño" characteristicTypeId="2623-46e7-250f-eacf" value="1"/>
+            <characteristic name="TamaÃ±o" characteristicTypeId="2623-46e7-250f-eacf" value="1"/>
             <characteristic name="Disparo" characteristicTypeId="68ea-7e51-32e7-70c8" value="-"/>
             <characteristic name="Lucha" characteristicTypeId="cf38-e165-7d39-0773" value="5+"/>
             <characteristic name="Supervivencia" characteristicTypeId="ecb0-eafd-b6fa-91a0" value="5+"/>
@@ -1060,7 +1060,7 @@
       <selectionEntries/>
       <selectionEntryGroups/>
       <entryLinks>
-        <entryLink id="500b-5cf4-f8e4-bda1" name="Razor Garras" hidden="false" targetId="d86f-16eb-4d15-61a3" type="selectionEntry">
+        <entryLink id="500b-5cf4-f8e4-bda1" name="Garras Segadoras" hidden="false" targetId="d86f-16eb-4d15-61a3" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1088,9 +1088,9 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="17.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="588c-ab15-5c68-2053" name="Dron de Agujases" book="Deadzone: Outbreak" page="58" hidden="false" collective="false" type="unit">
+    <selectionEntry id="588c-ab15-5c68-2053" name="Dron de Agujas" book="Deadzone: Outbreak" page="58" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="7ec1-2171-5b42-9e9e" name="Dron de Agujases" book="Deadzone: Outbreak" page="58" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
+        <profile id="7ec1-2171-5b42-9e9e" name="Dron de Agujas" book="Deadzone: Outbreak" page="58" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1098,7 +1098,7 @@
           <characteristics>
             <characteristic name="Velocidad" characteristicTypeId="df17-4b5c-638f-0807" value="2-3"/>
             <characteristic name="Armadura" characteristicTypeId="0274-bb56-5442-a0f1" value="0"/>
-            <characteristic name="Tamaño" characteristicTypeId="2623-46e7-250f-eacf" value="1"/>
+            <characteristic name="TamaÃ±o" characteristicTypeId="2623-46e7-250f-eacf" value="1"/>
             <characteristic name="Disparo" characteristicTypeId="68ea-7e51-32e7-70c8" value="6+"/>
             <characteristic name="Lucha" characteristicTypeId="cf38-e165-7d39-0773" value="-"/>
             <characteristic name="Supervivencia" characteristicTypeId="ecb0-eafd-b6fa-91a0" value="5+"/>
@@ -1168,7 +1168,7 @@
       <selectionEntries/>
       <selectionEntryGroups/>
       <entryLinks>
-        <entryLink id="eb51-28b7-47ca-8938" name="Psychic Charge" hidden="false" targetId="0719-5464-a8b4-39a1" type="selectionEntry">
+        <entryLink id="eb51-28b7-47ca-8938" name="Carga PsÃ­quica" hidden="false" targetId="0719-5464-a8b4-39a1" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1206,7 +1206,7 @@
           <characteristics>
             <characteristic name="Velocidad" characteristicTypeId="df17-4b5c-638f-0807" value="1-2"/>
             <characteristic name="Armadura" characteristicTypeId="0274-bb56-5442-a0f1" value="1"/>
-            <characteristic name="Tamaño" characteristicTypeId="2623-46e7-250f-eacf" value="1"/>
+            <characteristic name="TamaÃ±o" characteristicTypeId="2623-46e7-250f-eacf" value="1"/>
             <characteristic name="Disparo" characteristicTypeId="68ea-7e51-32e7-70c8" value="5+"/>
             <characteristic name="Lucha" characteristicTypeId="cf38-e165-7d39-0773" value="5+"/>
             <characteristic name="Supervivencia" characteristicTypeId="ecb0-eafd-b6fa-91a0" value="5+"/>
@@ -1270,7 +1270,7 @@
           <selectionEntries/>
           <selectionEntryGroups/>
           <entryLinks>
-            <entryLink id="3fd2-65f3-1ba8-0ba4" name="Shoulder-mounted Phaser" hidden="false" targetId="168b-a482-0b19-f69a" type="selectionEntry">
+            <entryLink id="3fd2-65f3-1ba8-0ba4" name="FÃ¡ser al Hombro" hidden="false" targetId="168b-a482-0b19-f69a" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1278,7 +1278,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="f01c-44fb-61b6-9d2c" name="Twin Crystal Pistols" hidden="false" targetId="d8ea-ca8e-82a9-ae6d" type="selectionEntry">
+            <entryLink id="f01c-44fb-61b6-9d2c" name="Par de Pistolas Cristalinas" hidden="false" targetId="d8ea-ca8e-82a9-ae6d" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1297,7 +1297,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="5c50-d7f4-3b4d-055e" name="Corrosive Bile Ducts" hidden="false" targetId="838b-2484-be6d-8218" type="selectionEntry">
+            <entryLink id="5c50-d7f4-3b4d-055e" name="Conductos Biliares Corrosivos" hidden="false" targetId="838b-2484-be6d-8218" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1309,7 +1309,7 @@
         </selectionEntryGroup>
       </selectionEntryGroups>
       <entryLinks>
-        <entryLink id="4800-ce75-4289-c062" name="Crystal Pistola" hidden="false" targetId="a725-6ab2-54c5-6627" type="selectionEntry">
+        <entryLink id="4800-ce75-4289-c062" name="Pistola Cristalina" hidden="false" targetId="a725-6ab2-54c5-6627" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1353,7 +1353,7 @@
           <characteristics>
             <characteristic name="Velocidad" characteristicTypeId="df17-4b5c-638f-0807" value="1-2"/>
             <characteristic name="Armadura" characteristicTypeId="0274-bb56-5442-a0f1" value="2"/>
-            <characteristic name="Tamaño" characteristicTypeId="2623-46e7-250f-eacf" value="3"/>
+            <characteristic name="TamaÃ±o" characteristicTypeId="2623-46e7-250f-eacf" value="3"/>
             <characteristic name="Disparo" characteristicTypeId="68ea-7e51-32e7-70c8" value="-"/>
             <characteristic name="Lucha" characteristicTypeId="cf38-e165-7d39-0773" value="3+"/>
             <characteristic name="Supervivencia" characteristicTypeId="ecb0-eafd-b6fa-91a0" value="4+"/>
@@ -1362,7 +1362,7 @@
       </profiles>
       <rules/>
       <infoLinks>
-        <infoLink id="4be6-55d7-f78f-769e" name="Firme [Sólido]" hidden="false" targetId="477f-7c1c-9cba-3258" type="rule">
+        <infoLink id="4be6-55d7-f78f-769e" name="Firme [SÃ³lido]" hidden="false" targetId="477f-7c1c-9cba-3258" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1424,7 +1424,7 @@
       <selectionEntries/>
       <selectionEntryGroups/>
       <entryLinks>
-        <entryLink id="632b-5c7c-e0d6-8e27" name="Massive Garras" hidden="false" targetId="6e8f-1535-c1d8-207b" type="selectionEntry">
+        <entryLink id="632b-5c7c-e0d6-8e27" name="Garras Enormes" hidden="false" targetId="6e8f-1535-c1d8-207b" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1446,12 +1446,12 @@
           </constraints>
           <categoryLinks/>
         </entryLink>
-        <entryLink id="aac1-23c1-e6b7-f0b9" name="Defender Shield (+)" hidden="false" targetId="0c4b-92d5-3ab2-22b8" type="selectionEntry">
+        <entryLink id="aac1-23c1-e6b7-f0b9" name="Escudo Protector (+)" hidden="false" targetId="0c4b-92d5-3ab2-22b8" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers>
-            <modifier type="set" field="name" value="Defender Shield">
+            <modifier type="set" field="name" value="Escudo Protector">
               <repeats/>
               <conditions/>
               <conditionGroups/>
@@ -1479,7 +1479,7 @@
           <characteristics>
             <characteristic name="Velocidad" characteristicTypeId="df17-4b5c-638f-0807" value="2-3"/>
             <characteristic name="Armadura" characteristicTypeId="0274-bb56-5442-a0f1" value="1"/>
-            <characteristic name="Tamaño" characteristicTypeId="2623-46e7-250f-eacf" value="2"/>
+            <characteristic name="TamaÃ±o" characteristicTypeId="2623-46e7-250f-eacf" value="2"/>
             <characteristic name="Disparo" characteristicTypeId="68ea-7e51-32e7-70c8" value="-"/>
             <characteristic name="Lucha" characteristicTypeId="cf38-e165-7d39-0773" value="4+"/>
             <characteristic name="Supervivencia" characteristicTypeId="ecb0-eafd-b6fa-91a0" value="5+"/>
@@ -1549,7 +1549,7 @@
       <selectionEntries/>
       <selectionEntryGroups/>
       <entryLinks>
-        <entryLink id="fc43-38a0-2549-37bf" name="Ravenous Maw" book="" hidden="false" targetId="54d8-21b9-d924-7c3d" type="selectionEntry">
+        <entryLink id="fc43-38a0-2549-37bf" name="Fauces Voraces" book="" hidden="false" targetId="54d8-21b9-d924-7c3d" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1587,7 +1587,7 @@
           <characteristics>
             <characteristic name="Velocidad" characteristicTypeId="df17-4b5c-638f-0807" value="1-2"/>
             <characteristic name="Armadura" characteristicTypeId="0274-bb56-5442-a0f1" value="1"/>
-            <characteristic name="Tamaño" characteristicTypeId="2623-46e7-250f-eacf" value="1"/>
+            <characteristic name="TamaÃ±o" characteristicTypeId="2623-46e7-250f-eacf" value="1"/>
             <characteristic name="Disparo" characteristicTypeId="68ea-7e51-32e7-70c8" value="5+"/>
             <characteristic name="Lucha" characteristicTypeId="cf38-e165-7d39-0773" value="6+"/>
             <characteristic name="Supervivencia" characteristicTypeId="ecb0-eafd-b6fa-91a0" value="5+"/>
@@ -1683,7 +1683,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="9853-bce4-be0e-b50c" name="Twin Crystal Pistols" hidden="false" targetId="d8ea-ca8e-82a9-ae6d" type="selectionEntry">
+            <entryLink id="9853-bce4-be0e-b50c" name="Par de Pistolas Cristalinas" hidden="false" targetId="d8ea-ca8e-82a9-ae6d" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1695,7 +1695,7 @@
         </selectionEntryGroup>
       </selectionEntryGroups>
       <entryLinks>
-        <entryLink id="4a9c-b2ce-69b6-7570" name="Crystal Pistola" hidden="false" targetId="a725-6ab2-54c5-6627" type="selectionEntry">
+        <entryLink id="4a9c-b2ce-69b6-7570" name="Pistola Cristalina" hidden="false" targetId="a725-6ab2-54c5-6627" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1740,7 +1740,7 @@
           <characteristics>
             <characteristic name="Velocidad" characteristicTypeId="df17-4b5c-638f-0807" value="1-2"/>
             <characteristic name="Armadura" characteristicTypeId="0274-bb56-5442-a0f1" value="3"/>
-            <characteristic name="Tamaño" characteristicTypeId="2623-46e7-250f-eacf" value="4"/>
+            <characteristic name="TamaÃ±o" characteristicTypeId="2623-46e7-250f-eacf" value="4"/>
             <characteristic name="Disparo" characteristicTypeId="68ea-7e51-32e7-70c8" value="5+"/>
             <characteristic name="Lucha" characteristicTypeId="cf38-e165-7d39-0773" value="5+"/>
             <characteristic name="Supervivencia" characteristicTypeId="ecb0-eafd-b6fa-91a0" value="5+"/>
@@ -1749,7 +1749,7 @@
       </profiles>
       <rules/>
       <infoLinks>
-        <infoLink id="c52d-25fc-a02e-4943" name="Firme [Sólido]" hidden="false" targetId="477f-7c1c-9cba-3258" type="rule">
+        <infoLink id="c52d-25fc-a02e-4943" name="Firme [SÃ³lido]" hidden="false" targetId="477f-7c1c-9cba-3258" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1836,7 +1836,7 @@
           <selectionEntries/>
           <selectionEntryGroups/>
           <entryLinks>
-            <entryLink id="4279-9e48-88b6-0db6" name="Crystal Launcher **" hidden="false" targetId="7071-557b-914b-0bee" type="selectionEntry">
+            <entryLink id="4279-9e48-88b6-0db6" name="Lanzador Cristalino **" hidden="false" targetId="7071-557b-914b-0bee" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1846,7 +1846,7 @@
               </constraints>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="778b-8c0f-6c6d-d389" name="Crystal Cannon" hidden="false" targetId="cd7b-901e-0645-5bf4" type="selectionEntry">
+            <entryLink id="778b-8c0f-6c6d-d389" name="CaÃ±Ã³n Cristalino" hidden="false" targetId="cd7b-901e-0645-5bf4" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1856,7 +1856,7 @@
               </constraints>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="289c-7e62-c0ec-cd27" name="Corrosive Bile Ducts" hidden="false" targetId="838b-2484-be6d-8218" type="selectionEntry">
+            <entryLink id="289c-7e62-c0ec-cd27" name="Conductos Biliares Corrosivos" hidden="false" targetId="838b-2484-be6d-8218" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1866,7 +1866,7 @@
               </constraints>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="cd22-823f-d6a2-fb7e" name="Ripping Tentacles" hidden="false" targetId="305c-5de3-8db5-4dba" type="selectionEntry">
+            <entryLink id="cd22-823f-d6a2-fb7e" name="TentÃ¡culos Desgarradores" hidden="false" targetId="305c-5de3-8db5-4dba" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1876,7 +1876,7 @@
               </constraints>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="7d6c-95a4-0c5c-772a" name="Razor Garras" hidden="false" targetId="d86f-16eb-4d15-61a3" type="selectionEntry">
+            <entryLink id="7d6c-95a4-0c5c-772a" name="Garras Segadoras" hidden="false" targetId="d86f-16eb-4d15-61a3" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1886,7 +1886,7 @@
               </constraints>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="5b81-466d-0006-1ed3" name="Ravenous Maw" hidden="false" targetId="54d8-21b9-d924-7c3d" type="selectionEntry">
+            <entryLink id="5b81-466d-0006-1ed3" name="Fauces Voraces" hidden="false" targetId="54d8-21b9-d924-7c3d" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1896,7 +1896,7 @@
               </constraints>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="03ea-a0eb-9580-2618" name="Psionic Disruptor **" hidden="false" targetId="ee36-6d1f-10a7-6519" type="selectionEntry">
+            <entryLink id="03ea-a0eb-9580-2618" name="Disruptor PsiÃ³nico **" hidden="false" targetId="ee36-6d1f-10a7-6519" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1906,7 +1906,7 @@
               </constraints>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="8a0b-9f53-7e80-5331" name="Massive Garras" hidden="false" targetId="6e8f-1535-c1d8-207b" type="selectionEntry">
+            <entryLink id="8a0b-9f53-7e80-5331" name="Garras Enormes" hidden="false" targetId="6e8f-1535-c1d8-207b" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1935,7 +1935,7 @@
           <characteristics>
             <characteristic name="Velocidad" characteristicTypeId="df17-4b5c-638f-0807" value="1-2"/>
             <characteristic name="Armadura" characteristicTypeId="0274-bb56-5442-a0f1" value="2"/>
-            <characteristic name="Tamaño" characteristicTypeId="2623-46e7-250f-eacf" value="4"/>
+            <characteristic name="TamaÃ±o" characteristicTypeId="2623-46e7-250f-eacf" value="4"/>
             <characteristic name="Disparo" characteristicTypeId="68ea-7e51-32e7-70c8" value="5+"/>
             <characteristic name="Lucha" characteristicTypeId="cf38-e165-7d39-0773" value="3+"/>
             <characteristic name="Supervivencia" characteristicTypeId="ecb0-eafd-b6fa-91a0" value="4+"/>
@@ -1944,7 +1944,7 @@
       </profiles>
       <rules/>
       <infoLinks>
-        <infoLink id="6695-0a5c-56a4-f954" name="Firme [Sólido]" hidden="false" targetId="477f-7c1c-9cba-3258" type="rule">
+        <infoLink id="6695-0a5c-56a4-f954" name="Firme [SÃ³lido]" hidden="false" targetId="477f-7c1c-9cba-3258" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -2003,9 +2003,9 @@
         </categoryLink>
       </categoryLinks>
       <selectionEntries>
-        <selectionEntry id="9b36-7dfc-e1ec-4ffe" name="Crushing Maw" book="Deadzone: Outbreak" page="59" hidden="false" collective="false" type="upgrade">
+        <selectionEntry id="9b36-7dfc-e1ec-4ffe" name="Fauces Demoledoras" book="Deadzone: Outbreak" page="59" hidden="false" collective="false" type="upgrade">
           <profiles>
-            <profile id="1b70-21a7-46dd-cfdb" name="Crushing Maw" book="Deadzone: Outbreak" page="59" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
+            <profile id="1b70-21a7-46dd-cfdb" name="Fauces Demoledoras" book="Deadzone: Outbreak" page="59" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -2034,9 +2034,9 @@
             <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="0.0"/>
           </costs>
         </selectionEntry>
-        <selectionEntry id="e3de-dfba-df2f-7f9a" name="Lashing Tentacles" book="Deadzone: Outbreak" page="59" hidden="false" collective="false" type="upgrade">
+        <selectionEntry id="e3de-dfba-df2f-7f9a" name="TentÃ¡culos Laceradores" book="Deadzone: Outbreak" page="59" hidden="false" collective="false" type="upgrade">
           <profiles>
-            <profile id="2914-3298-4116-02f0" name="Lashing Tentacles" book="Deadzone: Outbreak" page="59" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
+            <profile id="2914-3298-4116-02f0" name="TentÃ¡culos Laceradores" book="Deadzone: Outbreak" page="59" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -2470,7 +2470,7 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="fee0-2d8a-3a4d-7c53" name="Psíquico Chovar" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="fee0-2d8a-3a4d-7c53" name="PsÃ­quico Chovar" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -2510,7 +2510,7 @@
       <selectionEntries/>
       <selectionEntryGroups/>
       <entryLinks>
-        <entryLink id="a82c-da94-1dcd-98dc" name="Psíquico Chovar" hidden="false" targetId="0304-1c3a-5501-a41f" type="selectionEntry">
+        <entryLink id="a82c-da94-1dcd-98dc" name="PsÃ­quico Chovar" hidden="false" targetId="0304-1c3a-5501-a41f" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -2600,7 +2600,7 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="d409-c281-57e5-fb8c" name="Proyecto Oberón" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="d409-c281-57e5-fb8c" name="Proyecto OberÃ³n" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -2640,7 +2640,7 @@
       <selectionEntries/>
       <selectionEntryGroups/>
       <entryLinks>
-        <entryLink id="8f17-aa54-3a1a-358e" name="Proyecto Oberón" hidden="false" targetId="1acb-ca9d-dddd-bfd6" type="selectionEntry">
+        <entryLink id="8f17-aa54-3a1a-358e" name="Proyecto OberÃ³n" hidden="false" targetId="1acb-ca9d-dddd-bfd6" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -2795,7 +2795,7 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="35b8-ac1d-438c-65ba" name="Soldado de Choque Teratón" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="35b8-ac1d-438c-65ba" name="Soldado de Choque TeratÃ³n" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -2835,7 +2835,7 @@
       <selectionEntries/>
       <selectionEntryGroups/>
       <entryLinks>
-        <entryLink id="7397-d77c-cd3c-6ff3" name="Soldado de Choque Teratón" hidden="false" targetId="6543-c829-efb7-702a" type="selectionEntry">
+        <entryLink id="7397-d77c-cd3c-6ff3" name="Soldado de Choque TeratÃ³n" hidden="false" targetId="6543-c829-efb7-702a" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -2990,9 +2990,9 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="aac5-7756-ce9f-38e4" name="Proyecto Oberón" book="Deadzone: Outbreak" page="85" hidden="false" collective="false" type="unit">
+    <selectionEntry id="aac5-7756-ce9f-38e4" name="Proyecto OberÃ³n" book="Deadzone: Outbreak" page="85" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="06bc-5e6e-0408-3f99" name="Proyecto Oberón" book="Deadzone: Outbreak" page="85" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Líder">
+        <profile id="06bc-5e6e-0408-3f99" name="Proyecto OberÃ³n" book="Deadzone: Outbreak" page="85" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="LÃ­der">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -3000,7 +3000,7 @@
           <characteristics>
             <characteristic name="Velocidad" characteristicTypeId="4e85-eaa5-eccb-41d1" value="1-2"/>
             <characteristic name="Armadura" characteristicTypeId="6e20-a2eb-4873-facd" value="0"/>
-            <characteristic name="Tamaño" characteristicTypeId="72ed-1424-6a6b-51d8" value="1"/>
+            <characteristic name="TamaÃ±o" characteristicTypeId="72ed-1424-6a6b-51d8" value="1"/>
             <characteristic name="Disparo" characteristicTypeId="8e81-1fe3-f677-8d5c" value="4+"/>
             <characteristic name="Lucha" characteristicTypeId="5ab1-1acc-a108-daf5" value="4+"/>
             <characteristic name="Supervivencia" characteristicTypeId="2375-5bce-3345-261b" value="4+"/>
@@ -3009,12 +3009,12 @@
         </profile>
       </profiles>
       <rules>
-        <rule id="4f8b-c8bb-49b3-4dce" name="Tóxica Slime" book="Deadzone: Outbreak" page="85" hidden="false">
+        <rule id="4f8b-c8bb-49b3-4dce" name="TÃ³xica Slime" book="Deadzone: Outbreak" page="85" hidden="false">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers/>
-          <description>Spend an Army Special Result on a Command Dice to give the active model a Tóxica attack: AL, Tóxica.  This attack replaces any current AL weapon for this attack only.</description>
+          <description>Spend an Army Special Result on a Command Dice to give the active model a TÃ³xica attack: AL, TÃ³xica.  This attack replaces any current AL weapon for this attack only.</description>
         </rule>
       </rules>
       <infoLinks>
@@ -3081,9 +3081,9 @@
             <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="0.0"/>
           </costs>
         </selectionEntry>
-        <selectionEntry id="a427-fe4d-ce2c-a4ec" name="Fragmentos Tóxicos" book="Deadzone: Outbreak" page="85" hidden="false" collective="false" type="upgrade">
+        <selectionEntry id="a427-fe4d-ce2c-a4ec" name="Fragmentos TÃ³xicos" book="Deadzone: Outbreak" page="85" hidden="false" collective="false" type="upgrade">
           <profiles>
-            <profile id="2489-8e72-60db-d31d" name="Fragmentos Tóxicos" book="Deadzone: Outbreak" page="85" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
+            <profile id="2489-8e72-60db-d31d" name="Fragmentos TÃ³xicos" book="Deadzone: Outbreak" page="85" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -3091,14 +3091,14 @@
               <characteristics>
                 <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="AL"/>
                 <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="PA1"/>
-                <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Tóxica"/>
+                <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="TÃ³xica"/>
                 <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c"/>
               </characteristics>
             </profile>
           </profiles>
           <rules/>
           <infoLinks>
-            <infoLink id="05da-c5c9-433e-427d" name="Tóxica" hidden="false" targetId="206d-4b8e-08b9-7a59" type="rule">
+            <infoLink id="05da-c5c9-433e-427d" name="TÃ³xica" hidden="false" targetId="206d-4b8e-08b9-7a59" type="rule">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -3122,12 +3122,12 @@
       </selectionEntries>
       <selectionEntryGroups/>
       <entryLinks>
-        <entryLink id="f496-7daf-aad6-90ee" name="Escudo de Energía (+)" hidden="false" targetId="14f6-da63-6187-2dc0" type="selectionEntry">
+        <entryLink id="f496-7daf-aad6-90ee" name="Escudo de EnergÃ­a (+)" hidden="false" targetId="14f6-da63-6187-2dc0" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers>
-            <modifier type="set" field="name" value="Escudo de Energía (1) (+)">
+            <modifier type="set" field="name" value="Escudo de EnergÃ­a (1) (+)">
               <repeats/>
               <conditions/>
               <conditionGroups/>
@@ -3156,11 +3156,11 @@
   </selectionEntries>
   <entryLinks/>
   <sharedSelectionEntries>
-    <selectionEntry id="a725-6ab2-54c5-6627" name="Crystal Pistola" book="Deadzone: Outbreak" page="60" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="a725-6ab2-54c5-6627" name="Pistola Cristalina" book="Deadzone: Outbreak" page="60" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="eb3a-261d-db7b-313d" name="Crystal Pistola" hidden="false" targetId="6a1d-d15d-914c-9d6c" type="profile">
+        <infoLink id="eb3a-261d-db7b-313d" name="Pistola Cristalina" hidden="false" targetId="6a1d-d15d-914c-9d6c" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -3184,11 +3184,11 @@
         <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="d8ea-ca8e-82a9-ae6d" name="Twin Crystal Pistols" book="Deadzone: Outbreak" page="60" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="d8ea-ca8e-82a9-ae6d" name="Par de Pistolas Cristalinas" book="Deadzone: Outbreak" page="60" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="db1b-3ff7-e44e-0de6" name="Twin Crystal Pistols" hidden="false" targetId="3528-93e2-5543-5e8e" type="profile">
+        <infoLink id="db1b-3ff7-e44e-0de6" name="Par de Pistolas Cristalinas" hidden="false" targetId="3528-93e2-5543-5e8e" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -3224,17 +3224,17 @@
         <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="2d38-f543-f39f-0c5a" name="Corrosive Onda Expansiva" book="Deadzone: Outbreak" page="60" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="2d38-f543-f39f-0c5a" name="ExplosiÃ³n Corrosiva" book="Deadzone: Outbreak" page="60" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="d880-f888-edef-ee40" name="Corrosive Onda Expansiva" hidden="false" targetId="202a-2023-9d02-ef34" type="profile">
+        <infoLink id="d880-f888-edef-ee40" name="ExplosiÃ³n Corrosiva" hidden="false" targetId="202a-2023-9d02-ef34" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="b6db-ae25-f074-2635" name="¡Quema!" hidden="false" targetId="6b7c-f0a9-4644-398d" type="rule">
+        <infoLink id="b6db-ae25-f074-2635" name="Â¡Quema!" hidden="false" targetId="6b7c-f0a9-4644-398d" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -3252,11 +3252,11 @@
         <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="168b-a482-0b19-f69a" name="Shoulder-mounted Phaser" book="Deadzone: Outbreak" page="60" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="168b-a482-0b19-f69a" name="FÃ¡ser al Hombro" book="Deadzone: Outbreak" page="60" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="e888-7bc3-5a5a-8762" name="Shoulder-mounted Phaser" hidden="false" targetId="4ecf-d6ed-9635-8f06" type="profile">
+        <infoLink id="e888-7bc3-5a5a-8762" name="FÃ¡ser al Hombro" hidden="false" targetId="4ecf-d6ed-9635-8f06" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -3286,11 +3286,11 @@
         <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="54d8-21b9-d924-7c3d" name="Ravenous Maw" book="Deadzone: Outbreak" page="60" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="54d8-21b9-d924-7c3d" name="Fauces Voraces" book="Deadzone: Outbreak" page="60" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="6d96-394c-535c-05ee" name="Ravenous Maw" hidden="false" targetId="3d19-1df7-74f7-c766" type="profile">
+        <infoLink id="6d96-394c-535c-05ee" name="Fauces Voraces" hidden="false" targetId="3d19-1df7-74f7-c766" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -3320,11 +3320,11 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="9.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="d86f-16eb-4d15-61a3" name="Razor Garras" book="Deadzone: Outbreak" page="60" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="d86f-16eb-4d15-61a3" name="Garras Segadoras" book="Deadzone: Outbreak" page="60" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="e8c0-d118-0a41-d4a8" name="Razor Garras" hidden="false" targetId="0d56-c263-fce7-015b" type="profile">
+        <infoLink id="e8c0-d118-0a41-d4a8" name="Garras Segadoras" hidden="false" targetId="0d56-c263-fce7-015b" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -3354,11 +3354,11 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="10.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="305c-5de3-8db5-4dba" name="Ripping Tentacles" book="Deadzone: Outbreak" page="60" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="305c-5de3-8db5-4dba" name="TentÃ¡culos Desgarradores" book="Deadzone: Outbreak" page="60" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="95fd-643f-fcd8-d26d" name="Ripping Tentacles" hidden="false" targetId="7f5b-a576-89c2-94ad" type="profile">
+        <infoLink id="95fd-643f-fcd8-d26d" name="TentÃ¡culos Desgarradores" hidden="false" targetId="7f5b-a576-89c2-94ad" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -3388,11 +3388,11 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="8.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="0719-5464-a8b4-39a1" name="Psychic Charge" book="Deadzone: Outbreak" page="60" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="0719-5464-a8b4-39a1" name="Carga PsÃ­quica" book="Deadzone: Outbreak" page="60" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="78da-f420-d3c0-59ce" name="Psychic Charge" hidden="false" targetId="5ef9-62cc-8edc-3a4a" type="profile">
+        <infoLink id="78da-f420-d3c0-59ce" name="Carga PsÃ­quica" hidden="false" targetId="5ef9-62cc-8edc-3a4a" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -3422,11 +3422,11 @@
         <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="99db-2d5b-ef9e-199b" name="Psychic Subjugation" book="Deadzone: Outbreak" page="60" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="99db-2d5b-ef9e-199b" name="SubyugaciÃ³n PsÃ­quica" book="Deadzone: Outbreak" page="60" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="4614-2bd2-a2a2-7b94" name="Psychic Subjugation" hidden="false" targetId="68b3-b71b-40b8-dec5" type="profile">
+        <infoLink id="4614-2bd2-a2a2-7b94" name="SubyugaciÃ³n PsÃ­quica" hidden="false" targetId="68b3-b71b-40b8-dec5" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -3438,7 +3438,7 @@
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="f51f-935b-28cc-2795" name="Supresión" hidden="false" targetId="bcf7-8697-e7d8-43ac" type="rule">
+        <infoLink id="f51f-935b-28cc-2795" name="SupresiÃ³n" hidden="false" targetId="bcf7-8697-e7d8-43ac" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -3484,23 +3484,23 @@
         <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="838b-2484-be6d-8218" name="Corrosive Bile Ducts" book="Deadzone: Outbreak" page="60" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="838b-2484-be6d-8218" name="Conductos Biliares Corrosivos" book="Deadzone: Outbreak" page="60" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="36f5-6e67-e367-f09d" name="Corrosive Bile Ducts" hidden="false" targetId="61bd-868a-6f2d-a55b" type="profile">
+        <infoLink id="36f5-6e67-e367-f09d" name="Conductos Biliares Corrosivos" hidden="false" targetId="61bd-868a-6f2d-a55b" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="8bd2-cd8c-2915-0963" name="Volátil" hidden="false" targetId="66b5-4831-9238-85aa" type="rule">
+        <infoLink id="8bd2-cd8c-2915-0963" name="VolÃ¡til" hidden="false" targetId="66b5-4831-9238-85aa" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="7152-c720-dcfb-d2d7" name="¡Quema!" hidden="false" targetId="6b7c-f0a9-4644-398d" type="rule">
+        <infoLink id="7152-c720-dcfb-d2d7" name="Â¡Quema!" hidden="false" targetId="6b7c-f0a9-4644-398d" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -3524,11 +3524,11 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="8.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="cd7b-901e-0645-5bf4" name="Crystal Cannon" book="Deadzone: Outbreak" page="60" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="cd7b-901e-0645-5bf4" name="CaÃ±Ã³n Cristalino" book="Deadzone: Outbreak" page="60" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="8bba-7cec-9904-f557" name="Crystal Cannon" hidden="false" targetId="9166-2328-e448-4550" type="profile">
+        <infoLink id="8bba-7cec-9904-f557" name="CaÃ±Ã³n Cristalino" hidden="false" targetId="9166-2328-e448-4550" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -3564,11 +3564,11 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="12.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="7071-557b-914b-0bee" name="Crystal Launcher **" book="Deadzone: Outbreak" page="60" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="7071-557b-914b-0bee" name="Lanzador Cristalino **" book="Deadzone: Outbreak" page="60" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="ba00-4aee-f47d-ad7a" name="Crystal Launcher" hidden="false" targetId="1cc1-ab31-ba0b-9740" type="profile">
+        <infoLink id="ba00-4aee-f47d-ad7a" name="Lanzador Cristalino" hidden="false" targetId="1cc1-ab31-ba0b-9740" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -3610,11 +3610,11 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="12.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="ee36-6d1f-10a7-6519" name="Psionic Disruptor **" book="Deadzone: Outbreak" page="60" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="ee36-6d1f-10a7-6519" name="Disruptor PsiÃ³nico **" book="Deadzone: Outbreak" page="60" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="f0e6-680a-7feb-ead0" name="Psionic Disruptor" hidden="false" targetId="e2fc-d1dc-8686-6ba0" type="profile">
+        <infoLink id="f0e6-680a-7feb-ead0" name="Disruptor PsiÃ³nico" hidden="false" targetId="e2fc-d1dc-8686-6ba0" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -3626,7 +3626,7 @@
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="3d58-da77-f422-7796" name="Supresión" hidden="false" targetId="bcf7-8697-e7d8-43ac" type="rule">
+        <infoLink id="3d58-da77-f422-7796" name="SupresiÃ³n" hidden="false" targetId="bcf7-8697-e7d8-43ac" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -3644,11 +3644,11 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="10.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="6e8f-1535-c1d8-207b" name="Massive Garras" book="Deadzone: Outbreak" page="60" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="6e8f-1535-c1d8-207b" name="Garras Enormes" book="Deadzone: Outbreak" page="60" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="1ff3-be5a-c349-8268" name="Massive Garras" hidden="false" targetId="101e-3b2c-c783-dbe8" type="profile">
+        <infoLink id="1ff3-be5a-c349-8268" name="Garras Enormes" hidden="false" targetId="101e-3b2c-c783-dbe8" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -3702,7 +3702,7 @@
             </categoryLink>
           </categoryLinks>
         </entryLink>
-        <entryLink id="f990-1097-d9a0-cf35" name="Munición Perforante (+)" hidden="false" targetId="e73f-19f7-d7b2-06ba" type="selectionEntry">
+        <entryLink id="f990-1097-d9a0-cf35" name="MuniciÃ³n Perforante (+)" hidden="false" targetId="e73f-19f7-d7b2-06ba" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -3724,7 +3724,7 @@
             </categoryLink>
           </categoryLinks>
         </entryLink>
-        <entryLink id="74ee-6cd9-9a03-41c5" name="Granada de Fragmentación (+)" hidden="false" targetId="07d6-cd01-55d9-79c0" type="selectionEntry">
+        <entryLink id="74ee-6cd9-9a03-41c5" name="Granada de FragmentaciÃ³n (+)" hidden="false" targetId="07d6-cd01-55d9-79c0" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -3812,7 +3812,7 @@
             </categoryLink>
           </categoryLinks>
         </entryLink>
-        <entryLink id="459b-3432-7654-49b3" name="Escudo de Energía (n) (+)" hidden="false" targetId="14f6-da63-6187-2dc0" type="selectionEntry">
+        <entryLink id="459b-3432-7654-49b3" name="Escudo de EnergÃ­a (n) (+)" hidden="false" targetId="14f6-da63-6187-2dc0" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -3822,7 +3822,7 @@
               <conditions/>
               <conditionGroups/>
             </modifier>
-            <modifier type="set" field="name" value="Escudo de Energía (2) (+)">
+            <modifier type="set" field="name" value="Escudo de EnergÃ­a (2) (+)">
               <repeats/>
               <conditions/>
               <conditionGroups/>
@@ -3839,7 +3839,7 @@
             </categoryLink>
           </categoryLinks>
         </entryLink>
-        <entryLink id="fc8e-a11d-c90e-42a4" name="Escudo de Energía (n) (+)" hidden="false" targetId="14f6-da63-6187-2dc0" type="selectionEntry">
+        <entryLink id="fc8e-a11d-c90e-42a4" name="Escudo de EnergÃ­a (n) (+)" hidden="false" targetId="14f6-da63-6187-2dc0" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -3849,7 +3849,7 @@
               <conditions/>
               <conditionGroups/>
             </modifier>
-            <modifier type="set" field="name" value="Escudo de Energía (3) (+)">
+            <modifier type="set" field="name" value="Escudo de EnergÃ­a (3) (+)">
               <repeats/>
               <conditions/>
               <conditionGroups/>
@@ -3871,7 +3871,7 @@
   </sharedSelectionEntryGroups>
   <sharedRules/>
   <sharedProfiles>
-    <profile id="6a1d-d15d-914c-9d6c" name="Crystal Pistola" book="Deadzone: Outbreak" page="60" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
+    <profile id="6a1d-d15d-914c-9d6c" name="Pistola Cristalina" book="Deadzone: Outbreak" page="60" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -3880,10 +3880,10 @@
         <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A3"/>
         <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
         <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Triclinic Shard"/>
-        <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Pequeño Calibre"/>
+        <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="PequeÃ±o Calibre"/>
       </characteristics>
     </profile>
-    <profile id="3528-93e2-5543-5e8e" name="Twin Crystal Pistols" book="Deadzone: Outbreak" page="60" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
+    <profile id="3528-93e2-5543-5e8e" name="Par de Pistolas Cristalinas" book="Deadzone: Outbreak" page="60" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -3892,10 +3892,10 @@
         <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A3"/>
         <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
         <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Cadencia de Fuego (1), Triclinic Shard"/>
-        <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Pequeño Calibre"/>
+        <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="PequeÃ±o Calibre"/>
       </characteristics>
     </profile>
-    <profile id="202a-2023-9d02-ef34" name="Corrosive Onda Expansiva" book="Deadzone: Outbreak" page="60" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
+    <profile id="202a-2023-9d02-ef34" name="ExplosiÃ³n Corrosiva" book="Deadzone: Outbreak" page="60" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -3903,11 +3903,11 @@
       <characteristics>
         <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A3"/>
         <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="PA1"/>
-        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="¡Quema!"/>
+        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Â¡Quema!"/>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Asalto)"/>
       </characteristics>
     </profile>
-    <profile id="4ecf-d6ed-9635-8f06" name="Shoulder-mounted Phaser" book="Deadzone: Outbreak" page="60" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
+    <profile id="4ecf-d6ed-9635-8f06" name="FÃ¡ser al Hombro" book="Deadzone: Outbreak" page="60" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -3919,7 +3919,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Asalto)"/>
       </characteristics>
     </profile>
-    <profile id="3d19-1df7-74f7-c766" name="Ravenous Maw" book="Deadzone: Outbreak" page="60" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
+    <profile id="3d19-1df7-74f7-c766" name="Fauces Voraces" book="Deadzone: Outbreak" page="60" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -3928,10 +3928,10 @@
         <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="AL"/>
         <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="PA2"/>
         <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Furia (1)"/>
-        <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Melé)"/>
+        <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (MelÃ©)"/>
       </characteristics>
     </profile>
-    <profile id="0d56-c263-fce7-015b" name="Razor Garras" book="Deadzone: Outbreak" page="60" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
+    <profile id="0d56-c263-fce7-015b" name="Garras Segadoras" book="Deadzone: Outbreak" page="60" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -3940,10 +3940,10 @@
         <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="AL"/>
         <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="PA1"/>
         <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Furia (2)"/>
-        <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Melé)"/>
+        <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (MelÃ©)"/>
       </characteristics>
     </profile>
-    <profile id="7f5b-a576-89c2-94ad" name="Ripping Tentacles" book="Deadzone: Outbreak" page="60" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
+    <profile id="7f5b-a576-89c2-94ad" name="TentÃ¡culos Desgarradores" book="Deadzone: Outbreak" page="60" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -3952,10 +3952,10 @@
         <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="AL"/>
         <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="PA1"/>
         <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Furia (1)"/>
-        <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Melé)"/>
+        <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (MelÃ©)"/>
       </characteristics>
     </profile>
-    <profile id="5ef9-62cc-8edc-3a4a" name="Psychic Charge" book="Deadzone: Outbreak" page="60" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
+    <profile id="5ef9-62cc-8edc-3a4a" name="Carga PsÃ­quica" book="Deadzone: Outbreak" page="60" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -3967,7 +3967,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Psychic)"/>
       </characteristics>
     </profile>
-    <profile id="68b3-b71b-40b8-dec5" name="Psychic Subjugation" book="Deadzone: Outbreak" page="60" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
+    <profile id="68b3-b71b-40b8-dec5" name="SubyugaciÃ³n PsÃ­quica" book="Deadzone: Outbreak" page="60" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -3975,7 +3975,7 @@
       <characteristics>
         <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A4"/>
         <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
-        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Psychic, Supresión"/>
+        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Psychic, SupresiÃ³n"/>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Psychic)"/>
       </characteristics>
     </profile>
@@ -3991,7 +3991,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Francotirador)"/>
       </characteristics>
     </profile>
-    <profile id="61bd-868a-6f2d-a55b" name="Corrosive Bile Ducts" book="Deadzone: Outbreak" page="60" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
+    <profile id="61bd-868a-6f2d-a55b" name="Conductos Biliares Corrosivos" book="Deadzone: Outbreak" page="60" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -3999,11 +3999,11 @@
       <characteristics>
         <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A3"/>
         <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="PA2"/>
-        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Volátil, ¡Quema!, Pesada"/>
+        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="VolÃ¡til, Â¡Quema!, Pesada"/>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Pesada (Asalto)"/>
       </characteristics>
     </profile>
-    <profile id="9166-2328-e448-4550" name="Crystal Cannon" book="Deadzone: Outbreak" page="60" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
+    <profile id="9166-2328-e448-4550" name="CaÃ±Ã³n Cristalino" book="Deadzone: Outbreak" page="60" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -4015,7 +4015,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Pesada (Explosiva)"/>
       </characteristics>
     </profile>
-    <profile id="1cc1-ab31-ba0b-9740" name="Crystal Launcher" book="Deadzone: Outbreak" page="60" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
+    <profile id="1cc1-ab31-ba0b-9740" name="Lanzador Cristalino" book="Deadzone: Outbreak" page="60" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -4027,7 +4027,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Pesada (Explosiva)"/>
       </characteristics>
     </profile>
-    <profile id="e2fc-d1dc-8686-6ba0" name="Psionic Disruptor" book="Deadzone: Outbreak" page="60" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
+    <profile id="e2fc-d1dc-8686-6ba0" name="Disruptor PsiÃ³nico" book="Deadzone: Outbreak" page="60" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -4035,11 +4035,11 @@
       <characteristics>
         <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A4"/>
         <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="PA2"/>
-        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Psychic, Supresión"/>
+        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Psychic, SupresiÃ³n"/>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Pesada (Lanza)"/>
       </characteristics>
     </profile>
-    <profile id="101e-3b2c-c783-dbe8" name="Massive Garras" book="Deadzone: Outbreak" page="60" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
+    <profile id="101e-3b2c-c783-dbe8" name="Garras Enormes" book="Deadzone: Outbreak" page="60" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -4048,7 +4048,7 @@
         <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="AL"/>
         <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="PA2"/>
         <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="-"/>
-        <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Pesada (Melé)"/>
+        <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Pesada (MelÃ©)"/>
       </characteristics>
     </profile>
   </sharedProfiles>

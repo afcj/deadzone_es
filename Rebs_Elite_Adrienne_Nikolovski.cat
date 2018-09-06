@@ -61,9 +61,9 @@
         </categoryLink>
       </categoryLinks>
       <selectionEntries>
-        <selectionEntry id="b551-53af-0695-f431" name="Magma Lance" hidden="false" collective="false" type="upgrade">
+        <selectionEntry id="b551-53af-0695-f431" name="Lanza de Magma" hidden="false" collective="false" type="upgrade">
           <profiles>
-            <profile id="5436-9028-8504-1492" name="Magma Lance" book="Deadzone: Infestación" page="28" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
+            <profile id="5436-9028-8504-1492" name="Lanza de Magma" book="Deadzone: Infestación" page="28" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -92,9 +92,9 @@
             <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="0.0"/>
           </costs>
         </selectionEntry>
-        <selectionEntry id="d9a2-e354-a012-ea10" name="Dual Needle Pistols" hidden="false" collective="false" type="upgrade">
+        <selectionEntry id="d9a2-e354-a012-ea10" name="Par de Pistolas de Agujas" hidden="false" collective="false" type="upgrade">
           <profiles>
-            <profile id="5cbc-8bed-fece-8115" name="Dual Needle Pistols" book="Deadzone: Infestación" page="28" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
+            <profile id="5cbc-8bed-fece-8115" name="Par de Pistolas de Agujas" book="Deadzone: Infestación" page="28" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -2532,7 +2532,7 @@
             </categoryLink>
           </categoryLinks>
         </entryLink>
-        <entryLink id="c129-acc2-21d7-5048" name="Defender Shield (+)" hidden="false" targetId="0c4b-92d5-3ab2-22b8" type="selectionEntry">
+        <entryLink id="c129-acc2-21d7-5048" name="Escudo Protector (+)" hidden="false" targetId="0c4b-92d5-3ab2-22b8" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>

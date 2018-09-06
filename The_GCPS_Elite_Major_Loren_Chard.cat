@@ -225,7 +225,7 @@
           <selectionEntries/>
           <selectionEntryGroups/>
           <entryLinks>
-            <entryLink id="ac87-48de-bebf-0c72" name="Shotgun (Accutek ID-KFA)" hidden="false" targetId="accf-b6f1-4952-2fdc" type="selectionEntry">
+            <entryLink id="ac87-48de-bebf-0c72" name="Escopeta (Accutek ID-KFA)" hidden="false" targetId="accf-b6f1-4952-2fdc" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -385,7 +385,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="5d8e-c5ff-d80f-3615" name="Shotgun (Accutek ID-KFA)" hidden="false" targetId="accf-b6f1-4952-2fdc" type="selectionEntry">
+            <entryLink id="5d8e-c5ff-d80f-3615" name="Escopeta (Accutek ID-KFA)" hidden="false" targetId="accf-b6f1-4952-2fdc" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -401,7 +401,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="9e4d-202b-a30a-39e7" name="Thermal Rifle" hidden="false" targetId="956a-e0c4-fffc-7f2c" type="selectionEntry">
+            <entryLink id="9e4d-202b-a30a-39e7" name="Rifle Térmico" hidden="false" targetId="956a-e0c4-fffc-7f2c" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -530,7 +530,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="02c1-0178-425a-5614" name="Shotgun (Accutek ID-KFA)" hidden="false" targetId="accf-b6f1-4952-2fdc" type="selectionEntry">
+            <entryLink id="02c1-0178-425a-5614" name="Escopeta (Accutek ID-KFA)" hidden="false" targetId="accf-b6f1-4952-2fdc" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1865,11 +1865,11 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="12.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="10c0-5195-b2c5-8968" name="Officer&apos;s Sword" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="10c0-5195-b2c5-8968" name="Espada de Oficial" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="1ed8-d1c1-1f3e-e794" name="Officer&apos;s Sword" hidden="false" targetId="9a53-4170-9382-944d" type="profile">
+        <infoLink id="1ed8-d1c1-1f3e-e794" name="Espada de Oficial" hidden="false" targetId="9a53-4170-9382-944d" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1931,11 +1931,11 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="10.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="accf-b6f1-4952-2fdc" name="Shotgun (Accutek ID-KFA)" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="accf-b6f1-4952-2fdc" name="Escopeta (Accutek ID-KFA)" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="e676-4b65-9cd7-4df6" name="Shotgun (Accutek ID-KFA)" hidden="false" targetId="67e0-819b-16de-5d01" type="profile">
+        <infoLink id="e676-4b65-9cd7-4df6" name="Escopeta (Accutek ID-KFA)" hidden="false" targetId="67e0-819b-16de-5d01" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1959,11 +1959,11 @@
         <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="956a-e0c4-fffc-7f2c" name="Thermal Rifle" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="956a-e0c4-fffc-7f2c" name="Rifle Térmico" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="1e27-fa17-1d75-bd62" name="Shotgun (Accutek ID-KFA)" hidden="false" targetId="67e0-819b-16de-5d01" type="profile">
+        <infoLink id="1e27-fa17-1d75-bd62" name="Escopeta (Accutek ID-KFA)" hidden="false" targetId="67e0-819b-16de-5d01" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -2368,7 +2368,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Pesada (Crew Served Weapon)"/>
       </characteristics>
     </profile>
-    <profile id="9a53-4170-9382-944d" name="Officer&apos;s Sword" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
+    <profile id="9a53-4170-9382-944d" name="Espada de Oficial" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -2404,7 +2404,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Andador (Lanza)"/>
       </characteristics>
     </profile>
-    <profile id="67e0-819b-16de-5d01" name="Shotgun (Accutek ID-KFA)" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
+    <profile id="67e0-819b-16de-5d01" name="Escopeta (Accutek ID-KFA)" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -2416,7 +2416,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Pequeño Calibre"/>
       </characteristics>
     </profile>
-    <profile id="4f90-1a05-1553-8efa" name="Thermal Rifle" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
+    <profile id="4f90-1a05-1553-8efa" name="Rifle Térmico" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>

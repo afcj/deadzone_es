@@ -447,7 +447,7 @@
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="6646-a491-389e-c2af" name="Defender Shield" hidden="false" targetId="3ed4-f46e-22f1-16f4" type="rule">
+        <infoLink id="6646-a491-389e-c2af" name="Escudo Protector" hidden="false" targetId="3ed4-f46e-22f1-16f4" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -3616,9 +3616,9 @@
         </categoryLink>
       </categoryLinks>
       <selectionEntries>
-        <selectionEntry id="1ebb-6f98-1e32-d5b6" name="Magma Lance" hidden="false" collective="false" type="upgrade">
+        <selectionEntry id="1ebb-6f98-1e32-d5b6" name="Lanza de Magma" hidden="false" collective="false" type="upgrade">
           <profiles>
-            <profile id="194d-c8ce-1ee5-5878" name="Magma Lance" book="Deadzone: Infestación" page="28" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
+            <profile id="194d-c8ce-1ee5-5878" name="Lanza de Magma" book="Deadzone: Infestación" page="28" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -3647,9 +3647,9 @@
             <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="1.0"/>
           </costs>
         </selectionEntry>
-        <selectionEntry id="4a06-af1b-88cc-101a" name="Dual Needle Pistols" hidden="false" collective="false" type="upgrade">
+        <selectionEntry id="4a06-af1b-88cc-101a" name="Par de Pistolas de Agujas" hidden="false" collective="false" type="upgrade">
           <profiles>
-            <profile id="9e49-d052-32ed-385f" name="Dual Needle Pistols" book="Deadzone: Infestación" page="28" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
+            <profile id="9e49-d052-32ed-385f" name="Par de Pistolas de Agujas" book="Deadzone: Infestación" page="28" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -5109,7 +5109,7 @@ En Campañas, los Enjambre de Alimañas no se consideran parte de la Lista de Ej
     </selectionEntry>
     <selectionEntry id="7d6e-cc91-a0e1-d8bd" name="Capitán de Corbeta Roca" book="Deadzone: Outbreak" page="81" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="c425-7388-5f49-9428" name="Lt. Commander Roca" book="Deadzone: Outbreak" page="81" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Líder">
+        <profile id="c425-7388-5f49-9428" name="Roca" book="Deadzone: Outbreak" page="81" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Líder">
           <profiles/>
           <rules/>
           <infoLinks/>

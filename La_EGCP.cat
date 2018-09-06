@@ -75,7 +75,7 @@
           <selectionEntries/>
           <selectionEntryGroups/>
           <entryLinks>
-            <entryLink id="1754-76e8-3b3b-328a" name="Officer&apos;s Sword" hidden="false" targetId="71cc-3e0a-dac1-687e" type="selectionEntry">
+            <entryLink id="1754-76e8-3b3b-328a" name="Espada de Oficial" hidden="false" targetId="71cc-3e0a-dac1-687e" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -142,7 +142,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="cce7-d919-e38d-5681" name="Shotgun (Accutek ID-KFA)" hidden="false" targetId="7fb2-a4e7-a8ae-2264" type="selectionEntry">
+            <entryLink id="cce7-d919-e38d-5681" name="Escopeta (Accutek ID-KFA)" hidden="false" targetId="7fb2-a4e7-a8ae-2264" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -166,7 +166,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="0a8d-4dfa-cf2c-765d" name="Thermal Rifle" hidden="false" targetId="78c3-4d51-12bd-6d66" type="selectionEntry">
+            <entryLink id="0a8d-4dfa-cf2c-765d" name="Rifle Térmico" hidden="false" targetId="78c3-4d51-12bd-6d66" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -292,7 +292,7 @@ Esta acción de Disparo gratuita no se puede usar para realizar Fuego de Supresi
           <selectionEntries/>
           <selectionEntryGroups/>
           <entryLinks>
-            <entryLink id="3b80-1e06-6591-e068" name="Officer&apos;s Sword" hidden="false" targetId="71cc-3e0a-dac1-687e" type="selectionEntry">
+            <entryLink id="3b80-1e06-6591-e068" name="Espada de Oficial" hidden="false" targetId="71cc-3e0a-dac1-687e" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -359,7 +359,7 @@ Esta acción de Disparo gratuita no se puede usar para realizar Fuego de Supresi
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="40cd-5588-5fed-4c80" name="Shotgun (Accutek ID-KFA)" hidden="false" targetId="7fb2-a4e7-a8ae-2264" type="selectionEntry">
+            <entryLink id="40cd-5588-5fed-4c80" name="Escopeta (Accutek ID-KFA)" hidden="false" targetId="7fb2-a4e7-a8ae-2264" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -466,7 +466,7 @@ Esta acción de Disparo gratuita no se puede usar para realizar Fuego de Supresi
           <selectionEntries/>
           <selectionEntryGroups/>
           <entryLinks>
-            <entryLink id="b83f-4eea-7c5e-4b50" name="Officer&apos;s Sword" hidden="false" targetId="71cc-3e0a-dac1-687e" type="selectionEntry">
+            <entryLink id="b83f-4eea-7c5e-4b50" name="Espada de Oficial" hidden="false" targetId="71cc-3e0a-dac1-687e" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -533,7 +533,7 @@ Esta acción de Disparo gratuita no se puede usar para realizar Fuego de Supresi
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="495b-9a9d-af03-6128" name="Shotgun (Accutek ID-KFA)" hidden="false" targetId="7fb2-a4e7-a8ae-2264" type="selectionEntry">
+            <entryLink id="495b-9a9d-af03-6128" name="Escopeta (Accutek ID-KFA)" hidden="false" targetId="7fb2-a4e7-a8ae-2264" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -701,7 +701,7 @@ Esta acción de Disparo gratuita no se puede usar para realizar Fuego de Supresi
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="0909-d427-33c2-9d06" name="Shotgun (Accutek ID-KFA)" hidden="false" targetId="7fb2-a4e7-a8ae-2264" type="selectionEntry">
+            <entryLink id="0909-d427-33c2-9d06" name="Escopeta (Accutek ID-KFA)" hidden="false" targetId="7fb2-a4e7-a8ae-2264" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -801,7 +801,7 @@ Esta acción de Disparo gratuita no se puede usar para realizar Fuego de Supresi
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="8bfa-a51b-8358-546d" name="Shotgun (Accutek ID-KFA)" hidden="false" targetId="7fb2-a4e7-a8ae-2264" type="selectionEntry">
+            <entryLink id="8bfa-a51b-8358-546d" name="Escopeta (Accutek ID-KFA)" hidden="false" targetId="7fb2-a4e7-a8ae-2264" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -936,7 +936,7 @@ Esta acción de Disparo gratuita no se puede usar para realizar Fuego de Supresi
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="2652-713d-d1a4-4966" name="Shotgun (Accutek ID-KFA)" hidden="false" targetId="7fb2-a4e7-a8ae-2264" type="selectionEntry">
+            <entryLink id="2652-713d-d1a4-4966" name="Escopeta (Accutek ID-KFA)" hidden="false" targetId="7fb2-a4e7-a8ae-2264" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -952,7 +952,7 @@ Esta acción de Disparo gratuita no se puede usar para realizar Fuego de Supresi
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="c4d0-e8aa-6b82-8475" name="Thermal Rifle" hidden="false" targetId="78c3-4d51-12bd-6d66" type="selectionEntry">
+            <entryLink id="c4d0-e8aa-6b82-8475" name="Rifle Térmico" hidden="false" targetId="78c3-4d51-12bd-6d66" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1098,7 +1098,7 @@ Esta acción de Disparo gratuita no se puede usar para realizar Fuego de Supresi
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="fe2d-0e0b-24b0-b63d" name="Shotgun (Accutek ID-KFA)" hidden="false" targetId="7fb2-a4e7-a8ae-2264" type="selectionEntry">
+            <entryLink id="fe2d-0e0b-24b0-b63d" name="Escopeta (Accutek ID-KFA)" hidden="false" targetId="7fb2-a4e7-a8ae-2264" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1122,7 +1122,7 @@ Esta acción de Disparo gratuita no se puede usar para realizar Fuego de Supresi
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="7fee-b8a3-893b-fef6" name="Thermal Rifle" hidden="false" targetId="78c3-4d51-12bd-6d66" type="selectionEntry">
+            <entryLink id="7fee-b8a3-893b-fef6" name="Rifle Térmico" hidden="false" targetId="78c3-4d51-12bd-6d66" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1267,7 +1267,7 @@ Esta acción de Disparo gratuita no se puede usar para realizar Fuego de Supresi
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="f4fb-63ee-681d-eb8c" name="Shotgun (Accutek ID-KFA)" hidden="false" targetId="7fb2-a4e7-a8ae-2264" type="selectionEntry">
+            <entryLink id="f4fb-63ee-681d-eb8c" name="Escopeta (Accutek ID-KFA)" hidden="false" targetId="7fb2-a4e7-a8ae-2264" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1380,7 +1380,7 @@ Esta acción de Disparo gratuita no se puede usar para realizar Fuego de Supresi
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="8c1c-e185-79bc-3717" name="Shotgun (Accutek ID-KFA)" hidden="false" targetId="7fb2-a4e7-a8ae-2264" type="selectionEntry">
+            <entryLink id="8c1c-e185-79bc-3717" name="Escopeta (Accutek ID-KFA)" hidden="false" targetId="7fb2-a4e7-a8ae-2264" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -2414,7 +2414,7 @@ Esta acción de Disparo gratuita no se puede usar para realizar Fuego de Supresi
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="3939-28b4-9f54-207e" name="Shotgun (Accutek ID-KFA)" hidden="false" targetId="f9d7-c4be-3aaa-0859" type="profile">
+        <infoLink id="3939-28b4-9f54-207e" name="Escopeta (Accutek ID-KFA)" hidden="false" targetId="f9d7-c4be-3aaa-0859" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -2510,7 +2510,7 @@ Esta acción de Disparo gratuita no se puede usar para realizar Fuego de Supresi
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="cf7b-9636-9eaa-db03" name="Thermal Rifle" hidden="false" targetId="2274-48b7-20d9-9480" type="profile">
+        <infoLink id="cf7b-9636-9eaa-db03" name="Rifle Térmico" hidden="false" targetId="2274-48b7-20d9-9480" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -2974,7 +2974,7 @@ Esta acción de Disparo gratuita no se puede usar para realizar Fuego de Supresi
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="3db5-28f2-aca5-fa84" name="Officer&apos;s Sword" hidden="false" targetId="f9ad-a260-33a0-cc25" type="profile">
+        <infoLink id="3db5-28f2-aca5-fa84" name="Espada de Oficial" hidden="false" targetId="f9ad-a260-33a0-cc25" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
