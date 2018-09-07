@@ -27,12 +27,12 @@
         </profile>
       </profiles>
       <rules>
-        <rule id="5203-1f59-69ed-a064" name="Fast-Acting Serum" book="Deadzone: Outbreak" page="52" hidden="false">
+        <rule id="5203-1f59-69ed-a064" name="Suero de Acción Rápida" book="Deadzone: Outbreak" page="52" hidden="false">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers/>
-          <description>Use an Army Special result to replace a model from your strike team that has just been killed with a Víctima de la Plaga model.  This model is placed pinned y activated in the same cube as the killed model y can activate as normal from the next round.  In all ways this new model acts as a member of your strike team.  PPV are scored for killing both the original model y if the new Víctima de la Plaga model is killed.  The fast-acting serum takes precedence over any other similar rule such as Plague Infection.</description>
+          <description>Gasta un resultado Especial de tus Dados de Mando para reemplazar una miniatura de tu Equipo de Asalto que acabe de morir por una miniatura de Víctima de la Plaga. Se reciben PPV tanto al matar la miniatura original como al matar a la Víctima de la Plaga. Tiene prioridad sobre cualquier otra regla similar, como la Infección de la Plaga.</description>
         </rule>
       </rules>
       <infoLinks>
@@ -326,12 +326,12 @@
         </profile>
       </profiles>
       <rules>
-        <rule id="f0ee-31a0-f566-6c32" name="Head of Security" book="Deadzone: Outbreak" page="52" hidden="false">
+        <rule id="f0ee-31a0-f566-6c32" name="Jefe de Seguridad" book="Deadzone: Outbreak" page="52" hidden="false">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers/>
-          <description>You may spend an Army Special result to give the active model a free Fire for Effect action if they are armed with a Fuego Rápido weapon.  You may only use this once per activation.</description>
+          <description>Gasta un único resultado Especial de tus Dados de Mando por activación para proporcionar a la miniatura activa una acción gratuita de Fuego de Supresión si está armadas con un arma de Fuego Rápido. </description>
         </rule>
       </rules>
       <infoLinks>
