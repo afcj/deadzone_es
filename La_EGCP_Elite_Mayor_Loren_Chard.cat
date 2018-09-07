@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<catalogue id="09a0-72b8-38e2-c00f" name="The GCPS Elite: Mayor Loren Chard" book="Deadzone Erratas v2.2" revision="1" battleScribeVersion="2.01" authorName="Ben Edwards (traducción afcj)" authorContact="BAE2 / afcj (Github)" gameSystemId="3476-f239-cf73-2f89" gameSystemRevision="1" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
+<catalogue id="09a0-72b8-38e2-c00f" name="EGCP de Élite: Mayor Loren Chard" book="Deadzone Erratas v2.2" revision="1" battleScribeVersion="2.01" authorName="Ben Edwards (traducción afcj)" authorContact="BAE2 / afcj (Github)" gameSystemId="3476-f239-cf73-2f89" gameSystemRevision="1" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
   <profiles/>
   <rules/>
   <infoLinks/>
@@ -10,7 +10,7 @@
   <selectionEntries>
     <selectionEntry id="e520-e3c1-ba51-1f1e" name="Mayor Loren Chard" book="Deadzone Erratas v2.2" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="1451-7811-637f-bf4f" name="Mayor Loren Chard" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Líder">
+        <profile id="1451-7811-637f-bf4f" name="Loren Chard" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Líder">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -27,12 +27,12 @@
         </profile>
       </profiles>
       <rules>
-        <rule id="df80-1898-476b-ddd8" name="Five Rounds Rapid" book="Deadzone Erratas v2.2" hidden="false">
+        <rule id="df80-1898-476b-ddd8" name="Ráfagas Cortas" book="Deadzone Erratas v2.2" hidden="false">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers/>
-          <description>Spend an Army Special result to give Cadencia de Fuego (3) to a model for the rest of the round. You may spend this dice before taking any Disparo action. If the model already has Cadencia de Fuego then the higher of the two values is used.</description>
+          <description>Gasta un resultado Especial de tus Dados de Mando para proporcionar Cadencia de Fuego (3) a una miniatura para el resto de la Ronda. Debes gastar el dado antes de efectuar una acción de Disparo. Si la miniatura ya tenía Cadencia de Fuego se usa el más alto de ambos valores.</description>
         </rule>
       </rules>
       <infoLinks>

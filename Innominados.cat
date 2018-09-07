@@ -27,12 +27,12 @@
         </profile>
       </profiles>
       <rules>
-        <rule id="a5a8-c8bb-06c9-c631" name="Creeping Fear" book="Deadzone: Outbreak" page="56" hidden="false">
+        <rule id="a5a8-c8bb-06c9-c631" name="Miedo Creciente" book="Deadzone: Outbreak" page="56" hidden="false">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers/>
-          <description>Spend an Army Special result to give the active model the Stealthy y Resilient (1) abilities until the end of the Round.  If a model already has Resilient add +1 to its value.</description>
+          <description>Gasta un resultado Especial de tus Dados de Mando para proporcionar a la miniatura activa Sigilo y Resistente (1) hasta el final de la Ronda. Si la miniatura ya tenía Resistente suma +1 a su valor.</description>
         </rule>
       </rules>
       <infoLinks>
@@ -211,12 +211,12 @@
         </profile>
       </profiles>
       <rules>
-        <rule id="4cd5-164d-69fd-f5a9" name="Aura of Dread" book="Deadzone: Outbreak" page="56" hidden="false">
+        <rule id="4cd5-164d-69fd-f5a9" name="Aura de Pavor" book="Deadzone: Outbreak" page="56" hidden="false">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers/>
-          <description>Spend an Army Special Result on a Command Dice at the start or end of the model&apos;s activation.  You may choose one non-pinned enemy model within 2 cubes y LoS y move it 1 cube directly away from the active model.  If the model enters a cube with an enemy model it will initiate a Lucha action but may only roll to Supervivencia.  If the model was in an occupied cube it must Breakaway to leave the cube.  The model is then marked as Activated, if it was not already.  You may use a maximum of one Special Result per activation.  Models with the Constructo or Vehículo abilities are unaffected by this rule.</description>
+          <description>Gasta un único resultado Especial de tus Dados de Mando por activación al comienzo o al final de la activación de una miniatura. Selecciona un enemigo no suprimido en LdV en 2 cubos de distancia y alejalo 1 cubo en sentido opuesto a la miniatura activa. Si entra a un cubo con miniaturas enemigas debe inicial una Lucha pero solo podrá tirar Supervivencia.  Si estaba en un cubo ocupado por enemigos debe seguir las reglas de &quot;Alejándose de enemigos&quot; para abandonar el cubo. Las miniaturas con las habilidades Vehículo o Constructo no se ven afectados.</description>
         </rule>
       </rules>
       <infoLinks>
@@ -429,12 +429,12 @@
         </profile>
       </profiles>
       <rules>
-        <rule id="8806-5059-2e0f-4d32" name="Caustic Spittle" book="Deadzone: Outbreak" page="57" hidden="false">
+        <rule id="8806-5059-2e0f-4d32" name="Baba Cáustica" book="Deadzone: Outbreak" page="57" hidden="false">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers/>
-          <description>Spend an Army Special result to allow the active model to perform a free Disparo action with A2, ¡Quema!.  If the model has no Disparo stat it can still make a ranged attack but with a Disparo stat at 7+.</description>
+          <description>Gasta un resultado Especial de tus Dados de Mando para permitir a la miniatura activa realizar una acción gratuita de Disparo con alcance A2 y ¡Quema!. Si la miniatura no tiene característica de Disparo aún así puede efectuar el ataque a distancia como si tuviera Disparo 7+.</description>
         </rule>
       </rules>
       <infoLinks>
@@ -1664,7 +1664,7 @@
           <selectionEntries/>
           <selectionEntryGroups/>
           <entryLinks>
-            <entryLink id="7287-3ad5-34b0-1da0" name="Crystal Rifle" hidden="false" targetId="4a3a-43da-8103-5fee" type="selectionEntry">
+            <entryLink id="7287-3ad5-34b0-1da0" name="Rifle Cristalino" hidden="false" targetId="4a3a-43da-8103-5fee" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1809,7 +1809,7 @@
       </categoryLinks>
       <selectionEntries/>
       <selectionEntryGroups>
-        <selectionEntryGroup id="2695-2c07-808b-5b94" name="Hardpoints" hidden="false" collective="false">
+        <selectionEntryGroup id="2695-2c07-808b-5b94" name="Anclajes" hidden="false" collective="false">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -3009,12 +3009,12 @@
         </profile>
       </profiles>
       <rules>
-        <rule id="4f8b-c8bb-49b3-4dce" name="Tóxica Slime" book="Deadzone: Outbreak" page="85" hidden="false">
+        <rule id="4f8b-c8bb-49b3-4dce" name="Limo Tóxico" book="Deadzone: Outbreak" page="85" hidden="false">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers/>
-          <description>Spend an Army Special Result on a Command Dice to give the active model a Tóxica attack: AL, Tóxica.  This attack replaces any current AL weapon for this attack only.</description>
+          <description>Gasta un resultado Especial de tus Dados de Mando para proporcionar a la miniatura activa un ataque con alcance AL y Tóxico, que sustituye a sus armas AL únicamente para este ataque.</description>
         </rule>
       </rules>
       <infoLinks>
@@ -3166,7 +3166,7 @@
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="ada8-0912-8672-45d7" name="Triclinic Shard" hidden="false" targetId="f384-1564-895b-429b" type="rule">
+        <infoLink id="ada8-0912-8672-45d7" name="Esquirla Triclínica" hidden="false" targetId="f384-1564-895b-429b" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -3206,7 +3206,7 @@
             </modifier>
           </modifiers>
         </infoLink>
-        <infoLink id="e73a-3366-8abc-91fe" name="Triclinic Shard" hidden="false" targetId="f384-1564-895b-429b" type="rule">
+        <infoLink id="e73a-3366-8abc-91fe" name="Esquirla Triclínica" hidden="false" targetId="f384-1564-895b-429b" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -3456,17 +3456,17 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="6.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="4a3a-43da-8103-5fee" name="Crystal Rifle" book="Deadzone: Outbreak" page="60" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="4a3a-43da-8103-5fee" name="Rifle Cristalino" book="Deadzone: Outbreak" page="60" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="8bff-a781-b439-2453" name="Crystal Rifle" hidden="false" targetId="d72a-950d-6e04-8e07" type="profile">
+        <infoLink id="8bff-a781-b439-2453" name="Rifle Cristalino" hidden="false" targetId="d72a-950d-6e04-8e07" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="e220-899e-2c37-e582" name="Triclinic Shard" hidden="false" targetId="f384-1564-895b-429b" type="rule">
+        <infoLink id="e220-899e-2c37-e582" name="Esquirla Triclínica" hidden="false" targetId="f384-1564-895b-429b" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -3546,7 +3546,7 @@
             </modifier>
           </modifiers>
         </infoLink>
-        <infoLink id="ea54-2372-5e62-b5ce" name="Triclinic Shard" hidden="false" targetId="f384-1564-895b-429b" type="rule">
+        <infoLink id="ea54-2372-5e62-b5ce" name="Esquirla Triclínica" hidden="false" targetId="f384-1564-895b-429b" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -3592,7 +3592,7 @@
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="8d27-7258-f450-08b6" name="Triclinic Shard" hidden="false" targetId="f384-1564-895b-429b" type="rule">
+        <infoLink id="8d27-7258-f450-08b6" name="Esquirla Triclínica" hidden="false" targetId="f384-1564-895b-429b" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -3879,7 +3879,7 @@
       <characteristics>
         <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A3"/>
         <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
-        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Triclinic Shard"/>
+        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Esquirla Triclínica"/>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Pequeño Calibre"/>
       </characteristics>
     </profile>
@@ -3891,7 +3891,7 @@
       <characteristics>
         <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A3"/>
         <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
-        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Cadencia de Fuego (1), Triclinic Shard"/>
+        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Cadencia de Fuego (1), Esquirla Triclínica"/>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Pequeño Calibre"/>
       </characteristics>
     </profile>
@@ -3979,7 +3979,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Psychic)"/>
       </characteristics>
     </profile>
-    <profile id="d72a-950d-6e04-8e07" name="Crystal Rifle" book="Deadzone: Outbreak" page="60" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
+    <profile id="d72a-950d-6e04-8e07" name="Rifle Cristalino" book="Deadzone: Outbreak" page="60" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -3987,7 +3987,7 @@
       <characteristics>
         <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A10"/>
         <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="-"/>
-        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Triclinic Shard"/>
+        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Esquirla Triclínica"/>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Francotirador)"/>
       </characteristics>
     </profile>
@@ -4011,7 +4011,7 @@
       <characteristics>
         <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A8"/>
         <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="PA4"/>
-        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Cadencia de Fuego (1), Triclinic Shard"/>
+        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Cadencia de Fuego (1), Esquirla Triclínica"/>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Pesada (Explosiva)"/>
       </characteristics>
     </profile>
@@ -4023,7 +4023,7 @@
       <characteristics>
         <characteristic name="Alcance" characteristicTypeId="df8a-ee5b-d620-4246" value="A5"/>
         <characteristic name="PA" characteristicTypeId="3ef9-9c4e-a280-fccb" value="PA1"/>
-        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Indirecto (3), Pesada, Triclinic Shard"/>
+        <characteristic name="Habilidades" characteristicTypeId="faf9-0187-1806-7214" value="Indirecto (3), Pesada, Esquirla Triclínica"/>
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Pesada (Explosiva)"/>
       </characteristics>
     </profile>

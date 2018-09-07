@@ -296,7 +296,7 @@
       </categoryLinks>
       <selectionEntries/>
       <selectionEntryGroups>
-        <selectionEntryGroup id="a728-60af-c469-f2ba" name="Hardpoints" hidden="false" collective="false">
+        <selectionEntryGroup id="a728-60af-c469-f2ba" name="Anclajes" hidden="false" collective="false">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -553,20 +553,20 @@
         </profile>
       </profiles>
       <rules>
-        <rule id="b974-d02a-aa80-a90f" name="Swarm Lord" book="Deadzone: Infestación" hidden="false">
+        <rule id="cb34-8019-1604-52db" name="Marea de Alimañas" book="Deadzone: Infestación" hidden="false">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers/>
-          <description>When deploying your models, in addition to your strike force, deploy up to two Enjambre de Alimañas bases in your deployment zone. If there are fewer than two Enjambre de Alimañass in play, El Flautista may use a Special Action to &quot;call&quot; a new swarm. Place a single Enjambre de Alimañas in El Flautista&apos;s cube. The target cube must have enough available room to fit the Enjambre de Alimañas. If no cube exists, El Flautista may not call a Enjambre de Alimañas.
-Enjambre de Alimañas&apos;s are not part of the Army List, gain no experience, y are not added to a player&apos;s roster.</description>
+          <description>Elige un Soldado amigo no activado, realiza inmediatamente su activación completa y luego márcala como activada.</description>
         </rule>
-        <rule id="cb34-8019-1604-52db" name="Tide of Vermin" book="Deadzone: Infestación" hidden="false">
+        <rule id="39cb-8440-6b37-4254" name="Señor de Enjambre" book="Deadzone: Infestación" page="16" hidden="false">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers/>
-          <description>Choose an unactivated, friendly Troop model y immediately make a full activation with it. Mark the model as activated, afterwards, as usual.</description>
+          <description>Al desplegar, además de tu Equipo de Asalto, despliega hasta 2 Enjambres de Alimañas en tu zona de despliegue. Siempre que haya menos de 2 Enjambres de Alimañas en juego, y haya espacio en el cubo del Flautista para albergar un nuevo enjambre, El Flautista puede realizar la Acción Especial de poner en juego un nuevo Enjambre de Alimañas en su cubo. 
+En Campañas, los Enjambre de Alimañas no se consideran parte de la Lista de Ejército, no ganan experiencia y nunca se añaden al Ejército del jugador.</description>
         </rule>
       </rules>
       <infoLinks>
@@ -576,7 +576,7 @@ Enjambre de Alimañas&apos;s are not part of the Army List, gain no experience, 
           <infoLinks/>
           <modifiers/>
         </infoLink>
-        <infoLink id="292c-2320-b7a4-71f9" name="Agile" hidden="false" targetId="8eff-d727-2c31-fa4d" type="rule">
+        <infoLink id="292c-2320-b7a4-71f9" name="Ágil" hidden="false" targetId="8eff-d727-2c31-fa4d" type="rule">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1289,7 +1289,7 @@ Enjambre de Alimañas&apos;s are not part of the Army List, gain no experience, 
   </selectionEntries>
   <entryLinks/>
   <sharedSelectionEntries>
-    <selectionEntry id="cc8e-4fc2-519f-7990" name="Big Drill" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="cc8e-4fc2-519f-7990" name="Gran Taladro" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
@@ -1501,7 +1501,7 @@ Enjambre de Alimañas&apos;s are not part of the Army List, gain no experience, 
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="8.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="1b4f-9759-fd18-4faa" name="Pesada Rociador Químico**" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="1b4f-9759-fd18-4faa" name="Rociador Químico Pesado**" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
@@ -1541,7 +1541,7 @@ Enjambre de Alimañas&apos;s are not part of the Army List, gain no experience, 
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="9.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="8349-d0f4-9fd9-37a7" name="Pair of Drills **" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="8349-d0f4-9fd9-37a7" name="Par de Taladros **" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
@@ -1671,7 +1671,7 @@ Enjambre de Alimañas&apos;s are not part of the Army List, gain no experience, 
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="7.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="5991-dfd5-f506-ed76" name="Granada de Humo Launcher" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="5991-dfd5-f506-ed76" name="Lanzagranadas de Humo" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
@@ -1733,7 +1733,7 @@ Enjambre de Alimañas&apos;s are not part of the Army List, gain no experience, 
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="12.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="f2f9-7db3-00e4-dc91" name="Super Escupidor Químico Pesado" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="f2f9-7db3-00e4-dc91" name="Escupidor Químico Súper Pesado" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
@@ -1779,7 +1779,7 @@ Enjambre de Alimañas&apos;s are not part of the Army List, gain no experience, 
         <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="1.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="5460-1424-329a-ade5" name="Super Pesada Rociador Químico" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="5460-1424-329a-ade5" name="Rociador Químico Súper Pesado " hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
@@ -1819,7 +1819,7 @@ Enjambre de Alimañas&apos;s are not part of the Army List, gain no experience, 
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="12.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="42e4-0311-e8ab-9abf" name="Tóxica Lanzagranadas" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="42e4-0311-e8ab-9abf" name="Lanzagranadas Tóxico" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
@@ -1847,7 +1847,7 @@ Enjambre de Alimañas&apos;s are not part of the Army List, gain no experience, 
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="12.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="ee5c-10db-201a-ca97" name="Twin Rociador Químico" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="ee5c-10db-201a-ca97" name="Rociadores Químicos Gemelos" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
@@ -1887,7 +1887,7 @@ Enjambre de Alimañas&apos;s are not part of the Army List, gain no experience, 
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="10.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="eac3-acda-b9d7-cd81" name="Two-Handed Drill **" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="eac3-acda-b9d7-cd81" name="Taladro a 2 Manos **" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>

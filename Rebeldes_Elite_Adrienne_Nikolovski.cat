@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<catalogue id="32d2-2179-754b-4892" name="Rebs Elite: Adrienne Nikolovski" book="Deadzone: Infestación" page="28" revision="1" battleScribeVersion="2.01" authorName="James Tandy / Ben Edwards" authorContact="BAE2 / afcj (Github)" gameSystemId="3476-f239-cf73-2f89" gameSystemRevision="1" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
+<catalogue id="32d2-2179-754b-4892" name="Rebeldes de Élite: Adrienne Nikolovski" book="Deadzone: Infestación" page="28" revision="1" battleScribeVersion="2.01" authorName="James Tandy / Ben Edwards (traducción afcj)" authorContact="BAE2 / afcj (Github)" gameSystemId="3476-f239-cf73-2f89" gameSystemRevision="1" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
   <profiles/>
   <rules/>
   <infoLinks/>
@@ -27,12 +27,12 @@
         </profile>
       </profiles>
       <rules>
-        <rule id="54be-710e-5eed-3931" name="Special Delivery" book="Deadzone: Infestación" page="28" hidden="false">
+        <rule id="54be-710e-5eed-3931" name="Entrega Especial" book="Deadzone: Infestación" page="28" hidden="false">
           <profiles/>
           <rules/>
           <infoLinks/>
           <modifiers/>
-          <description>Spend an Army Special result at the beginning of one of your Dron de Reconocimiento&apos;s activations. The Dron de Reconocimiento gains the BOOM! (3) ability until the end of the round. This does not count as an action.</description>
+          <description>Gasta un resultado Especial de tus Dados de Mando al comienzo de la activación de uno de tus Drones de Reconocimiento para proporcionarle la habilidad ¡BOOM! (3) hasta el final de la Ronda. No cuenta como acción.</description>
         </rule>
       </rules>
       <infoLinks>
@@ -1999,11 +1999,11 @@
         <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="4e24-4e98-414e-c9a6" name="Desolator" book="Reglamento Deadzone 2ª Edición" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="4e24-4e98-414e-c9a6" name="Desolador" book="Reglamento Deadzone 2ª Edición" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="f5af-6a76-c203-5f0d" name="Desolator" hidden="false" targetId="edeb-b404-48e7-24be" type="profile">
+        <infoLink id="f5af-6a76-c203-5f0d" name="Desolador" hidden="false" targetId="edeb-b404-48e7-24be" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -2256,6 +2256,7 @@
       <entryLinks/>
       <costs>
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="3.0"/>
+        <cost name="PPV" costTypeId="02a0-6bab-fa73-4a98" value="0.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="4e58-6fdf-2117-145e" name="Pistola *" book="Reglamento Deadzone 2ª Edición" hidden="false" collective="false" type="upgrade">
@@ -2641,7 +2642,7 @@
         <characteristic name="Tipo" characteristicTypeId="90af-0797-a0fd-965c" value="Ligera (Melé)"/>
       </characteristics>
     </profile>
-    <profile id="edeb-b404-48e7-24be" name="Desolator" book="Reglamento Deadzone 2ª Edición" page="89" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
+    <profile id="edeb-b404-48e7-24be" name="Desolador" book="Reglamento Deadzone 2ª Edición" page="89" hidden="false" profileTypeId="2421-adf7-5cec-846a" profileTypeName="Arma">
       <profiles/>
       <rules/>
       <infoLinks/>
