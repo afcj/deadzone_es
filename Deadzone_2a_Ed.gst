@@ -1989,7 +1989,7 @@
     </selectionEntry>
     <selectionEntry id="82b7-ee91-ddd9-b4ea" name="Hund, Cazarrecompensas Rebelde" book="Reglamento Deadzone 2ª Edición" page="94" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="45b6-4e7f-7320-d09f" name="Hund, Cazarrecompensas Rebelde" book="Reglamento Deadzone 2ª Edición" page="94" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
+        <profile id="45b6-4e7f-7320-d09f" name="Hund" book="Reglamento Deadzone 2ª Edición" page="94" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
           <profiles/>
           <rules/>
           <infoLinks/>
