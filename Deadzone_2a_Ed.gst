@@ -1049,7 +1049,7 @@
     </selectionEntry>
     <selectionEntry id="c9c3-85b2-a438-802f" name="Blaine en Motojet" book="Reglamento Deadzone 2ª Edición + Erratas v2.1" page="94" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="1ce4-fbe3-d7ba-c32d" name="Blaine en Motojet" book="Reglamento Deadzone 2ª Edición" page="94" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
+        <profile id="1ce4-fbe3-d7ba-c32d" name="Blaine" book="Reglamento Deadzone 2ª Edición" page="94" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -1420,7 +1420,7 @@
     </selectionEntry>
     <selectionEntry id="ec30-5a87-2544-b5d3" name="Jefe Radgrad" book="Deadzone: Outbreak" page="84" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="194b-8146-6c9d-900f" name="Jefe Radgrad" book="Deadzone: Outbreak" page="84" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Líder">
+        <profile id="194b-8146-6c9d-900f" name="Radgrad" book="Deadzone: Outbreak" page="84" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Líder">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -2252,7 +2252,7 @@
     </selectionEntry>
     <selectionEntry id="0414-610d-4dbb-3791" name="Ogro Exterminador" book="Reglamento Deadzone 2ª Edición" page="94" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="a909-ffac-c397-bb93" name="Ogro Exterminador" book="Reglamento Deadzone 2ª Edición" page="94" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
+        <profile id="a909-ffac-c397-bb93" name="Ogro" book="Reglamento Deadzone 2ª Edición" page="94" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -2555,7 +2555,7 @@
     </selectionEntry>
     <selectionEntry id="83f4-1717-400c-b618" name="Sargento Howlett" book="Reglamento Deadzone 2ª Edición" page="91" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="c5bd-176d-b853-0c03" name="Sergeant Howlett" book="Reglamento Deadzone 2ª Edición" page="91" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
+        <profile id="c5bd-176d-b853-0c03" name="Howlett" book="Reglamento Deadzone 2ª Edición" page="91" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -2686,7 +2686,7 @@
       </selectionEntries>
       <selectionEntryGroups/>
       <entryLinks>
-        <entryLink id="ca21-75da-e26b-11c5" name="Jump Pack" hidden="false" targetId="fc30-1c8d-ef65-7ba9" type="selectionEntry">
+        <entryLink id="ca21-75da-e26b-11c5" name="Mochila de Salto" hidden="false" targetId="fc30-1c8d-ef65-7ba9" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -3291,7 +3291,7 @@
     </selectionEntry>
     <selectionEntry id="17f1-cad4-7927-863d" name="Unidad de Reconocimiento N32-19" book="Deadzone: Nexus Psi" page="16" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="e793-b6d0-fad1-798a" name="Reconocimiento Unit N32-19" book="Deadzone: Nexus Psi" page="16" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
+        <profile id="e793-b6d0-fad1-798a" name="N32-19" book="Deadzone: Nexus Psi" page="16" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -3544,7 +3544,7 @@
           </constraints>
           <categoryLinks/>
         </entryLink>
-        <entryLink id="b48c-551a-5e95-3f59" name="Holo Sight" hidden="false" targetId="4c27-12b2-2903-804b" type="selectionEntry">
+        <entryLink id="b48c-551a-5e95-3f59" name="Mira Holográfica (+)" hidden="false" targetId="4c27-12b2-2903-804b" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -3574,7 +3574,7 @@
     </selectionEntry>
     <selectionEntry id="59e5-5bca-484f-f69f" name="Adrienne Nikolovski, Comandante Rebelde" book="Deadzone: Infestación" page="28" hidden="false" collective="false" type="model">
       <profiles>
-        <profile id="fb08-2f7c-03d2-3695" name="Adrienne Nikolovski" book="Deadzone: Infestación" page="28" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
+        <profile id="fb08-2f7c-03d2-3695" name="Adrienne" book="Deadzone: Infestación" page="28" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -3730,7 +3730,7 @@
     </selectionEntry>
     <selectionEntry id="a637-544b-7314-67e8" name="Observador de Largo Alcance N7-117" book="Deadzone: Infestación" page="20" hidden="false" collective="false" type="model">
       <profiles>
-        <profile id="86d7-6a4f-8e99-05b5" name="Long Alcance Observer N7-117" book="Deadzone: Infestación" page="20" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
+        <profile id="86d7-6a4f-8e99-05b5" name="N7-117" book="Deadzone: Infestación" page="20" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -3918,9 +3918,9 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="31.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="9871-2ec9-b9fc-03a9" name="Bjarn Caestrella [Caestrella]" book="Deadzone: Infestación" page="24" hidden="false" collective="false" type="unit">
+    <selectionEntry id="9871-2ec9-b9fc-03a9" name="Bjarn Caestrella" book="Deadzone: Infestación" page="24" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="32da-93be-a117-268e" name="Bjarn Caestrella" book="Deadzone: Infestación" page="24" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
+        <profile id="32da-93be-a117-268e" name="Bjarn" book="Deadzone: Infestación" page="24" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -3956,11 +3956,11 @@
         </categoryLink>
       </categoryLinks>
       <selectionEntries>
-        <selectionEntry id="ca55-bffe-da0f-7749" name="Hammerfist Orbital Drop Armadura" hidden="false" collective="false" type="upgrade">
+        <selectionEntry id="ca55-bffe-da0f-7749" name="Armadura de Descenso Orbital Puñomartillo" hidden="false" collective="false" type="upgrade">
           <profiles/>
           <rules/>
           <infoLinks>
-            <infoLink id="eff5-3548-aac5-e21e" name="Hammerfist Drop Armadura" hidden="false" targetId="161c-6a76-f4de-073c" type="rule">
+            <infoLink id="eff5-3548-aac5-e21e" name="Armadura de Descenso Puñomartillo [Hammerfist]" hidden="false" targetId="161c-6a76-f4de-073c" type="rule">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -4040,7 +4040,7 @@
     </selectionEntry>
     <selectionEntry id="d208-0083-0f88-4911" name="Jefe Mauhulakh, Rascacielos Orco" book="Deadzone: Infestación" page="32" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="55c6-868f-59be-1c43" name="Jefe Mauhulakh" book="Deadzone: Infestación" page="32" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
+        <profile id="55c6-868f-59be-1c43" name="Mauhulakh" book="Deadzone: Infestación" page="32" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -4739,7 +4739,7 @@ En Campañas, los Enjambre de Alimañas no se consideran parte de la Lista de Ej
     </selectionEntry>
     <selectionEntry id="dd48-1ccc-428d-4227" name="Mayor Loren Chard 2.2" book="Deadzone Erratas v2.2" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="3abf-87f1-6e05-9933" name="Mayor Loren Chard" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
+        <profile id="3abf-87f1-6e05-9933" name="Loren" book="Deadzone Erratas v2.2" hidden="false" profileTypeId="bd3d-1b17-592d-9a6f" profileTypeName="Unit">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -5325,7 +5325,7 @@ En Campañas, los Enjambre de Alimañas no se consideran parte de la Lista de Ej
     </selectionEntry>
     <selectionEntry id="7f4f-38ec-616e-e8f3" name="Ingulf Krestürsson, Señor de la Forja" book="Deadzone: Outbreak" page="82" hidden="false" collective="false" type="unit">
       <profiles>
-        <profile id="5252-ea89-2c0e-8721" name="Ingulf Krestürsson, Señor de la Forja" book="Deadzone: Outbreak" page="82" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Líder">
+        <profile id="5252-ea89-2c0e-8721" name="Ingulf" book="Deadzone: Outbreak" page="82" hidden="false" profileTypeId="a9aa-7e6b-1b30-f1b0" profileTypeName="Líder">
           <profiles/>
           <rules/>
           <infoLinks/>

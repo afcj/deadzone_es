@@ -97,7 +97,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="7ccb-299e-7860-fdf9" name="Combat Escopeta" hidden="false" targetId="7b11-473f-cb99-f262" type="selectionEntry">
+            <entryLink id="7ccb-299e-7860-fdf9" name="Escopeta de Combate" hidden="false" targetId="7b11-473f-cb99-f262" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -260,7 +260,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="8ea2-7928-4d1f-6396" name="Combat Escopeta" hidden="false" targetId="7b11-473f-cb99-f262" type="selectionEntry">
+            <entryLink id="8ea2-7928-4d1f-6396" name="Escopeta de Combate" hidden="false" targetId="7b11-473f-cb99-f262" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -456,7 +456,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="8f1d-aff9-4b38-158c" name="Combat Escopeta" hidden="false" targetId="7b11-473f-cb99-f262" type="selectionEntry">
+            <entryLink id="8f1d-aff9-4b38-158c" name="Escopeta de Combate" hidden="false" targetId="7b11-473f-cb99-f262" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -501,7 +501,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="dc3f-00eb-c80f-f594" name="Combat Escopeta" hidden="false" targetId="7b11-473f-cb99-f262" type="selectionEntry">
+            <entryLink id="dc3f-00eb-c80f-f594" name="Escopeta de Combate" hidden="false" targetId="7b11-473f-cb99-f262" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -837,7 +837,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="c131-628d-f9d8-f1c7" name="Combat Escopeta" hidden="false" targetId="7b11-473f-cb99-f262" type="selectionEntry">
+            <entryLink id="c131-628d-f9d8-f1c7" name="Escopeta de Combate" hidden="false" targetId="7b11-473f-cb99-f262" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -998,7 +998,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="312b-f510-9a77-1453" name="Combat Escopeta" hidden="false" targetId="7b11-473f-cb99-f262" type="selectionEntry">
+            <entryLink id="312b-f510-9a77-1453" name="Escopeta de Combate" hidden="false" targetId="7b11-473f-cb99-f262" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1140,7 +1140,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="e8c5-98a2-ec90-cc31" name="Combat Escopeta" hidden="false" targetId="7b11-473f-cb99-f262" type="selectionEntry">
+            <entryLink id="e8c5-98a2-ec90-cc31" name="Escopeta de Combate" hidden="false" targetId="7b11-473f-cb99-f262" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1333,7 +1333,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="9ca8-13c3-6796-2f36" name="Combat Escopeta" hidden="false" targetId="7b11-473f-cb99-f262" type="selectionEntry">
+            <entryLink id="9ca8-13c3-6796-2f36" name="Escopeta de Combate" hidden="false" targetId="7b11-473f-cb99-f262" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1513,7 +1513,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="5709-782a-0b08-6063" name="Combat Escopeta" hidden="false" targetId="7b11-473f-cb99-f262" type="selectionEntry">
+            <entryLink id="5709-782a-0b08-6063" name="Escopeta de Combate" hidden="false" targetId="7b11-473f-cb99-f262" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1848,7 +1848,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="6a47-bc11-cf04-796a" name="Combat Escopeta" hidden="false" targetId="7b11-473f-cb99-f262" type="selectionEntry">
+            <entryLink id="6a47-bc11-cf04-796a" name="Escopeta de Combate" hidden="false" targetId="7b11-473f-cb99-f262" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1998,7 +1998,7 @@
               <constraints/>
               <categoryLinks/>
             </entryLink>
-            <entryLink id="e5e1-e35d-a0f1-a62c" name="Combat Escopeta" hidden="false" targetId="7b11-473f-cb99-f262" type="selectionEntry">
+            <entryLink id="e5e1-e35d-a0f1-a62c" name="Escopeta de Combate" hidden="false" targetId="7b11-473f-cb99-f262" type="selectionEntry">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -5328,11 +5328,11 @@
         <cost name="pts" costTypeId="61f9-fd84-cb0b-0306" value="8.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="7b11-473f-cb99-f262" name="Combat Escopeta" book="" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="7b11-473f-cb99-f262" name="Escopeta de Combate" book="" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks>
-        <infoLink id="675e-96c2-271b-2ab7" name="Combat Escopeta" hidden="false" targetId="4fb3-dc51-92c6-030d" type="profile">
+        <infoLink id="675e-96c2-271b-2ab7" name="Escopeta de Combate" hidden="false" targetId="4fb3-dc51-92c6-030d" type="profile">
           <profiles/>
           <rules/>
           <infoLinks/>
